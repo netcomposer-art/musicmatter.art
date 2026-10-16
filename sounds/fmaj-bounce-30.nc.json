@@ -1,0 +1,15 @@
+{
+  "nc_version": "0.1",
+  "title": "F major chord, bounce 30",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fmaj-bounce-30.wav",
+  "key": "F major",
+  "chords": [
+    "Fmaj"
+  ],
+  "loopable": false
+}

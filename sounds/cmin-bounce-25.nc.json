@@ -1,0 +1,15 @@
+{
+  "nc_version": "0.1",
+  "title": "C minor chord, bounce 25",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "cmin-bounce-25.wav",
+  "key": "C minor",
+  "chords": [
+    "Cmin"
+  ],
+  "loopable": false
+}

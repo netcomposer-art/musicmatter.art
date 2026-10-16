@@ -1,0 +1,15 @@
+{
+  "nc_version": "0.1",
+  "title": "G minor chord, bounce 26",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gmin-bounce-26.wav",
+  "key": "G minor",
+  "chords": [
+    "Gmin"
+  ],
+  "loopable": false
+}

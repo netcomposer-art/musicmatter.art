@@ -1,0 +1,15 @@
+{
+  "nc_version": "0.1",
+  "title": "G major chord, bounce 27",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gmaj-bounce-27.wav",
+  "key": "G major",
+  "chords": [
+    "Gmaj"
+  ],
+  "loopable": false
+}

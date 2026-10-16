@@ -1,0 +1,15 @@
+{
+  "nc_version": "0.1",
+  "title": "C minor 7th chord, bounce 27",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "cm7-bounce-27.wav",
+  "key": "C minor",
+  "chords": [
+    "Cm7"
+  ],
+  "loopable": false
+}
