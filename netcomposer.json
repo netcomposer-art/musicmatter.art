@@ -7,30 +7,6 @@
   "default_license": "CC-BY-SA-4.0",
   "offerings": [
     {
-      "audio": "https://musicmatter.art/sounds/cm7-bounce-25.wav",
-      "manifest": "https://musicmatter.art/sounds/cm7-bounce-25.nc.json"
-    },
-    {
-      "audio": "https://musicmatter.art/sounds/cm7-bounce-26.wav",
-      "manifest": "https://musicmatter.art/sounds/cm7-bounce-26.nc.json"
-    },
-    {
-      "audio": "https://musicmatter.art/sounds/cm7-bounce-27.wav",
-      "manifest": "https://musicmatter.art/sounds/cm7-bounce-27.nc.json"
-    },
-    {
-      "audio": "https://musicmatter.art/sounds/cm7-bounce-28.wav",
-      "manifest": "https://musicmatter.art/sounds/cm7-bounce-28.nc.json"
-    },
-    {
-      "audio": "https://musicmatter.art/sounds/cm7-bounce-29.wav",
-      "manifest": "https://musicmatter.art/sounds/cm7-bounce-29.nc.json"
-    },
-    {
-      "audio": "https://musicmatter.art/sounds/cm7-bounce-30.wav",
-      "manifest": "https://musicmatter.art/sounds/cm7-bounce-30.nc.json"
-    },
-    {
       "audio": "https://musicmatter.art/sounds/cmaj-bounce-25.wav",
       "manifest": "https://musicmatter.art/sounds/cmaj-bounce-25.nc.json"
     },
@@ -53,6 +29,30 @@
     {
       "audio": "https://musicmatter.art/sounds/cmaj-bounce-30.wav",
       "manifest": "https://musicmatter.art/sounds/cmaj-bounce-30.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj-bounce-31.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj-bounce-32.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj-bounce-36.nc.json"
     },
     {
       "audio": "https://musicmatter.art/sounds/cmin-bounce-25.wav",
@@ -79,28 +79,604 @@
       "manifest": "https://musicmatter.art/sounds/cmin-bounce-30.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/fm7-bounce-25.wav",
-      "manifest": "https://musicmatter.art/sounds/fm7-bounce-25.nc.json"
+      "audio": "https://musicmatter.art/sounds/cmin-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/cmin-bounce-31.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/fm7-bounce-26.wav",
-      "manifest": "https://musicmatter.art/sounds/fm7-bounce-26.nc.json"
+      "audio": "https://musicmatter.art/sounds/cmin-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/cmin-bounce-32.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/fm7-bounce-27.wav",
-      "manifest": "https://musicmatter.art/sounds/fm7-bounce-27.nc.json"
+      "audio": "https://musicmatter.art/sounds/cmin-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/cmin-bounce-33.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/fm7-bounce-28.wav",
-      "manifest": "https://musicmatter.art/sounds/fm7-bounce-28.nc.json"
+      "audio": "https://musicmatter.art/sounds/cmin-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/cmin-bounce-34.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/fm7-bounce-29.wav",
-      "manifest": "https://musicmatter.art/sounds/fm7-bounce-29.nc.json"
+      "audio": "https://musicmatter.art/sounds/cmin-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/cmin-bounce-35.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/fm7-bounce-30.wav",
-      "manifest": "https://musicmatter.art/sounds/fm7-bounce-30.nc.json"
+      "audio": "https://musicmatter.art/sounds/cmin-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/cmin-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-25.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-25.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-26.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-26.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-27.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-27.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-28.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-28.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-29.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-29.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-30.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-30.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-31.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-32.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cm7-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/cm7-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/c7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/c7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/c7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/c7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/c7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/c7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/c7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/c7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/c7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/c7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/c7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/c7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/cmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/cmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpm7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpm7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpm7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpm7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpm7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpm7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpm7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpm7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpm7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpm7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpm7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpm7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharp7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/csharp7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharp7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/csharp7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharp7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/csharp7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharp7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/csharp7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharp7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/csharp7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharp7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/csharp7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/csharpmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/csharpmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dmin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dmin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dmin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dmin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dmin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dmin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dm7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dm7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dm7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dm7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dm7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dm7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dm7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dm7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dm7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dm7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dm7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dm7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/d7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/d7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/d7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/d7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/d7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/d7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/d7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/d7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/d7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/d7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/d7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/d7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpm7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpm7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpm7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpm7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpm7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpm7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpm7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpm7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpm7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpm7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpm7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpm7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharp7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharp7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharp7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharp7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharp7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharp7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharp7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharp7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharp7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharp7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharp7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharp7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/dsharpmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/dsharpmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/emin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/emin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/emin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/emin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/emin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/emin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/em7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/em7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/em7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/em7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/em7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/em7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/em7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/em7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/em7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/em7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/em7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/em7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/e7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/e7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/e7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/e7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/e7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/e7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/e7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/e7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/e7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/e7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/e7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/e7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/emaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/emaj7-bounce-6.nc.json"
     },
     {
       "audio": "https://musicmatter.art/sounds/fmaj-bounce-27.wav",
@@ -127,6 +703,30 @@
       "manifest": "https://musicmatter.art/sounds/fmaj-bounce-32.nc.json"
     },
     {
+      "audio": "https://musicmatter.art/sounds/fmaj-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj-bounce-37.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj-bounce-37.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj-bounce-38.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj-bounce-38.nc.json"
+    },
+    {
       "audio": "https://musicmatter.art/sounds/fmin-bounce-25.wav",
       "manifest": "https://musicmatter.art/sounds/fmin-bounce-25.nc.json"
     },
@@ -151,28 +751,124 @@
       "manifest": "https://musicmatter.art/sounds/fmin-bounce-30.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/gm7-bounce-25.wav",
-      "manifest": "https://musicmatter.art/sounds/gm7-bounce-25.nc.json"
+      "audio": "https://musicmatter.art/sounds/fmin-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/fmin-bounce-31.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/gm7-bounce-26.wav",
-      "manifest": "https://musicmatter.art/sounds/gm7-bounce-26.nc.json"
+      "audio": "https://musicmatter.art/sounds/fmin-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/fmin-bounce-32.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/gm7-bounce-27.wav",
-      "manifest": "https://musicmatter.art/sounds/gm7-bounce-27.nc.json"
+      "audio": "https://musicmatter.art/sounds/fmin-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/fmin-bounce-33.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/gm7-bounce-28.wav",
-      "manifest": "https://musicmatter.art/sounds/gm7-bounce-28.nc.json"
+      "audio": "https://musicmatter.art/sounds/fmin-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/fmin-bounce-34.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/gm7-bounce-29.wav",
-      "manifest": "https://musicmatter.art/sounds/gm7-bounce-29.nc.json"
+      "audio": "https://musicmatter.art/sounds/fmin-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/fmin-bounce-35.nc.json"
     },
     {
-      "audio": "https://musicmatter.art/sounds/gm7-bounce-30.wav",
-      "manifest": "https://musicmatter.art/sounds/gm7-bounce-30.nc.json"
+      "audio": "https://musicmatter.art/sounds/fmin-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/fmin-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-25.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-25.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-26.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-26.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-27.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-27.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-28.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-28.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-29.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-29.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-30.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-30.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-31.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-32.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fm7-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/fm7-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/f7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/f7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/f7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/f7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/f7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/f7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/f7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/f7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/f7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/f7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/f7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/f7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/fmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/fmaj7-bounce-6.nc.json"
     },
     {
       "audio": "https://musicmatter.art/sounds/gmaj-bounce-25.wav",
@@ -199,6 +895,30 @@
       "manifest": "https://musicmatter.art/sounds/gmaj-bounce-30.nc.json"
     },
     {
+      "audio": "https://musicmatter.art/sounds/gmaj-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj-bounce-31.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj-bounce-32.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj-bounce-36.nc.json"
+    },
+    {
       "audio": "https://musicmatter.art/sounds/gmin-bounce-25.wav",
       "manifest": "https://musicmatter.art/sounds/gmin-bounce-25.nc.json"
     },
@@ -221,6 +941,606 @@
     {
       "audio": "https://musicmatter.art/sounds/gmin-bounce-30.wav",
       "manifest": "https://musicmatter.art/sounds/gmin-bounce-30.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmin-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/gmin-bounce-31.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmin-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/gmin-bounce-32.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmin-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/gmin-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmin-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/gmin-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmin-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/gmin-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmin-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/gmin-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-25.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-25.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-26.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-26.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-27.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-27.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-28.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-28.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-29.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-29.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-30.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-30.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-31.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-31.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-32.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-32.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-33.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-33.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-34.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-34.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-35.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-35.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gm7-bounce-36.wav",
+      "manifest": "https://musicmatter.art/sounds/gm7-bounce-36.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/g7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/g7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/g7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/g7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/g7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/g7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/g7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/g7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/g7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/g7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/g7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/g7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/gmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpm7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpm7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpm7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpm7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpm7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpm7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpm7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpm7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpm7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpm7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpm7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpm7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharp7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharp7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharp7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharp7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharp7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharp7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharp7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharp7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharp7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharp7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharp7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharp7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/gsharpmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/gsharpmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/amin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/amin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/amin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/amin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/amin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/amin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/am7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/am7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/am7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/am7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/am7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/am7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/am7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/am7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/am7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/am7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/am7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/am7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/a7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/a7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/a7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/a7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/a7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/a7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/a7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/a7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/a7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/a7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/a7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/a7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/amaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/amaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpm7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpm7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpm7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpm7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpm7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpm7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpm7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpm7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpm7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpm7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpm7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpm7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharp7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/asharp7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharp7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/asharp7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharp7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/asharp7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharp7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/asharp7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharp7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/asharp7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharp7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/asharp7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/asharpmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/asharpmaj7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmin-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/bmin-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmin-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/bmin-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmin-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/bmin-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmin-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/bmin-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmin-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/bmin-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmin-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/bmin-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bm7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/bm7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bm7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/bm7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bm7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/bm7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bm7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/bm7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bm7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/bm7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bm7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/bm7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/b7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/b7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/b7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/b7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/b7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/b7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/b7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/b7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/b7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/b7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/b7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/b7-bounce-6.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj7-bounce-1.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj7-bounce-1.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj7-bounce-2.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj7-bounce-2.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj7-bounce-3.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj7-bounce-3.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj7-bounce-4.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj7-bounce-4.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj7-bounce-5.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj7-bounce-5.nc.json"
+    },
+    {
+      "audio": "https://musicmatter.art/sounds/bmaj7-bounce-6.wav",
+      "manifest": "https://musicmatter.art/sounds/bmaj7-bounce-6.nc.json"
     }
   ]
 }

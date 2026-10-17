@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A\u266f major chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "asharpmaj-bounce-4.wav",
+  "key": "A# major",
+  "chords": [
+    "A#maj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F4",
+    "high": "F5",
+    "root": "A#4",
+    "bass": "F4",
+    "inversion": "second"
+  }
+}

@@ -13,8 +13,10 @@
   ],
   "loopable": false,
   "register": {
-    "low": "G4",
-    "high": "A#5",
-    "root": "G4"
+    "low": "D4",
+    "high": "D5",
+    "root": "G4",
+    "bass": "D4",
+    "inversion": "second"
   }
 }

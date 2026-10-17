@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "E major chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "emaj-bounce-1.wav",
+  "key": "E major",
+  "chords": [
+    "Emaj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E4",
+    "high": "G#5",
+    "root": "E4",
+    "bass": "E4",
+    "inversion": "root"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "E minor chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "emin-bounce-3.wav",
+  "key": "E minor",
+  "chords": [
+    "Emin"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "G4",
+    "root": "E3",
+    "bass": "E3",
+    "inversion": "root"
+  }
+}

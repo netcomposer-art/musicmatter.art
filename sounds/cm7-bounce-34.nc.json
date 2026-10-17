@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C minor 7th chord, bounce 34",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "cm7-bounce-34.wav",
+  "key": "C minor",
+  "chords": [
+    "Cm7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#4",
+    "high": "C5",
+    "root": "C5",
+    "bass": "D#4",
+    "inversion": "first"
+  }
+}

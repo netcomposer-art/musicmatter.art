@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A dominant 7th chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "a7-bounce-3.wav",
+  "key": "A major",
+  "chords": [
+    "A7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A4",
+    "high": "G5",
+    "root": "A4",
+    "bass": "A4",
+    "inversion": "root"
+  }
+}

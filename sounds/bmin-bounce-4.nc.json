@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "B minor chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "bmin-bounce-4.wav",
+  "key": "B minor",
+  "chords": [
+    "Bmin"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "B5",
+    "root": "B3",
+    "bass": "B3",
+    "inversion": "root"
+  }
+}

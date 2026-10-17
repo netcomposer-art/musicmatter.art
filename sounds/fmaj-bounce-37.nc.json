@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F major chord, bounce 37",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fmaj-bounce-37.wav",
+  "key": "F major",
+  "chords": [
+    "Fmaj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A4",
+    "high": "F6",
+    "root": "F5",
+    "bass": "A4",
+    "inversion": "first"
+  }
+}

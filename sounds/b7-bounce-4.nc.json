@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "B dominant 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "b7-bounce-4.wav",
+  "key": "B major",
+  "chords": [
+    "B7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#4",
+    "high": "D#5",
+    "root": "B4",
+    "bass": "F#4",
+    "inversion": "second"
+  }
+}

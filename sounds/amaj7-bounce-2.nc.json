@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A major 7th chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "amaj7-bounce-2.wav",
+  "key": "A major",
+  "chords": [
+    "Amaj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E4",
+    "high": "G#5",
+    "root": "A4",
+    "bass": "E4",
+    "inversion": "second"
+  }
+}

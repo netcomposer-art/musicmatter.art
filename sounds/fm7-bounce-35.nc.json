@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F minor 7th chord, bounce 35",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fm7-bounce-35.wav",
+  "key": "F minor",
+  "chords": [
+    "Fm7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F4",
+    "high": "G#5",
+    "root": "F4",
+    "bass": "F4",
+    "inversion": "root"
+  }
+}

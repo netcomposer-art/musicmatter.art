@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A minor chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "amin-bounce-4.wav",
+  "key": "A minor",
+  "chords": [
+    "Amin"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E4",
+    "high": "A5",
+    "root": "A4",
+    "bass": "E4",
+    "inversion": "second"
+  }
+}

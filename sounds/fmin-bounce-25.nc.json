@@ -15,6 +15,8 @@
   "register": {
     "low": "G#4",
     "high": "F6",
-    "root": "F5"
+    "root": "F5",
+    "bass": "G#4",
+    "inversion": "first"
   }
 }

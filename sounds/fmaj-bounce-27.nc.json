@@ -14,7 +14,9 @@
   "loopable": false,
   "register": {
     "low": "A4",
-    "high": "E6",
-    "root": "F5"
+    "high": "F5",
+    "root": "F5",
+    "bass": "A4",
+    "inversion": "first"
   }
 }

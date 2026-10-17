@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "G\u266f dominant 7th chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gsharp7-bounce-3.wav",
+  "key": "G# major",
+  "chords": [
+    "G#7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C5",
+    "high": "D#6",
+    "root": "G#5",
+    "bass": "C5",
+    "inversion": "first"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A major chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "amaj-bounce-2.wav",
+  "key": "A major",
+  "chords": [
+    "Amaj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A4",
+    "high": "E5",
+    "root": "A4",
+    "bass": "A4",
+    "inversion": "root"
+  }
+}

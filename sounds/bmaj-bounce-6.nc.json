@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "B major chord, bounce 6",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "bmaj-bounce-6.wav",
+  "key": "B major",
+  "chords": [
+    "Bmaj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#4",
+    "high": "B4",
+    "root": "B4",
+    "bass": "D#4",
+    "inversion": "first"
+  }
+}

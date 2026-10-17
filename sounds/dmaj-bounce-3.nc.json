@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "D major chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "dmaj-bounce-3.wav",
+  "key": "D major",
+  "chords": [
+    "Dmaj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "D5",
+    "root": "D4",
+    "bass": "F#3",
+    "inversion": "first"
+  }
+}

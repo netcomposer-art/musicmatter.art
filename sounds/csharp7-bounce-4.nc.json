@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C\u266f dominant 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "csharp7-bounce-4.wav",
+  "key": "C# major",
+  "chords": [
+    "C#7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F4",
+    "high": "C#7",
+    "root": "C#5",
+    "bass": "F4",
+    "inversion": "first"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A minor 7th chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "am7-bounce-1.wav",
+  "key": "A minor",
+  "chords": [
+    "Am7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C5",
+    "high": "A5",
+    "root": "A5",
+    "bass": "C5",
+    "inversion": "first"
+  }
+}

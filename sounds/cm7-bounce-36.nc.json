@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C minor 7th chord, bounce 36",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "cm7-bounce-36.wav",
+  "key": "C minor",
+  "chords": [
+    "Cm7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#5",
+    "high": "G6",
+    "root": "C6",
+    "bass": "D#5",
+    "inversion": "first"
+  }
+}

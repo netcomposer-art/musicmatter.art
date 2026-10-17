@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "G major chord, bounce 35",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gmaj-bounce-35.wav",
+  "key": "G major",
+  "chords": [
+    "Gmaj"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G5",
+    "high": "D7",
+    "root": "G5",
+    "bass": "G5",
+    "inversion": "root"
+  }
+}

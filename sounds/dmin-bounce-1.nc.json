@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "D minor chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "dmin-bounce-1.wav",
+  "key": "D minor",
+  "chords": [
+    "Dmin"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A3",
+    "high": "D5",
+    "root": "D4",
+    "bass": "A3",
+    "inversion": "second"
+  }
+}

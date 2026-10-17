@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A\u266f major 7th chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "asharpmaj7-bounce-1.wav",
+  "key": "A# major",
+  "chords": [
+    "A#maj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "D5",
+    "root": "A#3",
+    "bass": "A#3",
+    "inversion": "root"
+  }
+}

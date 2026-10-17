@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F minor chord, bounce 34",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fmin-bounce-34.wav",
+  "key": "F minor",
+  "chords": [
+    "Fmin"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F5",
+    "high": "C6",
+    "root": "F5",
+    "bass": "F5",
+    "inversion": "root"
+  }
+}

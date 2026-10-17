@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "G\u266f minor chord, bounce 6",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gsharpmin-bounce-6.wav",
+  "key": "G# minor",
+  "chords": [
+    "G#min"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "B5",
+    "root": "G#4",
+    "bass": "B3",
+    "inversion": "first"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "D major 7th chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "dmaj7-bounce-2.wav",
+  "key": "D major",
+  "chords": [
+    "Dmaj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D3",
+    "high": "A4",
+    "root": "D3",
+    "bass": "D3",
+    "inversion": "root"
+  }
+}

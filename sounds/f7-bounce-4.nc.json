@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F dominant 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "f7-bounce-4.wav",
+  "key": "F major",
+  "chords": [
+    "F7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "D#6",
+    "root": "F3",
+    "bass": "F3",
+    "inversion": "root"
+  }
+}

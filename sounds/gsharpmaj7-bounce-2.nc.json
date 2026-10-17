@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "G\u266f major 7th chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gsharpmaj7-bounce-2.wav",
+  "key": "G# major",
+  "chords": [
+    "G#maj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C4",
+    "high": "C6",
+    "root": "G#4",
+    "bass": "C4",
+    "inversion": "first"
+  }
+}

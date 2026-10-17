@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A\u266f dominant 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "asharp7-bounce-4.wav",
+  "key": "A# major",
+  "chords": [
+    "A#7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "G#5",
+    "root": "A#4",
+    "bass": "D4",
+    "inversion": "first"
+  }
+}
