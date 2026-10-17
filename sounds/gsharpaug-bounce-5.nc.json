@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "G\u266f augmented chord, bounce 5",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gsharpaug-bounce-5.wav",
+  "chords": [
+    "G#aug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E4",
+    "high": "G#5",
+    "root": "G#4",
+    "bass": "E4",
+    "inversion": "second"
+  }
+}

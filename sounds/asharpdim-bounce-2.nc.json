@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A\u266f diminished chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "asharpdim-bounce-2.wav",
+  "key": "B major",
+  "chords": [
+    "A#dim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "E6",
+    "root": "A#3",
+    "bass": "A#3",
+    "inversion": "root"
+  }
+}

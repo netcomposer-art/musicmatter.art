@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C\u266f diminished chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "csharpdim-bounce-1.wav",
+  "key": "D major",
+  "chords": [
+    "C#dim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C#4",
+    "high": "E6",
+    "root": "C#4",
+    "bass": "C#4",
+    "inversion": "root"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A diminished chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "adim-bounce-3.wav",
+  "key": "A# major",
+  "chords": [
+    "Adim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#5",
+    "high": "D#6",
+    "root": "A5",
+    "bass": "D#5",
+    "inversion": "second"
+  }
+}

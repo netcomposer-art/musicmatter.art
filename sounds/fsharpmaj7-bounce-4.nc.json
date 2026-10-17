@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F\u266f major 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fsharpmaj7-bounce-4.wav",
+  "key": "F# major",
+  "chords": [
+    "F#maj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F4",
+    "high": "C#5",
+    "root": "F#4",
+    "bass": "F4",
+    "inversion": "third"
+  }
+}

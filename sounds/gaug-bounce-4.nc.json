@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "G augmented chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gaug-bounce-4.wav",
+  "chords": [
+    "Gaug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#4",
+    "high": "B4",
+    "root": "G4",
+    "bass": "D#4",
+    "inversion": "second"
+  }
+}

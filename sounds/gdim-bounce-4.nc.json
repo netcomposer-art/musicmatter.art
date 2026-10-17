@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "G diminished chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gdim-bounce-4.wav",
+  "key": "G# major",
+  "chords": [
+    "Gdim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#4",
+    "high": "C#7",
+    "root": "G5",
+    "bass": "A#4",
+    "inversion": "first"
+  }
+}

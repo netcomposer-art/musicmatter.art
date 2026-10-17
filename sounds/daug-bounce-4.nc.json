@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "D augmented chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "daug-bounce-4.wav",
+  "chords": [
+    "Daug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D5",
+    "high": "A#5",
+    "root": "D5",
+    "bass": "D5",
+    "inversion": "root"
+  }
+}

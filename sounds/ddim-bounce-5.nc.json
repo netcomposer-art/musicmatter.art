@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "D diminished chord, bounce 5",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "ddim-bounce-5.wav",
+  "key": "D# major",
+  "chords": [
+    "Ddim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#4",
+    "high": "F6",
+    "root": "D5",
+    "bass": "G#4",
+    "inversion": "second"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "F\u266f augmented chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fsharpaug-bounce-2.wav",
+  "chords": [
+    "F#aug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#4",
+    "high": "F#5",
+    "root": "F#5",
+    "bass": "A#4",
+    "inversion": "first"
+  }
+}

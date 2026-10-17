@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C diminished chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "cdim-bounce-2.wav",
+  "key": "C# major",
+  "chords": [
+    "Cdim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#4",
+    "high": "D#5",
+    "root": "C5",
+    "bass": "F#4",
+    "inversion": "second"
+  }
+}

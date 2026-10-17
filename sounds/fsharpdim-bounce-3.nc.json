@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F\u266f diminished chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fsharpdim-bounce-3.wav",
+  "key": "G major",
+  "chords": [
+    "F#dim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A3",
+    "high": "C5",
+    "root": "F#4",
+    "bass": "A3",
+    "inversion": "first"
+  }
+}

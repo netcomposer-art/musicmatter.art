@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "D\u266f augmented chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "dsharpaug-bounce-3.wav",
+  "chords": [
+    "D#aug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G4",
+    "high": "D#5",
+    "root": "D#5",
+    "bass": "G4",
+    "inversion": "first"
+  }
+}
