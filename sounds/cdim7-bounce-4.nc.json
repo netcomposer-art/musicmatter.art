@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "C diminished 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "cdim7-bounce-4.wav",
+  "chords": [
+    "Cdim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A3",
+    "high": "C6",
+    "root": "C4",
+    "bass": "A3",
+    "inversion": "third"
+  }
+}

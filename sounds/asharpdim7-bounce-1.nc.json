@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "A\u266f diminished 7th chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "asharpdim7-bounce-1.wav",
+  "chords": [
+    "A#dim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G4",
+    "high": "E5",
+    "root": "A#4",
+    "bass": "G4",
+    "inversion": "third"
+  }
+}

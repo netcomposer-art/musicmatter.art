@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "A suspended 4th chord, bounce 6",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "asus4-bounce-6.wav",
+  "key": "A major",
+  "chords": [
+    "Asus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "E5",
+    "root": "A4",
+    "bass": "D4",
+    "inversion": "first"
+  }
+}

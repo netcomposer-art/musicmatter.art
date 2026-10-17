@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "F suspended 4th chord, bounce 6",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fsus4-bounce-6.wav",
+  "key": "F major",
+  "chords": [
+    "Fsus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "F5",
+    "root": "F3",
+    "bass": "F3",
+    "inversion": "root"
+  }
+}

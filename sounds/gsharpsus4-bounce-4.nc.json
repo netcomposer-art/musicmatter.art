@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "G\u266f suspended 4th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gsharpsus4-bounce-4.wav",
+  "key": "G# major",
+  "chords": [
+    "G#sus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#3",
+    "high": "C#5",
+    "root": "G#3",
+    "bass": "G#3",
+    "inversion": "root"
+  }
+}

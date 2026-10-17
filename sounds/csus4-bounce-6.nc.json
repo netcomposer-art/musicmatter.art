@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C suspended 4th chord, bounce 6",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "csus4-bounce-6.wav",
+  "key": "C major",
+  "chords": [
+    "Csus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C4",
+    "high": "C5",
+    "root": "C4",
+    "bass": "C4",
+    "inversion": "root"
+  }
+}

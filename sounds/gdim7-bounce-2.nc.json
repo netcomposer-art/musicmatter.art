@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "G diminished 7th chord, bounce 2",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "gdim7-bounce-2.wav",
+  "chords": [
+    "Gdim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#4",
+    "high": "G5",
+    "root": "G5",
+    "bass": "A#4",
+    "inversion": "first"
+  }
+}

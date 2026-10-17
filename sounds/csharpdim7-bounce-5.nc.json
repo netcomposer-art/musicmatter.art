@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "C\u266f diminished 7th chord, bounce 5",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "csharpdim7-bounce-5.wav",
+  "chords": [
+    "C#dim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G3",
+    "high": "C#5",
+    "root": "C#4",
+    "bass": "G3",
+    "inversion": "second"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "C\u266f suspended 4th chord, bounce 1",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "csharpsus4-bounce-1.wav",
+  "key": "C# major",
+  "chords": [
+    "C#sus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C#4",
+    "high": "G#5",
+    "root": "C#4",
+    "bass": "C#4",
+    "inversion": "root"
+  }
+}

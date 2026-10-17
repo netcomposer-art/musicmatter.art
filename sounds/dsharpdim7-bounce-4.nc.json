@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "D\u266f diminished 7th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "dsharpdim7-bounce-4.wav",
+  "chords": [
+    "D#dim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#4",
+    "high": "A5",
+    "root": "D#5",
+    "bass": "F#4",
+    "inversion": "first"
+  }
+}

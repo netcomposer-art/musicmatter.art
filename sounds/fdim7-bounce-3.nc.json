@@ -1,0 +1,21 @@
+{
+  "nc_version": "0.1",
+  "title": "F diminished 7th chord, bounce 3",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "fdim7-bounce-3.wav",
+  "chords": [
+    "Fdim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "G#5",
+    "root": "F4",
+    "bass": "D4",
+    "inversion": "third"
+  }
+}

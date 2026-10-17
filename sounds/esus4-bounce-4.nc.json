@@ -1,0 +1,22 @@
+{
+  "nc_version": "0.1",
+  "title": "E suspended 4th chord, bounce 4",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "esus4-bounce-4.wav",
+  "key": "E major",
+  "chords": [
+    "Esus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "A6",
+    "root": "E4",
+    "bass": "B3",
+    "inversion": "second"
+  }
+}
