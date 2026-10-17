@@ -11,5 +11,10 @@
   "chords": [
     "Cm7"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "G4",
+    "high": "D#5",
+    "root": "C5"
+  }
 }

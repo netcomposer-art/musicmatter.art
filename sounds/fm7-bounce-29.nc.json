@@ -11,5 +11,10 @@
   "chords": [
     "Fm7"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "G6",
+    "root": "F3"
+  }
 }

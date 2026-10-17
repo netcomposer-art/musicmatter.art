@@ -11,5 +11,10 @@
   "chords": [
     "Gmin"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "G5",
+    "high": "G6",
+    "root": "G5"
+  }
 }

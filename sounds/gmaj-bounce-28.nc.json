@@ -11,5 +11,10 @@
   "chords": [
     "Gmaj"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "D5",
+    "high": "B5",
+    "root": "G5"
+  }
 }

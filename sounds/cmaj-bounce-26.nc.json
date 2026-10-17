@@ -11,5 +11,10 @@
   "chords": [
     "Cmaj"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "C5",
+    "high": "E6",
+    "root": "C5"
+  }
 }

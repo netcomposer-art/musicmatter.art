@@ -11,5 +11,10 @@
   "chords": [
     "Cmin"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "D#3",
+    "high": "G6",
+    "root": "C5"
+  }
 }

@@ -11,5 +11,10 @@
   "chords": [
     "Fmin"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "F5",
+    "high": "G#5",
+    "root": "F5"
+  }
 }

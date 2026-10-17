@@ -11,5 +11,10 @@
   "chords": [
     "Fmaj"
   ],
-  "loopable": false
+  "loopable": false,
+  "register": {
+    "low": "F4",
+    "high": "G6",
+    "root": "F4"
+  }
 }
