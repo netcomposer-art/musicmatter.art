@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f suspended 4th chord, bounce 3",
+  "title": "F♯ suspended 4th chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpsus4-bounce-3.wav",
+  "audio": "fsharpsus4-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a4af192980f5ecbbffd2a7c1425c2c0e"
+  },
+  "size_bytes": 348358,
+  "sha256": "9f4ea02748d8fe4b1b93439a69c82fec8d7a2f85275f471216b92a5b61cfa234",
+  "type": "chord",
   "key": "F# major",
   "chords": [
     "F#sus4"

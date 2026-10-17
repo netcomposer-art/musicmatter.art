@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f suspended 4th chord, bounce 3",
+  "title": "A♯ suspended 4th chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpsus4-bounce-3.wav",
+  "audio": "asharpsus4-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "880e4db810faa320ae8e1c0c3ca820b6"
+  },
+  "size_bytes": 357039,
+  "sha256": "0d93aa493e23b0615d5617fac92f7ed7f94aa99fe5d2bf43bd454e58685fe36e",
+  "type": "chord",
   "key": "A# major",
   "chords": [
     "A#sus4"

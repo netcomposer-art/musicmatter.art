@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dmaj-bounce-1.wav",
+  "audio": "dmaj-bounce-1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "fe07a3725bf8349457c9f0d22c2b0ab6"
+  },
+  "size_bytes": 352014,
+  "sha256": "8f49cabcf59f3ded2b618b2a351c74394ef43f3619e34c3e7937d64b7081a408",
+  "type": "chord",
   "key": "D major",
   "chords": [
     "Dmaj"

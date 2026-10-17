@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f major 7th chord, bounce 3",
+  "title": "D♯ major 7th chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpmaj7-bounce-3.wav",
+  "audio": "dsharpmaj7-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "33f2a8d2b519ef4a856651f0651c4ad4"
+  },
+  "size_bytes": 370248,
+  "sha256": "f13f8b90c2aee51609c9df2baf5dc70a94e6c48fb02262dd8c21f5128842d867",
+  "type": "chord",
   "key": "D# major",
   "chords": [
     "D#maj7"

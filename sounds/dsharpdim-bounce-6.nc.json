@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f diminished chord, bounce 6",
+  "title": "D♯ diminished chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpdim-bounce-6.wav",
+  "audio": "dsharpdim-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "15fe3d33a2b23106f49e9d31a12188e4"
+  },
+  "size_bytes": 376135,
+  "sha256": "3431982132c56fa87c6a0c751fa9844ebc06fe7ac494e037d23a7b012c272168",
+  "type": "chord",
   "key": "E major",
   "chords": [
     "D#dim"

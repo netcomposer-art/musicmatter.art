@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gaug-bounce-2.wav",
+  "audio": "gaug-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "7e632e02bf31d1989c35a93a003b9f31"
+  },
+  "size_bytes": 343255,
+  "sha256": "c11874bc017e2f3ada08e2e63555edb44c8edc6897f31bb23eaa0e2347070a23",
+  "type": "chord",
   "chords": [
     "Gaug"
   ],

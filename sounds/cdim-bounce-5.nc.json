@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "cdim-bounce-5.wav",
+  "audio": "cdim-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "f80f723ae882987340afff61308d4021"
+  },
+  "size_bytes": 372132,
+  "sha256": "b42a849d5eb909d4601480ac8f9d6cbc9ab9daabe3a71adc7bd47e31116b336e",
+  "type": "chord",
   "key": "C# major",
   "chords": [
     "Cdim"

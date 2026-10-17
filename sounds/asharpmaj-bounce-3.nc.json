@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f major chord, bounce 3",
+  "title": "A♯ major chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpmaj-bounce-3.wav",
+  "audio": "asharpmaj-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "c4c5ad0db994a723e3c08b2f96d37e44"
+  },
+  "size_bytes": 315785,
+  "sha256": "d732f08573a8b5f8244287d06e51ed8db9bf94f69fad69de39d2537b197efa64",
+  "type": "chord",
   "key": "A# major",
   "chords": [
     "A#maj"

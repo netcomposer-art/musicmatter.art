@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "bmaj-bounce-4.wav",
+  "audio": "bmaj-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "11863695b91ba2c5044d8e79d8089c13"
+  },
+  "size_bytes": 364194,
+  "sha256": "ea7f5e5ad672922d29d7480d14221738cc23044a12b1f943d33c5af65faadfb2",
+  "type": "chord",
   "key": "B major",
   "chords": [
     "Bmaj"

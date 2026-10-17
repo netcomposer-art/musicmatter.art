@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f suspended 4th chord, bounce 4",
+  "title": "C♯ suspended 4th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpsus4-bounce-4.wav",
+  "audio": "csharpsus4-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "73b5c413b7d91c58a5e4567c9a2de830"
+  },
+  "size_bytes": 348712,
+  "sha256": "e854d94063c049a26410dae3d9d654f2d50fb2ca521e7850bfccd12ab3de66d3",
+  "type": "chord",
   "key": "C# major",
   "chords": [
     "C#sus4"

@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f augmented chord, bounce 5",
+  "title": "A♯ augmented chord, bounce 5",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpaug-bounce-5.wav",
+  "audio": "asharpaug-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "cbb236cf0504dd215621d1fd71de6a0f"
+  },
+  "size_bytes": 337839,
+  "sha256": "e2290648fb753581f70b30b1511eef72e2f788e69eb84cd5519a3999dbdbbfbb",
+  "type": "chord",
   "chords": [
     "A#aug"
   ],

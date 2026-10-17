@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csus4-bounce-3.wav",
+  "audio": "csus4-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a5c1d604e976f05c318b725707b5348c"
+  },
+  "size_bytes": 394683,
+  "sha256": "1c751627ad8826373b8c01121fa912d737819269c8a95564300215cc1012dce2",
+  "type": "chord",
   "key": "C major",
   "chords": [
     "Csus4"

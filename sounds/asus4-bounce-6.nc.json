@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asus4-bounce-6.wav",
+  "audio": "asus4-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "1a989b75a63ee50fd61a7ccf400896e4"
+  },
+  "size_bytes": 351540,
+  "sha256": "bf10b5961b4e86e2f1f2a80a2397697feb12af866b8b4e6f151c3aea4d1955ed",
+  "type": "chord",
   "key": "A major",
   "chords": [
     "Asus4"

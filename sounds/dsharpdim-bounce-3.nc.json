@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f diminished chord, bounce 3",
+  "title": "D♯ diminished chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpdim-bounce-3.wav",
+  "audio": "dsharpdim-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "7a1f4aa2acf45fd255a6c139a3436097"
+  },
+  "size_bytes": 352248,
+  "sha256": "3df7d03384b9baa80aaef5ff113887f66366b6dc631a92639c04caeba2dd9b57",
+  "type": "chord",
   "key": "E major",
   "chords": [
     "D#dim"

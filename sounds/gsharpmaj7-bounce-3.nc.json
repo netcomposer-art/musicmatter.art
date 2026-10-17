@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f major 7th chord, bounce 3",
+  "title": "G♯ major 7th chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpmaj7-bounce-3.wav",
+  "audio": "gsharpmaj7-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "10616209453f813f9c381a5e542beea9"
+  },
+  "size_bytes": 372225,
+  "sha256": "a4c36d0847aff3a0c62f1552b531b9703ce0c71ef52cba6921c9ed13fd016632",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "G#maj7"

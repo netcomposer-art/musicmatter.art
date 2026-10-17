@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "edim-bounce-2.wav",
+  "audio": "edim-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "95e33dcc4b8b5cff2b26afb38fc66124"
+  },
+  "size_bytes": 353648,
+  "sha256": "166e6c7ab683be6326649ce44abc29a0752936e61eaf4d33bc1b5875bae76439",
+  "type": "chord",
   "key": "F major",
   "chords": [
     "Edim"

@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f dominant 7th chord, bounce 4",
+  "title": "F♯ dominant 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharp7-bounce-4.wav",
+  "audio": "fsharp7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "5dc96d022f0bf734100dee7f080fc3a7"
+  },
+  "size_bytes": 358997,
+  "sha256": "ba267f04d07a1822eebed6302d336e01760e2d5be18facfdc8731c6b32286b65",
+  "type": "chord",
   "key": "B major",
   "chords": [
     "F#7"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fmin-bounce-25.wav",
+  "audio": "fmin-bounce-25.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "dd9d728d617d9a5d948e23a4f0e2207d"
+  },
+  "size_bytes": 352021,
+  "sha256": "cc764c7954101051216cbfe25b3d0055f7b4376017f78246977fb980cf4f39ec",
+  "type": "chord",
   "key": "F minor",
   "chords": [
     "Fmin"

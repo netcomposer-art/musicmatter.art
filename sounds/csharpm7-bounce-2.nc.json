@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f minor 7th chord, bounce 2",
+  "title": "C♯ minor 7th chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpm7-bounce-2.wav",
+  "audio": "csharpm7-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "b2471ac98b6f941aa3c647157a2ce85f"
+  },
+  "size_bytes": 388001,
+  "sha256": "0ddb955b9e2785d758ea52e15b42657e4262129d778062af6c3099050da84793",
+  "type": "chord",
   "key": "C# minor",
   "chords": [
     "C#m7"

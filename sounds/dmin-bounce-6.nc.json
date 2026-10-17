@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dmin-bounce-6.wav",
+  "audio": "dmin-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "f389e672a0da4e628c021a16125b06e1"
+  },
+  "size_bytes": 392066,
+  "sha256": "8bbbcf4e9de79022e2c2e2b22cc6f9918f93401e4935e11ef8fd739e835e02c9",
+  "type": "chord",
   "key": "D minor",
   "chords": [
     "Dmin"

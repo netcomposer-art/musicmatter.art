@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "bsus4-bounce-4.wav",
+  "audio": "bsus4-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "41996e6b9bb03d6c2a2faa8b3cd93ce2"
+  },
+  "size_bytes": 350864,
+  "sha256": "b8f5b6f7767b16bc41a26ba77ca7463d687123f8f9e608e7c04863ca763bab4f",
+  "type": "chord",
   "key": "B major",
   "chords": [
     "Bsus4"

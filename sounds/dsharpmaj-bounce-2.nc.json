@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f major chord, bounce 2",
+  "title": "D♯ major chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpmaj-bounce-2.wav",
+  "audio": "dsharpmaj-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "6e22c3bd7ddb0154a634211b4636ef77"
+  },
+  "size_bytes": 375210,
+  "sha256": "1572a4285af8f65c623ae478d36f9df3c72bfffd78cc219a5bc1278f6df8dcf8",
+  "type": "chord",
   "key": "D# major",
   "chords": [
     "D#maj"

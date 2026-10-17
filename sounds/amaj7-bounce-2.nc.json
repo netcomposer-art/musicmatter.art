@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "amaj7-bounce-2.wav",
+  "audio": "amaj7-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "e53b82c954aa2b1939bd773a7b8a4d1b"
+  },
+  "size_bytes": 363559,
+  "sha256": "1e91e2d5ed37653242cd702ba05acec58f72d207173bbcdcd48341087f6fb495",
+  "type": "chord",
   "key": "A major",
   "chords": [
     "Amaj7"

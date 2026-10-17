@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f major chord, bounce 4",
+  "title": "C♯ major chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpmaj-bounce-4.wav",
+  "audio": "csharpmaj-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "4600e154e0d0ac92b23896b6c2b3dab0"
+  },
+  "size_bytes": 375081,
+  "sha256": "662d96a6d9d15baa5921aaa398655beee49a57f34dbeb611b8fc408a578954d4",
+  "type": "chord",
   "key": "C# major",
   "chords": [
     "C#maj"

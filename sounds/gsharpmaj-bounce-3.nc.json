@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f major chord, bounce 3",
+  "title": "G♯ major chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpmaj-bounce-3.wav",
+  "audio": "gsharpmaj-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d5d618a1516f977993c6df2f45e50c6d"
+  },
+  "size_bytes": 363427,
+  "sha256": "c7fc1cbdfc1b03c51dc405dadb84db0471faf90d36dbfa573199cd50103e1678",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "G#maj"

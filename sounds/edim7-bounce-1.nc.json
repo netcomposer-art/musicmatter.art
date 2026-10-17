@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "edim7-bounce-1.wav",
+  "audio": "edim7-bounce-1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "f440710e7a0a56a9543bb4c558ef781c"
+  },
+  "size_bytes": 374814,
+  "sha256": "be50dcf38e2ebe61c32549279373f06d6a85c559e3b1298b7b1e9260eb431fe4",
+  "type": "chord",
   "chords": [
     "Edim7"
   ],

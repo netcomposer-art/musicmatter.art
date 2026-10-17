@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "daug-bounce-4.wav",
+  "audio": "daug-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "8b2b4fb9e42f26b720fbf182ed706b18"
+  },
+  "size_bytes": 341049,
+  "sha256": "957b52fde07041102e38256c66f9eaebe123c49e7e79482c06dd7c2b7a7abc0d",
+  "type": "chord",
   "chords": [
     "Daug"
   ],

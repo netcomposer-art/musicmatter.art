@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "cmin-bounce-26.wav",
+  "audio": "cmin-bounce-26.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "29e6585ed6ce29cbefa97a23cec6bac5"
+  },
+  "size_bytes": 371753,
+  "sha256": "67cf47923b964804170a585317dcdf1e395f69be23b9291f48b242e13ea7d4ba",
+  "type": "chord",
   "key": "C minor",
   "chords": [
     "Cmin"

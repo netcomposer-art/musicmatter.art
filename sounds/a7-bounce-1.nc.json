@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "a7-bounce-1.wav",
+  "audio": "a7-bounce-1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "5261b9f21dfb00aa5bbeec05921f03c4"
+  },
+  "size_bytes": 361509,
+  "sha256": "970820e61b64ad179d64c307daa0b7c8134163e79a9d390927a7b9193ec0af69",
+  "type": "chord",
   "key": "D major",
   "chords": [
     "A7"

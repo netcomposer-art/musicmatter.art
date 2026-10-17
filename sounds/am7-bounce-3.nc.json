@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "am7-bounce-3.wav",
+  "audio": "am7-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a7e184b2219258867032c9a5e2c22fa3"
+  },
+  "size_bytes": 360023,
+  "sha256": "04ca2dbe98f64b90f8dcb9a5ad3f4ac97771f20cb01ebf58d1b18b91b6cdd725",
+  "type": "chord",
   "key": "A minor",
   "chords": [
     "Am7"

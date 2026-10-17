@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "eaug-bounce-1.wav",
+  "audio": "eaug-bounce-1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "b68308c4617fb73e9e231bb9478525c5"
+  },
+  "size_bytes": 342061,
+  "sha256": "219aaa4d5921f06332e9faf97a3292fd159a159aa89b071025e7df53986644c8",
+  "type": "chord",
   "chords": [
     "Eaug"
   ],

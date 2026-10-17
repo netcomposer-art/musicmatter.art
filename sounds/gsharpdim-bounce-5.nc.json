@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f diminished chord, bounce 5",
+  "title": "G♯ diminished chord, bounce 5",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpdim-bounce-5.wav",
+  "audio": "gsharpdim-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "41f89c57e52ef7bf5d3a89e370adf64b"
+  },
+  "size_bytes": 361608,
+  "sha256": "647fdcba9f10e363e281b342a87e46103a37a9d34e4381809318bd068b825693",
+  "type": "chord",
   "key": "A major",
   "chords": [
     "G#dim"

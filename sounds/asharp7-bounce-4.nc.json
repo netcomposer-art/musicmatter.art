@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f dominant 7th chord, bounce 4",
+  "title": "A♯ dominant 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharp7-bounce-4.wav",
+  "audio": "asharp7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a88f824917f7f437c1f2492194d130e4"
+  },
+  "size_bytes": 362003,
+  "sha256": "f6d2716b044ff60a2d97f75b3fbaed00d70e0f7de43bdddc3a3242b7e61ec37b",
+  "type": "chord",
   "key": "D# major",
   "chords": [
     "A#7"

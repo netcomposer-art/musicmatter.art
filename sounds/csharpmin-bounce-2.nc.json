@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f minor chord, bounce 2",
+  "title": "C♯ minor chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpmin-bounce-2.wav",
+  "audio": "csharpmin-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "916569b684d86e4226dd60f0d133937e"
+  },
+  "size_bytes": 377892,
+  "sha256": "a3016799fa884b060da70da39d04288c808c529115ea9683cfcaa30fd88c0647",
+  "type": "chord",
   "key": "C# minor",
   "chords": [
     "C#min"

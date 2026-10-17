@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "c7-bounce-2.wav",
+  "audio": "c7-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "8019e8c5e5f8f9b5c39006c6e3da7b97"
+  },
+  "size_bytes": 357971,
+  "sha256": "d91d6ee869a1ef9b952714674a9c7d1aa633a82c217b19baaba486ecd4a5fb99",
+  "type": "chord",
   "key": "F major",
   "chords": [
     "C7"

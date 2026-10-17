@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f dominant 7th chord, bounce 6",
+  "title": "G♯ dominant 7th chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharp7-bounce-6.wav",
+  "audio": "gsharp7-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "60d05a673ff5914247707c1abdf35f1b"
+  },
+  "size_bytes": 354849,
+  "sha256": "531729f0a98728c2f3305ec924c815c311f3ddd527125fe31e1432426aed7ac9",
+  "type": "chord",
   "key": "C# major",
   "chords": [
     "G#7"

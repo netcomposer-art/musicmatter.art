@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f diminished chord, bounce 2",
+  "title": "C♯ diminished chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpdim-bounce-2.wav",
+  "audio": "csharpdim-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "28b66b4a0f00c66f7ee37d54c2d0722c"
+  },
+  "size_bytes": 356170,
+  "sha256": "b1aecc1c3715a152aeb8a2dbe0e59c28b2a29db0ae925c9f086e91762bb34d07",
+  "type": "chord",
   "key": "D major",
   "chords": [
     "C#dim"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "faug-bounce-2.wav",
+  "audio": "faug-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d74dbd38d314e907fc0f4f4e77dbe198"
+  },
+  "size_bytes": 378571,
+  "sha256": "e451344cd787300194cde23b8df353f9d85a1381b6cf3d2accdcf94bc3454b84",
+  "type": "chord",
   "chords": [
     "Faug"
   ],

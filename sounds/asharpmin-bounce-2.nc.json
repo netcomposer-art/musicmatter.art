@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f minor chord, bounce 2",
+  "title": "A♯ minor chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpmin-bounce-2.wav",
+  "audio": "asharpmin-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "4cc6ac0bef84f91febff3260bb3b7bae"
+  },
+  "size_bytes": 352532,
+  "sha256": "356072d04f7ad4699c9bfe5416fb47be504a4abe2886dab02054840e823a83a4",
+  "type": "chord",
   "key": "A# minor",
   "chords": [
     "A#min"

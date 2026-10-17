@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "esus4-bounce-2.wav",
+  "audio": "esus4-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "941a4326d9225fb9f45728d2fb163482"
+  },
+  "size_bytes": 384584,
+  "sha256": "164a7fef3a36b6261a5c36415fe9068ac9440531bae22bcf76e2e69a24a1218e",
+  "type": "chord",
   "key": "E major",
   "chords": [
     "Esus4"

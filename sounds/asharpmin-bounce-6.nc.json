@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f minor chord, bounce 6",
+  "title": "A♯ minor chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpmin-bounce-6.wav",
+  "audio": "asharpmin-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "30cab39207970dac2cc3c2b49dc69a51"
+  },
+  "size_bytes": 342495,
+  "sha256": "5df092e7e735b314540be57bd039b4acdb108cafcb5cb40caf3f115002b61cc2",
+  "type": "chord",
   "key": "A# minor",
   "chords": [
     "A#min"

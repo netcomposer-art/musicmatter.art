@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f major chord, bounce 4",
+  "title": "D♯ major chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpmaj-bounce-4.wav",
+  "audio": "dsharpmaj-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "66a5d36505482b5e8d78b6d673bc8f96"
+  },
+  "size_bytes": 389175,
+  "sha256": "695ba2ccca12509e69bc592517af8e17a84f66810ac3ed5cbee667a0d0e8b8db",
+  "type": "chord",
   "key": "D# major",
   "chords": [
     "D#maj"

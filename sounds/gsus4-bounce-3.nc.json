@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsus4-bounce-3.wav",
+  "audio": "gsus4-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "677347bc2b2331a802c29ffc3babd638"
+  },
+  "size_bytes": 348028,
+  "sha256": "0b1ef225911b744471f407ec423447aefa3040705d30024126eeef5cd01875b5",
+  "type": "chord",
   "key": "G major",
   "chords": [
     "Gsus4"

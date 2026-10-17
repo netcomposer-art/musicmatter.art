@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gdim-bounce-4.wav",
+  "audio": "gdim-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "54d6bbfd7e0335f4bd93f48c3d8afe69"
+  },
+  "size_bytes": 349990,
+  "sha256": "7bc30413c9a513fd7d3cdeaf4a46067201212e14d6330fe77f3589cdfec7c3be",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "Gdim"

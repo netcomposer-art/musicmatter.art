@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f diminished chord, bounce 2",
+  "title": "D♯ diminished chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpdim-bounce-2.wav",
+  "audio": "dsharpdim-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ecb08f87e3c248d48e2b244684603f09"
+  },
+  "size_bytes": 360532,
+  "sha256": "59dea8efa30afe05bd5c8c8ed085afac1cd601bff1df08d5d026dc22f049ff4c",
+  "type": "chord",
   "key": "E major",
   "chords": [
     "D#dim"

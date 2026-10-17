@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f minor 7th chord, bounce 4",
+  "title": "A♯ minor 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpm7-bounce-4.wav",
+  "audio": "asharpm7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "4f0349969d77b7c0739b2e506c57f1ac"
+  },
+  "size_bytes": 373939,
+  "sha256": "068af85c806f336b667edf5990b3c655912739611a29465c7e99be2d31772883",
+  "type": "chord",
   "key": "A# minor",
   "chords": [
     "A#m7"

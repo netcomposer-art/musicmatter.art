@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fdim-bounce-5.wav",
+  "audio": "fdim-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "1ebfc7d2c5752fcdd5389863ded25772"
+  },
+  "size_bytes": 379699,
+  "sha256": "5ffea896f41344b0697668a55a2995f9cd1113a0870ece8f2c732c5b0b9f6e1b",
+  "type": "chord",
   "key": "F# major",
   "chords": [
     "Fdim"

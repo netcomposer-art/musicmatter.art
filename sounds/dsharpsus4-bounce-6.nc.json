@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f suspended 4th chord, bounce 6",
+  "title": "D♯ suspended 4th chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpsus4-bounce-6.wav",
+  "audio": "dsharpsus4-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "44fc448150987f41ac88d8ee9a00b37e"
+  },
+  "size_bytes": 374557,
+  "sha256": "8b49c8a2e6d9af0c3ecd2bcfca584c4978bf2f4db06e37369143ebbf43ed2fd5",
+  "type": "chord",
   "key": "D# major",
   "chords": [
     "D#sus4"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "bdim-bounce-2.wav",
+  "audio": "bdim-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ef66060dfa62d8aaf68f760296627e67"
+  },
+  "size_bytes": 324586,
+  "sha256": "e7ebe52f5954e9ecd968b607e59a589efa3ea567bb4f9bd41ec3b813b98c5b12",
+  "type": "chord",
   "key": "C major",
   "chords": [
     "Bdim"

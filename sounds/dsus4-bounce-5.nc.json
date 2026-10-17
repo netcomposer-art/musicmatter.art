@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsus4-bounce-5.wav",
+  "audio": "dsus4-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "12c3bf86d78a31dd7efce2f74622d468"
+  },
+  "size_bytes": 388353,
+  "sha256": "91a0b2523ed39c105b74810a18e392b6b8428c65183678653f411a0a324fe3a1",
+  "type": "chord",
   "key": "D major",
   "chords": [
     "Dsus4"

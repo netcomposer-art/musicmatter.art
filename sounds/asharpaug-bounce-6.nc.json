@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f augmented chord, bounce 6",
+  "title": "A♯ augmented chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpaug-bounce-6.wav",
+  "audio": "asharpaug-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0ee8f3a7564390214578fadd43caab8c"
+  },
+  "size_bytes": 325805,
+  "sha256": "909141a86c6ae767ae2e33be38f99ba0332a0f69f3bd387b82a7d54ca6ea2800",
+  "type": "chord",
   "chords": [
     "A#aug"
   ],

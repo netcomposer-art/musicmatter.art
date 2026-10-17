@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f minor chord, bounce 6",
+  "title": "D♯ minor chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpmin-bounce-6.wav",
+  "audio": "dsharpmin-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d0f39093e3279c64bb38f90cd1c91d23"
+  },
+  "size_bytes": 367383,
+  "sha256": "8b2986282cb6ea9d05765c053344595e02f4d702974c7d71bafc378ddd4f8c6d",
+  "type": "chord",
   "key": "D# minor",
   "chords": [
     "D#min"

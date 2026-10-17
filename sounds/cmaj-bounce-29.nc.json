@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "cmaj-bounce-29.wav",
+  "audio": "cmaj-bounce-29.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a453321ae870b8ba5dfd9951ef1eb59b"
+  },
+  "size_bytes": 355305,
+  "sha256": "55026d78487c73314f78358ff489cc553645c0919937d2fb15563567b702f8d7",
+  "type": "chord",
   "key": "C major",
   "chords": [
     "Cmaj"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "caug-bounce-2.wav",
+  "audio": "caug-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "97ebaecd1acdf821b24ee80a3ebb512d"
+  },
+  "size_bytes": 344138,
+  "sha256": "3ede12d86ba805cdf81e74f845d32dafede6fd6de334a1f015a25faa12d8ccdc",
+  "type": "chord",
   "chords": [
     "Caug"
   ],

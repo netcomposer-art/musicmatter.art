@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "b7-bounce-5.wav",
+  "audio": "b7-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "29ce83e4c0b1679fd16bb7244a10d31a"
+  },
+  "size_bytes": 344928,
+  "sha256": "91e524514d51d6736cff58169ec97c3f18af3f94b588d7750a1e78c70d427462",
+  "type": "chord",
   "key": "E major",
   "chords": [
     "B7"

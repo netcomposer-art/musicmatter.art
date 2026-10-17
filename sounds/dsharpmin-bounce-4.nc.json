@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f minor chord, bounce 4",
+  "title": "D♯ minor chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpmin-bounce-4.wav",
+  "audio": "dsharpmin-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "3f20af3b5e0f0a01605ed05ead5f13d1"
+  },
+  "size_bytes": 355824,
+  "sha256": "db96e0e8d71847dbaed43a4f9c3638cbf8e699c1a0e82ef99bddb93d681ac9e0",
+  "type": "chord",
   "key": "D# minor",
   "chords": [
     "D#min"

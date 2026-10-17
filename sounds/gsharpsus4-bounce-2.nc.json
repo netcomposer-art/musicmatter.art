@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f suspended 4th chord, bounce 2",
+  "title": "G♯ suspended 4th chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpsus4-bounce-2.wav",
+  "audio": "gsharpsus4-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a7f4c53aa81bc42398ce8e6325c2ac4a"
+  },
+  "size_bytes": 362355,
+  "sha256": "baabad79ee85397ad1820429404bc2fc152d093558d81e8654c1fd754f0e14f3",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "G#sus4"

@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f diminished 7th chord, bounce 3",
+  "title": "F♯ diminished 7th chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpdim7-bounce-3.wav",
+  "audio": "fsharpdim7-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "aff989fa1f7045d98222bcb8835a5b8c"
+  },
+  "size_bytes": 355312,
+  "sha256": "1acae2cb1e95bbdd303fe7c2db5eb8982df66618765ef9efb7603691cfa3ff2c",
+  "type": "chord",
   "chords": [
     "F#dim7"
   ],

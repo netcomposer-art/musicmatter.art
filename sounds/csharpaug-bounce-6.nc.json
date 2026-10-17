@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f augmented chord, bounce 6",
+  "title": "C♯ augmented chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpaug-bounce-6.wav",
+  "audio": "csharpaug-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "5ba7c8420cd2ab5e93c889d13270fba6"
+  },
+  "size_bytes": 390805,
+  "sha256": "65ee43599f15caf219ce710c0d72458464c41190d4c5ecc167d874eb716ff2a0",
+  "type": "chord",
   "chords": [
     "C#aug"
   ],

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "emaj-bounce-6.wav",
+  "audio": "emaj-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "c63279e7c269d202a07d7c3eaf9b3d96"
+  },
+  "size_bytes": 367641,
+  "sha256": "e2f4f65f592facdd92676dca955bced5596ba5850d72f7775aead0fa8cd8b1d8",
+  "type": "chord",
   "key": "E major",
   "chords": [
     "Emaj"

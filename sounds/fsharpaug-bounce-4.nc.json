@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f augmented chord, bounce 4",
+  "title": "F♯ augmented chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpaug-bounce-4.wav",
+  "audio": "fsharpaug-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "6a25394a34d623d583ab0a8d092c78c7"
+  },
+  "size_bytes": 373806,
+  "sha256": "1f6773a973ce4596a2aa7cd7fdd2a8394ac5821ca165b2109c9f74966b4a58c7",
+  "type": "chord",
   "chords": [
     "F#aug"
   ],

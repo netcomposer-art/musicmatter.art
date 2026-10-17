@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "adim-bounce-4.wav",
+  "audio": "adim-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "4f2b1f09af4783c9f7604126404f564d"
+  },
+  "size_bytes": 346931,
+  "sha256": "0543cfbdd3681d6bda09af2a543ed997f5cbef77fa9388271f6808061ab91648",
+  "type": "chord",
   "key": "A# major",
   "chords": [
     "Adim"

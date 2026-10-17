@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f augmented chord, bounce 3",
+  "title": "G♯ augmented chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpaug-bounce-3.wav",
+  "audio": "gsharpaug-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "1a88da348db3c0ef98826fe157290ec3"
+  },
+  "size_bytes": 343940,
+  "sha256": "2fb344c63e0397a2803d4378cc440d6bfde25fc62d6a85b6b8760e8d6bdb3a45",
+  "type": "chord",
   "chords": [
     "G#aug"
   ],

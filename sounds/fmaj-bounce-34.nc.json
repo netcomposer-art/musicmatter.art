@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fmaj-bounce-34.wav",
+  "audio": "fmaj-bounce-34.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "9fc43df0fd19b4930c4bd6b7be7cdb99"
+  },
+  "size_bytes": 329995,
+  "sha256": "76ff71670b1a2fa097061f004bd8a734913a00eb2be75deb1b2238c30c4007a0",
+  "type": "chord",
   "key": "F major",
   "chords": [
     "Fmaj"

@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f dominant 7th chord, bounce 2",
+  "title": "D♯ dominant 7th chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharp7-bounce-2.wav",
+  "audio": "dsharp7-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "9f5230d4a6db96fd606e1bf4990c8261"
+  },
+  "size_bytes": 366879,
+  "sha256": "43351f3b7f363be06f2066349239b950cf9881b7c3a5428f539a491b6027c308",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "D#7"

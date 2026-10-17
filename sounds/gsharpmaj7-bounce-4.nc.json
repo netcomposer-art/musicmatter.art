@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f major 7th chord, bounce 4",
+  "title": "G♯ major 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpmaj7-bounce-4.wav",
+  "audio": "gsharpmaj7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "551ccf91400322422cbc07429ec6366b"
+  },
+  "size_bytes": 351780,
+  "sha256": "4ea7721809c0da5c739e7fe17f9958a4fdda03773b62a121a197e8f91ab9ec6e",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "G#maj7"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gmin-bounce-28.wav",
+  "audio": "gmin-bounce-28.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "f9fc209a86feb227c174c6c7722a46b9"
+  },
+  "size_bytes": 352673,
+  "sha256": "a9a336134aa4b7fe6f870102f1605e30f207236c1bedc8c907a2eb94e38bf409",
+  "type": "chord",
   "key": "G minor",
   "chords": [
     "Gmin"

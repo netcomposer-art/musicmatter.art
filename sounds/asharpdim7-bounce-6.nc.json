@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f diminished 7th chord, bounce 6",
+  "title": "A♯ diminished 7th chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpdim7-bounce-6.wav",
+  "audio": "asharpdim7-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "45dff042dd5792a5aecb8f82deb6c709"
+  },
+  "size_bytes": 364040,
+  "sha256": "564ce1f3773870cf804ba13264e72196ac95f87f84a9a7c0d07e2ac6dac14605",
+  "type": "chord",
   "chords": [
     "A#dim7"
   ],

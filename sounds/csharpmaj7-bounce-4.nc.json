@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f major 7th chord, bounce 4",
+  "title": "C♯ major 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpmaj7-bounce-4.wav",
+  "audio": "csharpmaj7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "1fe830b04324d115f4b092a45abbc251"
+  },
+  "size_bytes": 370498,
+  "sha256": "b0c98324dbd3e6798fa3fec85be06773a1a2f6f9ad0f0626dd40b373f7926aef",
+  "type": "chord",
   "key": "C# major",
   "chords": [
     "C#maj7"

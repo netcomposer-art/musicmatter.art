@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f diminished 7th chord, bounce 4",
+  "title": "C♯ diminished 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpdim7-bounce-4.wav",
+  "audio": "csharpdim7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "8bae53fd51047f917319316c12a09643"
+  },
+  "size_bytes": 362734,
+  "sha256": "516fc65b0d067be83c504a49ecab7bea4d4a3b0d208c860b1f8d77ad520bd9af",
+  "type": "chord",
   "chords": [
     "C#dim7"
   ],

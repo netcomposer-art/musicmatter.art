@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f minor chord, bounce 6",
+  "title": "G♯ minor chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpmin-bounce-6.wav",
+  "audio": "gsharpmin-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "1d8f9a310e3c66d694fa50d7073fbf7e"
+  },
+  "size_bytes": 368364,
+  "sha256": "543a98a1d569ef9a91926810bd008ccfe233ca3581c302ca450cb9445f250784",
+  "type": "chord",
   "key": "G# minor",
   "chords": [
     "G#min"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "cm7-bounce-30.wav",
+  "audio": "cm7-bounce-30.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d1fadd93a7b5c726fd96a3f0c67552a9"
+  },
+  "size_bytes": 349535,
+  "sha256": "52a423adc0763621caded130c8b5845b9d702534901196b05fdfc79b71ce6bbb",
+  "type": "chord",
   "key": "C minor",
   "chords": [
     "Cm7"

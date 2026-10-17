@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsus4-bounce-3.wav",
+  "audio": "fsus4-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "4f587bad6721069fd94bd3c6ffe331a8"
+  },
+  "size_bytes": 353076,
+  "sha256": "2ef79b93efc8b10d203bee8aba71ddb771683965b76631ea01ee99f0da059cee",
+  "type": "chord",
   "key": "F major",
   "chords": [
     "Fsus4"

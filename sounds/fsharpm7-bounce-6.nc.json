@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f minor 7th chord, bounce 6",
+  "title": "F♯ minor 7th chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpm7-bounce-6.wav",
+  "audio": "fsharpm7-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d8bd662a18fa6ff9f5d54a48adcd27de"
+  },
+  "size_bytes": 358483,
+  "sha256": "ec3b21795e4bd34b1fb101a8215adbae381175fa6ab1893abe7019aba25b7641",
+  "type": "chord",
   "key": "F# minor",
   "chords": [
     "F#m7"

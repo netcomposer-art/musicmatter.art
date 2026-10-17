@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "amin-bounce-5.wav",
+  "audio": "amin-bounce-5.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0043ae60626b182f05952422fab7972f"
+  },
+  "size_bytes": 361662,
+  "sha256": "5d1287180ae97a8c86e800f39a545d279c24131466fb7277a731726668165aab",
+  "type": "chord",
   "key": "A minor",
   "chords": [
     "Amin"

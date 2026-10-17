@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f diminished chord, bounce 6",
+  "title": "F♯ diminished chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpdim-bounce-6.wav",
+  "audio": "fsharpdim-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "39b1d2f048110079688f0d28c50d72c2"
+  },
+  "size_bytes": 348003,
+  "sha256": "49546145331c5a72c073493ebc1cc8be900887f7c7f441c8df9e921f3023f9ff",
+  "type": "chord",
   "key": "G major",
   "chords": [
     "F#dim"

@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f dominant 7th chord, bounce 6",
+  "title": "C♯ dominant 7th chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharp7-bounce-6.wav",
+  "audio": "csharp7-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "cb6050d971ac448be0a7c0ecf8fd181b"
+  },
+  "size_bytes": 346172,
+  "sha256": "1b21ffee2f04932d7ee995af7353a2662055359c73bcb871f30e3b50a87da1ad",
+  "type": "chord",
   "key": "F# major",
   "chords": [
     "C#7"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "bmin-bounce-6.wav",
+  "audio": "bmin-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "bbdd18bbe605faba61b904cd26f9b9d7"
+  },
+  "size_bytes": 349367,
+  "sha256": "696707b795018d265fe94224e0df8110b5215b32a80cec9b22fc8d17731b6237",
+  "type": "chord",
   "key": "B minor",
   "chords": [
     "Bmin"

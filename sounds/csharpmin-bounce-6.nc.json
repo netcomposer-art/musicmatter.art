@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "C\u266f minor chord, bounce 6",
+  "title": "C♯ minor chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "csharpmin-bounce-6.wav",
+  "audio": "csharpmin-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "787900355e455e45f9d85deb5c9e2282"
+  },
+  "size_bytes": 338458,
+  "sha256": "3c15844821b64b83bafb215faeeac1c799a84a0b6c99427c3a0f93d2369d50c6",
+  "type": "chord",
   "key": "C# minor",
   "chords": [
     "C#min"

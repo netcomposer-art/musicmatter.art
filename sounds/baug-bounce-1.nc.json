@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "baug-bounce-1.wav",
+  "audio": "baug-bounce-1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "f2a7a0df43713d8bafd373a079b34e5c"
+  },
+  "size_bytes": 367677,
+  "sha256": "172ee9635953f892ccb76adbda006bfa9cf8e9568addfda8019483381cf8f3c9",
+  "type": "chord",
   "chords": [
     "Baug"
   ],

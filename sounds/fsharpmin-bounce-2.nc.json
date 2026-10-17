@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "F\u266f minor chord, bounce 2",
+  "title": "F♯ minor chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpmin-bounce-2.wav",
+  "audio": "fsharpmin-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "7fdacafbb591a6ec9982e33712afa12e"
+  },
+  "size_bytes": 353404,
+  "sha256": "0589286e717ff680c860188de79305966d8c2d147d7b4eb1afa84f1ff492b530",
+  "type": "chord",
   "key": "F# minor",
   "chords": [
     "F#min"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gm7-bounce-34.wav",
+  "audio": "gm7-bounce-34.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "efd24a8dc9eda49686d8e481d1bd399d"
+  },
+  "size_bytes": 358371,
+  "sha256": "d6b52e140b68ef32d529748ee89e4b96946aef2b182736dfa16c019a8e99abf3",
+  "type": "chord",
   "key": "G minor",
   "chords": [
     "Gm7"

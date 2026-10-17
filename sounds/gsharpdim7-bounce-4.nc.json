@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f diminished 7th chord, bounce 4",
+  "title": "G♯ diminished 7th chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpdim7-bounce-4.wav",
+  "audio": "gsharpdim7-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "79701c3db66aa5613b3727f29c4f7d66"
+  },
+  "size_bytes": 359460,
+  "sha256": "788eb7f72d7c5c51c7796a59972385bf3cc3643b582c7d80b5611a3a10a0474d",
+  "type": "chord",
   "chords": [
     "G#dim7"
   ],

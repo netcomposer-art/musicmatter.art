@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "A\u266f minor chord, bounce 4",
+  "title": "A♯ minor chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpmin-bounce-4.wav",
+  "audio": "asharpmin-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "44870b267d60c4ea2b7cd9b70c5c8cd4"
+  },
+  "size_bytes": 322501,
+  "sha256": "75e94f23ac77a6ed7319f16b4dff2514b70e9f217bf9fe096113fcebd8fd1df3",
+  "type": "chord",
   "key": "A# minor",
   "chords": [
     "A#min"

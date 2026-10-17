@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gdim7-bounce-6.wav",
+  "audio": "gdim7-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d8a75ec03e9bb8d82a89be8d43882fd0"
+  },
+  "size_bytes": 360237,
+  "sha256": "abf268cbb5d7e172943f5d721aa4355ce45c222c0e8068ac18783d3d7e77894d",
+  "type": "chord",
   "chords": [
     "Gdim7"
   ],

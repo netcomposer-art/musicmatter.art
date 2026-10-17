@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f minor 7th chord, bounce 2",
+  "title": "G♯ minor 7th chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpm7-bounce-2.wav",
+  "audio": "gsharpm7-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "275baf4ab37980134ebc79b0d7451217"
+  },
+  "size_bytes": 371568,
+  "sha256": "2d2ca47ed4b0d6b2342fb77a994ca55e3040ec65dcaa9fc552e71f72bbfbf58d",
+  "type": "chord",
   "key": "G# minor",
   "chords": [
     "G#m7"

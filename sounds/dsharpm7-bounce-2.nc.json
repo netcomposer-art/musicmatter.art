@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f minor 7th chord, bounce 2",
+  "title": "D♯ minor 7th chord, bounce 2",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpm7-bounce-2.wav",
+  "audio": "dsharpm7-bounce-2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "991c438032ba7475454b600aa1a6c27f"
+  },
+  "size_bytes": 365554,
+  "sha256": "73f1c30afc787a8e49121bc47ed0e98e7c295e57811306422912c46b6d0f2bff",
+  "type": "chord",
   "key": "D# minor",
   "chords": [
     "D#m7"

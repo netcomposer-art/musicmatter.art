@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "D\u266f augmented chord, bounce 6",
+  "title": "D♯ augmented chord, bounce 6",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dsharpaug-bounce-6.wav",
+  "audio": "dsharpaug-bounce-6.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "52c80b11ebf3e0dcf4bb5c59f89fdcf5"
+  },
+  "size_bytes": 342785,
+  "sha256": "f0a0592defe308ee67db9b8ce1576ea0402c3e771ca601bcffc1fb320708302c",
+  "type": "chord",
   "chords": [
     "D#aug"
   ],

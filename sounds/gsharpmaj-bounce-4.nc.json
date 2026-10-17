@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f major chord, bounce 4",
+  "title": "G♯ major chord, bounce 4",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpmaj-bounce-4.wav",
+  "audio": "gsharpmaj-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "bf0a92fd4e8a1ed3e0be9f353d984f97"
+  },
+  "size_bytes": 335851,
+  "sha256": "e6cdcf4a5731f6ab80453581256f3ea344d2858b05589e82ca30a4f01ca13327",
+  "type": "chord",
   "key": "G# major",
   "chords": [
     "G#maj"

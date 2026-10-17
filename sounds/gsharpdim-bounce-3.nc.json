@@ -1,12 +1,26 @@
 {
   "nc_version": "0.1",
-  "title": "G\u266f diminished chord, bounce 3",
+  "title": "G♯ diminished chord, bounce 3",
   "creator": {
     "name": "Petrus",
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpdim-bounce-3.wav",
+  "audio": "gsharpdim-bounce-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "311ce3828dbde646670df1c3667ffafb"
+  },
+  "size_bytes": 353493,
+  "sha256": "eb0d33b935c9250a3bf37ec95d5ed31ac548820f494c4fa6badcbab75ab3f217",
+  "type": "chord",
   "key": "A major",
   "chords": [
     "G#dim"

@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "emin-bounce-4.wav",
+  "audio": "emin-bounce-4.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "123ebdd0ffe2c3a80e55b8c2055a307d"
+  },
+  "size_bytes": 350600,
+  "sha256": "81176d87611fe8b52b79a081729cdf95c0dbf37f5b9696a6dcf2a54c187d9aa5",
+  "type": "chord",
   "key": "E minor",
   "chords": [
     "Emin"

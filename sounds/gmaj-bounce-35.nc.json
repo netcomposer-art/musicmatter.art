@@ -6,7 +6,21 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gmaj-bounce-35.wav",
+  "audio": "gmaj-bounce-35.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "5c4a4109d3f02e9af9a52f7cb98a9e28"
+  },
+  "size_bytes": 332413,
+  "sha256": "d8ea90d6e53ea0c6dd3d8ffba77187a59beb5aa676b6e7c2f5eeeb76dfb2d59c",
+  "type": "chord",
   "key": "G major",
   "chords": [
     "Gmaj"
