@@ -1,0 +1,8 @@
+/* musicmatter.art loop toggle (v7.1) */
+.mm-row{display:flex;align-items:center;gap:.4rem}
+.mm-row audio{flex:1 1 auto;min-width:0}
+.mm-loop{flex:0 0 auto;display:inline-flex;align-items:center;justify-content:center;width:2rem;height:2rem;padding:0;border:1px solid transparent;border-radius:50%;background:transparent;color:#aaa;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.mm-loop svg{width:1.05rem;height:1.05rem;display:block}
+.mm-loop:hover{color:#7a4b1f}
+.mm-loop:focus-visible{outline:2px solid #7a4b1f;outline-offset:1px}
+.mm-loop[aria-pressed=true]{color:#fff;background:#7a4b1f;border-color:#7a4b1f}

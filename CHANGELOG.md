@@ -1,5 +1,8 @@
 # musicmatter.art changelog
 
+## v7.1 (2026-10-18)
+- Loop toggle: a small ⟲ button (title "Loop", `aria-pressed`) next to every audio player on the home page and the 12 per-root `/fullchords/` pages. It switches the player's native `loop` (gapless with the FLAC files) and remembers the last choice in `localStorage` (`mm-loop`). New files `/assets/loop.js` and `/assets/loop.css`; each page gains one `<link>` and one `<script>` in `<head>`. No content, audio or manifests changed.
+
 ## v7 (2026-10-17)
 - New collection **full chord set v4** (`collection: "full-chord-set-v4"`): 2,256 chord recordings, 12 roots × 188 clips (39 chord-type/voicing groups per root). Sliced from Petrus's 12 Bitwig bounces of the v4 chord sequences, lossless FLAC 24-bit/48 kHz, not pitch-shifted, time-stretched or normalized. Each clip starts 2 ms before the strike and runs to the end of its 2-bar slot (4.3636 s), keeping the natural release.
 - Audio: `https://fullchords.musicmatter.art/<root>/<name>.flac` (separate GitHub Pages site, repo netcomposer-art/fullchords.musicmatter.art); manifests stay here at `/sounds/fullchords-v4/<root>/`. Pages: `/fullchords/` and one page per root. Home gains one paragraph linking `/fullchords/`.
