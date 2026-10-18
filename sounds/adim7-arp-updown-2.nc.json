@@ -123,5 +123,21 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/adim7-arp-updown-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "C4",
+      "D#4",
+      "F#4",
+      "A4"
+    ],
+    "size_bytes": 520,
+    "sha256": "54586d1e2c0578f8ef2da3448e44140b8625d84bc0bc668321dd10f4f7e07ff8"
   }
 }

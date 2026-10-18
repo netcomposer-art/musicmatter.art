@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "D4",
-    "high": "E5",
+    "high": "A4",
     "root": "A4",
     "bass": "D4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/asus4-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D4",
+      "E4",
+      "A4"
+    ],
+    "size_bytes": 298,
+    "sha256": "d736c290e00c3ca22410170388791fc9743f7968656d53f7b82d81d611145645"
+  },
+  "register_source": "verified_v6"
 }

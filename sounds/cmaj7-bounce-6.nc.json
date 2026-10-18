@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "B3",
-    "high": "C6",
+    "high": "G4",
     "root": "C4",
     "bass": "B3",
     "inversion": "third"
-  }
+  },
+  "midi": "../midi/cmaj7-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "B3",
+      "C4",
+      "E4",
+      "G4"
+    ],
+    "size_bytes": 310,
+    "sha256": "e2dbc90becc2bade18ee2b1da116471426bdbe73eb78124b7603b71717d92150"
+  },
+  "register_source": "verified_v6"
 }

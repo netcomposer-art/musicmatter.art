@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "F4",
-    "high": "G#5",
+    "high": "D#5",
     "root": "F4",
     "bass": "F4",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/fm7-bounce-35.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F4",
+      "G#4",
+      "C5",
+      "D#5"
+    ],
+    "size_bytes": 310,
+    "sha256": "a3731610cc526fb13d21d64b4115593df4b1f80862c2d070fa91eb0f1e4c882a"
+  },
+  "register_source": "verified_v6"
 }

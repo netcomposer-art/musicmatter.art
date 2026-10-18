@@ -121,5 +121,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/aaug-arp-updown-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "A4",
+      "C#5",
+      "F5"
+    ],
+    "size_bytes": 514,
+    "sha256": "0e86bf36eabce2ecf444a08145385ebf6a9bea0e8a768491b6c4ca45d3a32eb2"
   }
 }

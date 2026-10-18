@@ -28,8 +28,8 @@
   "loopable": false,
   "register": {
     "low": "E3",
-    "high": "C5",
-    "root": "C5",
+    "high": "C4",
+    "root": "C4",
     "bass": "E3",
     "inversion": "first"
   },
@@ -38,12 +38,12 @@
     "pattern": "1-2-3-2",
     "cycle": [
       "E3",
-      "G4",
-      "C5",
-      "G4"
+      "G3",
+      "C4",
+      "G3"
     ],
     "pitch_order": "ascending-descending",
-    "pitch_order_note": "ascending then descending in pitch",
+    "pitch_order_note": "ascending then descending in pitch (octaves corrected in v6 after re-verification against the audio)",
     "note_count": 32,
     "bars": 2,
     "restarts_each_bar": true,
@@ -55,37 +55,37 @@
     },
     "notes": [
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4",
+      "G3",
+      "C4",
+      "G3",
       "E3",
-      "G4",
-      "C5",
-      "G4"
+      "G3",
+      "C4",
+      "G3"
     ],
     "onsets_s": [
       0.0,
@@ -122,5 +122,21 @@
       4.2273
     ],
     "duration_s": 4.364
-  }
+  },
+  "midi": "../midi/cmaj-arp-updown-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "E3",
+      "G3",
+      "C4"
+    ],
+    "size_bytes": 510,
+    "sha256": "be42fca17929092e7742559bdc67910675802d4b194e8ab246a6731994f091f6"
+  },
+  "register_source": "verified_v6"
 }

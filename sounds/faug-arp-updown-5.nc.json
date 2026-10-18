@@ -121,5 +121,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/faug-arp-updown-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "C#4",
+      "F4",
+      "A4"
+    ],
+    "size_bytes": 514,
+    "sha256": "b9d719c1892c37d720a8a22e84e092f61471446925b60fd7af76b7d0ad9f5679"
   }
 }

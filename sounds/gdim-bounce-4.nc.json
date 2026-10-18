@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "A#4",
-    "high": "C#7",
+    "high": "G5",
     "root": "G5",
     "bass": "A#4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/gdim-bounce-4.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "A#4",
+      "C#5",
+      "G5"
+    ],
+    "size_bytes": 294,
+    "sha256": "c55540a8bd1184dbe6ab9e07a0028bc190ff5497c933d350719d2a007d94662a"
+  },
+  "register_source": "verified_v6"
 }

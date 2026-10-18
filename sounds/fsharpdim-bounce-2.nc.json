@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "F#3",
-    "high": "C6",
+    "high": "C4",
     "root": "F#3",
     "bass": "F#3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/fsharpdim-bounce-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F#3",
+      "A3",
+      "C4"
+    ],
+    "size_bytes": 300,
+    "sha256": "d6ade810a37b71bcc156d12567aed506e974ec882ca3e833de02ace3c8676b8b"
+  },
+  "register_source": "verified_v6"
 }

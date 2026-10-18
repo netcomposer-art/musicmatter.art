@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "F4",
-    "high": "F5",
+    "high": "C5",
     "root": "C5",
     "bass": "F4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/csus4-bounce-1.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F4",
+      "G4",
+      "C5"
+    ],
+    "size_bytes": 298,
+    "sha256": "de6576f812ec1d54db7539dea1502b15d03573524ddf7e2f793e0273e46d505a"
+  },
+  "register_source": "verified_v6"
 }

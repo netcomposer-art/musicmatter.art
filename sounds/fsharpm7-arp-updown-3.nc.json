@@ -124,5 +124,21 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/fsharpm7-arp-updown-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "A3",
+      "C#4",
+      "E4",
+      "F#4"
+    ],
+    "size_bytes": 519,
+    "sha256": "b274e3b068e379179e480e53f6e3f902cfe407ab482b24c5dbb6fd65e2ee5ea1"
   }
 }

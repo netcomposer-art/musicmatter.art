@@ -27,7 +27,7 @@
   "loopable": false,
   "register": {
     "low": "C#3",
-    "high": "A4",
+    "high": "A3",
     "root": "C#3",
     "bass": "C#3",
     "inversion": "root"
@@ -38,11 +38,11 @@
     "cycle": [
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3"
     ],
     "pitch_order": "ascending-descending",
-    "pitch_order_note": "ascending then descending in pitch",
+    "pitch_order_note": "ascending then descending in pitch (octaves corrected in v6 after re-verification against the audio)",
     "note_count": 32,
     "bars": 2,
     "restarts_each_bar": true,
@@ -55,35 +55,35 @@
     "notes": [
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3",
       "C#3",
       "F3",
-      "A4",
+      "A3",
       "F3"
     ],
     "onsets_s": [
@@ -121,5 +121,21 @@
       4.2273
     ],
     "duration_s": 4.364
-  }
+  },
+  "midi": "../midi/csharpaug-arp-updown-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "C#3",
+      "F3",
+      "A3"
+    ],
+    "size_bytes": 520,
+    "sha256": "4cc2f37f9707e92e02600b043750c9b80cd6cfac8e97c6da9ebd9e7b35451719"
+  },
+  "register_source": "verified_v6"
 }

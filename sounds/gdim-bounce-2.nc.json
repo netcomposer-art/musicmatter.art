@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "C#4",
-    "high": "C#5",
+    "high": "A#4",
     "root": "G4",
     "bass": "C#4",
     "inversion": "second"
-  }
+  },
+  "midi": "../midi/gdim-bounce-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C#4",
+      "G4",
+      "A#4"
+    ],
+    "size_bytes": 294,
+    "sha256": "2cc7c96161d3f9d0f50585cf3315cfbfb6273482b6e0e07b999b980b11aa9cb8"
+  },
+  "register_source": "verified_v6"
 }

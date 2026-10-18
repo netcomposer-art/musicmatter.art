@@ -32,5 +32,20 @@
     "root": "B4",
     "bass": "B4",
     "inversion": "root"
+  },
+  "midi": "../midi/bsus4-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "B4",
+      "E5",
+      "F#5"
+    ],
+    "size_bytes": 298,
+    "sha256": "cbb1196656655288ced529ca4f44cf3460d5261aa8c59b29af1df35f8ee5c83b"
   }
 }

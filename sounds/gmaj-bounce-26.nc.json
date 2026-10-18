@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "G3",
-    "high": "B5",
+    "high": "D4",
     "root": "G3",
     "bass": "G3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/gmaj-bounce-26.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "G3",
+      "B3",
+      "D4"
+    ],
+    "size_bytes": 291,
+    "sha256": "2e3dea0ba8554eb5e0e3e706609aeed4192ca560867a0cbb00649778da91d2db"
+  },
+  "register_source": "verified_v6"
 }

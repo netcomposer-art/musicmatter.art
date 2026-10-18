@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/csharpmaj-arp-updown-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "F5",
+      "G#5",
+      "C#6"
+    ],
+    "size_bytes": 516,
+    "sha256": "05ec603bb38f4f28ecd58d7a9a331b3413ab02a71464298ac4755bdae8d8f67e"
   }
 }

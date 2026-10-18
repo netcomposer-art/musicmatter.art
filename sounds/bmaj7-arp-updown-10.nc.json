@@ -125,5 +125,21 @@
     ],
     "duration_s": 4.364
   },
-  "near_duplicate_of": "bmaj7-arp-updown-3.flac"
+  "near_duplicate_of": "bmaj7-arp-updown-3.flac",
+  "midi": "../midi/bmaj7-arp-updown-10.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "D#4",
+      "F#4",
+      "A#4",
+      "B4"
+    ],
+    "size_bytes": 517,
+    "sha256": "e56b7dd2c13e6c50be467bb7f3d2515f210c7fd453a7817f9a4e311da4fddf70"
+  }
 }

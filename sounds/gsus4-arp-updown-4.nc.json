@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/gsus4-arp-updown-4.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "D5",
+      "G5",
+      "C6"
+    ],
+    "size_bytes": 519,
+    "sha256": "664f72d115320e54876ed482535c7c4e7ef680f8919c68ff403f797b3e4d8978"
   }
 }

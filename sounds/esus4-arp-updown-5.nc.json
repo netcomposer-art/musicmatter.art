@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/esus4-arp-updown-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "E4",
+      "A4",
+      "B4"
+    ],
+    "size_bytes": 519,
+    "sha256": "22e30d273d418dc39e74c09a7b31a6abc2a0e91f251def8e2fd27d9e0f8650f2"
   }
 }

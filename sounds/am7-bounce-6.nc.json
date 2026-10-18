@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "E4",
-    "high": "E6",
+    "high": "C5",
     "root": "A4",
     "bass": "E4",
     "inversion": "second"
-  }
+  },
+  "midi": "../midi/am7-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "E4",
+      "G4",
+      "A4",
+      "C5"
+    ],
+    "size_bytes": 308,
+    "sha256": "5453207bde1e61afffc2e17dc737e5b9698b169d4250e08297188c5da77ad281"
+  },
+  "register_source": "verified_v6"
 }

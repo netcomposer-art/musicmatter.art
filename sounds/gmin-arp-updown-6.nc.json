@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/gmin-arp-updown-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "G5",
+      "A#5",
+      "D6"
+    ],
+    "size_bytes": 510,
+    "sha256": "3d45ecc1c7c2abb009edaf6191a9c41a73b87ee57900bc59020da9e4e2d00d63"
   }
 }

@@ -27,7 +27,7 @@
   "loopable": false,
   "register": {
     "low": "C3",
-    "high": "A4",
+    "high": "A3",
     "root": "C3",
     "bass": "C3",
     "inversion": "root"
@@ -39,12 +39,12 @@
       "C3",
       "D#3",
       "F#3",
-      "A4",
+      "A3",
       "F#3",
       "D#3"
     ],
     "pitch_order": "ascending-descending",
-    "pitch_order_note": "ascending then descending in pitch",
+    "pitch_order_note": "ascending then descending in pitch (octaves corrected in v6 after re-verification against the audio)",
     "note_count": 32,
     "bars": 2,
     "restarts_each_bar": true,
@@ -58,35 +58,35 @@
       "C3",
       "D#3",
       "F#3",
-      "A4",
+      "A3",
       "F#3",
       "D#3",
       "C3",
       "D#3",
       "F#3",
-      "A4",
+      "A3",
       "F#3",
       "D#3",
       "C3",
       "D#3",
       "F#3",
-      "A4",
+      "A3",
       "C3",
       "D#3",
       "F#3",
-      "A4",
-      "F#3",
-      "D#3",
-      "C3",
-      "D#3",
-      "F#3",
-      "A4",
+      "A3",
       "F#3",
       "D#3",
       "C3",
       "D#3",
       "F#3",
-      "A4"
+      "A3",
+      "F#3",
+      "D#3",
+      "C3",
+      "D#3",
+      "F#3",
+      "A3"
     ],
     "onsets_s": [
       0.0,
@@ -123,5 +123,22 @@
       4.2273
     ],
     "duration_s": 4.364
-  }
+  },
+  "midi": "../midi/cdim7-arp-updown-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "C3",
+      "D#3",
+      "F#3",
+      "A3"
+    ],
+    "size_bytes": 520,
+    "sha256": "5fa69228169c723819b8941841ef821875cf97791c1a0b87e5d6bce18666bbe5"
+  },
+  "register_source": "verified_v6"
 }

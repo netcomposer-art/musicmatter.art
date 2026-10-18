@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "G#4",
-    "high": "G#5",
+    "high": "F5",
     "root": "F5",
     "bass": "G#4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/fdim-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "G#4",
+      "B4",
+      "F5"
+    ],
+    "size_bytes": 294,
+    "sha256": "e85241942955d4138c9693b4d10809f7dadc8a214b4cd25e4d6f0df33dcd4000"
+  },
+  "register_source": "verified_v6"
 }

@@ -27,9 +27,26 @@
   "loopable": false,
   "register": {
     "low": "A4",
-    "high": "D#6",
+    "high": "F#5",
     "root": "A4",
     "bass": "A4",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/adim7-bounce-1.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "A4",
+      "C5",
+      "D#5",
+      "F#5"
+    ],
+    "size_bytes": 315,
+    "sha256": "78198b3edcf55d058d7826b4889cf029889b0f5b98a9a7745b127315a1c7d08e"
+  },
+  "register_source": "verified_v6"
 }

@@ -27,9 +27,26 @@
   "loopable": false,
   "register": {
     "low": "C#4",
-    "high": "E6",
+    "high": "A#4",
     "root": "A#4",
     "bass": "C#4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/asharpdim7-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C#4",
+      "E4",
+      "G4",
+      "A#4"
+    ],
+    "size_bytes": 321,
+    "sha256": "79f2b587322b84dc71491252c4c0c3a83a82ad6e9eafc174ef5e2fa04b4f95e7"
+  },
+  "register_source": "verified_v6"
 }

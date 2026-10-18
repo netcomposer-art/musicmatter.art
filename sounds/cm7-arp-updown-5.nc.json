@@ -124,5 +124,21 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/cm7-arp-updown-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "C5",
+      "D#5",
+      "G5",
+      "A#5"
+    ],
+    "size_bytes": 513,
+    "sha256": "f558c9b93263cfa1338ebff798c7a733e3f6c369741bf591255fb9a9daf81877"
   }
 }

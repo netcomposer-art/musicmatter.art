@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "D4",
-    "high": "D5",
+    "high": "C5",
     "root": "G4",
     "bass": "D4",
     "inversion": "second"
-  }
+  },
+  "midi": "../midi/gsus4-bounce-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D4",
+      "G4",
+      "C5"
+    ],
+    "size_bytes": 298,
+    "sha256": "48f2ba06a106689fa0a18503a8904f75bb662c7203839b127e16690b49ebbcd2"
+  },
+  "register_source": "verified_v6"
 }

@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "F3",
-    "high": "F5",
+    "high": "C4",
     "root": "F3",
     "bass": "F3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/fmaj-bounce-38.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F3",
+      "A3",
+      "C4"
+    ],
+    "size_bytes": 291,
+    "sha256": "9c8ffa45af1ff6c2e4af0a8d6bf7404a628e11efd55f0b1aaf6bd5ca6dfa38cd"
+  },
+  "register_source": "verified_v6"
 }

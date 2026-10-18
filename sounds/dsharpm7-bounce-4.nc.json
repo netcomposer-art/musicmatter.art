@@ -32,5 +32,21 @@
     "root": "D#3",
     "bass": "D#3",
     "inversion": "root"
+  },
+  "midi": "../midi/dsharpm7-bounce-4.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D#3",
+      "F#3",
+      "C#4",
+      "A#4"
+    ],
+    "size_bytes": 314,
+    "sha256": "bef4de754b7d5d4462cfde3fab32cd79e82618c5d386873a3c7dfa390909f718"
   }
 }

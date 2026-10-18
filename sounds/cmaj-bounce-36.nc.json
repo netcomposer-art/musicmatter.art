@@ -32,5 +32,20 @@
     "root": "C6",
     "bass": "E5",
     "inversion": "first"
+  },
+  "midi": "../midi/cmaj-bounce-36.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "E5",
+      "G5",
+      "C6"
+    ],
+    "size_bytes": 291,
+    "sha256": "0ce8f4b428113ac03b7958635cdcb00eef8fc544ea1dda23b6d2e89912658863"
   }
 }

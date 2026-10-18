@@ -32,5 +32,21 @@
     "root": "D#5",
     "bass": "G4",
     "inversion": "first"
+  },
+  "midi": "../midi/dsharpmaj7-bounce-4.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "G4",
+      "A#4",
+      "D5",
+      "D#5"
+    ],
+    "size_bytes": 316,
+    "sha256": "6c612ca68b2128d794b5a5124e37de72cf775edc50d597473a83d5ae4dd36b47"
   }
 }

@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/emin-arp-updown-1.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "B3",
+      "E4",
+      "G4"
+    ],
+    "size_bytes": 510,
+    "sha256": "39ed443c7c98a617d8fa1bc5588ed2400939ceb37c1413926ba505c0cef0d434"
   }
 }

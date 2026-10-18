@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "C#4",
-    "high": "D5",
+    "high": "A4",
     "root": "D4",
     "bass": "C#4",
     "inversion": "third"
-  }
+  },
+  "midi": "../midi/dmaj7-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C#4",
+      "D4",
+      "F#4",
+      "A4"
+    ],
+    "size_bytes": 310,
+    "sha256": "526febd756e9b090bd65d970a985e5af846fff00a97a3a96e172d6c94eb82569"
+  },
+  "register_source": "verified_v6"
 }

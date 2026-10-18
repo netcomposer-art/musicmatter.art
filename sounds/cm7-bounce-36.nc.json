@@ -28,9 +28,27 @@
   "loopable": false,
   "register": {
     "low": "D#5",
-    "high": "G6",
+    "high": "C6",
     "root": "C6",
     "bass": "D#5",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/cm7-bounce-36.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "low",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D#5",
+      "G5",
+      "A#5",
+      "C6"
+    ],
+    "size_bytes": 310,
+    "sha256": "830ffe39e6c3a12ee4c85610490975bcd448c2cc4bb4f801c968c9c28465a939"
+  },
+  "notes_confidence": "low",
+  "register_source": "verified_v6"
 }

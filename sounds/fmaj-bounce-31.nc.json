@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "F4",
-    "high": "F6",
+    "high": "C5",
     "root": "F4",
     "bass": "F4",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/fmaj-bounce-31.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F4",
+      "A4",
+      "C5"
+    ],
+    "size_bytes": 291,
+    "sha256": "e5b9fb45b820db943271f8a56d9d3981bf6df1b0bc4172f151bc391c06e8b775"
+  },
+  "register_source": "verified_v6"
 }

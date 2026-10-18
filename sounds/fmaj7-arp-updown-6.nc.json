@@ -124,5 +124,21 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/fmaj7-arp-updown-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "A4",
+      "C5",
+      "E5",
+      "F5"
+    ],
+    "size_bytes": 515,
+    "sha256": "5984695f462322290c319715f21d7f133b9fbeb45ce6230c3d02338b2eaf37a6"
   }
 }

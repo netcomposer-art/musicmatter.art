@@ -32,5 +32,21 @@
     "root": "C5",
     "bass": "G4",
     "inversion": "second"
+  },
+  "midi": "../midi/cm7-bounce-33.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "G4",
+      "A#4",
+      "C5",
+      "D#5"
+    ],
+    "size_bytes": 310,
+    "sha256": "4284cc1f9bd6a5b42d950c797c62eace85bd568f9a580d4a3fdbadd9a718be0d"
   }
 }

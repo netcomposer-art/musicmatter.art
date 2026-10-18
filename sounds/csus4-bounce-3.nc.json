@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "C3",
-    "high": "F5",
+    "high": "G3",
     "root": "C3",
     "bass": "C3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/csus4-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C3",
+      "F3",
+      "G3"
+    ],
+    "size_bytes": 298,
+    "sha256": "c1909f4c72f1f02b63ed38be15efa16747ce0eceff0f740cc116f52933a65e65"
+  },
+  "register_source": "verified_v6"
 }

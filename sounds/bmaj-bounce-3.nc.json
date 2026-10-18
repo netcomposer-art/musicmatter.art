@@ -32,5 +32,20 @@
     "root": "B4",
     "bass": "B4",
     "inversion": "root"
+  },
+  "midi": "../midi/bmaj-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "B4",
+      "D#5",
+      "F#5"
+    ],
+    "size_bytes": 289,
+    "sha256": "e41201cc4a3137e905a4a51b2c2f8559ee596f5dc806bd6d8da4a1b23e4bf3a9"
   }
 }

@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "F#3",
-    "high": "A4",
+    "high": "D#4",
     "root": "D#4",
     "bass": "F#3",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/dsharpdim-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F#3",
+      "A3",
+      "D#4"
+    ],
+    "size_bytes": 300,
+    "sha256": "79a1287e00453b1c547f7b3bf1e21fcd61f61a429d148c025375e975a68d6085"
+  },
+  "register_source": "verified_v6"
 }

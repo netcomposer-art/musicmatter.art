@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/asharpdim-arp-updown-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "A#4",
+      "C#5",
+      "E5"
+    ],
+    "size_bytes": 521,
+    "sha256": "8f0c74a2cbc5b6b07bde1e8a66b3868e4534df8c0efcf6d0090870227725cd97"
   }
 }

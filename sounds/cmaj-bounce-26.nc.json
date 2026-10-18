@@ -32,5 +32,20 @@
     "root": "C5",
     "bass": "C5",
     "inversion": "root"
+  },
+  "midi": "../midi/cmaj-bounce-26.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C5",
+      "E5",
+      "G5"
+    ],
+    "size_bytes": 291,
+    "sha256": "60d465053ad8ff5dfc96da815d205c2db054e5c23f0546ca696128e7403a01c1"
   }
 }

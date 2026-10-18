@@ -124,5 +124,21 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/emaj7-arp-updown-1.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "B3",
+      "D#4",
+      "E4",
+      "G#4"
+    ],
+    "size_bytes": 515,
+    "sha256": "fdd974c875457d96428e46f79d397e7223c39d5e04605d589087f5cb4867a11f"
   }
 }

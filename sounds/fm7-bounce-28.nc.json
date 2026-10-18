@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "G#3",
-    "high": "F6",
+    "high": "F4",
     "root": "F4",
     "bass": "G#3",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/fm7-bounce-28.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "G#3",
+      "C4",
+      "D#4",
+      "F4"
+    ],
+    "size_bytes": 310,
+    "sha256": "3e832fc41a658af93aa3a533a3156c651d602b5214b0ffaf473824616f7a9e3b"
+  },
+  "register_source": "verified_v6"
 }

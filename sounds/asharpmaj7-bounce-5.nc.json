@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "F5",
-    "high": "D7",
+    "high": "D6",
     "root": "A#5",
     "bass": "F5",
     "inversion": "second"
-  }
+  },
+  "midi": "../midi/asharpmaj7-bounce-5.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F5",
+      "A5",
+      "A#5",
+      "D6"
+    ],
+    "size_bytes": 316,
+    "sha256": "417011a2c3565f0c9845387947fc4759c9c9d3e54de24a478378b0276c76246b"
+  },
+  "register_source": "verified_v6"
 }

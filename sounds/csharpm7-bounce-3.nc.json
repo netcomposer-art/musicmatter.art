@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "C#4",
-    "high": "G#5",
+    "high": "B4",
     "root": "C#4",
     "bass": "C#4",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/csharpm7-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C#4",
+      "E4",
+      "G#4",
+      "B4"
+    ],
+    "size_bytes": 314,
+    "sha256": "63e05789e9dd8aa222aba06bef8666140bcb8027f916a621f54f3d97243e266b"
+  },
+  "register_source": "verified_v6"
 }

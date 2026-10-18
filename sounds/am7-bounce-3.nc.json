@@ -32,5 +32,21 @@
     "root": "A4",
     "bass": "A4",
     "inversion": "root"
+  },
+  "midi": "../midi/am7-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "A4",
+      "C5",
+      "E5",
+      "G5"
+    ],
+    "size_bytes": 308,
+    "sha256": "e0a70947271ea6e5f5f2d7ea6e13a85f42c844e8ea968d8a16a460003a9339bb"
   }
 }

@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "D#3",
-    "high": "C5",
+    "high": "C4",
     "root": "C4",
     "bass": "D#3",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/cmin-bounce-36.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D#3",
+      "G3",
+      "C4"
+    ],
+    "size_bytes": 291,
+    "sha256": "cf223e519b73fa7c1ba7dc4dc8e16dbedc21d9c477337aed039069abc41d5bdf"
+  },
+  "register_source": "verified_v6"
 }

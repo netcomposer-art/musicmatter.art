@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "D4",
-    "high": "D5",
+    "high": "A#4",
     "root": "G4",
     "bass": "D4",
     "inversion": "second"
-  }
+  },
+  "midi": "../midi/gmin-bounce-26.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D4",
+      "G4",
+      "A#4"
+    ],
+    "size_bytes": 291,
+    "sha256": "a09d7983ca2a228dcbbfc9b5392c15e5116887c2e1d22af1b53fb62f5b81ece2"
+  },
+  "register_source": "verified_v6"
 }

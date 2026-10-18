@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "A#5",
-    "high": "C#7",
+    "high": "F6",
     "root": "A#5",
     "bass": "A#5",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/asharpmin-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "A#5",
+      "C#6",
+      "F6"
+    ],
+    "size_bytes": 295,
+    "sha256": "5d33d280ac8564632371a538cbfe21e40dbd9b045b35852180592376f42aaac7"
+  },
+  "register_source": "verified_v6"
 }

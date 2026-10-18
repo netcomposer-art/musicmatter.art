@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "C#4",
-    "high": "C#5",
+    "high": "A#4",
     "root": "D#4",
     "bass": "C#4",
     "inversion": "third"
-  }
+  },
+  "midi": "../midi/dsharp7-bounce-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C#4",
+      "D#4",
+      "G4",
+      "A#4"
+    ],
+    "size_bytes": 316,
+    "sha256": "8c4365900639e833939e23138562f4066dbba8caa8553c6bf74f8e9a450618c4"
+  },
+  "register_source": "verified_v6"
 }

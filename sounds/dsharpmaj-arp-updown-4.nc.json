@@ -38,12 +38,12 @@
     "pattern": "1-2-3-2",
     "cycle": [
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4"
+      "G3"
     ],
     "pitch_order": "ascending-descending",
-    "pitch_order_note": "ascending then descending in pitch",
+    "pitch_order_note": "ascending then descending in pitch (octaves corrected in v6 after re-verification against the audio)",
     "note_count": 32,
     "bars": 2,
     "restarts_each_bar": true,
@@ -55,37 +55,37 @@
     },
     "notes": [
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4",
+      "G3",
       "D#3",
-      "G4",
+      "G3",
       "A#4",
-      "G4"
+      "G3"
     ],
     "onsets_s": [
       0.0,
@@ -122,5 +122,21 @@
       4.2273
     ],
     "duration_s": 4.364
-  }
+  },
+  "midi": "../midi/dsharpmaj-arp-updown-4.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "D#3",
+      "G3",
+      "A#4"
+    ],
+    "size_bytes": 516,
+    "sha256": "855a86a170b4e1c93df52f9e65a95ac48f913ada3e3f6560040d1b7e99653d1b"
+  },
+  "register_source": "verified_v6"
 }

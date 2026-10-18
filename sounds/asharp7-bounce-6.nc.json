@@ -32,5 +32,21 @@
     "root": "A#5",
     "bass": "D5",
     "inversion": "first"
+  },
+  "midi": "../midi/asharp7-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D5",
+      "F5",
+      "G#5",
+      "A#5"
+    ],
+    "size_bytes": 316,
+    "sha256": "68190a045614f8786d26533ab952b8b265b7d2a12f1eecb6f84e7107b3de4e14"
   }
 }

@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "E3",
-    "high": "A4",
+    "high": "B3",
     "root": "E3",
     "bass": "E3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/esus4-bounce-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "E3",
+      "A3",
+      "B3"
+    ],
+    "size_bytes": 298,
+    "sha256": "57c900a9c6206b9a04db58c6d58c34ac1981c3ad7b1c625a25f7b86dc329c53b"
+  },
+  "register_source": "verified_v6"
 }

@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "D4",
-    "high": "D5",
+    "high": "B4",
     "root": "B4",
     "bass": "D4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/bmin-bounce-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "D4",
+      "F#4",
+      "B4"
+    ],
+    "size_bytes": 289,
+    "sha256": "c3caeebc92a2fd482a053227c226115568a59004fe84e1d05c6d5a4524d97bd0"
+  },
+  "register_source": "verified_v6"
 }

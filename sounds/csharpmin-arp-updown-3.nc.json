@@ -122,5 +122,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/csharpmin-arp-updown-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "C#4",
+      "E4",
+      "G#4"
+    ],
+    "size_bytes": 516,
+    "sha256": "750ff79150ef7d651e2354a1a57427ef94dd785f806d3d4d9d2ed3c1a309176a"
   }
 }

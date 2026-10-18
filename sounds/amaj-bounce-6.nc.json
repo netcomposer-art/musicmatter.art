@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "A3",
-    "high": "C#6",
+    "high": "E4",
     "root": "A3",
     "bass": "A3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/amaj-bounce-6.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "A3",
+      "C#4",
+      "E4"
+    ],
+    "size_bytes": 289,
+    "sha256": "cff621f2f06bc195eccb2cc04c05412dc43850061d4dcfff4a6b1c1191a098d1"
+  },
+  "register_source": "verified_v6"
 }

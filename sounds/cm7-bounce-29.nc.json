@@ -28,9 +28,26 @@
   "loopable": false,
   "register": {
     "low": "G3",
-    "high": "C5",
+    "high": "D#4",
     "root": "C4",
     "bass": "G3",
     "inversion": "second"
-  }
+  },
+  "midi": "../midi/cm7-bounce-29.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "G3",
+      "A#3",
+      "C4",
+      "D#4"
+    ],
+    "size_bytes": 310,
+    "sha256": "a0e4a22d7846bcb2e53e439b57ac0dd6029ceb06c79d95545cef8fff44e6f629"
+  },
+  "register_source": "verified_v6"
 }

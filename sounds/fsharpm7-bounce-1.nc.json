@@ -32,5 +32,21 @@
     "root": "F#5",
     "bass": "C#5",
     "inversion": "second"
+  },
+  "midi": "../midi/fsharpm7-bounce-1.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C#5",
+      "E5",
+      "F#5",
+      "A5"
+    ],
+    "size_bytes": 314,
+    "sha256": "d66343ff0d4dc6f0a0a7c2ace154cfe88ff7bd49d08188322cad468a68cbeb2b"
   }
 }

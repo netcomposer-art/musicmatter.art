@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "C4",
-    "high": "C6",
+    "high": "G#4",
     "root": "G#4",
     "bass": "C4",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/gsharpmaj-bounce-3.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C4",
+      "D#4",
+      "G#4"
+    ],
+    "size_bytes": 295,
+    "sha256": "7d759f874dc56fa923127fd309221a09506e7c545c54b60a4a30ff260269f12e"
+  },
+  "register_source": "verified_v6"
 }

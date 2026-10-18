@@ -31,5 +31,20 @@
     "root": "C5",
     "bass": "C5",
     "inversion": "root"
+  },
+  "midi": "../midi/caug-bounce-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "C5",
+      "E5",
+      "G#5"
+    ],
+    "size_bytes": 293,
+    "sha256": "06f4eb9008d5da63ecdb3081a8126f4533b41cb1053367b257c89e0592421625"
   }
 }

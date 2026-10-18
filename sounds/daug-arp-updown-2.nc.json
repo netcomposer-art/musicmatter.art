@@ -121,5 +121,20 @@
       4.2273
     ],
     "duration_s": 4.364
+  },
+  "midi": "../midi/daug-arp-updown-2.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "high",
+    "method": "per-note onset analysis of this clip (FFT flux detector, octaves cross-checked with pYIN)",
+    "timing": "32 sixteenth notes at 110 BPM 4/4 from 0 s (2 bars), nominal gate 92%, velocity 96",
+    "notes": [
+      "D5",
+      "F#5",
+      "A#5"
+    ],
+    "size_bytes": 514,
+    "sha256": "f267fa1bf44c977cc285ba02af1654f14b6807f7855c1e40bccbfbeebff0c415"
   }
 }

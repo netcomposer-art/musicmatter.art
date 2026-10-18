@@ -27,9 +27,25 @@
   "loopable": false,
   "register": {
     "low": "F#3",
-    "high": "D6",
+    "high": "D4",
     "root": "F#3",
     "bass": "F#3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/fsharpaug-bounce-4.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "arp_cross_match",
+    "confidence": "high",
+    "method": "notes taken from the matching arpeggio take (same voicing, analysed note by note) and checked against this clip's spectrum",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F#3",
+      "A#3",
+      "D4"
+    ],
+    "size_bytes": 299,
+    "sha256": "72cf81854dc4ddb2a8366fdd9967d7fff514392899c04de2e240f3c3641335d3"
+  },
+  "register_source": "verified_v6"
 }

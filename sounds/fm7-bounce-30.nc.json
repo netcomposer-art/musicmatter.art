@@ -32,5 +32,21 @@
     "root": "F5",
     "bass": "F5",
     "inversion": "root"
+  },
+  "midi": "../midi/fm7-bounce-30.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "F5",
+      "G#5",
+      "C6",
+      "D#6"
+    ],
+    "size_bytes": 310,
+    "sha256": "61af4e24915bb13df8c6c90206cf4b9c6cb7b790e5d22689f22974453839a40b"
   }
 }

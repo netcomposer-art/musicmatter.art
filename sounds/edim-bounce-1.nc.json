@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "E3",
-    "high": "A#4",
+    "high": "A#3",
     "root": "E3",
     "bass": "E3",
     "inversion": "root"
-  }
+  },
+  "midi": "../midi/edim-bounce-1.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "E3",
+      "G3",
+      "A#3"
+    ],
+    "size_bytes": 294,
+    "sha256": "3f5398d02fa9d89016b94d1a115336ebdf25f6744d531c444eb744dcb1972d1e"
+  },
+  "register_source": "verified_v6"
 }

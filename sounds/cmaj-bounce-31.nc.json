@@ -28,9 +28,25 @@
   "loopable": false,
   "register": {
     "low": "E3",
-    "high": "C6",
+    "high": "C4",
     "root": "C4",
     "bass": "E3",
     "inversion": "first"
-  }
+  },
+  "midi": "../midi/cmaj-bounce-31.mid",
+  "midi_info": {
+    "derived_from_audio": true,
+    "source": "audio_analysis",
+    "confidence": "medium",
+    "method": "polyphonic analysis of this clip (CQT peak picking + NNLS template fit, one note per chord tone)",
+    "timing": "two strikes on the downbeats of bars 1 and 2 at 110 BPM 4/4 (measured onsets 0 s and 2.182 s), each held one bar; velocity 96 (strikes measured equal within ±0.4 dB)",
+    "notes": [
+      "E3",
+      "G3",
+      "C4"
+    ],
+    "size_bytes": 291,
+    "sha256": "4ea244d37431d3df2914025f7b2b4a30e21507922b58b29c38749b05b4b3b6c2"
+  },
+  "register_source": "verified_v6"
 }
