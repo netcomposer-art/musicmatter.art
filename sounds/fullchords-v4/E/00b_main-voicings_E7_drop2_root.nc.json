@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E dominant 7th chord, drop2 root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/00b_main-voicings_E7_drop2_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "860a081204be76228f2cd871429f79f6"
+  },
+  "size_bytes": 266461,
+  "sha256": "e526f54b586f9fcbbce2cd24092d0828038407d3cc453b95c3a2198ff0567a3f",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "E7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "G#4",
+    "root": "E3",
+    "bass": "E3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "E7",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "7",
+    "quality_name": "dominant 7th",
+    "family": "00b_main-voicings",
+    "family_name": "main chords, shell and drop-2 voicings",
+    "voicing": "drop2_root",
+    "notes": [
+      "E3",
+      "B3",
+      "D4",
+      "G#4"
+    ],
+    "midi_notes": [
+      52,
+      59,
+      62,
+      68
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 57,
+    "slot_of": 188,
+    "start_bar": 113,
+    "cut_start_frame": 11729360,
+    "measured_onset_ms_from_grid": -0.75
+  },
+  "midi": "../../../midi/fullchords-v4/E/00b_main-voicings_E7_drop2_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "B3",
+      "D4",
+      "G#4"
+    ],
+    "size_bytes": 158,
+    "sha256": "754ef84748a99fff43b4529756878b7f66b884d470c18737dbdd1779a56f209e"
+  }
+}

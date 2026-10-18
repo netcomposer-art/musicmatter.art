@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "G minor add9 chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/G/07_add_Gm-add9_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "bf8632e316fc8c944a5524ca9dd66568"
+  },
+  "size_bytes": 276769,
+  "sha256": "4ed860f88220420d281737f880a0e0f2ddbe53377d4f3df8f8a75114da7a9bc0",
+  "type": "chord",
+  "key": "G minor",
+  "chords": [
+    "Gm-add9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#2",
+    "high": "A3",
+    "root": "G3",
+    "bass": "A#2",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Gm-add9",
+    "root": "G",
+    "root_pc": 7,
+    "quality": "m-add9",
+    "quality_name": "minor add9",
+    "family": "07_add",
+    "family_name": "add chords",
+    "voicing": "inv1",
+    "notes": [
+      "A#2",
+      "D3",
+      "G3",
+      "A3"
+    ],
+    "midi_notes": [
+      46,
+      50,
+      55,
+      57
+    ],
+    "bass_note": "A#2",
+    "bass_midi": 46,
+    "bass_degree": "♭3/♯9",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_G_v4_sequence.mid",
+    "sequence_slot": 167,
+    "slot_of": 188,
+    "start_bar": 333,
+    "cut_start_frame": 34769357,
+    "measured_onset_ms_from_grid": 0.646
+  },
+  "midi": "../../../midi/fullchords-v4/G/07_add_Gm-add9_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#2",
+      "D3",
+      "G3",
+      "A3"
+    ],
+    "size_bytes": 146,
+    "sha256": "0bdd007098ed9e045d42f4852459c298644668543644d1d4f671528ac1de6df2"
+  }
+}

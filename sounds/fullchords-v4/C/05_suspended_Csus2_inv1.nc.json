@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "C sus2 chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/05_suspended_Csus2_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "da016ce4b9ee88fdf9d1689aaf64cf9a"
+  },
+  "size_bytes": 264572,
+  "sha256": "4e41f89e9ce879311ed6c0eaaa77b2536fe6e2e304b0e9bc7161440e71affff9",
+  "type": "chord",
+  "key": "C major",
+  "chords": [
+    "Csus2"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D3",
+    "high": "C4",
+    "root": "C4",
+    "bass": "D3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Csus2",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "sus2",
+    "quality_name": "sus2",
+    "family": "05_suspended",
+    "family_name": "suspended",
+    "voicing": "inv1",
+    "notes": [
+      "D3",
+      "G3",
+      "C4"
+    ],
+    "midi_notes": [
+      50,
+      55,
+      60
+    ],
+    "bass_note": "D3",
+    "bass_midi": 50,
+    "bass_degree": "9",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 143,
+    "slot_of": 188,
+    "start_bar": 285,
+    "cut_start_frame": 29742448,
+    "measured_onset_ms_from_grid": -0.104
+  },
+  "midi": "../../../midi/fullchords-v4/C/05_suspended_Csus2_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D3",
+      "G3",
+      "C4"
+    ],
+    "size_bytes": 144,
+    "sha256": "b1af0becdad6fe6cc18ce40ee3155bfca8e67d86d64a427d11aefe8c52ddc5be"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "C 7♭5 chord, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/04_altered_C7b5_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "3aca4c5978691a10c11339b9009707fd"
+  },
+  "size_bytes": 261542,
+  "sha256": "aa7e17bfc38d5f5b131cd23735e0cd803d6f5a414da6395cbc8548d8f511622e",
+  "type": "chord",
+  "key": "C major",
+  "chords": [
+    "C7b5"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "F#4",
+    "root": "C4",
+    "bass": "A#3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "C7b5",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "7b5",
+    "quality_name": "7♭5",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "inv3",
+    "notes": [
+      "A#3",
+      "C4",
+      "E4",
+      "F#4"
+    ],
+    "midi_notes": [
+      58,
+      60,
+      64,
+      66
+    ],
+    "bass_note": "A#3",
+    "bass_midi": 58,
+    "bass_degree": "♭7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 127,
+    "slot_of": 188,
+    "start_bar": 253,
+    "cut_start_frame": 26391176,
+    "measured_onset_ms_from_grid": -0.562
+  },
+  "midi": "../../../midi/fullchords-v4/C/04_altered_C7b5_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#3",
+      "C4",
+      "E4",
+      "F#4"
+    ],
+    "size_bytes": 147,
+    "sha256": "1fc4b53c50f91bc35d95b199c4fa454181a5fcb2f288cbebfe205ff0861be8b0"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "F♯ major 9th chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Fsharp/02_ninths_Fsharpmaj9_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "6b7a565b286f061c84d224c0e3a04020"
+  },
+  "size_bytes": 269062,
+  "sha256": "2313e56e9b2183869273d48a0b18aa22c5f070b46067278523ef5e2ebf6d39f0",
+  "type": "chord",
+  "key": "F# major",
+  "chords": [
+    "F#maj9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "G#4",
+    "root": "F#3",
+    "bass": "F#3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F#maj9",
+    "root": "F#",
+    "root_pc": 6,
+    "quality": "maj9",
+    "quality_name": "major 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "root",
+    "notes": [
+      "F#3",
+      "A#3",
+      "C#4",
+      "F4",
+      "G#4"
+    ],
+    "midi_notes": [
+      54,
+      58,
+      61,
+      65,
+      68
+    ],
+    "bass_note": "F#3",
+    "bass_midi": 54,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Fsharp_v4_sequence.mid",
+    "sequence_slot": 87,
+    "slot_of": 188,
+    "start_bar": 173,
+    "cut_start_frame": 18012995,
+    "measured_onset_ms_from_grid": -0.479
+  },
+  "midi": "../../../midi/fullchords-v4/Fsharp/02_ninths_Fsharpmaj9_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F#3",
+      "A#3",
+      "C#4",
+      "F4",
+      "G#4"
+    ],
+    "size_bytes": 154,
+    "sha256": "83e7857226617013df298deb8970cb31203e219c552ef425a550025729ccef5e"
+  }
+}

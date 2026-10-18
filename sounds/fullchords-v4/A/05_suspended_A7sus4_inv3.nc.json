@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "A 7sus4 chord, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/A/05_suspended_A7sus4_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "1419b4a672ee065ef7a50eeffdc1836f"
+  },
+  "size_bytes": 260902,
+  "sha256": "db88c88a257e9b7bf4ba7d49e02e195b790f7a3324991c6bd73cfe8430f79804",
+  "type": "chord",
+  "key": "A major",
+  "chords": [
+    "A7sus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G3",
+    "high": "E4",
+    "root": "A3",
+    "bass": "G3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "A7sus4",
+    "root": "A",
+    "root_pc": 9,
+    "quality": "7sus4",
+    "quality_name": "7sus4",
+    "family": "05_suspended",
+    "family_name": "suspended",
+    "voicing": "inv3",
+    "notes": [
+      "G3",
+      "A3",
+      "D4",
+      "E4"
+    ],
+    "midi_notes": [
+      55,
+      57,
+      62,
+      64
+    ],
+    "bass_note": "G3",
+    "bass_midi": 55,
+    "bass_degree": "♭7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_A_v4_sequence.mid",
+    "sequence_slot": 136,
+    "slot_of": 188,
+    "start_bar": 271,
+    "cut_start_frame": 28276266,
+    "measured_onset_ms_from_grid": 0.021
+  },
+  "midi": "../../../midi/fullchords-v4/A/05_suspended_A7sus4_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G3",
+      "A3",
+      "D4",
+      "E4"
+    ],
+    "size_bytes": 151,
+    "sha256": "3e686f19bce5f81c17b304593091265a996c70d78b8d24c70d9cad7a852192c7"
+  }
+}

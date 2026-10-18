@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "F minor 6th chord, position 4, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/F/00a_main_Fm6_4_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0cccc2aa2bdc21f778584daa99e5b6d2"
+  },
+  "size_bytes": 253666,
+  "sha256": "29e6a5d6f21ad3d2ddaa14b6524376993d1c5de0d10709e381fd432a8e98e53d",
+  "type": "chord",
+  "key": "F minor",
+  "chords": [
+    "Fm6"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "C5",
+    "root": "F4",
+    "bass": "D4",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Fm6",
+    "root": "F",
+    "root_pc": 5,
+    "quality": "m6",
+    "quality_name": "minor 6th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "4_inv3",
+    "notes": [
+      "D4",
+      "F4",
+      "G#4",
+      "C5"
+    ],
+    "midi_notes": [
+      62,
+      65,
+      68,
+      72
+    ],
+    "bass_note": "D4",
+    "bass_midi": 62,
+    "bass_degree": "6/13",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_F_v4_sequence.mid",
+    "sequence_slot": 52,
+    "slot_of": 188,
+    "start_bar": 103,
+    "cut_start_frame": 10682086,
+    "measured_onset_ms_from_grid": 0.333
+  },
+  "midi": "../../../midi/fullchords-v4/F/00a_main_Fm6_4_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D4",
+      "F4",
+      "G#4",
+      "C5"
+    ],
+    "size_bytes": 146,
+    "sha256": "5ded2968ea0316dcdf6bfc9f56959bfeffe7c2298910855b35e627c9f1a6f65b"
+  }
+}

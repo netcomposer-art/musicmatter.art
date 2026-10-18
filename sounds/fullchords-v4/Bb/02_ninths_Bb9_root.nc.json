@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "B♭ dominant 9th chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Bb/02_ninths_Bb9_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "45f3972b04d0066465aed33d3ba24841"
+  },
+  "size_bytes": 279170,
+  "sha256": "c45de83173cd20ffa578a1f8745fb0e30cb62be39e7002a3708d8d189f5f5a94",
+  "type": "chord",
+  "key": "A# major",
+  "chords": [
+    "Bb9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#2",
+    "high": "C4",
+    "root": "A#2",
+    "bass": "A#2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bb9",
+    "root": "Bb",
+    "root_pc": 10,
+    "quality": "9",
+    "quality_name": "dominant 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "root",
+    "notes": [
+      "A#2",
+      "D3",
+      "F3",
+      "G#3",
+      "C4"
+    ],
+    "midi_notes": [
+      46,
+      50,
+      53,
+      56,
+      60
+    ],
+    "bass_note": "A#2",
+    "bass_midi": 46,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Bb_v4_sequence.mid",
+    "sequence_slot": 77,
+    "slot_of": 188,
+    "start_bar": 153,
+    "cut_start_frame": 15918447,
+    "measured_onset_ms_from_grid": -0.083
+  },
+  "midi": "../../../midi/fullchords-v4/Bb/02_ninths_Bb9_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#2",
+      "D3",
+      "F3",
+      "G#3",
+      "C4"
+    ],
+    "size_bytes": 151,
+    "sha256": "9d80c888c3ccc5b7312269bdc24272481495f88512af65e8fb8031dbbf69b217"
+  }
+}

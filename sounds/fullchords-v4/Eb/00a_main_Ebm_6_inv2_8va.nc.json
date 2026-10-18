@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "E♭ minor chord, position 6, inv2 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Eb/00a_main_Ebm_6_inv2_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "cae62f33bf8d0755776dd1fb5c09fa3c"
+  },
+  "size_bytes": 238325,
+  "sha256": "e2df273a9fe1b9b3c751e98c241547199c0a1b06a3c7ad6e4467c4a4348a667a",
+  "type": "chord",
+  "key": "D# minor",
+  "chords": [
+    "Ebm"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#4",
+    "high": "F#5",
+    "root": "D#5",
+    "bass": "A#4",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ebm",
+    "root": "Eb",
+    "root_pc": 3,
+    "quality": "m",
+    "quality_name": "minor",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "6_inv2_8va",
+    "notes": [
+      "A#4",
+      "D#5",
+      "F#5"
+    ],
+    "midi_notes": [
+      70,
+      75,
+      78
+    ],
+    "bass_note": "A#4",
+    "bass_midi": 70,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Eb_v4_sequence.mid",
+    "sequence_slot": 12,
+    "slot_of": 188,
+    "start_bar": 23,
+    "cut_start_frame": 2303904,
+    "measured_onset_ms_from_grid": 0.312
+  },
+  "midi": "../../../midi/fullchords-v4/Eb/00a_main_Ebm_6_inv2_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#4",
+      "D#5",
+      "F#5"
+    ],
+    "size_bytes": 144,
+    "sha256": "8d01a755c3235dbb777b65fc03ebd962d2c2b874acbbc915ed544f968e83c529"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "D minor 7th chord, shell R-7-3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/D/00b_main-voicings_Dm7_shell_R-7-3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "801a8b4b373cf33ae1e628268ed937ba"
+  },
+  "size_bytes": 263759,
+  "sha256": "af39295670d5f8523241da5813a5b9b8488c2abf5559d6d928e39e4188469aaf",
+  "type": "chord",
+  "key": "D minor",
+  "chords": [
+    "Dm7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D3",
+    "high": "F4",
+    "root": "D3",
+    "bass": "D3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dm7",
+    "root": "D",
+    "root_pc": 2,
+    "quality": "m7",
+    "quality_name": "minor 7th",
+    "family": "00b_main-voicings",
+    "family_name": "main chords, shell and drop-2 voicings",
+    "voicing": "shell_R-7-3",
+    "notes": [
+      "D3",
+      "C4",
+      "F4"
+    ],
+    "midi_notes": [
+      50,
+      60,
+      65
+    ],
+    "bass_note": "D3",
+    "bass_midi": 50,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_D_v4_sequence.mid",
+    "sequence_slot": 62,
+    "slot_of": 188,
+    "start_bar": 123,
+    "cut_start_frame": 12776630,
+    "measured_onset_ms_from_grid": -0.188
+  },
+  "midi": "../../../midi/fullchords-v4/D/00b_main-voicings_Dm7_shell_R-7-3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D3",
+      "C4",
+      "F4"
+    ],
+    "size_bytes": 154,
+    "sha256": "e9e7d4ba1c0c1059529a87ab78b1e377121c7b333189b336b3cdffb103b4776d"
+  }
+}

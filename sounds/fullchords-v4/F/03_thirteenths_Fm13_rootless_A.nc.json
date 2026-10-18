@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "F minor 13th chord, rootless A (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/F/03_thirteenths_Fm13_rootless_A.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ca1599944de8e98831a7eb81b2f34165"
+  },
+  "size_bytes": 259602,
+  "sha256": "ab15401251d5724f980c7f6ca2151b9c6ce2cf94846759e1d64efcd4f4aaf032",
+  "type": "chord",
+  "key": "F minor",
+  "chords": [
+    "Fm13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#3",
+    "high": "G4",
+    "root": null,
+    "bass": "G#3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Fm13",
+    "root": "F",
+    "root_pc": 5,
+    "quality": "m13",
+    "quality_name": "minor 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "rootless_A",
+    "notes": [
+      "G#3",
+      "D4",
+      "D#4",
+      "G4"
+    ],
+    "midi_notes": [
+      56,
+      62,
+      63,
+      67
+    ],
+    "bass_note": "G#3",
+    "bass_midi": 56,
+    "bass_degree": "♭3/♯9",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_F_v4_sequence.mid",
+    "sequence_slot": 98,
+    "slot_of": 188,
+    "start_bar": 195,
+    "cut_start_frame": 20316995,
+    "measured_onset_ms_from_grid": -0.458
+  },
+  "midi": "../../../midi/fullchords-v4/F/03_thirteenths_Fm13_rootless_A.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G#3",
+      "D4",
+      "D#4",
+      "G4"
+    ],
+    "size_bytes": 157,
+    "sha256": "071e95b6e92098744024d4fce9906131c0311c7cfff752e77c5aa9d909df32c3"
+  }
+}

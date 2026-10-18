@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "G minor 6th chord, position 1, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/G/00a_main_Gm6_1_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "330cc3a33689b8dff88146e9c1fdbf0c"
+  },
+  "size_bytes": 280921,
+  "sha256": "33a214740721533101246f5abf1a986d1c09f3fedef4572ddf6d3fbe5a763064",
+  "type": "chord",
+  "key": "G minor",
+  "chords": [
+    "Gm6"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G2",
+    "high": "E3",
+    "root": "G2",
+    "bass": "G2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Gm6",
+    "root": "G",
+    "root_pc": 7,
+    "quality": "m6",
+    "quality_name": "minor 6th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "1_root",
+    "notes": [
+      "G2",
+      "A#2",
+      "D3",
+      "E3"
+    ],
+    "midi_notes": [
+      43,
+      46,
+      50,
+      52
+    ],
+    "bass_note": "G2",
+    "bass_midi": 43,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_G_v4_sequence.mid",
+    "sequence_slot": 49,
+    "slot_of": 188,
+    "start_bar": 97,
+    "cut_start_frame": 10053720,
+    "measured_onset_ms_from_grid": 0.396
+  },
+  "midi": "../../../midi/fullchords-v4/G/00a_main_Gm6_1_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G2",
+      "A#2",
+      "D3",
+      "E3"
+    ],
+    "size_bytes": 146,
+    "sha256": "19308c3e633aa557372be6bd51fe51f00e4a24a016db44b1f5e92bb7f6ddc522"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "D 7♭9 chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/D/04_altered_D7b9_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a6b277d3530fb30b310d3f048bda73b8"
+  },
+  "size_bytes": 276460,
+  "sha256": "1b69a7acc804a01b8712f247c745deef38a884ce04f88bf81a2e76b6bf350fcb",
+  "type": "chord",
+  "key": "D major",
+  "chords": [
+    "D7b9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D3",
+    "high": "D#4",
+    "root": "D3",
+    "bass": "D3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "D7b9",
+    "root": "D",
+    "root_pc": 2,
+    "quality": "7b9",
+    "quality_name": "7♭9",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "root",
+    "notes": [
+      "D3",
+      "F#3",
+      "A3",
+      "C4",
+      "D#4"
+    ],
+    "midi_notes": [
+      50,
+      54,
+      57,
+      60,
+      63
+    ],
+    "bass_note": "D3",
+    "bass_midi": 50,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_D_v4_sequence.mid",
+    "sequence_slot": 128,
+    "slot_of": 188,
+    "start_bar": 255,
+    "cut_start_frame": 26600630,
+    "measured_onset_ms_from_grid": -0.25
+  },
+  "midi": "../../../midi/fullchords-v4/D/04_altered_D7b9_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D3",
+      "F#3",
+      "A3",
+      "C4",
+      "D#4"
+    ],
+    "size_bytes": 153,
+    "sha256": "7655bb9ce95a32504e558c82fc9277eb16648eb85d8460a0121368619e6606cb"
+  }
+}

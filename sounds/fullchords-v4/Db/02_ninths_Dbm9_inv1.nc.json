@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "D♭ minor 9th chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Db/02_ninths_Dbm9_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0b0428b9d8a0cf135173ffd65b6decf0"
+  },
+  "size_bytes": 269298,
+  "sha256": "f110d3c6964ff3df0860d59771c00ee8337d3cd62c88b7894957bf17c7f19317",
+  "type": "chord",
+  "key": "C# minor",
+  "chords": [
+    "Dbm9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "D#4",
+    "root": "C#4",
+    "bass": "E3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dbm9",
+    "root": "Db",
+    "root_pc": 1,
+    "quality": "m9",
+    "quality_name": "minor 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "inv1",
+    "notes": [
+      "E3",
+      "G#3",
+      "B3",
+      "C#4",
+      "D#4"
+    ],
+    "midi_notes": [
+      52,
+      56,
+      59,
+      61,
+      63
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "♭3/♯9",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Db_v4_sequence.mid",
+    "sequence_slot": 85,
+    "slot_of": 188,
+    "start_bar": 169,
+    "cut_start_frame": 17594085,
+    "measured_onset_ms_from_grid": 0.125
+  },
+  "midi": "../../../midi/fullchords-v4/Db/02_ninths_Dbm9_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "G#3",
+      "B3",
+      "C#4",
+      "D#4"
+    ],
+    "size_bytes": 152,
+    "sha256": "9f774149dec16e53c54d52608d791e833dc77fec6df1d7c6877bbdeb680756c3"
+  }
+}

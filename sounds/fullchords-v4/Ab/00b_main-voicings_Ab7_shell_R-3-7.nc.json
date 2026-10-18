@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "A♭ dominant 7th chord, shell R-3-7 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Ab/00b_main-voicings_Ab7_shell_R-3-7.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "f5461108f7e3006503a4656d5a76c8fe"
+  },
+  "size_bytes": 273679,
+  "sha256": "0b8f3256f812ea426a967e8d8482769f87acea2c87c59e4103c196ae4a815474",
+  "type": "chord",
+  "key": "G# major",
+  "chords": [
+    "Ab7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#2",
+    "high": "F#3",
+    "root": "G#2",
+    "bass": "G#2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ab7",
+    "root": "Ab",
+    "root_pc": 8,
+    "quality": "7",
+    "quality_name": "dominant 7th",
+    "family": "00b_main-voicings",
+    "family_name": "main chords, shell and drop-2 voicings",
+    "voicing": "shell_R-3-7",
+    "notes": [
+      "G#2",
+      "C3",
+      "F#3"
+    ],
+    "midi_notes": [
+      44,
+      48,
+      54
+    ],
+    "bass_note": "G#2",
+    "bass_midi": 44,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Ab_v4_sequence.mid",
+    "sequence_slot": 55,
+    "slot_of": 188,
+    "start_bar": 109,
+    "cut_start_frame": 11310447,
+    "measured_onset_ms_from_grid": -0.062
+  },
+  "midi": "../../../midi/fullchords-v4/Ab/00b_main-voicings_Ab7_shell_R-3-7.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G#2",
+      "C3",
+      "F#3"
+    ],
+    "size_bytes": 154,
+    "sha256": "b0c04645dfabb3e7fff49b2c79b6a8365f039a56d103c550a6c3d0628e6de424"
+  }
+}

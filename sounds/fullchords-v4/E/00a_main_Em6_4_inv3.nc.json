@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E minor 6th chord, position 4, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/00a_main_Em6_4_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "534747aaab656dcb766e4e15ebbd58c1"
+  },
+  "size_bytes": 250197,
+  "sha256": "78c734555341f9f20b992d14581ba4c42ac92b89ac3d9e91b099eaa85222958a",
+  "type": "chord",
+  "key": "E minor",
+  "chords": [
+    "Em6"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C#4",
+    "high": "B4",
+    "root": "E4",
+    "bass": "C#4",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Em6",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "m6",
+    "quality_name": "minor 6th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "4_inv3",
+    "notes": [
+      "C#4",
+      "E4",
+      "G4",
+      "B4"
+    ],
+    "midi_notes": [
+      61,
+      64,
+      67,
+      71
+    ],
+    "bass_note": "C#4",
+    "bass_midi": 61,
+    "bass_degree": "6/13",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 52,
+    "slot_of": 188,
+    "start_bar": 103,
+    "cut_start_frame": 10682087,
+    "measured_onset_ms_from_grid": 0.208
+  },
+  "midi": "../../../midi/fullchords-v4/E/00a_main_Em6_4_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C#4",
+      "E4",
+      "G4",
+      "B4"
+    ],
+    "size_bytes": 146,
+    "sha256": "8b8d63bdf0c4a64826d5c237a2e8e8bbe80397b25157095ae95940c99f3824e3"
+  }
+}

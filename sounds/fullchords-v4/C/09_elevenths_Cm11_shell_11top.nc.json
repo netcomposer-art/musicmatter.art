@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "C minor 11th chord, shell 11top (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/09_elevenths_Cm11_shell_11top.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ea22fa5d8e2559d18500b3ce0cc2c597"
+  },
+  "size_bytes": 276759,
+  "sha256": "7a79d33ad5792472770d54e8f94e82cf0d27cf60c2d70ec124043906419ac963",
+  "type": "chord",
+  "key": "C minor",
+  "chords": [
+    "Cm11"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C3",
+    "high": "F4",
+    "root": "C3",
+    "bass": "C3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Cm11",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "m11",
+    "quality_name": "minor 11th",
+    "family": "09_elevenths",
+    "family_name": "elevenths",
+    "voicing": "shell_11top",
+    "notes": [
+      "C3",
+      "A#3",
+      "D#4",
+      "F4"
+    ],
+    "midi_notes": [
+      48,
+      58,
+      63,
+      65
+    ],
+    "bass_note": "C3",
+    "bass_midi": 48,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 185,
+    "slot_of": 188,
+    "start_bar": 369,
+    "cut_start_frame": 38539539,
+    "measured_onset_ms_from_grid": 0.5
+  },
+  "midi": "../../../midi/fullchords-v4/C/09_elevenths_Cm11_shell_11top.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C3",
+      "A#3",
+      "D#4",
+      "F4"
+    ],
+    "size_bytes": 156,
+    "sha256": "4dbf86120ff0349ae2094de1d901beab9286e9574e5380f75366765f7465ac9f"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "F♯ major 7♯5 chord, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Fsharp/08_other_Fsharpmaj7sharp5_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a4f5d290833394e32e30c4e4661120ae"
+  },
+  "size_bytes": 253670,
+  "sha256": "92cbdd99afcfaa14098eebbd53c3d81075bc0ec5a4aaaa7559d8b5744dcccb78",
+  "type": "chord",
+  "key": "F# major",
+  "chords": [
+    "F#maj7#5"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F4",
+    "high": "D5",
+    "root": "F#4",
+    "bass": "F4",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F#maj7#5",
+    "root": "F#",
+    "root_pc": 6,
+    "quality": "maj7#5",
+    "quality_name": "major 7♯5",
+    "family": "08_other",
+    "family_name": "other colours",
+    "voicing": "inv3",
+    "notes": [
+      "F4",
+      "F#4",
+      "A#4",
+      "D5"
+    ],
+    "midi_notes": [
+      65,
+      66,
+      70,
+      74
+    ],
+    "bass_note": "F4",
+    "bass_midi": 65,
+    "bass_degree": "7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Fsharp_v4_sequence.mid",
+    "sequence_slot": 180,
+    "slot_of": 188,
+    "start_bar": 359,
+    "cut_start_frame": 37492268,
+    "measured_onset_ms_from_grid": 0.042
+  },
+  "midi": "../../../midi/fullchords-v4/Fsharp/08_other_Fsharpmaj7sharp5_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F4",
+      "F#4",
+      "A#4",
+      "D5"
+    ],
+    "size_bytes": 149,
+    "sha256": "d415d74ea9553b5c921c70bb0cccd1ca668536528c2647ee3685f40d03b7fed6"
+  }
+}

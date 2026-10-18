@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "A diminished chord, position 2, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/A/00a_main_Adim_2_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "6219c76b355ceda3e269036d2bb7b179"
+  },
+  "size_bytes": 272496,
+  "sha256": "81f201c89f3c6beeae67b3dc3f09b551e4aed3c0c0c65a79102ee0f353d84d90",
+  "type": "chord",
+  "key": "A minor",
+  "chords": [
+    "Adim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C3",
+    "high": "A3",
+    "root": "A3",
+    "bass": "C3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Adim",
+    "root": "A",
+    "root_pc": 9,
+    "quality": "dim",
+    "quality_name": "diminished",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "2_inv1",
+    "notes": [
+      "C3",
+      "D#3",
+      "A3"
+    ],
+    "midi_notes": [
+      48,
+      51,
+      57
+    ],
+    "bass_note": "C3",
+    "bass_midi": 48,
+    "bass_degree": "♭3/♯9",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_A_v4_sequence.mid",
+    "sequence_slot": 32,
+    "slot_of": 188,
+    "start_bar": 63,
+    "cut_start_frame": 6492993,
+    "measured_onset_ms_from_grid": -0.438
+  },
+  "midi": "../../../midi/fullchords-v4/A/00a_main_Adim_2_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C3",
+      "D#3",
+      "A3"
+    ],
+    "size_bytes": 141,
+    "sha256": "63150f531193bc130590eda6c12516d8b7c1ca943932876182de09060a1ee491"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "D dominant 13th chord, rootless A (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/D/03_thirteenths_D13_rootless_A.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d98ff6229f3a3dafe6432af1898b96d2"
+  },
+  "size_bytes": 263570,
+  "sha256": "5244f271f8b3fd7a90e30c8ef4511673d378cb54fbb0b4ea625d2fbed9298c55",
+  "type": "chord",
+  "key": "D major",
+  "chords": [
+    "D13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "E4",
+    "root": null,
+    "bass": "F#3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "D13",
+    "root": "D",
+    "root_pc": 2,
+    "quality": "13",
+    "quality_name": "dominant 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "rootless_A",
+    "notes": [
+      "F#3",
+      "B3",
+      "C4",
+      "E4"
+    ],
+    "midi_notes": [
+      54,
+      59,
+      60,
+      64
+    ],
+    "bass_note": "F#3",
+    "bass_midi": 54,
+    "bass_degree": "3",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_D_v4_sequence.mid",
+    "sequence_slot": 93,
+    "slot_of": 188,
+    "start_bar": 185,
+    "cut_start_frame": 19269721,
+    "measured_onset_ms_from_grid": 0.375
+  },
+  "midi": "../../../midi/fullchords-v4/D/03_thirteenths_D13_rootless_A.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F#3",
+      "B3",
+      "C4",
+      "E4"
+    ],
+    "size_bytes": 156,
+    "sha256": "7243d904162755ca8ca393f71979d651c178cc5bd451cb37fa4790ac8ae0ce35"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E major 7th chord, position 4, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/00a_main_Emaj7_4_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "abb7e775e192b2e17feb1613d721c170"
+  },
+  "size_bytes": 254007,
+  "sha256": "0c5f5d98e6b598685afb8ea3a6e553a332e3366ebf6a6ce52bfd7c3a182d5c82",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "Emaj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#4",
+    "high": "B4",
+    "root": "E4",
+    "bass": "D#4",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Emaj7",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "maj7",
+    "quality_name": "major 7th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "4_inv3",
+    "notes": [
+      "D#4",
+      "E4",
+      "G#4",
+      "B4"
+    ],
+    "midi_notes": [
+      63,
+      64,
+      68,
+      71
+    ],
+    "bass_note": "D#4",
+    "bass_midi": 63,
+    "bass_degree": "7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 28,
+    "slot_of": 188,
+    "start_bar": 55,
+    "cut_start_frame": 5655178,
+    "measured_onset_ms_from_grid": -0.417
+  },
+  "midi": "../../../midi/fullchords-v4/E/00a_main_Emaj7_4_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D#4",
+      "E4",
+      "G#4",
+      "B4"
+    ],
+    "size_bytes": 148,
+    "sha256": "08dcc74c90f22b2446ecfd62f2d5acfc160e1f47bc38cc8f01663ebf7d153b92"
+  }
+}

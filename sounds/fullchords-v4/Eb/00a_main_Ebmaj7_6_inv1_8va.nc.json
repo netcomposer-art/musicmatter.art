@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E♭ major 7th chord, position 6, inv1 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Eb/00a_main_Ebmaj7_6_inv1_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d370c6f94eb8206ee3de1a92548eb775"
+  },
+  "size_bytes": 246670,
+  "sha256": "2bd95f7ee14bd590cdbdae56ac4f9e665c0b94861f29f972dd5aabbfc23b6b3a",
+  "type": "chord",
+  "key": "D# major",
+  "chords": [
+    "Ebmaj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G4",
+    "high": "D#5",
+    "root": "D#5",
+    "bass": "G4",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ebmaj7",
+    "root": "Eb",
+    "root_pc": 3,
+    "quality": "maj7",
+    "quality_name": "major 7th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "6_inv1_8va",
+    "notes": [
+      "G4",
+      "A#4",
+      "D5",
+      "D#5"
+    ],
+    "midi_notes": [
+      67,
+      70,
+      74,
+      75
+    ],
+    "bass_note": "G4",
+    "bass_midi": 67,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Eb_v4_sequence.mid",
+    "sequence_slot": 30,
+    "slot_of": 188,
+    "start_bar": 59,
+    "cut_start_frame": 6074086,
+    "measured_onset_ms_from_grid": 0.167
+  },
+  "midi": "../../../midi/fullchords-v4/Eb/00a_main_Ebmaj7_6_inv1_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G4",
+      "A#4",
+      "D5",
+      "D#5"
+    ],
+    "size_bytes": 153,
+    "sha256": "2f8e00f9bf08b6cb42c91b469b6cea8fdbd306ecc6224a026f14a3a799a59dcc"
+  }
+}

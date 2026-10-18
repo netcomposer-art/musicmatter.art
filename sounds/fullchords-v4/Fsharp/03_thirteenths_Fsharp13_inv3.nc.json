@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "F♯ dominant 13th chord, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Fsharp/03_thirteenths_Fsharp13_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d5824817dc0d662cf14ce660d7c42311"
+  },
+  "size_bytes": 250049,
+  "sha256": "b0a7bc0b27c3259f891ad3877ba3f8f0e15fe5a02074ee5e62eb138fa2fddf67",
+  "type": "chord",
+  "key": "F# major",
+  "chords": [
+    "F#13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E4",
+    "high": "G#5",
+    "root": "F#4",
+    "bass": "E4",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F#13",
+    "root": "F#",
+    "root_pc": 6,
+    "quality": "13",
+    "quality_name": "dominant 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "inv3",
+    "notes": [
+      "E4",
+      "F#4",
+      "A#4",
+      "D#5",
+      "G#5"
+    ],
+    "midi_notes": [
+      64,
+      66,
+      70,
+      75,
+      80
+    ],
+    "bass_note": "E4",
+    "bass_midi": 64,
+    "bass_degree": "♭7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Fsharp_v4_sequence.mid",
+    "sequence_slot": 96,
+    "slot_of": 188,
+    "start_bar": 191,
+    "cut_start_frame": 19898086,
+    "measured_onset_ms_from_grid": 0.188
+  },
+  "midi": "../../../midi/fullchords-v4/Fsharp/03_thirteenths_Fsharp13_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E4",
+      "F#4",
+      "A#4",
+      "D#5",
+      "G#5"
+    ],
+    "size_bytes": 157,
+    "sha256": "e94285a1b4020004dc54057ac21a4d03269292b90f6f17438c9c54b4786f117a"
+  }
+}

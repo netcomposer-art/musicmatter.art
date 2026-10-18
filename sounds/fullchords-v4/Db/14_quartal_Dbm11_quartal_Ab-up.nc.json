@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "D♭ minor 11th chord, quartal Ab-up (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Db/14_quartal_Dbm11_quartal_Ab-up.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a0cff7d9a0a40992a6ad127212909713"
+  },
+  "size_bytes": 259658,
+  "sha256": "978e27b95516a81edf817c46109c3098f8942bb5517a89eb284a4a3f33e61693",
+  "type": "chord",
+  "key": "C# minor",
+  "chords": [
+    "Dbm11"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#3",
+    "high": "E5",
+    "root": "C#4",
+    "bass": "G#3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dbm11",
+    "root": "Db",
+    "root_pc": 1,
+    "quality": "m11",
+    "quality_name": "minor 11th",
+    "family": "14_quartal",
+    "family_name": "quartal",
+    "voicing": "quartal_Ab-up",
+    "notes": [
+      "G#3",
+      "C#4",
+      "F#4",
+      "B4",
+      "E5"
+    ],
+    "midi_notes": [
+      56,
+      61,
+      66,
+      71,
+      76
+    ],
+    "bass_note": "G#3",
+    "bass_midi": 56,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Db_v4_sequence.mid",
+    "sequence_slot": 187,
+    "slot_of": 188,
+    "start_bar": 373,
+    "cut_start_frame": 38958448,
+    "measured_onset_ms_from_grid": 0.083
+  },
+  "midi": "../../../midi/fullchords-v4/Db/14_quartal_Dbm11_quartal_Ab-up.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G#3",
+      "C#4",
+      "F#4",
+      "B4",
+      "E5"
+    ],
+    "size_bytes": 163,
+    "sha256": "e24695742101fbe0eec302e9b95beda96dbff81283ce3d30c8de7bbb6b2e7b1d"
+  }
+}

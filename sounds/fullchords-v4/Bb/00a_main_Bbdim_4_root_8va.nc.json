@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "B♭ diminished chord, position 4, root 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Bb/00a_main_Bbdim_4_root_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ff9d9448ef317364525cfba3c7be126f"
+  },
+  "size_bytes": 256125,
+  "sha256": "5270d790cc6fb511b0afdcbd21dbe6586b61225b70a8bb8bbdd497667df9467b",
+  "type": "chord",
+  "key": "A# minor",
+  "chords": [
+    "Bbdim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "E4",
+    "root": "A#3",
+    "bass": "A#3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bbdim",
+    "root": "Bb",
+    "root_pc": 10,
+    "quality": "dim",
+    "quality_name": "diminished",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "4_root_8va",
+    "notes": [
+      "A#3",
+      "C#4",
+      "E4"
+    ],
+    "midi_notes": [
+      58,
+      61,
+      64
+    ],
+    "bass_note": "A#3",
+    "bass_midi": 58,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Bb_v4_sequence.mid",
+    "sequence_slot": 34,
+    "slot_of": 188,
+    "start_bar": 67,
+    "cut_start_frame": 6911902,
+    "measured_onset_ms_from_grid": 0.312
+  },
+  "midi": "../../../midi/fullchords-v4/Bb/00a_main_Bbdim_4_root_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#3",
+      "C#4",
+      "E4"
+    ],
+    "size_bytes": 146,
+    "sha256": "d28847a6ed133a518ae3febb3031f175a2b803307b0d3be58d9a0083c8734ab3"
+  }
+}

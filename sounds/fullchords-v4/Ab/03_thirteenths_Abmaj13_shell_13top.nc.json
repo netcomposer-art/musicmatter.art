@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "A♭ major 13th chord, shell 13top (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Ab/03_thirteenths_Abmaj13_shell_13top.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ff6388dbaf95e2a93f450f00bf48009f"
+  },
+  "size_bytes": 271125,
+  "sha256": "b6015759226b9d3f268b4b6b85df96525e74c2598d814b285739a65511a6cbbd",
+  "type": "chord",
+  "key": "G# major",
+  "chords": [
+    "Abmaj13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#2",
+    "high": "F4",
+    "root": "G#2",
+    "bass": "G#2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Abmaj13",
+    "root": "Ab",
+    "root_pc": 8,
+    "quality": "maj13",
+    "quality_name": "major 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "shell_13top",
+    "notes": [
+      "G#2",
+      "G3",
+      "C4",
+      "F4"
+    ],
+    "midi_notes": [
+      44,
+      55,
+      60,
+      65
+    ],
+    "bass_note": "G#2",
+    "bass_midi": 44,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Ab_v4_sequence.mid",
+    "sequence_slot": 105,
+    "slot_of": 188,
+    "start_bar": 209,
+    "cut_start_frame": 21783175,
+    "measured_onset_ms_from_grid": -0.583
+  },
+  "midi": "../../../midi/fullchords-v4/Ab/03_thirteenths_Abmaj13_shell_13top.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G#2",
+      "G3",
+      "C4",
+      "F4"
+    ],
+    "size_bytes": 161,
+    "sha256": "8e0be6ee9dfb6f5e2b8aa0e155ef5344f562f8028510b6dc30475357f2153e44"
+  }
+}

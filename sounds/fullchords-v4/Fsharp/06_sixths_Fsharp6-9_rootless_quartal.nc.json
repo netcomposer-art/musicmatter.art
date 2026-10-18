@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "F♯ 6/9 chord, rootless quartal (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Fsharp/06_sixths_Fsharp6-9_rootless_quartal.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a0bc55bc2ef23518a6676ac14d58cc01"
+  },
+  "size_bytes": 263781,
+  "sha256": "e53fcc65ee73f1f752184edeb3aa6f188e64089a18f952237be5e7d078dad3fa",
+  "type": "chord",
+  "key": "F# major",
+  "chords": [
+    "F#6-9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "C#5",
+    "root": null,
+    "bass": "A#3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F#6-9",
+    "root": "F#",
+    "root_pc": 6,
+    "quality": "6-9",
+    "quality_name": "6/9",
+    "family": "06_sixths",
+    "family_name": "sixths",
+    "voicing": "rootless_quartal",
+    "notes": [
+      "A#3",
+      "D#4",
+      "G#4",
+      "C#5"
+    ],
+    "midi_notes": [
+      58,
+      63,
+      68,
+      73
+    ],
+    "bass_note": "A#3",
+    "bass_midi": 58,
+    "bass_degree": "3",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Fsharp_v4_sequence.mid",
+    "sequence_slot": 150,
+    "slot_of": 188,
+    "start_bar": 299,
+    "cut_start_frame": 31208631,
+    "measured_onset_ms_from_grid": -0.188
+  },
+  "midi": "../../../midi/fullchords-v4/Fsharp/06_sixths_Fsharp6-9_rootless_quartal.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#3",
+      "D#4",
+      "G#4",
+      "C#5"
+    ],
+    "size_bytes": 159,
+    "sha256": "8f50bf016e8daada60854a01759ec050cbc8169af1152e19f075ce7852693c0e"
+  }
+}

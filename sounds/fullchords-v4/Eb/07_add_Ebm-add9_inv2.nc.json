@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E♭ minor add9 chord, inv2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Eb/07_add_Ebm-add9_inv2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "17b05682c5540cc7b50dcee2fc111c58"
+  },
+  "size_bytes": 261892,
+  "sha256": "b87b86785a5436df0385d9a5bb9e5a780ac02473d968088ffebbcc9cb8961038",
+  "type": "chord",
+  "key": "D# minor",
+  "chords": [
+    "Ebm-add9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "F5",
+    "root": "D#4",
+    "bass": "A#3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ebm-add9",
+    "root": "Eb",
+    "root_pc": 3,
+    "quality": "m-add9",
+    "quality_name": "minor add9",
+    "family": "07_add",
+    "family_name": "add chords",
+    "voicing": "inv2",
+    "notes": [
+      "A#3",
+      "D#4",
+      "F#4",
+      "F5"
+    ],
+    "midi_notes": [
+      58,
+      63,
+      66,
+      77
+    ],
+    "bass_note": "A#3",
+    "bass_midi": 58,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Eb_v4_sequence.mid",
+    "sequence_slot": 168,
+    "slot_of": 188,
+    "start_bar": 335,
+    "cut_start_frame": 34978813,
+    "measured_onset_ms_from_grid": -0.312
+  },
+  "midi": "../../../midi/fullchords-v4/Eb/07_add_Ebm-add9_inv2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#3",
+      "D#4",
+      "F#4",
+      "F5"
+    ],
+    "size_bytes": 147,
+    "sha256": "8f0a2c1268a066ae9a1e49d4cae5910a285501c82bc398b44e4b3ef563eeda2e"
+  }
+}

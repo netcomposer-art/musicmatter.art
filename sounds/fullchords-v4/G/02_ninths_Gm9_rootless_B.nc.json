@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "G minor 9th chord, rootless B (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/G/02_ninths_Gm9_rootless_B.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "8838a5bf9ed7d0d77e2ee5d2ace75b35"
+  },
+  "size_bytes": 272677,
+  "sha256": "616c02f2727dec6a4ff6ab2d58c54385194a0cde029d43e6be22f72365522bb4",
+  "type": "chord",
+  "key": "G minor",
+  "chords": [
+    "Gm9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "D4",
+    "root": null,
+    "bass": "F3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Gm9",
+    "root": "G",
+    "root_pc": 7,
+    "quality": "m9",
+    "quality_name": "minor 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "rootless_B",
+    "notes": [
+      "F3",
+      "A3",
+      "A#3",
+      "D4"
+    ],
+    "midi_notes": [
+      53,
+      57,
+      58,
+      62
+    ],
+    "bass_note": "F3",
+    "bass_midi": 53,
+    "bass_degree": "♭7",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_G_v4_sequence.mid",
+    "sequence_slot": 84,
+    "slot_of": 188,
+    "start_bar": 167,
+    "cut_start_frame": 17384629,
+    "measured_onset_ms_from_grid": -0.208
+  },
+  "midi": "../../../midi/fullchords-v4/G/02_ninths_Gm9_rootless_B.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F3",
+      "A3",
+      "A#3",
+      "D4"
+    ],
+    "size_bytes": 151,
+    "sha256": "e3c835bff70d9ad60af5ba48b9a8a95c352c09ce853ed16e1a31caab413826b0"
+  }
+}

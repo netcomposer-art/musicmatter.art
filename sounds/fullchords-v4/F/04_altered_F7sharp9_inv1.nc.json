@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "F 7♯9 chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/F/04_altered_F7sharp9_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "c32b333d059a164029949e02caa89e64"
+  },
+  "size_bytes": 265488,
+  "sha256": "7f9d58bf96d246fe8d85ab1c80b7f7f6e8e3414c55f4c05cb7c4af89f065501c",
+  "type": "chord",
+  "key": "F major",
+  "chords": [
+    "F7#9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A3",
+    "high": "G#4",
+    "root": "F4",
+    "bass": "A3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F7#9",
+    "root": "F",
+    "root_pc": 5,
+    "quality": "7#9",
+    "quality_name": "7♯9",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "inv1",
+    "notes": [
+      "A3",
+      "C4",
+      "D#4",
+      "F4",
+      "G#4"
+    ],
+    "midi_notes": [
+      57,
+      60,
+      63,
+      65,
+      68
+    ],
+    "bass_note": "A3",
+    "bass_midi": 57,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_F_v4_sequence.mid",
+    "sequence_slot": 112,
+    "slot_of": 188,
+    "start_bar": 223,
+    "cut_start_frame": 23249359,
+    "measured_onset_ms_from_grid": 0.604
+  },
+  "midi": "../../../midi/fullchords-v4/F/04_altered_F7sharp9_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A3",
+      "C4",
+      "D#4",
+      "F4",
+      "G#4"
+    ],
+    "size_bytes": 153,
+    "sha256": "f88a84fe0dcb230f33da79129939ac48d72bf4a3af8d6f45f6488c726665849b"
+  }
+}

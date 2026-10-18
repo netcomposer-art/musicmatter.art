@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E major 7♯11 chord, rootless (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/08_other_Emaj7sharp11_rootless.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ed4a12ad0040f1b3f77677233463ec23"
+  },
+  "size_bytes": 262667,
+  "sha256": "2b71bb88be7e10336f90e9ec46cc92ab1328b6fbe911e6b2538bd77b4a00293a",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "Emaj7#11"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#3",
+    "high": "A#4",
+    "root": null,
+    "bass": "G#3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Emaj7#11",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "maj7#11",
+    "quality_name": "major 7♯11",
+    "family": "08_other",
+    "family_name": "other colours",
+    "voicing": "rootless",
+    "notes": [
+      "G#3",
+      "B3",
+      "D#4",
+      "A#4"
+    ],
+    "midi_notes": [
+      56,
+      59,
+      63,
+      70
+    ],
+    "bass_note": "G#3",
+    "bass_midi": 56,
+    "bass_degree": "3",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 174,
+    "slot_of": 188,
+    "start_bar": 347,
+    "cut_start_frame": 36235541,
+    "measured_onset_ms_from_grid": 0.479
+  },
+  "midi": "../../../midi/fullchords-v4/E/08_other_Emaj7sharp11_rootless.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G#3",
+      "B3",
+      "D#4",
+      "A#4"
+    ],
+    "size_bytes": 153,
+    "sha256": "ebbdce71fdff1090902dc1040937060682d96a6dace9dafa8f29cc15e19f22d5"
+  }
+}

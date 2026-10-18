@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "F♯ major 6th chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Fsharp/06_sixths_Fsharp6_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "3f70e963897a772d4b7b8ef5235fe7e7"
+  },
+  "size_bytes": 265063,
+  "sha256": "c3ac9d8b4a7f8c2486f25129da3d12c564681a5432c85cababd1f6589db5fea3",
+  "type": "chord",
+  "key": "F# major",
+  "chords": [
+    "F#6"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#3",
+    "high": "F#4",
+    "root": "F#4",
+    "bass": "A#3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F#6",
+    "root": "F#",
+    "root_pc": 6,
+    "quality": "6",
+    "quality_name": "major 6th",
+    "family": "06_sixths",
+    "family_name": "sixths",
+    "voicing": "inv1",
+    "notes": [
+      "A#3",
+      "C#4",
+      "D#4",
+      "F#4"
+    ],
+    "midi_notes": [
+      58,
+      61,
+      63,
+      66
+    ],
+    "bass_note": "A#3",
+    "bass_midi": 58,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Fsharp_v4_sequence.mid",
+    "sequence_slot": 154,
+    "slot_of": 188,
+    "start_bar": 307,
+    "cut_start_frame": 32046449,
+    "measured_onset_ms_from_grid": -0.062
+  },
+  "midi": "../../../midi/fullchords-v4/Fsharp/06_sixths_Fsharp6_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#3",
+      "C#4",
+      "D#4",
+      "F#4"
+    ],
+    "size_bytes": 145,
+    "sha256": "cf4aacf4e773db0f758ff90f9a7a9ad07f07ccb582c60b294aeade3198f668d6"
+  }
+}

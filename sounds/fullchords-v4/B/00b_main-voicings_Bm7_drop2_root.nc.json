@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "B minor 7th chord, drop2 root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/B/00b_main-voicings_Bm7_drop2_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "799fd35ee4144b2fdaaa13d5eef878f7"
+  },
+  "size_bytes": 274066,
+  "sha256": "979b75daeac99b013de779838c81def484a70d00c13994bf2f1a46d79ba50c5d",
+  "type": "chord",
+  "key": "B minor",
+  "chords": [
+    "Bm7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B2",
+    "high": "D4",
+    "root": "B2",
+    "bass": "B2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bm7",
+    "root": "B",
+    "root_pc": 11,
+    "quality": "m7",
+    "quality_name": "minor 7th",
+    "family": "00b_main-voicings",
+    "family_name": "main chords, shell and drop-2 voicings",
+    "voicing": "drop2_root",
+    "notes": [
+      "B2",
+      "F#3",
+      "A3",
+      "D4"
+    ],
+    "midi_notes": [
+      47,
+      54,
+      57,
+      62
+    ],
+    "bass_note": "B2",
+    "bass_midi": 47,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_B_v4_sequence.mid",
+    "sequence_slot": 63,
+    "slot_of": 188,
+    "start_bar": 125,
+    "cut_start_frame": 12986085,
+    "measured_onset_ms_from_grid": 0.125
+  },
+  "midi": "../../../midi/fullchords-v4/B/00b_main-voicings_Bm7_drop2_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "B2",
+      "F#3",
+      "A3",
+      "D4"
+    ],
+    "size_bytes": 159,
+    "sha256": "f27427d8cd117ad4c44264fd18521fe8ccd1148c0d0e2199c84ca87c5cb9025c"
+  }
+}

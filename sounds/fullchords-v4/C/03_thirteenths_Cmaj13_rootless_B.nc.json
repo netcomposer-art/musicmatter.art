@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "C major 13th chord, rootless B (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/03_thirteenths_Cmaj13_rootless_B.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "fd57f58d08ba0cbd61fadce4c8955220"
+  },
+  "size_bytes": 255671,
+  "sha256": "6ebbc7a3730889acac471c67ff29912185154e5e7047b51e23e621e3f3355df0",
+  "type": "chord",
+  "key": "C major",
+  "chords": [
+    "Cmaj13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "A4",
+    "root": null,
+    "bass": "B3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Cmaj13",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "maj13",
+    "quality_name": "major 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "rootless_B",
+    "notes": [
+      "B3",
+      "D4",
+      "E4",
+      "A4"
+    ],
+    "midi_notes": [
+      59,
+      62,
+      64,
+      69
+    ],
+    "bass_note": "B3",
+    "bass_midi": 59,
+    "bass_degree": "7",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 104,
+    "slot_of": 188,
+    "start_bar": 207,
+    "cut_start_frame": 21573721,
+    "measured_onset_ms_from_grid": 0.438
+  },
+  "midi": "../../../midi/fullchords-v4/C/03_thirteenths_Cmaj13_rootless_B.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "B3",
+      "D4",
+      "E4",
+      "A4"
+    ],
+    "size_bytes": 159,
+    "sha256": "66f31a82f1f08db7dc387b19d6e0d2cdbb2489fee67c73d7836393c4a5c12799"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "B major 9th chord, drop2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/B/02_ninths_Bmaj9_drop2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "ac797102105ee4c08f7f0ace4903854f"
+  },
+  "size_bytes": 266316,
+  "sha256": "fc8c40e7b54f961332383747fc5447bcacdd7cd59eb86a2150835d50bebc6818",
+  "type": "chord",
+  "key": "B major",
+  "chords": [
+    "Bmaj9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "C#5",
+    "root": "B3",
+    "bass": "F#3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bmaj9",
+    "root": "B",
+    "root_pc": 11,
+    "quality": "maj9",
+    "quality_name": "major 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "drop2",
+    "notes": [
+      "F#3",
+      "B3",
+      "D#4",
+      "A#4",
+      "C#5"
+    ],
+    "midi_notes": [
+      54,
+      59,
+      63,
+      70,
+      73
+    ],
+    "bass_note": "F#3",
+    "bass_midi": 54,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_B_v4_sequence.mid",
+    "sequence_slot": 90,
+    "slot_of": 188,
+    "start_bar": 179,
+    "cut_start_frame": 18641358,
+    "measured_onset_ms_from_grid": -0.708
+  },
+  "midi": "../../../midi/fullchords-v4/B/02_ninths_Bmaj9_drop2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F#3",
+      "B3",
+      "D#4",
+      "A#4",
+      "C#5"
+    ],
+    "size_bytes": 154,
+    "sha256": "5a2ed62fdd1a0384245308cb863ce526448edfc278be84e935a58fe31c540708"
+  }
+}

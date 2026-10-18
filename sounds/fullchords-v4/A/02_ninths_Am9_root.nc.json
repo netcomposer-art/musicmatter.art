@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "A minor 9th chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/A/02_ninths_Am9_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "288877e50db495e9ac69b586026fb668"
+  },
+  "size_bytes": 282807,
+  "sha256": "ae17f624207a230bbd81a283c09694077c4a479195a2db4ae05a03e15bd363d5",
+  "type": "chord",
+  "key": "A minor",
+  "chords": [
+    "Am9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A2",
+    "high": "B3",
+    "root": "A2",
+    "bass": "A2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Am9",
+    "root": "A",
+    "root_pc": 9,
+    "quality": "m9",
+    "quality_name": "minor 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "root",
+    "notes": [
+      "A2",
+      "C3",
+      "E3",
+      "G3",
+      "B3"
+    ],
+    "midi_notes": [
+      45,
+      48,
+      52,
+      55,
+      59
+    ],
+    "bass_note": "A2",
+    "bass_midi": 45,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_A_v4_sequence.mid",
+    "sequence_slot": 82,
+    "slot_of": 188,
+    "start_bar": 163,
+    "cut_start_frame": 16965720,
+    "measured_onset_ms_from_grid": 0.375
+  },
+  "midi": "../../../midi/fullchords-v4/A/02_ninths_Am9_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A2",
+      "C3",
+      "E3",
+      "G3",
+      "B3"
+    ],
+    "size_bytes": 151,
+    "sha256": "2ef72e84b66b0c964a0f637d1fa23a35a864eddc6423636488c630c745f9b068"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "G minor chord, position 6, inv2 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/G/00a_main_Gm_6_inv2_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "3c6a01558906d3fdd3beb483eb302eb2"
+  },
+  "size_bytes": 245842,
+  "sha256": "812abf6d04253d1002e0ba1582e8e8b6f5608de923979602675f2a903980284e",
+  "type": "chord",
+  "key": "G minor",
+  "chords": [
+    "Gm"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "A#4",
+    "root": "G4",
+    "bass": "D4",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Gm",
+    "root": "G",
+    "root_pc": 7,
+    "quality": "m",
+    "quality_name": "minor",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "6_inv2_8va",
+    "notes": [
+      "D4",
+      "G4",
+      "A#4"
+    ],
+    "midi_notes": [
+      62,
+      67,
+      70
+    ],
+    "bass_note": "D4",
+    "bass_midi": 62,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_G_v4_sequence.mid",
+    "sequence_slot": 12,
+    "slot_of": 188,
+    "start_bar": 23,
+    "cut_start_frame": 2303902,
+    "measured_onset_ms_from_grid": 0.521
+  },
+  "midi": "../../../midi/fullchords-v4/G/00a_main_Gm_6_inv2_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D4",
+      "G4",
+      "A#4"
+    ],
+    "size_bytes": 143,
+    "sha256": "62cbaebda225758aa9517237aaba10689faef85a9d4702b467af6e09213bf96e"
+  }
+}

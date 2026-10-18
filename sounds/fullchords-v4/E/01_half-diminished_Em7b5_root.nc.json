@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E half-diminished (m7♭5) chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/01_half-diminished_Em7b5_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "5ada5a3a1a5caae83800eaf28a9230f5"
+  },
+  "size_bytes": 270985,
+  "sha256": "262cca68516cc101b4318fcfd6763ceb043eeb3c39d58928e2ca0c04e577611e",
+  "type": "chord",
+  "key": "E minor",
+  "chords": [
+    "Em7b5"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "D4",
+    "root": "E3",
+    "bass": "E3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Em7b5",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "m7b5",
+    "quality_name": "half-diminished (m7♭5)",
+    "family": "01_half-diminished",
+    "family_name": "half-diminished",
+    "voicing": "root",
+    "notes": [
+      "E3",
+      "G3",
+      "A#3",
+      "D4"
+    ],
+    "midi_notes": [
+      52,
+      55,
+      58,
+      62
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 73,
+    "slot_of": 188,
+    "start_bar": 145,
+    "cut_start_frame": 15080632,
+    "measured_onset_ms_from_grid": -0.271
+  },
+  "midi": "../../../midi/fullchords-v4/E/01_half-diminished_Em7b5_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "G3",
+      "A#3",
+      "D4"
+    ],
+    "size_bytes": 156,
+    "sha256": "79b91b523c4d145271dd491e51bb8f01f36f07b8366cd1ac14d6bef9a2f64948"
+  }
+}

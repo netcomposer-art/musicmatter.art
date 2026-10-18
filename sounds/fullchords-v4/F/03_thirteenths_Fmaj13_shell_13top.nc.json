@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "F major 13th chord, shell 13top (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/F/03_thirteenths_Fmaj13_shell_13top.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0258faef7fbf5a22a6394d8d5b928388"
+  },
+  "size_bytes": 264356,
+  "sha256": "f0b3b8a0054b9b52968e75b5958eda3c26c5cadbfda3a265fc2a82dc6284ec2a",
+  "type": "chord",
+  "key": "F major",
+  "chords": [
+    "Fmaj13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "D5",
+    "root": "F3",
+    "bass": "F3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Fmaj13",
+    "root": "F",
+    "root_pc": 5,
+    "quality": "maj13",
+    "quality_name": "major 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "shell_13top",
+    "notes": [
+      "F3",
+      "E4",
+      "A4",
+      "D5"
+    ],
+    "midi_notes": [
+      53,
+      64,
+      69,
+      74
+    ],
+    "bass_note": "F3",
+    "bass_midi": 53,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_F_v4_sequence.mid",
+    "sequence_slot": 105,
+    "slot_of": 188,
+    "start_bar": 209,
+    "cut_start_frame": 21783177,
+    "measured_onset_ms_from_grid": -0.438
+  },
+  "midi": "../../../midi/fullchords-v4/F/03_thirteenths_Fmaj13_shell_13top.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F3",
+      "E4",
+      "A4",
+      "D5"
+    ],
+    "size_bytes": 160,
+    "sha256": "a2e803d315925fa1671544b86e3c66bd513a5958076b9ca2bd7532ac41783d1b"
+  }
+}

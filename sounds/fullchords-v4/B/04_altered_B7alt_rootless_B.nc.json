@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "B 7 altered chord, rootless B (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/B/04_altered_B7alt_rootless_B.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a6bd29f48caee2a36d4045162569c31f"
+  },
+  "size_bytes": 262840,
+  "sha256": "ad2f0a540d90052999d8c4b25e9fc4a1e84e101030f39dea31e408e64bf81ba6",
+  "type": "chord",
+  "key": "B major",
+  "chords": [
+    "B7alt"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A3",
+    "high": "G4",
+    "root": null,
+    "bass": "A3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "B7alt",
+    "root": "B",
+    "root_pc": 11,
+    "quality": "7alt",
+    "quality_name": "7 altered",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "rootless_B",
+    "notes": [
+      "A3",
+      "C4",
+      "D#4",
+      "G4"
+    ],
+    "midi_notes": [
+      57,
+      60,
+      63,
+      67
+    ],
+    "bass_note": "A3",
+    "bass_midi": 57,
+    "bass_degree": "♭7",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_B_v4_sequence.mid",
+    "sequence_slot": 117,
+    "slot_of": 188,
+    "start_bar": 233,
+    "cut_start_frame": 24296630,
+    "measured_onset_ms_from_grid": -0.229
+  },
+  "midi": "../../../midi/fullchords-v4/B/04_altered_B7alt_rootless_B.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A3",
+      "C4",
+      "D#4",
+      "G4"
+    ],
+    "size_bytes": 154,
+    "sha256": "3815549e1acd862fb0099d6058e7259712ca2ee91044f6757874051f7ff444ef"
+  }
+}

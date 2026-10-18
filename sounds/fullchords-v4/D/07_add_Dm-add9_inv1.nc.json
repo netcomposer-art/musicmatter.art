@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "D minor add9 chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/D/07_add_Dm-add9_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "413df820142e8268331c7e16ca306490"
+  },
+  "size_bytes": 266041,
+  "sha256": "d474abf19bc2e4d188afa1739e63bcb98736de6ee38ff3225ba5993a79a343bb",
+  "type": "chord",
+  "key": "D minor",
+  "chords": [
+    "Dm-add9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "E4",
+    "root": "D4",
+    "bass": "F3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dm-add9",
+    "root": "D",
+    "root_pc": 2,
+    "quality": "m-add9",
+    "quality_name": "minor add9",
+    "family": "07_add",
+    "family_name": "add chords",
+    "voicing": "inv1",
+    "notes": [
+      "F3",
+      "A3",
+      "D4",
+      "E4"
+    ],
+    "midi_notes": [
+      53,
+      57,
+      62,
+      64
+    ],
+    "bass_note": "F3",
+    "bass_midi": 53,
+    "bass_degree": "♭3/♯9",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_D_v4_sequence.mid",
+    "sequence_slot": 167,
+    "slot_of": 188,
+    "start_bar": 333,
+    "cut_start_frame": 34769358,
+    "measured_onset_ms_from_grid": 0.625
+  },
+  "midi": "../../../midi/fullchords-v4/D/07_add_Dm-add9_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F3",
+      "A3",
+      "D4",
+      "E4"
+    ],
+    "size_bytes": 146,
+    "sha256": "600c110aa1474bd552713a2ef06091eab4c6974db6f2856ac6c7aed4c847f702"
+  }
+}

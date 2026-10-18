@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "E 7♯9 chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/04_altered_E7sharp9_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a5f917f9a2489a498a248d8e1a6b473a"
+  },
+  "size_bytes": 269087,
+  "sha256": "741d5d0decfc90476a5f0adc6d514b54b24d194741b4565cde7371045b9f3425",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "E7#9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "G4",
+    "root": "E3",
+    "bass": "E3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "E7#9",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "7#9",
+    "quality_name": "7♯9",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "root",
+    "notes": [
+      "E3",
+      "G#3",
+      "B3",
+      "D4",
+      "G4"
+    ],
+    "midi_notes": [
+      52,
+      56,
+      59,
+      62,
+      67
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 110,
+    "slot_of": 188,
+    "start_bar": 219,
+    "cut_start_frame": 22830450,
+    "measured_onset_ms_from_grid": -0.146
+  },
+  "midi": "../../../midi/fullchords-v4/E/04_altered_E7sharp9_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "G#3",
+      "B3",
+      "D4",
+      "G4"
+    ],
+    "size_bytes": 153,
+    "sha256": "de2c0e9550ca5ea7d0e8929488f083cce5194a807065ba6517bea69507337f26"
+  }
+}

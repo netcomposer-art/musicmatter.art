@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "D♭ 7♯11 chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Db/04_altered_Db7sharp11_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "47dda159038eb1bd559a4c1042f151c7"
+  },
+  "size_bytes": 271651,
+  "sha256": "6fe53aa7ff0f1eff17f628c0d961bf69029e5cbc3b4dd8bd981fb483cd377b71",
+  "type": "chord",
+  "key": "C# major",
+  "chords": [
+    "Db7#11"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F3",
+    "high": "G4",
+    "root": "C#4",
+    "bass": "F3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Db7#11",
+    "root": "Db",
+    "root_pc": 1,
+    "quality": "7#11",
+    "quality_name": "7♯11",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "inv1",
+    "notes": [
+      "F3",
+      "G#3",
+      "B3",
+      "C#4",
+      "G4"
+    ],
+    "midi_notes": [
+      53,
+      56,
+      59,
+      61,
+      67
+    ],
+    "bass_note": "F3",
+    "bass_midi": 53,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Db_v4_sequence.mid",
+    "sequence_slot": 107,
+    "slot_of": 188,
+    "start_bar": 213,
+    "cut_start_frame": 22202085,
+    "measured_onset_ms_from_grid": 0.125
+  },
+  "midi": "../../../midi/fullchords-v4/Db/04_altered_Db7sharp11_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F3",
+      "G#3",
+      "B3",
+      "C#4",
+      "G4"
+    ],
+    "size_bytes": 155,
+    "sha256": "9908217b3e861f2d173cd8ad60b92a0b90bf665399f07bfbe43e621a09261d79"
+  }
+}

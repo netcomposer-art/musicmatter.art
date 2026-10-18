@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "E♭ minor 6/9 chord, rootless quartal (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Eb/06_sixths_Ebm6-9_rootless_quartal.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "cf8069ac77381dd4c1f84254d7f0e316"
+  },
+  "size_bytes": 258297,
+  "sha256": "120da7fecee555e179e95dffb36955d8ce5fe079a0429bed69e6ba273986966f",
+  "type": "chord",
+  "key": "D# minor",
+  "chords": [
+    "Ebm6-9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "A#4",
+    "root": null,
+    "bass": "F#3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ebm6-9",
+    "root": "Eb",
+    "root_pc": 3,
+    "quality": "m6-9",
+    "quality_name": "minor 6/9",
+    "family": "06_sixths",
+    "family_name": "sixths",
+    "voicing": "rootless_quartal",
+    "notes": [
+      "F#3",
+      "C4",
+      "F4",
+      "A#4"
+    ],
+    "midi_notes": [
+      54,
+      60,
+      65,
+      70
+    ],
+    "bass_note": "F#3",
+    "bass_midi": 54,
+    "bass_degree": "♭3/♯9",
+    "root_in_voicing": false
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Eb_v4_sequence.mid",
+    "sequence_slot": 158,
+    "slot_of": 188,
+    "start_bar": 315,
+    "cut_start_frame": 32884268,
+    "measured_onset_ms_from_grid": 0.021
+  },
+  "midi": "../../../midi/fullchords-v4/Eb/06_sixths_Ebm6-9_rootless_quartal.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F#3",
+      "C4",
+      "F4",
+      "A#4"
+    ],
+    "size_bytes": 160,
+    "sha256": "2470f0c2e0ec2dbcbc1bc54e86a8b95237fdc8cc1b041ef2a0cb5adaba8b537a"
+  }
+}

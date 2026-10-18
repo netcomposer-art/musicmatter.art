@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "E augmented chord, position 1, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/00a_main_Eaug_1_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "db866d11f7822d3e81ad2c684b9a3285"
+  },
+  "size_bytes": 262204,
+  "sha256": "46f0a09882a6a2b795023d8252dfeec8ce997a684909de48f754b9a0bde3e198",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "Eaug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "C4",
+    "root": "E3",
+    "bass": "E3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Eaug",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "aug",
+    "quality_name": "augmented",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "1_root",
+    "notes": [
+      "E3",
+      "G#3",
+      "C4"
+    ],
+    "midi_notes": [
+      52,
+      56,
+      60
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 43,
+    "slot_of": 188,
+    "start_bar": 85,
+    "cut_start_frame": 8796996,
+    "measured_onset_ms_from_grid": -0.5
+  },
+  "midi": "../../../midi/fullchords-v4/E/00a_main_Eaug_1_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "G#3",
+      "C4"
+    ],
+    "size_bytes": 141,
+    "sha256": "6784426ed1cb497ddcade2a64b07242ce213ac9d7c6413a075fd0960fe850b56"
+  }
+}

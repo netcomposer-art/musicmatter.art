@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "C add9 chord, root close (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/07_add_Cadd9_root_close.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "5e894de1fa04900d9b33749425657e24"
+  },
+  "size_bytes": 276725,
+  "sha256": "8bb11d67df44af69505b1a7c6075bdeb07bfece13f2a42bdd624b8d0a6868e63",
+  "type": "chord",
+  "key": "C major",
+  "chords": [
+    "Cadd9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C3",
+    "high": "G3",
+    "root": "C3",
+    "bass": "C3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Cadd9",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "add9",
+    "quality_name": "add9",
+    "family": "07_add",
+    "family_name": "add chords",
+    "voicing": "root_close",
+    "notes": [
+      "C3",
+      "D3",
+      "E3",
+      "G3"
+    ],
+    "midi_notes": [
+      48,
+      50,
+      52,
+      55
+    ],
+    "bass_note": "C3",
+    "bass_midi": 48,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 162,
+    "slot_of": 188,
+    "start_bar": 323,
+    "cut_start_frame": 33722085,
+    "measured_onset_ms_from_grid": 0.125
+  },
+  "midi": "../../../midi/fullchords-v4/C/07_add_Cadd9_root_close.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C3",
+      "D3",
+      "E3",
+      "G3"
+    ],
+    "size_bytes": 150,
+    "sha256": "f70ad03d477f77a0a4750158ba04ad175f15e44efc087b2da66afaebd24ce1d5"
+  }
+}

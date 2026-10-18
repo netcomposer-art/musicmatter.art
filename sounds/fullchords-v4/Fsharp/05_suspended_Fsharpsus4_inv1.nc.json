@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "F♯ sus4 chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Fsharp/05_suspended_Fsharpsus4_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "418dbc320977b2a6ce561e75df6558be"
+  },
+  "size_bytes": 254432,
+  "sha256": "2aa694dbd9c55efbf6b59ef5df578cc1cc4bb2544b6a7eef80c9473ebc6f0474",
+  "type": "chord",
+  "key": "F# major",
+  "chords": [
+    "F#sus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "F#4",
+    "root": "F#4",
+    "bass": "B3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "F#sus4",
+    "root": "F#",
+    "root_pc": 6,
+    "quality": "sus4",
+    "quality_name": "sus4",
+    "family": "05_suspended",
+    "family_name": "suspended",
+    "voicing": "inv1",
+    "notes": [
+      "B3",
+      "C#4",
+      "F#4"
+    ],
+    "midi_notes": [
+      59,
+      61,
+      66
+    ],
+    "bass_note": "B3",
+    "bass_midi": 59,
+    "bass_degree": "4/11",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Fsharp_v4_sequence.mid",
+    "sequence_slot": 146,
+    "slot_of": 188,
+    "start_bar": 291,
+    "cut_start_frame": 30370813,
+    "measured_onset_ms_from_grid": -0.354
+  },
+  "midi": "../../../midi/fullchords-v4/Fsharp/05_suspended_Fsharpsus4_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "B3",
+      "C#4",
+      "F#4"
+    ],
+    "size_bytes": 145,
+    "sha256": "6d9ca37fd12d69d891704f0de351343a4596debfba4421f33a9a5da0688cf43b"
+  }
+}

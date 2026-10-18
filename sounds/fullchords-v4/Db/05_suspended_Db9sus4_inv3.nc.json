@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "D♭ 9sus4 chord, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Db/05_suspended_Db9sus4_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "7bf7d41cb09b006c70f24b49f8ff4a3d"
+  },
+  "size_bytes": 261551,
+  "sha256": "5406b1200d18f9d6cc6712d9907c10a72633152a3e164812de9cc99c5908102a",
+  "type": "chord",
+  "key": "C# major",
+  "chords": [
+    "Db9sus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "D#5",
+    "root": "C#4",
+    "bass": "B3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Db9sus4",
+    "root": "Db",
+    "root_pc": 1,
+    "quality": "9sus4",
+    "quality_name": "9sus4",
+    "family": "05_suspended",
+    "family_name": "suspended",
+    "voicing": "inv3",
+    "notes": [
+      "B3",
+      "C#4",
+      "F#4",
+      "G#4",
+      "D#5"
+    ],
+    "midi_notes": [
+      59,
+      61,
+      66,
+      68,
+      75
+    ],
+    "bass_note": "B3",
+    "bass_midi": 59,
+    "bass_degree": "♭7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Db_v4_sequence.mid",
+    "sequence_slot": 139,
+    "slot_of": 188,
+    "start_bar": 277,
+    "cut_start_frame": 28904630,
+    "measured_onset_ms_from_grid": -0.208
+  },
+  "midi": "../../../midi/fullchords-v4/Db/05_suspended_Db9sus4_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "B3",
+      "C#4",
+      "F#4",
+      "G#4",
+      "D#5"
+    ],
+    "size_bytes": 158,
+    "sha256": "9c07bee338ebc87d5b077d1f14b88655039b89d7c3ace44fdf975e9e0fe83665"
+  }
+}

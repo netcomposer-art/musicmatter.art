@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "A dominant 13th chord, inv3 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/A/03_thirteenths_A13_inv3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "e04df68dc92aeb2ac35913614f275c2f"
+  },
+  "size_bytes": 263300,
+  "sha256": "93924a7ebbae0ac65d5a7bbcb2ee5534205c2952e7e90ec597c8c298008e8a1f",
+  "type": "chord",
+  "key": "A major",
+  "chords": [
+    "A13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G3",
+    "high": "B4",
+    "root": "A3",
+    "bass": "G3",
+    "inversion": "third"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "A13",
+    "root": "A",
+    "root_pc": 9,
+    "quality": "13",
+    "quality_name": "dominant 13th",
+    "family": "03_thirteenths",
+    "family_name": "thirteenths",
+    "voicing": "inv3",
+    "notes": [
+      "G3",
+      "A3",
+      "C#4",
+      "F#4",
+      "B4"
+    ],
+    "midi_notes": [
+      55,
+      57,
+      61,
+      66,
+      71
+    ],
+    "bass_note": "G3",
+    "bass_midi": 55,
+    "bass_degree": "♭7",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_A_v4_sequence.mid",
+    "sequence_slot": 96,
+    "slot_of": 188,
+    "start_bar": 191,
+    "cut_start_frame": 19898084,
+    "measured_onset_ms_from_grid": 0.188
+  },
+  "midi": "../../../midi/fullchords-v4/A/03_thirteenths_A13_inv3.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G3",
+      "A3",
+      "C#4",
+      "F#4",
+      "B4"
+    ],
+    "size_bytes": 156,
+    "sha256": "bf91c82c944cde7da0465ccade32af70a75ac42e77e18ee51d27126163a1cea2"
+  }
+}

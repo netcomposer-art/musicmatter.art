@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "B♭ 7♭13 chord, shell b13top (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Bb/04_altered_Bb7b13_shell_b13top.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "112432be0fcfa28918231900fb158cba"
+  },
+  "size_bytes": 274988,
+  "sha256": "caac42f5a5ec7b501a81ab5460f47ba185d06e8a25e8fdb74f96584ade34e35f",
+  "type": "chord",
+  "key": "A# major",
+  "chords": [
+    "Bb7b13"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A#2",
+    "high": "F#4",
+    "root": "A#2",
+    "bass": "A#2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bb7b13",
+    "root": "Bb",
+    "root_pc": 10,
+    "quality": "7b13",
+    "quality_name": "7♭13",
+    "family": "04_altered",
+    "family_name": "altered dominants",
+    "voicing": "shell_b13top",
+    "notes": [
+      "A#2",
+      "D3",
+      "G#3",
+      "F#4"
+    ],
+    "midi_notes": [
+      46,
+      50,
+      56,
+      66
+    ],
+    "bass_note": "A#2",
+    "bass_midi": 46,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Bb_v4_sequence.mid",
+    "sequence_slot": 123,
+    "slot_of": 188,
+    "start_bar": 245,
+    "cut_start_frame": 25553357,
+    "measured_onset_ms_from_grid": 0.646
+  },
+  "midi": "../../../midi/fullchords-v4/Bb/04_altered_Bb7b13_shell_b13top.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A#2",
+      "D3",
+      "G#3",
+      "F#4"
+    ],
+    "size_bytes": 157,
+    "sha256": "4a111a24d96e951fe42041b8affeb86af5aa2f337db6d9a56453ac116c253b91"
+  }
+}

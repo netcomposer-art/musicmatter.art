@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "D minor 6th chord, position 5, root 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/D/00a_main_Dm6_5_root_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "9645cc8f8ede16e626e119179863a56b"
+  },
+  "size_bytes": 251723,
+  "sha256": "728182f08ff7409ed285b6d4e90e81cbd5822d2f3e82bde3684bad3e96b7b5e1",
+  "type": "chord",
+  "key": "D minor",
+  "chords": [
+    "Dm6"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "B4",
+    "root": "D4",
+    "bass": "D4",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dm6",
+    "root": "D",
+    "root_pc": 2,
+    "quality": "m6",
+    "quality_name": "minor 6th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "5_root_8va",
+    "notes": [
+      "D4",
+      "F4",
+      "A4",
+      "B4"
+    ],
+    "midi_notes": [
+      62,
+      65,
+      69,
+      71
+    ],
+    "bass_note": "D4",
+    "bass_midi": 62,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_D_v4_sequence.mid",
+    "sequence_slot": 53,
+    "slot_of": 188,
+    "start_bar": 105,
+    "cut_start_frame": 10891539,
+    "measured_onset_ms_from_grid": -0.625
+  },
+  "midi": "../../../midi/fullchords-v4/D/00a_main_Dm6_5_root_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D4",
+      "F4",
+      "A4",
+      "B4"
+    ],
+    "size_bytes": 150,
+    "sha256": "fe1ca7114857cdffef6c2d1f5ecda165e034e568bf181bee12239ae7e68032ce"
+  }
+}

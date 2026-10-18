@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "B♭ dominant 7th chord, position 6, inv1 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Bb/00a_main_Bb7_6_inv1_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "3644436a07b297d1d0ebd1e1f49d2c22"
+  },
+  "size_bytes": 255008,
+  "sha256": "27fb2875d0d7c8e0117ec439d126a6f1a76d9b83d88458208bd8852947e33ca0",
+  "type": "chord",
+  "key": "A# major",
+  "chords": [
+    "Bb7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D4",
+    "high": "A#4",
+    "root": "A#4",
+    "bass": "D4",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bb7",
+    "root": "Bb",
+    "root_pc": 10,
+    "quality": "7",
+    "quality_name": "dominant 7th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "6_inv1_8va",
+    "notes": [
+      "D4",
+      "F4",
+      "G#4",
+      "A#4"
+    ],
+    "midi_notes": [
+      62,
+      65,
+      68,
+      70
+    ],
+    "bass_note": "D4",
+    "bass_midi": 62,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Bb_v4_sequence.mid",
+    "sequence_slot": 18,
+    "slot_of": 188,
+    "start_bar": 35,
+    "cut_start_frame": 3560629,
+    "measured_onset_ms_from_grid": 0.021
+  },
+  "midi": "../../../midi/fullchords-v4/Bb/00a_main_Bb7_6_inv1_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D4",
+      "F4",
+      "G#4",
+      "A#4"
+    ],
+    "size_bytes": 150,
+    "sha256": "e4a38782180390f5b3d5890bfa5ee2ab2ac5d8e780d02f45601727cd7497c0f0"
+  }
+}

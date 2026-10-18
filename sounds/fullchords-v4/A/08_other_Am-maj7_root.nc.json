@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "A minor-major 7th chord, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/A/08_other_Am-maj7_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "38e9af4ef389a8adf94aeb0d9f351473"
+  },
+  "size_bytes": 273559,
+  "sha256": "dcb16d6f7ba817e7f00d98d9e9c964de463f68f04a1dcb89e6dde163f1d0be3b",
+  "type": "chord",
+  "key": "A minor",
+  "chords": [
+    "Am-maj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A2",
+    "high": "G#3",
+    "root": "A2",
+    "bass": "A2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Am-maj7",
+    "root": "A",
+    "root_pc": 9,
+    "quality": "m-maj7",
+    "quality_name": "minor-major 7th",
+    "family": "08_other",
+    "family_name": "other colours",
+    "voicing": "root",
+    "notes": [
+      "A2",
+      "C3",
+      "E3",
+      "G#3"
+    ],
+    "midi_notes": [
+      45,
+      48,
+      52,
+      56
+    ],
+    "bass_note": "A2",
+    "bass_midi": 45,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_A_v4_sequence.mid",
+    "sequence_slot": 169,
+    "slot_of": 188,
+    "start_bar": 337,
+    "cut_start_frame": 35188266,
+    "measured_onset_ms_from_grid": 0.021
+  },
+  "midi": "../../../midi/fullchords-v4/A/08_other_Am-maj7_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A2",
+      "C3",
+      "E3",
+      "G#3"
+    ],
+    "size_bytes": 148,
+    "sha256": "0af0d0006b9794306f4bf888faa943726990af0b3ed97a5b7a242985b36f14e2"
+  }
+}

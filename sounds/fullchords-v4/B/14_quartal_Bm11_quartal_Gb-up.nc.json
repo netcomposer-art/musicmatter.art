@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "B minor 11th chord, quartal Gb-up (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/B/14_quartal_Bm11_quartal_Gb-up.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "e1f3f0a8ad36186cce48b64a9800c0f7"
+  },
+  "size_bytes": 266454,
+  "sha256": "84bc154eef92d479d4de807f5191b803487e9f51e332f39a54e05e724dada584",
+  "type": "chord",
+  "key": "B minor",
+  "chords": [
+    "Bm11"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "D5",
+    "root": "B3",
+    "bass": "F#3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Bm11",
+    "root": "B",
+    "root_pc": 11,
+    "quality": "m11",
+    "quality_name": "minor 11th",
+    "family": "14_quartal",
+    "family_name": "quartal",
+    "voicing": "quartal_Gb-up",
+    "notes": [
+      "F#3",
+      "B3",
+      "E4",
+      "A4",
+      "D5"
+    ],
+    "midi_notes": [
+      54,
+      59,
+      64,
+      69,
+      74
+    ],
+    "bass_note": "F#3",
+    "bass_midi": 54,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_B_v4_sequence.mid",
+    "sequence_slot": 187,
+    "slot_of": 188,
+    "start_bar": 373,
+    "cut_start_frame": 38958448,
+    "measured_onset_ms_from_grid": -0.062
+  },
+  "midi": "../../../midi/fullchords-v4/B/14_quartal_Bm11_quartal_Gb-up.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F#3",
+      "B3",
+      "E4",
+      "A4",
+      "D5"
+    ],
+    "size_bytes": 162,
+    "sha256": "c510fe95674174a16b2d5f8f7464c950049200338e48e4287ecb07044151c02c"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "G major 7♯5 chord, inv2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/G/08_other_Gmaj7sharp5_inv2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "b79d0ebe0b418ad70a71d5bbb18a4be2"
+  },
+  "size_bytes": 273878,
+  "sha256": "66c49e196b90b92e10f426e37089bc5642e415e6c69260dd82f3036b2f28fa8b",
+  "type": "chord",
+  "key": "G major",
+  "chords": [
+    "Gmaj7#5"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#3",
+    "high": "B3",
+    "root": "G3",
+    "bass": "D#3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Gmaj7#5",
+    "root": "G",
+    "root_pc": 7,
+    "quality": "maj7#5",
+    "quality_name": "major 7♯5",
+    "family": "08_other",
+    "family_name": "other colours",
+    "voicing": "inv2",
+    "notes": [
+      "D#3",
+      "F#3",
+      "G3",
+      "B3"
+    ],
+    "midi_notes": [
+      51,
+      54,
+      55,
+      59
+    ],
+    "bass_note": "D#3",
+    "bass_midi": 51,
+    "bass_degree": "♯5/♭13",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_G_v4_sequence.mid",
+    "sequence_slot": 179,
+    "slot_of": 188,
+    "start_bar": 357,
+    "cut_start_frame": 37282811,
+    "measured_onset_ms_from_grid": -0.333
+  },
+  "midi": "../../../midi/fullchords-v4/G/08_other_Gmaj7sharp5_inv2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D#3",
+      "F#3",
+      "G3",
+      "B3"
+    ],
+    "size_bytes": 148,
+    "sha256": "d0e2ad5f9e8cacc81d8fa25ce487c4d0f9b7e0a72d5496e5e9c986639170aacf"
+  }
+}

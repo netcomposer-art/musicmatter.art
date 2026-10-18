@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "B major chord, position 3, inv2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/B/00a_main_B_3_inv2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d478ee0e479ce39d359950062d993ea0"
+  },
+  "size_bytes": 260672,
+  "sha256": "73a69a44f9bf18b940836feafb0286e130b47f25578922b54d2df1708543e682",
+  "type": "chord",
+  "key": "B major",
+  "chords": [
+    "B"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "F#3",
+    "high": "D#4",
+    "root": "B3",
+    "bass": "F#3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "B",
+    "root": "B",
+    "root_pc": 11,
+    "quality": "maj",
+    "quality_name": "major",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "3_inv2",
+    "notes": [
+      "F#3",
+      "B3",
+      "D#4"
+    ],
+    "midi_notes": [
+      54,
+      59,
+      63
+    ],
+    "bass_note": "F#3",
+    "bass_midi": 54,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_B_v4_sequence.mid",
+    "sequence_slot": 3,
+    "slot_of": 188,
+    "start_bar": 5,
+    "cut_start_frame": 418812,
+    "measured_onset_ms_from_grid": -0.312
+  },
+  "midi": "../../../midi/fullchords-v4/B/00a_main_B_3_inv2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "F#3",
+      "B3",
+      "D#4"
+    ],
+    "size_bytes": 138,
+    "sha256": "a01226a1c434f072e129aa0b3796c812330cc47c784b3d27b9733771425a6e7a"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "C diminished 7th chord, position 1, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/00a_main_Cdim7_1_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "bc7204f1ad094793da2a2c43303cf457"
+  },
+  "size_bytes": 277029,
+  "sha256": "f5b12c258276b4e27d408a65fcfbacd50cad432cb0021af49dcc7cefc5e2d743",
+  "type": "chord",
+  "key": "C minor",
+  "chords": [
+    "Cdim7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C3",
+    "high": "A3",
+    "root": "C3",
+    "bass": "C3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Cdim7",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "dim7",
+    "quality_name": "diminished 7th",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "1_root",
+    "notes": [
+      "C3",
+      "D#3",
+      "F#3",
+      "A3"
+    ],
+    "midi_notes": [
+      48,
+      51,
+      54,
+      57
+    ],
+    "bass_note": "C3",
+    "bass_midi": 48,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 37,
+    "slot_of": 188,
+    "start_bar": 73,
+    "cut_start_frame": 7540267,
+    "measured_onset_ms_from_grid": 0.0
+  },
+  "midi": "../../../midi/fullchords-v4/C/00a_main_Cdim7_1_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C3",
+      "D#3",
+      "F#3",
+      "A3"
+    ],
+    "size_bytes": 148,
+    "sha256": "b49b655f4a492fa50ae1c00a80acc1c339729cc2297ba1c391250108148fe7f7"
+  }
+}

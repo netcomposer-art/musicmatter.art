@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "D minor-major 7th chord, inv2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/D/08_other_Dm-maj7_inv2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0baf2df38340db1ec4d47e918bdc339f"
+  },
+  "size_bytes": 261409,
+  "sha256": "0b71609ec39df295dc5d689fc06d453862c9b6b7a721015fd3826267a3ada9d6",
+  "type": "chord",
+  "key": "D minor",
+  "chords": [
+    "Dm-maj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "A3",
+    "high": "F4",
+    "root": "D4",
+    "bass": "A3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dm-maj7",
+    "root": "D",
+    "root_pc": 2,
+    "quality": "m-maj7",
+    "quality_name": "minor-major 7th",
+    "family": "08_other",
+    "family_name": "other colours",
+    "voicing": "inv2",
+    "notes": [
+      "A3",
+      "C#4",
+      "D4",
+      "F4"
+    ],
+    "midi_notes": [
+      57,
+      61,
+      62,
+      65
+    ],
+    "bass_note": "A3",
+    "bass_midi": 57,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_D_v4_sequence.mid",
+    "sequence_slot": 171,
+    "slot_of": 188,
+    "start_bar": 341,
+    "cut_start_frame": 35607176,
+    "measured_onset_ms_from_grid": 0.771
+  },
+  "midi": "../../../midi/fullchords-v4/D/08_other_Dm-maj7_inv2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "A3",
+      "C#4",
+      "D4",
+      "F4"
+    ],
+    "size_bytes": 148,
+    "sha256": "735c336978335272b4da86caf298ab0540f5cf7c45c2c7a63ac66ea1ab9aae34"
+  }
+}

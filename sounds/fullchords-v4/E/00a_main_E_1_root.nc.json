@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "E major chord, position 1, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/00a_main_E_1_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "0df7a751de9a9a6df2595d0f47d803b0"
+  },
+  "size_bytes": 263551,
+  "sha256": "6da9a2944aae7c332ae1cd4f6427eefd9b49ac2f0c5ffa4d95a619aa377d9f75",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "E"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "B3",
+    "root": "E3",
+    "bass": "E3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "E",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "maj",
+    "quality_name": "major",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "1_root",
+    "notes": [
+      "E3",
+      "G#3",
+      "B3"
+    ],
+    "midi_notes": [
+      52,
+      56,
+      59
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 1,
+    "slot_of": 188,
+    "start_bar": 1,
+    "cut_start_frame": -95,
+    "measured_onset_ms_from_grid": 0.208
+  },
+  "midi": "../../../midi/fullchords-v4/E/00a_main_E_1_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "G#3",
+      "B3"
+    ],
+    "size_bytes": 138,
+    "sha256": "2a3946b87247d5a9789ccb506132a1eecf2088b54de0da56376121cf94e40a5b"
+  }
+}

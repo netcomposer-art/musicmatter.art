@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "D♭ augmented chord, position 1, root (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Db/00a_main_Dbaug_1_root.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "bdadc23232d7fedab81b577743ab2807"
+  },
+  "size_bytes": 268067,
+  "sha256": "55135c064f18094bb6e3ca338ac0e0eb7427117ba0d0ff5c5b30d6bc3d1bb419",
+  "type": "chord",
+  "key": "C# major",
+  "chords": [
+    "Dbaug"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C#3",
+    "high": "A3",
+    "root": "C#3",
+    "bass": "C#3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Dbaug",
+    "root": "Db",
+    "root_pc": 1,
+    "quality": "aug",
+    "quality_name": "augmented",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "1_root",
+    "notes": [
+      "C#3",
+      "F3",
+      "A3"
+    ],
+    "midi_notes": [
+      49,
+      53,
+      57
+    ],
+    "bass_note": "C#3",
+    "bass_midi": 49,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Db_v4_sequence.mid",
+    "sequence_slot": 43,
+    "slot_of": 188,
+    "start_bar": 85,
+    "cut_start_frame": 8796994,
+    "measured_onset_ms_from_grid": -0.458
+  },
+  "midi": "../../../midi/fullchords-v4/Db/00a_main_Dbaug_1_root.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C#3",
+      "F3",
+      "A3"
+    ],
+    "size_bytes": 142,
+    "sha256": "512b8521f2f453a9804a0153fe99582100703554f128e4a73aee5d9e32a88f8f"
+  }
+}

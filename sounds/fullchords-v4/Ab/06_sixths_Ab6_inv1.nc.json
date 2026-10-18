@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "A♭ major 6th chord, inv1 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Ab/06_sixths_Ab6_inv1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a911ecc9c93fcd3cfc1991e2fa29d239"
+  },
+  "size_bytes": 277260,
+  "sha256": "e1011eb86f273e26fb7f0aa11a9eca21e8c6640706279c1256244e7a9b535873",
+  "type": "chord",
+  "key": "G# major",
+  "chords": [
+    "Ab6"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "C3",
+    "high": "G#3",
+    "root": "G#3",
+    "bass": "C3",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ab6",
+    "root": "Ab",
+    "root_pc": 8,
+    "quality": "6",
+    "quality_name": "major 6th",
+    "family": "06_sixths",
+    "family_name": "sixths",
+    "voicing": "inv1",
+    "notes": [
+      "C3",
+      "D#3",
+      "F3",
+      "G#3"
+    ],
+    "midi_notes": [
+      48,
+      51,
+      53,
+      56
+    ],
+    "bass_note": "C3",
+    "bass_midi": 48,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Ab_v4_sequence.mid",
+    "sequence_slot": 154,
+    "slot_of": 188,
+    "start_bar": 307,
+    "cut_start_frame": 32046447,
+    "measured_onset_ms_from_grid": -0.083
+  },
+  "midi": "../../../midi/fullchords-v4/Ab/06_sixths_Ab6_inv1.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "C3",
+      "D#3",
+      "F3",
+      "G#3"
+    ],
+    "size_bytes": 145,
+    "sha256": "eb4f03f4e506523e231f2963b1c6c4da4525b7763f5bb2ec73b0fecfe417d884"
+  }
+}

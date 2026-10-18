@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "A♭ diminished chord, position 3, inv2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Ab/00a_main_Abdim_3_inv2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "3a98713982293ebfa0eb7b3936dd3ae9"
+  },
+  "size_bytes": 266404,
+  "sha256": "7ffdd70f7a69a32406c0567ae00875a1196ae831768213be86d1bb81d7c938e8",
+  "type": "chord",
+  "key": "G# minor",
+  "chords": [
+    "Abdim"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D3",
+    "high": "B3",
+    "root": "G#3",
+    "bass": "D3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Abdim",
+    "root": "Ab",
+    "root_pc": 8,
+    "quality": "dim",
+    "quality_name": "diminished",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "3_inv2",
+    "notes": [
+      "D3",
+      "G#3",
+      "B3"
+    ],
+    "midi_notes": [
+      50,
+      56,
+      59
+    ],
+    "bass_note": "D3",
+    "bass_midi": 50,
+    "bass_degree": "♭5/♯11",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Ab_v4_sequence.mid",
+    "sequence_slot": 33,
+    "slot_of": 188,
+    "start_bar": 65,
+    "cut_start_frame": 6702447,
+    "measured_onset_ms_from_grid": -0.083
+  },
+  "midi": "../../../midi/fullchords-v4/Ab/00a_main_Abdim_3_inv2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D3",
+      "G#3",
+      "B3"
+    ],
+    "size_bytes": 142,
+    "sha256": "c08f3600a128fd0370471336c2ad2ca7e9f4942d001bd970d7f2acf357150ed8"
+  }
+}

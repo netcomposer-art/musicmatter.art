@@ -1,0 +1,97 @@
+{
+  "nc_version": "0.1",
+  "title": "A dominant 7th chord, drop2 inv2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/A/00b_main-voicings_A7_drop2_inv2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "8c2bc62361c3bd4c4655f41eacf3963b"
+  },
+  "size_bytes": 265097,
+  "sha256": "2273f99f5cdb1fdead5cc4af1dc12210e550e22d7a7fe486466c54eb15b4508a",
+  "type": "chord",
+  "key": "A major",
+  "chords": [
+    "A7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E3",
+    "high": "G4",
+    "root": "A3",
+    "bass": "E3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "A7",
+    "root": "A",
+    "root_pc": 9,
+    "quality": "7",
+    "quality_name": "dominant 7th",
+    "family": "00b_main-voicings",
+    "family_name": "main chords, shell and drop-2 voicings",
+    "voicing": "drop2_inv2",
+    "notes": [
+      "E3",
+      "A3",
+      "C#4",
+      "G4"
+    ],
+    "midi_notes": [
+      52,
+      57,
+      61,
+      67
+    ],
+    "bass_note": "E3",
+    "bass_midi": 52,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_A_v4_sequence.mid",
+    "sequence_slot": 59,
+    "slot_of": 188,
+    "start_bar": 117,
+    "cut_start_frame": 12148266,
+    "measured_onset_ms_from_grid": 0.042
+  },
+  "midi": "../../../midi/fullchords-v4/A/00b_main-voicings_A7_drop2_inv2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E3",
+      "A3",
+      "C#4",
+      "G4"
+    ],
+    "size_bytes": 158,
+    "sha256": "e6c96ac77262684a48f264c16ad3e02dabb4b5ee517cc0ed049bacd80f8ea6d2"
+  }
+}

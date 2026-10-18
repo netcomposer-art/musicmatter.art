@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "C major chord, position 5, inv1 8va (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/C/00a_main_C_5_inv1_8va.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "e4ab53d97187bc8f2b69091eea3d433c"
+  },
+  "size_bytes": 246188,
+  "sha256": "ad00f30fdf79654e1cc1ea605a0906daa84dbc5bb8d3e7927e8c2585f6886985",
+  "type": "chord",
+  "key": "C major",
+  "chords": [
+    "C"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "E4",
+    "high": "C5",
+    "root": "C5",
+    "bass": "E4",
+    "inversion": "first"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "C",
+    "root": "C",
+    "root_pc": 0,
+    "quality": "maj",
+    "quality_name": "major",
+    "family": "00a_main",
+    "family_name": "main chords, six positions",
+    "voicing": "5_inv1_8va",
+    "notes": [
+      "E4",
+      "G4",
+      "C5"
+    ],
+    "midi_notes": [
+      64,
+      67,
+      72
+    ],
+    "bass_note": "E4",
+    "bass_midi": 64,
+    "bass_degree": "3",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_C_v4_sequence.mid",
+    "sequence_slot": 5,
+    "slot_of": 188,
+    "start_bar": 9,
+    "cut_start_frame": 837721,
+    "measured_onset_ms_from_grid": -0.729
+  },
+  "midi": "../../../midi/fullchords-v4/C/00a_main_C_5_inv1_8va.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "E4",
+      "G4",
+      "C5"
+    ],
+    "size_bytes": 142,
+    "sha256": "feb32b846e22df8ae21cba70764e540f11fb810aa74e97b75b195273b3d4c596"
+  }
+}

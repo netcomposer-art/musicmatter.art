@@ -1,0 +1,94 @@
+{
+  "nc_version": "0.1",
+  "title": "E♭ major 7th chord, shell R-3-7 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Eb/00b_main-voicings_Ebmaj7_shell_R-3-7.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "d476fd9b824353bc63e76cb05826efe6"
+  },
+  "size_bytes": 264594,
+  "sha256": "dc74c3d670f7be076e7c8af7253135e2fbb0a6f15f7aa6ab505bd5c228f18517",
+  "type": "chord",
+  "key": "D# major",
+  "chords": [
+    "Ebmaj7"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "D#3",
+    "high": "D4",
+    "root": "D#3",
+    "bass": "D#3",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ebmaj7",
+    "root": "Eb",
+    "root_pc": 3,
+    "quality": "maj7",
+    "quality_name": "major 7th",
+    "family": "00b_main-voicings",
+    "family_name": "main chords, shell and drop-2 voicings",
+    "voicing": "shell_R-3-7",
+    "notes": [
+      "D#3",
+      "G3",
+      "D4"
+    ],
+    "midi_notes": [
+      51,
+      55,
+      62
+    ],
+    "bass_note": "D#3",
+    "bass_midi": 51,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Eb_v4_sequence.mid",
+    "sequence_slot": 67,
+    "slot_of": 188,
+    "start_bar": 133,
+    "cut_start_frame": 13823904,
+    "measured_onset_ms_from_grid": 0.25
+  },
+  "midi": "../../../midi/fullchords-v4/Eb/00b_main-voicings_Ebmaj7_shell_R-3-7.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "D#3",
+      "G3",
+      "D4"
+    ],
+    "size_bytes": 157,
+    "sha256": "c3bdf924e9522d030b58f094700c48f06f11a4673a01d058d0ca7967a7b211df"
+  }
+}

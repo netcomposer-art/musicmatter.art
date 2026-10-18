@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "A♭ 9sus4 chord, quartal (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/Ab/05_suspended_Ab9sus4_quartal.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "a53da346c6e746b09ca2bafe8c772cfc"
+  },
+  "size_bytes": 282730,
+  "sha256": "302b026539d0750d7673a7bfc6d8fad41f6310f9021ffa5507fd9d7f97344507",
+  "type": "chord",
+  "key": "G# major",
+  "chords": [
+    "Ab9sus4"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "G#2",
+    "high": "D#4",
+    "root": "G#2",
+    "bass": "G#2",
+    "inversion": "root"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Ab9sus4",
+    "root": "Ab",
+    "root_pc": 8,
+    "quality": "9sus4",
+    "quality_name": "9sus4",
+    "family": "05_suspended",
+    "family_name": "suspended",
+    "voicing": "quartal",
+    "notes": [
+      "G#2",
+      "C#3",
+      "F#3",
+      "A#3",
+      "D#4"
+    ],
+    "midi_notes": [
+      44,
+      49,
+      54,
+      58,
+      63
+    ],
+    "bass_note": "G#2",
+    "bass_midi": 44,
+    "bass_degree": "root",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_Ab_v4_sequence.mid",
+    "sequence_slot": 140,
+    "slot_of": 188,
+    "start_bar": 279,
+    "cut_start_frame": 29114084,
+    "measured_onset_ms_from_grid": 0.146
+  },
+  "midi": "../../../midi/fullchords-v4/Ab/05_suspended_Ab9sus4_quartal.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "G#2",
+      "C#3",
+      "F#3",
+      "A#3",
+      "D#4"
+    ],
+    "size_bytes": 161,
+    "sha256": "477296d937e70691ab51e8336f502b761c2530bb930a6f34dc34bef7c3d7a444"
+  }
+}

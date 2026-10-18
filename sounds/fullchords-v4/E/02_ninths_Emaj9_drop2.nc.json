@@ -1,0 +1,100 @@
+{
+  "nc_version": "0.1",
+  "title": "E major 9th chord, drop2 (full chord set v4)",
+  "creator": {
+    "name": "Petrus",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC-BY-SA-4.0",
+  "audio": "https://fullchords.musicmatter.art/E/02_ninths_Emaj9_drop2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "container": "flac",
+    "codec": "flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 209455,
+    "pcm_md5": "9071969f53da1185978c4f3c91e0fa82"
+  },
+  "size_bytes": 259497,
+  "sha256": "52b928d592dc6e22fc5036f1452686757923f055391f9aaac828640e74d328a4",
+  "type": "chord",
+  "key": "E major",
+  "chords": [
+    "Emaj9"
+  ],
+  "loopable": false,
+  "register": {
+    "low": "B3",
+    "high": "F#5",
+    "root": "E4",
+    "bass": "B3",
+    "inversion": "second"
+  },
+  "collection": "full-chord-set-v4",
+  "chord": {
+    "symbol": "Emaj9",
+    "root": "E",
+    "root_pc": 4,
+    "quality": "maj9",
+    "quality_name": "major 9th",
+    "family": "02_ninths",
+    "family_name": "ninths",
+    "voicing": "drop2",
+    "notes": [
+      "B3",
+      "E4",
+      "G#4",
+      "D#5",
+      "F#5"
+    ],
+    "midi_notes": [
+      59,
+      64,
+      68,
+      75,
+      78
+    ],
+    "bass_note": "B3",
+    "bass_midi": 59,
+    "bass_degree": "5",
+    "root_in_voicing": true
+  },
+  "performance": {
+    "bpm": 110,
+    "meter": "4/4",
+    "strikes": 1,
+    "velocity": 96,
+    "hold": "1 bar minus a 1/32 note, then 1 bar of release/silence",
+    "attack_offset_s": 0.002,
+    "duration_s": 4.363646,
+    "instrument_note": "recorded from Petrus's Bitwig Studio bounce; not pitch-shifted, time-stretched or normalized"
+  },
+  "source": {
+    "sequence_midi": "../../../midi/fullchords-v4/sequences/NC_chords_E_v4_sequence.mid",
+    "sequence_slot": 90,
+    "slot_of": 188,
+    "start_bar": 179,
+    "cut_start_frame": 18641360,
+    "measured_onset_ms_from_grid": -0.708
+  },
+  "midi": "../../../midi/fullchords-v4/E/02_ninths_Emaj9_drop2.mid",
+  "midi_info": {
+    "derived_from_audio": false,
+    "source": "performance_data",
+    "confidence": "exact",
+    "method": "the MIDI clip that was played to make this recording (from the 1-bar chord pack, transposed by whole semitones)",
+    "timing": "one strike on the downbeat at 110 BPM 4/4, held 1 bar minus a 1/32 note; velocity 96",
+    "notes": [
+      "B3",
+      "E4",
+      "G#4",
+      "D#5",
+      "F#5"
+    ],
+    "size_bytes": 154,
+    "sha256": "b9b1b905ed2528d6cb243d2f05269612c839a4bd097787a10086c7d173eab8ac"
+  }
+}
