@@ -26,6 +26,22 @@
     "G7b9"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/G/04_altered_G7b9_root.flac",
+    "loop_start": 52,
+    "loop_end": 104779,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 1959,
+    "crossfade_ms": 40.812,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "G2",
     "high": "G#3",

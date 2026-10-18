@@ -26,6 +26,22 @@
     "F#sus4"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "fsharpsus4-arp-updown-6.flac",
+    "loop_start": 104731,
+    "loop_end": 209455,
+    "sample_rate": 48000,
+    "length_frames": 104724,
+    "length_s": 2.18175,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 2 (from just before strike 2 to just before strike 3)",
+    "crossfade": 389,
+    "crossfade_ms": 8.104,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "B4",
     "high": "F#5",

@@ -26,6 +26,22 @@
     "Emaj13"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/E/03_thirteenths_Emaj13_rootless_A.flac",
+    "loop_start": 58,
+    "loop_end": 104785,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 925,
+    "crossfade_ms": 19.271,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "G#3",
     "high": "F#4",

@@ -26,6 +26,22 @@
     "Abm11"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/Ab/09_elevenths_Abm11_inv1.flac",
+    "loop_start": 57,
+    "loop_end": 104784,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 1555,
+    "crossfade_ms": 32.396,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "B2",
     "high": "C#4",

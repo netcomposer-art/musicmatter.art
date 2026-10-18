@@ -26,6 +26,22 @@
     "Adim"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "adim-arp-updown-5.flac",
+    "loop_start": 104730,
+    "loop_end": 209455,
+    "sample_rate": 48000,
+    "length_frames": 104725,
+    "length_s": 2.181771,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 2 (from just before strike 2 to just before strike 3)",
+    "crossfade": 436,
+    "crossfade_ms": 9.083,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "A4",
     "high": "D#5",

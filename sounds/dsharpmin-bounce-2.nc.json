@@ -26,6 +26,22 @@
     "D#min"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "dsharpmin-bounce-2.flac",
+    "loop_start": 104695,
+    "loop_end": 209422,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 2 (from just before strike 2 to just before strike 3)",
+    "crossfade": 1038,
+    "crossfade_ms": 21.625,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "F#3",
     "high": "D#4",

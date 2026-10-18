@@ -1,5 +1,13 @@
 # musicmatter.art changelog
 
+## v7.2 (2026-10-18)
+- **Seamless loop.** With the ⟲ Loop toggle on, players now loop gaplessly and without clicks. `assets/loop.js` fetches and decodes the sound once and plays it through WebAudio (`AudioBufferSourceNode`, `loop=true`, `loopStart`/`loopEnd` from the manifest). The `<audio>` element stays the transport (play, pause, seek, volume) and runs silently underneath. If WebAudio, the manifest or the fetch fails, it falls back to the native `loop` attribute as in v7.1. Same button, same look.
+- **Manifests gain a `loop` entry** (all 3,612 `.nc.json`: 1,356 home sounds, 2,256 full chord set v4). No audio file changed and no new audio files: the loop is a region of the canonical FLAC.
+  - `loop_start`, `loop_end`: frames at `sample_rate`, end exclusive. One bar at 110 BPM (104,727 frames). Home sounds loop bar 2, from just before strike 2 to just before strike 3 (183 of them end up to 178 frames early to stay clear of strike 3's first samples at the very end of the file). Full chord set v4 loops bar 1, from just before the strike. `loop_start` is the lowest-amplitude sample in the 0.5–0.75 ms before the strike.
+  - `crossfade` (frames), `crossfade_shape: "equal-power"`, `crossfade_mode: "tail-into-pre-roll"`. The player replaces the last `crossfade` frames of the region with `tail[i]*cos(π/2·t) + audio[loop_start−crossfade+i]*sin(π/2·t)`, where `t=(i+1)/crossfade` and frames before 0 count as silence. The wrap then lands on the recorded pair (`loop_start−1`, `loop_start`), so it's continuous in level and slope, and the strike itself is untouched. Length is 4 periods of the lowest played note, clamped to 5–50 ms.
+  - `audio` names the file the region belongs to, plus `length_frames`, `length_s`, `bars`, `bpm` and `region`. `loopable` stays `false`, because it describes the file played end to end.
+- Chord sounds decay, so a looped chord re-strikes once a bar. That's a pulse, not a click.
+
 ## v7.1 (2026-10-18)
 - Loop toggle: a small ⟲ button (title "Loop", `aria-pressed`) next to every audio player on the home page and the 12 per-root `/fullchords/` pages. It switches the player's native `loop` (gapless with the FLAC files) and remembers the last choice in `localStorage` (`mm-loop`). New files `/assets/loop.js` and `/assets/loop.css`; each page gains one `<link>` and one `<script>` in `<head>`. No content, audio or manifests changed.
 

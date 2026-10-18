@@ -26,6 +26,22 @@
     "Cmaj13"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/C/03_thirteenths_Cmaj13_rootless_B.flac",
+    "loop_start": 75,
+    "loop_end": 104802,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 778,
+    "crossfade_ms": 16.208,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "B3",
     "high": "A4",

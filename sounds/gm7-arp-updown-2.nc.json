@@ -26,6 +26,22 @@
     "Gm7"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "gm7-arp-updown-2.flac",
+    "loop_start": 104736,
+    "loop_end": 209455,
+    "sample_rate": 48000,
+    "length_frames": 104719,
+    "length_s": 2.181646,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 2 (from just before strike 2 to just before strike 3)",
+    "crossfade": 412,
+    "crossfade_ms": 8.583,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "A#4",
     "high": "G5",

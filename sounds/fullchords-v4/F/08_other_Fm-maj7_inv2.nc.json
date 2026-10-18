@@ -26,6 +26,22 @@
     "Fm-maj7"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/F/08_other_Fm-maj7_inv2.flac",
+    "loop_start": 92,
+    "loop_end": 104819,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 734,
+    "crossfade_ms": 15.292,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "C4",
     "high": "G#4",

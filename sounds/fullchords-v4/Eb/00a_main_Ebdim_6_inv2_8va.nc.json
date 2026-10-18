@@ -26,6 +26,22 @@
     "Ebdim"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/Eb/00a_main_Ebdim_6_inv2_8va.flac",
+    "loop_start": 45,
+    "loop_end": 104772,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 436,
+    "crossfade_ms": 9.083,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "A4",
     "high": "F#5",

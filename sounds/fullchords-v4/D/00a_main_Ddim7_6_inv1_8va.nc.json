@@ -26,6 +26,22 @@
     "Ddim7"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/D/00a_main_Ddim7_6_inv1_8va.flac",
+    "loop_start": 22,
+    "loop_end": 104749,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 550,
+    "crossfade_ms": 11.458,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "F4",
     "high": "D5",

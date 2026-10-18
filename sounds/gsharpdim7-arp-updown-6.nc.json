@@ -25,6 +25,22 @@
     "G#dim7"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "gsharpdim7-arp-updown-6.flac",
+    "loop_start": 104725,
+    "loop_end": 209452,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 2 (from just before strike 2 to just before strike 3)",
+    "crossfade": 462,
+    "crossfade_ms": 9.625,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "G#4",
     "high": "F5",

@@ -26,6 +26,22 @@
     "Emaj7#5"
   ],
   "loopable": false,
+  "loop": {
+    "audio": "https://fullchords.musicmatter.art/E/08_other_Emaj7sharp5_root.flac",
+    "loop_start": 70,
+    "loop_end": 104797,
+    "sample_rate": 48000,
+    "length_frames": 104727,
+    "length_s": 2.181812,
+    "bars": 1,
+    "bpm": 110,
+    "region": "bar 1 (strike, sustain, start of release)",
+    "crossfade": 1165,
+    "crossfade_ms": 24.271,
+    "crossfade_shape": "equal-power",
+    "crossfade_mode": "tail-into-pre-roll",
+    "spec": "https://musicmatter.art/CHANGELOG.md (v7.2: loop entry)"
+  },
   "register": {
     "low": "E3",
     "high": "D#4",
