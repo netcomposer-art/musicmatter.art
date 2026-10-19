@@ -1,11 +1,11 @@
 # musicmatter.art changelog
 
 ## Homepage instruments (2026-10-19)
-- The home page lists full-chord instruments only, read from `netcomposer.json`: Piano (full chord set v4, 2,256), Synth Arp (2,256) and Jacobs Choir (2,071). A later instrument shows up when its offerings carry `instrument` (and root, quality, chord, voicing). Players are created only when a chord-quality section is opened.
+- The home page lists full-chord instruments only, read from `netcomposer.json`: Piano (full chord set v4, 2,256), Synth Arp (2,256) and Choir (2,071). A later instrument shows up when its offerings carry `instrument` (and root, quality, chord, voicing). Players are created only when a chord-quality section is opened.
 - Search is one box (forgiving: `Cmaj7`, `c maj7`, `F#m7b5`, `f sharp minor`, `sus2`, `choir`, `arp Bb`) and can be limited to one instrument. Results play inline.
 - **Stop all** pauses every snippet and loop. On a narrow screen it stays fixed to the bottom edge.
 - The original 1,356 chord and arpeggio takes are off the homepage only. Their files, manifests and catalog entries are unchanged; `/archive/` still plays them.
-- `netcomposer.json` gains the Synth Arp and Jacobs Choir offerings from the draft catalog. The existing 3,612 offerings are unchanged. Piano audio was already on `audio.musicmatter.art/fullchords/`.
+- `netcomposer.json` gains the Synth Arp and Choir offerings from the draft catalog. The existing 3,612 offerings are unchanged. Piano audio was already on `audio.musicmatter.art/fullchords/`.
 
 ## v7.3 (2026-10-18)
 - **Loop starts off on every page load.** The remembered choice (`localStorage` `mm-loop`, v7.1/v7.2) is gone, and any stored value is cleared on load. Each ⟲ button affects only its own player.
