@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "dm7-arp-updown-2.flac",
+  "audio": "https://audio.musicmatter.art/sounds/dm7-arp-updown-2.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "dm7-arp-updown-2.flac",
+    "audio": "https://audio.musicmatter.art/sounds/dm7-arp-updown-2.flac",
     "loop_start": 104720,
     "loop_end": 209447,
     "sample_rate": 48000,

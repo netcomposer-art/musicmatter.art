@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "cm7-bounce-35.flac",
+  "audio": "https://audio.musicmatter.art/sounds/cm7-bounce-35.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "cm7-bounce-35.flac",
+    "audio": "https://audio.musicmatter.art/sounds/cm7-bounce-35.flac",
     "loop_start": 104708,
     "loop_end": 209434,
     "sample_rate": 48000,

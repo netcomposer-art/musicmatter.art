@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/Bb/02_ninths_Bb9_inv3.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/Bb/02_ninths_Bb9_inv3.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/Bb/02_ninths_Bb9_inv3.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/Bb/02_ninths_Bb9_inv3.flac",
     "loop_start": 66,
     "loop_end": 104793,
     "sample_rate": 48000,

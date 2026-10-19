@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/G/06_sixths_G6-9_rootless_quartal.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/G/06_sixths_G6-9_rootless_quartal.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/G/06_sixths_G6-9_rootless_quartal.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/G/06_sixths_G6-9_rootless_quartal.flac",
     "loop_start": 52,
     "loop_end": 104779,
     "sample_rate": 48000,

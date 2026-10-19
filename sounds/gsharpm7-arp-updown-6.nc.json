@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gsharpm7-arp-updown-6.flac",
+  "audio": "https://audio.musicmatter.art/sounds/gsharpm7-arp-updown-6.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "gsharpm7-arp-updown-6.flac",
+    "audio": "https://audio.musicmatter.art/sounds/gsharpm7-arp-updown-6.flac",
     "loop_start": 104722,
     "loop_end": 209449,
     "sample_rate": 48000,

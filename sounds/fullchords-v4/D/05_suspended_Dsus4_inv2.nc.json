@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/D/05_suspended_Dsus4_inv2.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/D/05_suspended_Dsus4_inv2.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/D/05_suspended_Dsus4_inv2.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/D/05_suspended_Dsus4_inv2.flac",
     "loop_start": 61,
     "loop_end": 104788,
     "sample_rate": 48000,

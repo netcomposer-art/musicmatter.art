@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/C/06_sixths_C6-9_open.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/C/06_sixths_C6-9_open.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/C/06_sixths_C6-9_open.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/C/06_sixths_C6-9_open.flac",
     "loop_start": 85,
     "loop_end": 104812,
     "sample_rate": 48000,

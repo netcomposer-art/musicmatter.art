@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "adim-arp-updown-5.flac",
+  "audio": "https://audio.musicmatter.art/sounds/adim-arp-updown-5.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "adim-arp-updown-5.flac",
+    "audio": "https://audio.musicmatter.art/sounds/adim-arp-updown-5.flac",
     "loop_start": 104730,
     "loop_end": 209455,
     "sample_rate": 48000,

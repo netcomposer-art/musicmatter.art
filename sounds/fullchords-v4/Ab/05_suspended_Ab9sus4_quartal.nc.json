@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/Ab/05_suspended_Ab9sus4_quartal.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/Ab/05_suspended_Ab9sus4_quartal.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/Ab/05_suspended_Ab9sus4_quartal.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/Ab/05_suspended_Ab9sus4_quartal.flac",
     "loop_start": 74,
     "loop_end": 104801,
     "sample_rate": 48000,

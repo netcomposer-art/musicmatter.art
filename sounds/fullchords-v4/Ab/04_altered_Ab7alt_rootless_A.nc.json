@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/Ab/04_altered_Ab7alt_rootless_A.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/Ab/04_altered_Ab7alt_rootless_A.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/Ab/04_altered_Ab7alt_rootless_A.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/Ab/04_altered_Ab7alt_rootless_A.flac",
     "loop_start": 29,
     "loop_end": 104756,
     "sample_rate": 48000,

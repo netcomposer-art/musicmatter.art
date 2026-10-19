@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "bsus4-arp-updown-4.flac",
+  "audio": "https://audio.musicmatter.art/sounds/bsus4-arp-updown-4.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "bsus4-arp-updown-4.flac",
+    "audio": "https://audio.musicmatter.art/sounds/bsus4-arp-updown-4.flac",
     "loop_start": 104727,
     "loop_end": 209454,
     "sample_rate": 48000,

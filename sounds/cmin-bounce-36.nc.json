@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "cmin-bounce-36.flac",
+  "audio": "https://audio.musicmatter.art/sounds/cmin-bounce-36.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "cmin-bounce-36.flac",
+    "audio": "https://audio.musicmatter.art/sounds/cmin-bounce-36.flac",
     "loop_start": 104702,
     "loop_end": 209429,
     "sample_rate": 48000,

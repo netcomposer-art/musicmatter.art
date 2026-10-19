@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharpaug-bounce-6.flac",
+  "audio": "https://audio.musicmatter.art/sounds/asharpaug-bounce-6.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -26,7 +26,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "asharpaug-bounce-6.flac",
+    "audio": "https://audio.musicmatter.art/sounds/asharpaug-bounce-6.flac",
     "loop_start": 104691,
     "loop_end": 209418,
     "sample_rate": 48000,

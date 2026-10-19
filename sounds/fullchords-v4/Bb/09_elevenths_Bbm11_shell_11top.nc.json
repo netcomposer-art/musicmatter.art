@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/Bb/09_elevenths_Bbm11_shell_11top.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/Bb/09_elevenths_Bbm11_shell_11top.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/Bb/09_elevenths_Bbm11_shell_11top.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/Bb/09_elevenths_Bbm11_shell_11top.flac",
     "loop_start": 93,
     "loop_end": 104820,
     "sample_rate": 48000,

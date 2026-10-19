@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asharp7-arp-updown-2.flac",
+  "audio": "https://audio.musicmatter.art/sounds/asharp7-arp-updown-2.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "asharp7-arp-updown-2.flac",
+    "audio": "https://audio.musicmatter.art/sounds/asharp7-arp-updown-2.flac",
     "loop_start": 104741,
     "loop_end": 209455,
     "sample_rate": 48000,

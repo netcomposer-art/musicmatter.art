@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/Bb/03_thirteenths_Bb13_inv1.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/Bb/03_thirteenths_Bb13_inv1.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/Bb/03_thirteenths_Bb13_inv1.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/Bb/03_thirteenths_Bb13_inv1.flac",
     "loop_start": 46,
     "loop_end": 104773,
     "sample_rate": 48000,

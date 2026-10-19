@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fsharpaug-arp-updown-6.flac",
+  "audio": "https://audio.musicmatter.art/sounds/fsharpaug-arp-updown-6.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -26,7 +26,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "fsharpaug-arp-updown-6.flac",
+    "audio": "https://audio.musicmatter.art/sounds/fsharpaug-arp-updown-6.flac",
     "loop_start": 104735,
     "loop_end": 209455,
     "sample_rate": 48000,

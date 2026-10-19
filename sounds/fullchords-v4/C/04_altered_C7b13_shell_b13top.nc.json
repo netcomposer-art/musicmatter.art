@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/C/04_altered_C7b13_shell_b13top.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/C/04_altered_C7b13_shell_b13top.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/C/04_altered_C7b13_shell_b13top.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/C/04_altered_C7b13_shell_b13top.flac",
     "loop_start": 91,
     "loop_end": 104818,
     "sample_rate": 48000,

@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "gdim7-bounce-1.flac",
+  "audio": "https://audio.musicmatter.art/sounds/gdim7-bounce-1.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -26,7 +26,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "gdim7-bounce-1.flac",
+    "audio": "https://audio.musicmatter.art/sounds/gdim7-bounce-1.flac",
     "loop_start": 104672,
     "loop_end": 209399,
     "sample_rate": 48000,

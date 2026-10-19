@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/C/00a_main_Cm7_1_root.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/C/00a_main_Cm7_1_root.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/C/00a_main_Cm7_1_root.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/C/00a_main_Cm7_1_root.flac",
     "loop_start": 62,
     "loop_end": 104789,
     "sample_rate": 48000,

@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "asus4-bounce-5.flac",
+  "audio": "https://audio.musicmatter.art/sounds/asus4-bounce-5.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "asus4-bounce-5.flac",
+    "audio": "https://audio.musicmatter.art/sounds/asus4-bounce-5.flac",
     "loop_start": 104701,
     "loop_end": 209428,
     "sample_rate": 48000,

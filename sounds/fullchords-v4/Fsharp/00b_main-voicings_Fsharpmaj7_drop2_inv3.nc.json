@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "https://fullchords.musicmatter.art/Fsharp/00b_main-voicings_Fsharpmaj7_drop2_inv3.flac",
+  "audio": "https://audio.musicmatter.art/fullchords/Fsharp/00b_main-voicings_Fsharpmaj7_drop2_inv3.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "https://fullchords.musicmatter.art/Fsharp/00b_main-voicings_Fsharpmaj7_drop2_inv3.flac",
+    "audio": "https://audio.musicmatter.art/fullchords/Fsharp/00b_main-voicings_Fsharpmaj7_drop2_inv3.flac",
     "loop_start": 33,
     "loop_end": 104760,
     "sample_rate": 48000,

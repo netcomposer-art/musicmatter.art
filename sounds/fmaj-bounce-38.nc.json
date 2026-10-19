@@ -6,7 +6,7 @@
     "link": "https://musicmatter.art/"
   },
   "license": "CC-BY-SA-4.0",
-  "audio": "fmaj-bounce-38.flac",
+  "audio": "https://audio.musicmatter.art/sounds/fmaj-bounce-38.flac",
   "format": {
     "mime": "audio/flac",
     "container": "flac",
@@ -27,7 +27,7 @@
   ],
   "loopable": false,
   "loop": {
-    "audio": "fmaj-bounce-38.flac",
+    "audio": "https://audio.musicmatter.art/sounds/fmaj-bounce-38.flac",
     "loop_start": 104690,
     "loop_end": 209417,
     "sample_rate": 48000,
