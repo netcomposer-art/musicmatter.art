@@ -39,6 +39,7 @@
     return l?l.href:null;
   }
   function absURL(u,base){try{return new URL(u,base).href}catch(e){return u}}
+  window.mmLoopAttach=function(root){var l=(root||document).querySelectorAll("audio");for(var i=0;i<l.length;i++)add(l[i])};  // for lazily stamped players (sections.js)
 
   function Player(a,b){
     this.a=a; this.b=b; this.on=false; this.ready=null; this.L=null; this.failed=false;
