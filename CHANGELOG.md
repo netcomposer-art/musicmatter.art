@@ -1,5 +1,18 @@
 # musicmatter.art changelog
 
+## Homepage instruments (2026-10-19)
+- The home page lists full-chord instruments only, read from `netcomposer.json`: Piano (full chord set v4, 2,256), Synth Arp (2,256) and Choir (2,071). A later instrument shows up when its offerings carry `instrument` (and root, quality, chord, voicing). Players are created only when a chord-quality section is opened.
+- Search is one box (forgiving: `Cmaj7`, `c maj7`, `F#m7b5`, `f sharp minor`, `sus2`, `choir`, `arp Bb`) and can be limited to one instrument. Results play inline.
+- **Stop all** pauses every snippet and loop. On a narrow screen it stays fixed to the bottom edge.
+- The original 1,356 chord and arpeggio takes are off the homepage only. Their files, manifests and catalog entries are unchanged; `/archive/` still plays them.
+- `netcomposer.json` gains the Synth Arp and Choir offerings from the draft catalog. The existing 3,612 offerings are unchanged. Piano audio was already on `audio.musicmatter.art/fullchords/`.
+
+## v7.3 (2026-10-18)
+- **Loop starts off on every page load.** The remembered choice (`localStorage` `mm-loop`, v7.1/v7.2) is gone, and any stored value is cleared on load. Each ⟲ button affects only its own player.
+- **Loop is available at normal speed only.** When a player's speed (`playbackRate`) is anything but 1×, its ⟲ button is disabled (`disabled`, `aria-disabled="true"`, greyed out, title "Loop is available at normal speed") and clicking it does nothing. Set the speed back to 1× and the button works again, with loop off.
+- **Changing speed while a loop plays** turns the loop off without a break. The `<audio>` element is moved, still muted, to the same point in the sound, then a 30 ms equal-power crossfade hands playback back to it. At the new speed the crossfade sits where the two timelines meet. Turning loop off with the button at 1× uses the same handover, which fixes a v7.2 jump when the loop was switched off after it had wrapped.
+- At 1× the loop itself is unchanged from v7.2: same buffer, same crossfade, same `AudioBufferSourceNode` loop. No audio, manifest or HTML changes. Only `assets/loop.js`, `assets/loop.css` (disabled style) and this file change.
+
 ## v7.2 (2026-10-18)
 - **Seamless loop.** With the ⟲ Loop toggle on, players now loop gaplessly and without clicks. `assets/loop.js` fetches and decodes the sound once and plays it through WebAudio (`AudioBufferSourceNode`, `loop=true`, `loopStart`/`loopEnd` from the manifest). The `<audio>` element stays the transport (play, pause, seek, volume) and runs silently underneath. If WebAudio, the manifest or the fetch fails, it falls back to the native `loop` attribute as in v7.1. Same button, same look.
 - **Manifests gain a `loop` entry** (all 3,612 `.nc.json`: 1,356 home sounds, 2,256 full chord set v4). No audio file changed and no new audio files: the loop is a region of the canonical FLAC.
