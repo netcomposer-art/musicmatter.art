@@ -14,7 +14,7 @@
   /* Chord-symbol suffix (filename spelling, "sharp" not "#") → quality code. Built from the v4 manifests. */
   var SUFFIX={"":"maj","13":"13","6":"6","6-9":"6-9","7":"7","7alt":"7alt","7b13":"7b13","7b5":"7b5","7b9":"7b9","7sharp11":"7#11","7sharp9":"7#9","7sus4":"7sus4","9":"9","9sus4":"9sus4","add9":"add9","aug":"aug","dim":"dim","dim7":"dim7","m":"m","m-add9":"m-add9","m-maj7":"m-maj7","m11":"m11","m13":"m13","m6":"m6","m6-9":"m6-9","m7":"m7","m7b5":"m7b5","m9":"m9","maj13":"maj13","maj7":"maj7","maj7sharp11":"maj7#11","maj7sharp5":"maj7#5","maj9":"maj9","sus2":"sus2","sus4":"sus4"};
   var Q_ALIAS={"maj":"maj","major":"maj","maj7":"maj7","major7":"maj7","ma7":"maj7","major7th":"maj7","m":"m","min":"m","minor":"m","m7":"m7","min7":"m7","minor7":"m7","m7b5":"m7b5","halfdiminished":"m7b5","halfdim":"m7b5","dim":"dim","diminished":"dim","dim7":"dim7","diminished7":"dim7","aug":"aug","augmented":"aug","sus2":"sus2","sus4":"sus4","sus":"sus4","7":"7","dom":"7","dominant":"7","dom7":"7","9":"9","m9":"m9","min9":"m9","minor9":"m9","maj9":"maj9","major9":"maj9","13":"13","m13":"m13","maj13":"maj13","7#11":"7#11","7sharp11":"7#11","7#9":"7#9","7sharp9":"7#9","7alt":"7alt","7b9":"7b9","7b13":"7b13","7b5":"7b5","7sus4":"7sus4","9sus4":"9sus4","6":"6","69":"6-9","6-9":"6-9","m6":"m6","m69":"m6-9","add9":"add9","madd9":"m-add9","mmaj7":"m-maj7","minormajor7":"m-maj7","maj7#11":"maj7#11","maj7#5":"maj7#5","m11":"m11","min11":"m11","minor11":"m11"};
-  var ALIASES=[["jacobs choir","jacobschoir"],["jacobschoir","jacobschoir"],["synth arp","syntharp"],["syntharp","syntharp"],["full chord","piano"],["choir","jacobschoir"],["jacobs","jacobschoir"],["piano","piano"],["synth","syntharp"],["arp","syntharp"]];
+  var ALIASES=[["jacobs choir","jacobschoir"],["jacobschoir","jacobschoir"],["fat synth","fatsynth"],["fatsynth","fatsynth"],["synth arp","syntharp"],["syntharp","syntharp"],["full chord","piano"],["choir","jacobschoir"],["jacobs","jacobschoir"],["piano","piano"],["synth","syntharp"],["fat","fatsynth"],["arp","syntharp"]];
   var ROOT_TOKENS=["c#","db","d#","eb","f#","gb","g#","ab","a#","bb","c","d","e","f","g","a","b"];
   var RESULT_CAP=48;
 
@@ -392,7 +392,7 @@
       var h=el("h2", null, found.total? found.showing+" of "+found.total : "No matches");
       results.appendChild(h);
       if(found.note) results.appendChild(el("p","mm-note", found.note));
-      if(!found.total) results.appendChild(el("p","mm-note","Try a chord (Cmaj7), a root with a quality (f sharp minor), or an instrument (choir, arp)."));
+      if(!found.total) results.appendChild(el("p","mm-note","Try a chord (Cmaj7), a root with a quality (f sharp minor), or an instrument (choir, arp, fat synth)."));
       found.items.forEach(function(s){ results.appendChild(playerFigure(s)) });
       attach(results);
     }
