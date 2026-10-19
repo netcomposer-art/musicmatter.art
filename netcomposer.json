@@ -85254,7 +85254,7 @@
     },
     {
       "id": "full-chord-set-v4-jacobschoir",
-      "title": "Full chord set v4: Jacobs Choir",
+      "title": "Full chord set v4: Choir",
       "instrument": "jacobschoir",
       "count": 2071,
       "roots": 12,
@@ -85263,7 +85263,7 @@
       "excluded_note": "185 of the 2,256 chord clips are left out because the patch is about 20 dB quieter on C3-Db3 and from Ab5 up; those chords fall back to other voicings or instruments",
       "page": "https://musicmatter.art/fullchords/",
       "same_chords_as": "full-chord-set-v4",
-      "description": "The same 188 chords on all 12 roots as the v4 full chord set, sung by Petrus's Jacobs Choir patch. One held chord per clip at 110 BPM with a short release that ends well inside the 2-bar slot, plus the exact MIDI that was played.",
+      "description": "The same 188 chords on all 12 roots as the v4 full chord set, sung by Petrus's Choir patch. One held chord per clip at 110 BPM with a short release that ends well inside the 2-bar slot, plus the exact MIDI that was played.",
       "chord_types": 420,
       "lookup_note": "each offering has chord, root, quality, instrument; one default voicing per chord (gesture \"bounce\", take 0), the rest gesture \"alt\""
     }
