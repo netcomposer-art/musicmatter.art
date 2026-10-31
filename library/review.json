@@ -29,11 +29,13 @@
     "decay_s": 0.28,
     "centroid_hz": 114,
     "low_share": 0.839,
-    "pitch_hz": 86.7
+    "pitch_hz": 86.7,
+    "hit_dbfs": -11.7
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.flac",
-   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.mp3",
+   "gain_db": -2.3
   },
   {
    "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum",
@@ -60,11 +62,13 @@
     "decay_s": 0.201,
     "centroid_hz": 102,
     "low_share": 0.908,
-    "pitch_hz": 83.3
+    "pitch_hz": 83.3,
+    "hit_dbfs": -16.6
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.flac",
-   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.mp3",
+   "gain_db": -2.3
   },
   {
    "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum",
@@ -89,11 +93,13 @@
     "decay_s": 0.195,
     "centroid_hz": 93,
     "low_share": 0.96,
-    "pitch_hz": 83.3
+    "pitch_hz": 83.3,
+    "hit_dbfs": -23.0
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.mp3",
+   "gain_db": -2.3
   },
   {
    "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum",
@@ -117,11 +123,13 @@
     "decay_s": 0.096,
     "centroid_hz": 84,
     "low_share": 0.98,
-    "pitch_hz": 83.3
+    "pitch_hz": 83.3,
+    "hit_dbfs": -28.5
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.flac",
-   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.mp3",
+   "gain_db": -2.3
   },
   {
    "id": "vcsl-concert-bass-drum-2-bassdrum-hit-ff",
@@ -149,11 +157,13 @@
     "decay_s": 2.306,
     "centroid_hz": 69,
     "low_share": 0.892,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -15.1
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-ff.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-ff.flac",
-   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-ff.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-ff.mp3",
+   "gain_db": 1.1
   },
   {
    "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mf1",
@@ -180,11 +190,13 @@
     "decay_s": 2.494,
     "centroid_hz": 50,
     "low_share": 0.981,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -19.0
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.mp3",
+   "gain_db": 5.0
   },
   {
    "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mf2",
@@ -211,11 +223,13 @@
     "decay_s": 2.663,
     "centroid_hz": 52,
     "low_share": 0.969,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -21.2
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.flac",
-   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.mp3",
+   "gain_db": 5.0
   },
   {
    "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mp1",
@@ -242,11 +256,13 @@
     "decay_s": 3.251,
     "centroid_hz": 49,
     "low_share": 0.982,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -26.0
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.mp3",
+   "gain_db": 12.0
   },
   {
    "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mp2",
@@ -273,11 +289,13 @@
     "decay_s": 2.957,
     "centroid_hz": 49,
     "low_share": 0.981,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -26.5
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.flac",
-   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.mp3",
+   "gain_db": 12.0
   },
   {
    "id": "vcsl-concert-bass-drum-2-bassdrum-hit-pp1",
@@ -304,11 +322,13 @@
     "decay_s": 3.254,
     "centroid_hz": 48,
     "low_share": 0.991,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -29.8
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.mp3",
+   "gain_db": 15.8
   },
   {
    "id": "vcsl-concert-bass-drum-3-bdrum-fff-rr1",
@@ -334,11 +354,13 @@
     "decay_s": 0.415,
     "centroid_hz": 229,
     "low_share": 0.457,
-    "pitch_hz": 150.0
+    "pitch_hz": 150.0,
+    "hit_dbfs": -10.9
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-fff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-fff-rr1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-fff-rr1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-fff-rr1.mp3",
+   "gain_db": -4.7
   },
   {
    "id": "vcsl-concert-bass-drum-3-bdrum2-pp-rr1",
@@ -364,11 +386,13 @@
     "decay_s": 0.882,
     "centroid_hz": 110,
     "low_share": 0.888,
-    "pitch_hz": 96.7
+    "pitch_hz": 96.7,
+    "hit_dbfs": -33.7
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.mp3",
+   "gain_db": -4.7
   },
   {
    "id": "vcsl-concert-bass-drum-3-bdrum3-fff-rr1",
@@ -394,11 +418,13 @@
     "decay_s": 0.624,
     "centroid_hz": 137,
     "low_share": 0.773,
-    "pitch_hz": 93.3
+    "pitch_hz": 93.3,
+    "hit_dbfs": -9.3
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.mp3",
+   "gain_db": -4.7
   },
   {
    "id": "vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1",
@@ -424,11 +450,13 @@
     "decay_s": 0.225,
     "centroid_hz": 151,
     "low_share": 0.743,
-    "pitch_hz": 100.0
+    "pitch_hz": 100.0,
+    "hit_dbfs": -11.0
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.mp3",
+   "gain_db": -3.0
   },
   {
    "id": "vcsl-concert-bass-drum-3-bdrum-special-sidehit",
@@ -453,11 +481,13 @@
     "decay_s": 0.309,
     "centroid_hz": 316,
     "low_share": 0.265,
-    "pitch_hz": 140.0
+    "pitch_hz": 140.0,
+    "hit_dbfs": -36.2
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-special-sidehit.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-special-sidehit.flac",
-   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-special-sidehit.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-special-sidehit.mp3",
+   "gain_db": 19.4
   },
   {
    "id": "vcsl-concert-bass-drum-3-bdrum-ff-rr1",
@@ -483,11 +513,13 @@
     "decay_s": 0.866,
     "centroid_hz": 228,
     "low_share": 0.511,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -13.0
    },
    "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-ff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-ff-rr1.flac",
-   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-ff-rr1.mp3"
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-ff-rr1.mp3",
+   "gain_db": -4.7
   },
   {
    "id": "vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid",
@@ -509,11 +541,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.207,
     "centroid_hz": 228,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -11.7
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.mp3",
+   "gain_db": -2.3
   },
   {
    "id": "vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid",
@@ -536,11 +570,13 @@
     "attack_ms": 9.0,
     "decay_s": 0.156,
     "centroid_hz": 944,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -12.5
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.mp3",
+   "gain_db": -1.5
   },
   {
    "id": "vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid",
@@ -564,11 +600,13 @@
     "decay_s": 0.138,
     "centroid_hz": 2987,
     "low_share": 0.113,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -41.1
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.mp3",
+   "gain_db": 19.3
   },
   {
    "id": "vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid",
@@ -590,11 +628,13 @@
     "attack_ms": 2.0,
     "decay_s": 0.145,
     "centroid_hz": 2459,
-    "low_share": 0.018
+    "low_share": 0.018,
+    "hit_dbfs": -34.5
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.mp3",
+   "gain_db": 13.7
   },
   {
    "id": "vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid",
@@ -616,11 +656,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.204,
     "centroid_hz": 224,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -14.2
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.mp3",
+   "gain_db": -2.3
   },
   {
    "id": "vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid",
@@ -643,11 +685,13 @@
     "attack_ms": 9.0,
     "decay_s": 0.152,
     "centroid_hz": 1111,
-    "low_share": 0.004
+    "low_share": 0.004,
+    "hit_dbfs": -18.1
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.mp3",
+   "gain_db": -1.5
   },
   {
    "id": "vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid",
@@ -669,11 +713,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.249,
     "centroid_hz": 207,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -19.0
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.mp3",
+   "gain_db": 5.0
   },
   {
    "id": "vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid",
@@ -696,11 +742,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.117,
     "centroid_hz": 630,
-    "low_share": 0.005
+    "low_share": 0.005,
+    "hit_dbfs": -19.5
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.mp3",
+   "gain_db": 5.5
   },
   {
    "id": "vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid",
@@ -722,11 +770,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.156,
     "centroid_hz": 3486,
-    "low_share": 0.021
+    "low_share": 0.021,
+    "hit_dbfs": -43.8
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.mp3",
+   "gain_db": 22.8
   },
   {
    "id": "vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid",
@@ -749,11 +799,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.161,
     "centroid_hz": 2940,
-    "low_share": 0.046
+    "low_share": 0.046,
+    "hit_dbfs": -41.1
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.mp3",
+   "gain_db": 20.6
   },
   {
    "id": "vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid",
@@ -775,11 +827,13 @@
     "decay_s": 0.152,
     "centroid_hz": 1191,
     "low_share": 0.089,
-    "pitch_hz": 216.7
+    "pitch_hz": 216.7,
+    "hit_dbfs": -39.4
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.mp3",
+   "gain_db": 20.4
   },
   {
    "id": "vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid",
@@ -801,11 +855,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.25,
     "centroid_hz": 199,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -22.6
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.mp3",
+   "gain_db": 5.0
   },
   {
    "id": "vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid",
@@ -828,11 +884,13 @@
     "decay_s": 0.19,
     "centroid_hz": 1160,
     "low_share": 0.176,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -24.4
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.mp3",
+   "gain_db": 8.0
   },
   {
    "id": "vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid",
@@ -854,11 +912,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.269,
     "centroid_hz": 1294,
-    "low_share": 0.006
+    "low_share": 0.006,
+    "hit_dbfs": -24.5
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.mp3",
+   "gain_db": 8.2
   },
   {
    "id": "vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid",
@@ -881,11 +941,13 @@
     "decay_s": 0.135,
     "centroid_hz": 3786,
     "low_share": 0.061,
-    "pitch_hz": 40.0
+    "pitch_hz": 40.0,
+    "hit_dbfs": -39.1
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.mp3",
+   "gain_db": 17.9
   },
   {
    "id": "vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid",
@@ -909,11 +971,13 @@
     "decay_s": 0.146,
     "centroid_hz": 3029,
     "low_share": 0.097,
-    "pitch_hz": 263.3
+    "pitch_hz": 263.3,
+    "hit_dbfs": -41.9
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.mp3",
+   "gain_db": 18.7
   },
   {
    "id": "vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid",
@@ -934,11 +998,13 @@
     "decay_s": 0.222,
     "centroid_hz": 1446,
     "low_share": 0.082,
-    "pitch_hz": 360.0
+    "pitch_hz": 360.0,
+    "hit_dbfs": -47.4
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.mp3",
+   "gain_db": 26.8
   },
   {
    "id": "vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1",
@@ -962,11 +1028,13 @@
     "decay_s": 0.419,
     "centroid_hz": 208,
     "low_share": 0.703,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -23.6
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.flac",
-   "preview": "previews/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.mp3"
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.mp3",
+   "gain_db": 9.6
   },
   {
    "id": "vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1",
@@ -989,11 +1057,13 @@
     "decay_s": 0.595,
     "centroid_hz": 103,
     "low_share": 0.814,
-    "pitch_hz": 60.0
+    "pitch_hz": 60.0,
+    "hit_dbfs": -24.2
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.flac",
-   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.mp3"
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.mp3",
+   "gain_db": 10.2
   },
   {
    "id": "vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1",
@@ -1016,11 +1086,13 @@
     "decay_s": 0.74,
     "centroid_hz": 92,
     "low_share": 0.939,
-    "pitch_hz": 60.0
+    "pitch_hz": 60.0,
+    "hit_dbfs": -22.0
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.flac",
-   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.mp3"
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.mp3",
+   "gain_db": 8.0
   },
   {
    "id": "vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1",
@@ -1044,11 +1116,13 @@
     "decay_s": 0.741,
     "centroid_hz": 90,
     "low_share": 0.911,
-    "pitch_hz": 60.0
+    "pitch_hz": 60.0,
+    "hit_dbfs": -20.6
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.flac",
-   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.mp3"
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.mp3",
+   "gain_db": 6.6
   },
   {
    "id": "vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1",
@@ -1070,11 +1144,13 @@
     "decay_s": 0.226,
     "centroid_hz": 258,
     "low_share": 0.606,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -39.8
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.flac",
-   "preview": "previews/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.mp3"
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.mp3",
+   "gain_db": 16.2
   },
   {
    "id": "vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1",
@@ -1097,11 +1173,13 @@
     "decay_s": 0.276,
     "centroid_hz": 363,
     "low_share": 0.668,
-    "pitch_hz": 46.7
+    "pitch_hz": 46.7,
+    "hit_dbfs": -48.0
    },
    "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.flac",
-   "preview": "previews/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.mp3"
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.mp3",
+   "gain_db": 29.1
   },
   {
    "id": "vcsl-hand-claps-clap-rr1",
@@ -1122,11 +1200,13 @@
     "attack_ms": 17.0,
     "decay_s": 0.146,
     "centroid_hz": 2623,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -18.1
    },
    "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-clap-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-clap-rr1.flac",
-   "preview": "previews/vcsl-hand-claps-clap-rr1.mp3"
+   "preview": "previews/vcsl-hand-claps-clap-rr1.mp3",
+   "gain_db": -0.6
   },
   {
    "id": "vcsl-hand-claps-soloclap-vl4",
@@ -1149,11 +1229,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.045,
     "centroid_hz": 1711,
-    "low_share": 0.011
+    "low_share": 0.011,
+    "hit_dbfs": -21.6
    },
    "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl4.nc.json",
    "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl4.flac",
-   "preview": "previews/vcsl-hand-claps-soloclap-vl4.mp3"
+   "preview": "previews/vcsl-hand-claps-soloclap-vl4.mp3",
+   "gain_db": -0.2
   },
   {
    "id": "vcsl-hand-claps-soloclap-vl3",
@@ -1175,11 +1257,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.04,
     "centroid_hz": 2301,
-    "low_share": 0.023
+    "low_share": 0.023,
+    "hit_dbfs": -25.5
    },
    "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl3.nc.json",
    "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl3.flac",
-   "preview": "previews/vcsl-hand-claps-soloclap-vl3.mp3"
+   "preview": "previews/vcsl-hand-claps-soloclap-vl3.mp3",
+   "gain_db": 3.2
   },
   {
    "id": "vcsl-hand-claps-soloclap-vl2",
@@ -1201,11 +1285,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.045,
     "centroid_hz": 2140,
-    "low_share": 0.03
+    "low_share": 0.03,
+    "hit_dbfs": -28.8
    },
    "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl2.nc.json",
    "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl2.flac",
-   "preview": "previews/vcsl-hand-claps-soloclap-vl2.mp3"
+   "preview": "previews/vcsl-hand-claps-soloclap-vl2.mp3",
+   "gain_db": 7.6
   },
   {
    "id": "vcsl-hand-claps-soloclap-vl1",
@@ -1229,11 +1315,13 @@
     "decay_s": 0.045,
     "centroid_hz": 1424,
     "low_share": 0.108,
-    "pitch_hz": 53.8
+    "pitch_hz": 53.8,
+    "hit_dbfs": -35.0
    },
    "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl1.nc.json",
    "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl1.flac",
-   "preview": "previews/vcsl-hand-claps-soloclap-vl1.mp3"
+   "preview": "previews/vcsl-hand-claps-soloclap-vl1.mp3",
+   "gain_db": 7.6
   },
   {
    "id": "vcsl-hi-hat-hihat-close-rr1-mid",
@@ -1254,11 +1342,13 @@
     "attack_ms": 17.0,
     "decay_s": 0.156,
     "centroid_hz": 5590,
-    "low_share": 0.039
+    "low_share": 0.039,
+    "hit_dbfs": -36.6
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-close-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-close-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-close-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-close-rr1-mid.mp3",
+   "gain_db": 19.1
   },
   {
    "id": "vcsl-hi-hat-hihat-hitc-v4-rr1-mid",
@@ -1279,11 +1369,13 @@
     "attack_ms": 7.0,
     "decay_s": 0.218,
     "centroid_hz": 10334,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -24.4
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.mp3",
+   "gain_db": 9.7
   },
   {
    "id": "vcsl-hi-hat-hihat-hitloose-rr1-mid",
@@ -1302,11 +1394,13 @@
     "attack_ms": 5.0,
     "decay_s": 0.348,
     "centroid_hz": 9248,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -22.5
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitloose-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitloose-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hitloose-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hitloose-rr1-mid.mp3",
+   "gain_db": 6.9
   },
   {
    "id": "vcsl-hi-hat-hihat-hito-rr1-mid",
@@ -1327,11 +1421,13 @@
     "attack_ms": 9.0,
     "decay_s": 1.414,
     "centroid_hz": 6908,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -25.7
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hito-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hito-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hito-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hito-rr1-mid.mp3",
+   "gain_db": 10.4
   },
   {
    "id": "vcsl-hi-hat-hihat-hitoc-rr5-mid",
@@ -1352,11 +1448,13 @@
     "attack_ms": 7.0,
     "decay_s": 0.154,
     "centroid_hz": 6253,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -32.7
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitoc-rr5-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitoc-rr5-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hitoc-rr5-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hitoc-rr5-mid.mp3",
+   "gain_db": 15.5
   },
   {
    "id": "vcsl-hi-hat-hihat-hitc-v3-rr1-mid",
@@ -1378,11 +1476,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.186,
     "centroid_hz": 9811,
-    "low_share": 0.006
+    "low_share": 0.006,
+    "hit_dbfs": -31.1
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.mp3",
+   "gain_db": 10.4
   },
   {
    "id": "vcsl-hi-hat-hihat-hitc-v2-rr1-mid",
@@ -1403,11 +1503,13 @@
     "attack_ms": 5.0,
     "decay_s": 0.154,
     "centroid_hz": 6958,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -42.6
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.mp3",
+   "gain_db": 10.4
   },
   {
    "id": "vcsl-hi-hat-hihat-hitc-v1-rr1-mid",
@@ -1428,11 +1530,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.2,
     "centroid_hz": 5735,
-    "low_share": 0.02
+    "low_share": 0.02,
+    "hit_dbfs": -54.0
    },
    "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.flac",
-   "preview": "previews/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.mp3"
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.mp3",
+   "gain_db": 10.4
   },
   {
    "id": "vcsl-tom-1-tomh-hitm-v4-rr1-mid",
@@ -1454,11 +1558,13 @@
     "decay_s": 0.212,
     "centroid_hz": 215,
     "low_share": 0.636,
-    "pitch_hz": 110.0
+    "pitch_hz": 110.0,
+    "hit_dbfs": -19.3
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hitm-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hitm-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-1-tomh-hitm-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-1-tomh-hitm-v4-rr1-mid.mp3",
+   "gain_db": 5.3
   },
   {
    "id": "vcsl-tom-1-tomh-hits-v4-rr1-mid",
@@ -1481,11 +1587,13 @@
     "decay_s": 0.331,
     "centroid_hz": 220,
     "low_share": 0.607,
-    "pitch_hz": 110.0
+    "pitch_hz": 110.0,
+    "hit_dbfs": -19.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hits-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hits-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-1-tomh-hits-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-1-tomh-hits-v4-rr1-mid.mp3",
+   "gain_db": 5.9
   },
   {
    "id": "vcsl-tom-1-tomh-rimfls-rr2-mid",
@@ -1503,11 +1611,13 @@
     "attack_ms": 37.0,
     "decay_s": 0.149,
     "centroid_hz": 2074,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -48.6
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-rimfls-rr2-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-rimfls-rr2-mid.flac",
-   "preview": "previews/vcsl-tom-1-tomh-rimfls-rr2-mid.mp3"
+   "preview": "previews/vcsl-tom-1-tomh-rimfls-rr2-mid.mp3",
+   "gain_db": 28.6
   },
   {
    "id": "vcsl-tom-1-tomh-rims-v4-rr1-mid",
@@ -1528,11 +1638,13 @@
     "attack_ms": 5.0,
     "decay_s": 0.211,
     "centroid_hz": 1427,
-    "low_share": 0.021
+    "low_share": 0.021,
+    "hit_dbfs": -39.0
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-rims-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-rims-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-1-tomh-rims-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-1-tomh-rims-v4-rr1-mid.mp3",
+   "gain_db": 18.0
   },
   {
    "id": "vcsl-tom-1-tomh-hitm-v3-rr1-mid",
@@ -1554,11 +1666,13 @@
     "decay_s": 0.511,
     "centroid_hz": 173,
     "low_share": 0.759,
-    "pitch_hz": 110.0
+    "pitch_hz": 110.0,
+    "hit_dbfs": -26.8
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hitm-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hitm-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-1-tomh-hitm-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-1-tomh-hitm-v3-rr1-mid.mp3",
+   "gain_db": 5.3
   },
   {
    "id": "vcsl-tom-1-tomh-hits-v3-rr1-mid",
@@ -1580,11 +1694,13 @@
     "decay_s": 0.501,
     "centroid_hz": 188,
     "low_share": 0.731,
-    "pitch_hz": 110.0
+    "pitch_hz": 110.0,
+    "hit_dbfs": -26.1
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hits-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hits-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-1-tomh-hits-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-1-tomh-hits-v3-rr1-mid.mp3",
+   "gain_db": 5.9
   },
   {
    "id": "vcsl-tom-2-toml-hitm-v4-rr1-mid",
@@ -1606,11 +1722,13 @@
     "decay_s": 0.375,
     "centroid_hz": 159,
     "low_share": 0.791,
-    "pitch_hz": 93.3
+    "pitch_hz": 93.3,
+    "hit_dbfs": -20.7
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hitm-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hitm-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-2-toml-hitm-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-2-toml-hitm-v4-rr1-mid.mp3",
+   "gain_db": 5.5
   },
   {
    "id": "vcsl-tom-2-toml-hits-v4-rr1-mid",
@@ -1632,11 +1750,13 @@
     "decay_s": 0.387,
     "centroid_hz": 144,
     "low_share": 0.819,
-    "pitch_hz": 93.3
+    "pitch_hz": 93.3,
+    "hit_dbfs": -21.8
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hits-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hits-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-2-toml-hits-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-2-toml-hits-v4-rr1-mid.mp3",
+   "gain_db": 7.5
   },
   {
    "id": "vcsl-tom-2-toml-rimfls-rr2-mid",
@@ -1656,11 +1776,13 @@
     "decay_s": 0.348,
     "centroid_hz": 1276,
     "low_share": 0.069,
-    "pitch_hz": 376.7
+    "pitch_hz": 376.7,
+    "hit_dbfs": -47.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-rimfls-rr2-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-rimfls-rr2-mid.flac",
-   "preview": "previews/vcsl-tom-2-toml-rimfls-rr2-mid.mp3"
+   "preview": "previews/vcsl-tom-2-toml-rimfls-rr2-mid.mp3",
+   "gain_db": 26.8
   },
   {
    "id": "vcsl-tom-2-toml-rims-v4-rr1-mid",
@@ -1682,11 +1804,13 @@
     "decay_s": 0.258,
     "centroid_hz": 967,
     "low_share": 0.081,
-    "pitch_hz": 90.0
+    "pitch_hz": 90.0,
+    "hit_dbfs": -42.8
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-rims-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-rims-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-2-toml-rims-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-2-toml-rims-v4-rr1-mid.mp3",
+   "gain_db": 22.1
   },
   {
    "id": "vcsl-tom-2-toml-hitm-v3-rr1-mid",
@@ -1707,11 +1831,13 @@
     "decay_s": 0.577,
     "centroid_hz": 121,
     "low_share": 0.905,
-    "pitch_hz": 90.0
+    "pitch_hz": 90.0,
+    "hit_dbfs": -27.6
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hitm-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hitm-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-2-toml-hitm-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-2-toml-hitm-v3-rr1-mid.mp3",
+   "gain_db": 6.7
   },
   {
    "id": "vcsl-tom-2-toml-hits-v3-rr1-mid",
@@ -1733,11 +1859,13 @@
     "decay_s": 0.579,
     "centroid_hz": 131,
     "low_share": 0.875,
-    "pitch_hz": 93.3
+    "pitch_hz": 93.3,
+    "hit_dbfs": -26.3
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hits-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hits-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-tom-2-toml-hits-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-tom-2-toml-hits-v3-rr1-mid.mp3",
+   "gain_db": 7.8
   },
   {
    "id": "vcsl-tenor-toms-tenor-fff-rr1",
@@ -1762,11 +1890,13 @@
     "decay_s": 0.235,
     "centroid_hz": 255,
     "low_share": 0.421,
-    "pitch_hz": 90.0
+    "pitch_hz": 90.0,
+    "hit_dbfs": -15.1
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenor-fff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-fff-rr1.flac",
-   "preview": "previews/vcsl-tenor-toms-tenor-fff-rr1.mp3"
+   "preview": "previews/vcsl-tenor-toms-tenor-fff-rr1.mp3",
+   "gain_db": -0.2
   },
   {
    "id": "vcsl-tenor-toms-tenorh-fff-rr1",
@@ -1791,11 +1921,13 @@
     "decay_s": 0.202,
     "centroid_hz": 310,
     "low_share": 0.317,
-    "pitch_hz": 113.3
+    "pitch_hz": 113.3,
+    "hit_dbfs": -14.7
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenorh-fff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenorh-fff-rr1.flac",
-   "preview": "previews/vcsl-tenor-toms-tenorh-fff-rr1.mp3"
+   "preview": "previews/vcsl-tenor-toms-tenorh-fff-rr1.mp3",
+   "gain_db": -0.4
   },
   {
    "id": "vcsl-tenor-toms-tenor-ff-rr1",
@@ -1819,11 +1951,13 @@
     "decay_s": 0.276,
     "centroid_hz": 198,
     "low_share": 0.536,
-    "pitch_hz": 90.0
+    "pitch_hz": 90.0,
+    "hit_dbfs": -17.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenor-ff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-ff-rr1.flac",
-   "preview": "previews/vcsl-tenor-toms-tenor-ff-rr1.mp3"
+   "preview": "previews/vcsl-tenor-toms-tenor-ff-rr1.mp3",
+   "gain_db": 1.1
   },
   {
    "id": "vcsl-tenor-toms-tenorh-ff-rr1",
@@ -1848,11 +1982,13 @@
     "decay_s": 0.411,
     "centroid_hz": 268,
     "low_share": 0.353,
-    "pitch_hz": 113.3
+    "pitch_hz": 113.3,
+    "hit_dbfs": -19.1
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenorh-ff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenorh-ff-rr1.flac",
-   "preview": "previews/vcsl-tenor-toms-tenorh-ff-rr1.mp3"
+   "preview": "previews/vcsl-tenor-toms-tenorh-ff-rr1.mp3",
+   "gain_db": 0.7
   },
   {
    "id": "vcsl-tenor-toms-tenor-f-rr1",
@@ -1877,11 +2013,13 @@
     "decay_s": 0.293,
     "centroid_hz": 194,
     "low_share": 0.553,
-    "pitch_hz": 86.7
+    "pitch_hz": 86.7,
+    "hit_dbfs": -20.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenor-f-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-f-rr1.flac",
-   "preview": "previews/vcsl-tenor-toms-tenor-f-rr1.mp3"
+   "preview": "previews/vcsl-tenor-toms-tenor-f-rr1.mp3",
+   "gain_db": 1.1
   },
   {
    "id": "vcsl-bongos-bongoh-hit1-v3-rr1-mid",
@@ -1902,11 +2040,13 @@
     "attack_ms": 7.0,
     "decay_s": 0.171,
     "centroid_hz": 453,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -23.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongoh-hit1-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongoh-hit1-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-bongos-bongoh-hit1-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-bongos-bongoh-hit1-v3-rr1-mid.mp3",
+   "gain_db": 7.9
   },
   {
    "id": "vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid",
@@ -1927,11 +2067,13 @@
     "attack_ms": 9.0,
     "decay_s": 0.157,
     "centroid_hz": 413,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -24.7
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.mp3",
+   "gain_db": 9.8
   },
   {
    "id": "vcsl-bongos-bongol-hit1-v3-rr1-mid",
@@ -1952,11 +2094,13 @@
     "attack_ms": 7.0,
     "decay_s": 0.169,
     "centroid_hz": 376,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -21.9
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongol-hit1-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongol-hit1-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-bongos-bongol-hit1-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-bongos-bongol-hit1-v3-rr1-mid.mp3",
+   "gain_db": 7.9
   },
   {
    "id": "vcsl-bongos-bongol-hitmuted2-v3-rr1-mid",
@@ -1977,11 +2121,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.158,
     "centroid_hz": 301,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -19.7
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.mp3",
+   "gain_db": 5.7
   },
   {
    "id": "vcsl-bongos-bongoh-hit1-v2-rr1-mid",
@@ -2002,11 +2148,13 @@
     "attack_ms": 9.0,
     "decay_s": 0.167,
     "centroid_hz": 436,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -34.7
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongoh-hit1-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongoh-hit1-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-bongos-bongoh-hit1-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-bongos-bongoh-hit1-v2-rr1-mid.mp3",
+   "gain_db": 9.4
   },
   {
    "id": "vcsl-conga-conga-hitfm-v2-rr1-sum",
@@ -2027,11 +2175,13 @@
     "decay_s": 0.246,
     "centroid_hz": 110,
     "low_share": 0.875,
-    "pitch_hz": 83.3
+    "pitch_hz": 83.3,
+    "hit_dbfs": -20.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-conga-hitfm-v2-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-conga-hitfm-v2-rr1-sum.flac",
-   "preview": "previews/vcsl-conga-conga-hitfm-v2-rr1-sum.mp3"
+   "preview": "previews/vcsl-conga-conga-hitfm-v2-rr1-sum.mp3",
+   "gain_db": 6.2
   },
   {
    "id": "vcsl-conga-conga-hitn-v3-rr1-sum",
@@ -2052,11 +2202,13 @@
     "decay_s": 0.296,
     "centroid_hz": 159,
     "low_share": 0.069,
-    "pitch_hz": 163.3
+    "pitch_hz": 163.3,
+    "hit_dbfs": -24.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-conga-hitn-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-conga-hitn-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-conga-conga-hitn-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-conga-conga-hitn-v3-rr1-sum.mp3",
+   "gain_db": 10.6
   },
   {
    "id": "vcsl-conga-quinto-hitfm1-v2-rr1-sum",
@@ -2077,11 +2229,13 @@
     "decay_s": 0.407,
     "centroid_hz": 95,
     "low_share": 0.931,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -29.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-quinto-hitfm1-v2-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-quinto-hitfm1-v2-rr1-sum.flac",
-   "preview": "previews/vcsl-conga-quinto-hitfm1-v2-rr1-sum.mp3"
+   "preview": "previews/vcsl-conga-quinto-hitfm1-v2-rr1-sum.mp3",
+   "gain_db": 15.4
   },
   {
    "id": "vcsl-conga-quinto-hitn-v3-rr1-sum",
@@ -2102,11 +2256,13 @@
     "decay_s": 0.297,
     "centroid_hz": 221,
     "low_share": 0.128,
-    "pitch_hz": 216.7
+    "pitch_hz": 216.7,
+    "hit_dbfs": -22.3
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-quinto-hitn-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-quinto-hitn-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-conga-quinto-hitn-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-conga-quinto-hitn-v3-rr1-sum.mp3",
+   "gain_db": 8.3
   },
   {
    "id": "vcsl-conga-tumba-hitfm-v4-rr1-sum",
@@ -2129,11 +2285,13 @@
     "decay_s": 0.143,
     "centroid_hz": 99,
     "low_share": 0.961,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -26.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-tumba-hitfm-v4-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-tumba-hitfm-v4-rr1-sum.flac",
-   "preview": "previews/vcsl-conga-tumba-hitfm-v4-rr1-sum.mp3"
+   "preview": "previews/vcsl-conga-tumba-hitfm-v4-rr1-sum.mp3",
+   "gain_db": 12.0
   },
   {
    "id": "vcsl-conga-tumba-hitn-v4-rr1-sum",
@@ -2155,11 +2313,13 @@
     "decay_s": 0.247,
     "centroid_hz": 146,
     "low_share": 0.85,
-    "pitch_hz": 140.0
+    "pitch_hz": 140.0,
+    "hit_dbfs": -30.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-tumba-hitn-v4-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-tumba-hitn-v4-rr1-sum.flac",
-   "preview": "previews/vcsl-conga-tumba-hitn-v4-rr1-sum.mp3"
+   "preview": "previews/vcsl-conga-tumba-hitn-v4-rr1-sum.mp3",
+   "gain_db": 16.0
   },
   {
    "id": "vcsl-darbuka-darbuka-1-hit-vl2-rr1",
@@ -2180,11 +2340,13 @@
     "decay_s": 0.555,
     "centroid_hz": 145,
     "low_share": 0.993,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -10.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-1-hit-vl2-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-1-hit-vl2-rr1.flac",
-   "preview": "previews/vcsl-darbuka-darbuka-1-hit-vl2-rr1.mp3"
+   "preview": "previews/vcsl-darbuka-darbuka-1-hit-vl2-rr1.mp3",
+   "gain_db": -4.0
   },
   {
    "id": "vcsl-darbuka-darbuka-2-hit-vl2-rr1",
@@ -2205,11 +2367,13 @@
     "decay_s": 0.132,
     "centroid_hz": 899,
     "low_share": 0.068,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -21.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-2-hit-vl2-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-2-hit-vl2-rr1.flac",
-   "preview": "previews/vcsl-darbuka-darbuka-2-hit-vl2-rr1.mp3"
+   "preview": "previews/vcsl-darbuka-darbuka-2-hit-vl2-rr1.mp3",
+   "gain_db": 4.3
   },
   {
    "id": "vcsl-darbuka-darbuka-3-hit-vl2-rr1",
@@ -2231,11 +2395,13 @@
     "decay_s": 0.087,
     "centroid_hz": 594,
     "low_share": 0.273,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -28.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-3-hit-vl2-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-3-hit-vl2-rr1.flac",
-   "preview": "previews/vcsl-darbuka-darbuka-3-hit-vl2-rr1.mp3"
+   "preview": "previews/vcsl-darbuka-darbuka-3-hit-vl2-rr1.mp3",
+   "gain_db": 10.3
   },
   {
    "id": "vcsl-darbuka-darbuka-4-hit-vl2-rr1",
@@ -2256,11 +2422,13 @@
     "decay_s": 0.28,
     "centroid_hz": 276,
     "low_share": 0.82,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -28.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-4-hit-vl2-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-4-hit-vl2-rr1.flac",
-   "preview": "previews/vcsl-darbuka-darbuka-4-hit-vl2-rr1.mp3"
+   "preview": "previews/vcsl-darbuka-darbuka-4-hit-vl2-rr1.mp3",
+   "gain_db": 12.6
   },
   {
    "id": "vcsl-darbuka-darbuka-5-hit-vl2-rr1",
@@ -2281,11 +2449,13 @@
     "decay_s": 0.206,
     "centroid_hz": 407,
     "low_share": 0.32,
-    "pitch_hz": 143.3
+    "pitch_hz": 143.3,
+    "hit_dbfs": -33.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-5-hit-vl2-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-5-hit-vl2-rr1.flac",
-   "preview": "previews/vcsl-darbuka-darbuka-5-hit-vl2-rr1.mp3"
+   "preview": "previews/vcsl-darbuka-darbuka-5-hit-vl2-rr1.mp3",
+   "gain_db": 16.9
   },
   {
    "id": "vcsl-frame-drum-hdruml-hand-rr1-sum",
@@ -2307,11 +2477,13 @@
     "decay_s": 0.404,
     "centroid_hz": 783,
     "low_share": 0.549,
-    "pitch_hz": 90.0
+    "pitch_hz": 90.0,
+    "hit_dbfs": -68.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdruml-hand-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hand-rr1-sum.flac",
-   "preview": "previews/vcsl-frame-drum-hdruml-hand-rr1-sum.mp3"
+   "preview": "previews/vcsl-frame-drum-hdruml-hand-rr1-sum.mp3",
+   "gain_db": 54.8
   },
   {
    "id": "vcsl-frame-drum-hdruml-hit-v3-rr1-sum",
@@ -2334,11 +2506,13 @@
     "decay_s": 0.551,
     "centroid_hz": 113,
     "low_share": 0.96,
-    "pitch_hz": 90.0
+    "pitch_hz": 90.0,
+    "hit_dbfs": -22.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.mp3",
+   "gain_db": 8.6
   },
   {
    "id": "vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum",
@@ -2360,11 +2534,13 @@
     "decay_s": 0.253,
     "centroid_hz": 190,
     "low_share": 0.857,
-    "pitch_hz": 96.7
+    "pitch_hz": 96.7,
+    "hit_dbfs": -25.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.mp3",
+   "gain_db": 8.3
   },
   {
    "id": "vcsl-frame-drum-hdrums-hand-v1-rr1-sum",
@@ -2385,11 +2561,13 @@
     "attack_ms": 125.0,
     "decay_s": 0.471,
     "centroid_hz": 3992,
-    "low_share": 0.03
+    "low_share": 0.03,
+    "hit_dbfs": -76.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.flac",
-   "preview": "previews/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.mp3"
+   "preview": "previews/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.mp3",
+   "gain_db": 59.6
   },
   {
    "id": "vcsl-cajon-cajon-hit1-fff-rr1",
@@ -2412,11 +2590,13 @@
     "decay_s": 0.122,
     "centroid_hz": 498,
     "low_share": 0.807,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -13.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit1-fff-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit1-fff-rr1.flac",
-   "preview": "previews/vcsl-cajon-cajon-hit1-fff-rr1.mp3"
+   "preview": "previews/vcsl-cajon-cajon-hit1-fff-rr1.mp3",
+   "gain_db": -2.2
   },
   {
    "id": "vcsl-cajon-cajon-hit2-f-rr1",
@@ -2439,11 +2619,13 @@
     "decay_s": 0.116,
     "centroid_hz": 180,
     "low_share": 0.976,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -11.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit2-f-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit2-f-rr1.flac",
-   "preview": "previews/vcsl-cajon-cajon-hit2-f-rr1.mp3"
+   "preview": "previews/vcsl-cajon-cajon-hit2-f-rr1.mp3",
+   "gain_db": -2.2
   },
   {
    "id": "vcsl-cajon-cajon-hit1-f-rr1",
@@ -2466,11 +2648,13 @@
     "decay_s": 0.13,
     "centroid_hz": 528,
     "low_share": 0.762,
-    "pitch_hz": 80.0
+    "pitch_hz": 80.0,
+    "hit_dbfs": -22.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit1-f-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit1-f-rr1.flac",
-   "preview": "previews/vcsl-cajon-cajon-hit1-f-rr1.mp3"
+   "preview": "previews/vcsl-cajon-cajon-hit1-f-rr1.mp3",
+   "gain_db": -2.2
   },
   {
    "id": "vcsl-cajon-cajon-hit2-mp-rr1",
@@ -2493,11 +2677,13 @@
     "decay_s": 0.087,
     "centroid_hz": 189,
     "low_share": 0.971,
-    "pitch_hz": 133.3
+    "pitch_hz": 133.3,
+    "hit_dbfs": -17.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit2-mp-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit2-mp-rr1.flac",
-   "preview": "previews/vcsl-cajon-cajon-hit2-mp-rr1.mp3"
+   "preview": "previews/vcsl-cajon-cajon-hit2-mp-rr1.mp3",
+   "gain_db": -2.2
   },
   {
    "id": "vcsl-agogo-bells-agogo-high-v3-rr1-mid",
@@ -2519,11 +2705,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.194,
     "centroid_hz": 2622,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -36.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogo-high-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogo-high-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-agogo-bells-agogo-high-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-agogo-bells-agogo-high-v3-rr1-mid.mp3",
+   "gain_db": 17.4
   },
   {
    "id": "vcsl-agogo-bells-agogo-low-v2-rr1-mid",
@@ -2544,11 +2732,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.536,
     "centroid_hz": 1999,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -41.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogo-low-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogo-low-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-agogo-bells-agogo-low-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-agogo-bells-agogo-low-v2-rr1-mid.mp3",
+   "gain_db": 21.9
   },
   {
    "id": "vcsl-agogo-bells-agogobell-f-1",
@@ -2570,11 +2760,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.404,
     "centroid_hz": 3646,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -39.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogobell-f-1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogobell-f-1.flac",
-   "preview": "previews/vcsl-agogo-bells-agogobell-f-1.mp3"
+   "preview": "previews/vcsl-agogo-bells-agogobell-f-1.mp3",
+   "gain_db": 19.5
   },
   {
    "id": "vcsl-agogo-bells-agogobell2-mf-1",
@@ -2594,11 +2786,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.316,
     "centroid_hz": 3983,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -42.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogobell2-mf-1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogobell2-mf-1.flac",
-   "preview": "previews/vcsl-agogo-bells-agogobell2-mf-1.mp3"
+   "preview": "previews/vcsl-agogo-bells-agogobell2-mf-1.mp3",
+   "gain_db": 22.9
   },
   {
    "id": "vcsl-claves-claves-ff",
@@ -2620,11 +2814,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.113,
     "centroid_hz": 5595,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -25.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-claves-claves-ff.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-claves-claves-ff.flac",
-   "preview": "previews/vcsl-claves-claves-ff.mp3"
+   "preview": "previews/vcsl-claves-claves-ff.mp3",
+   "gain_db": 2.4
   },
   {
    "id": "vcsl-claves-claves1-hit-v3-rr1-mid",
@@ -2644,11 +2840,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.163,
     "centroid_hz": 2965,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -34.3
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-claves-claves1-hit-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-claves-claves1-hit-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-claves-claves1-hit-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-claves-claves1-hit-v3-rr1-mid.mp3",
+   "gain_db": 13.3
   },
   {
    "id": "vcsl-claves-claves2-hit-v3-rr1-mid",
@@ -2668,11 +2866,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.204,
     "centroid_hz": 2724,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -37.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-claves-claves2-hit-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-claves-claves2-hit-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-claves-claves2-hit-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-claves-claves2-hit-v3-rr1-mid.mp3",
+   "gain_db": 16.1
   },
   {
    "id": "vcsl-cowbell-cowbell1-hit-v4-rr1-mid",
@@ -2694,11 +2894,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.176,
     "centroid_hz": 579,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -22.7
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.flac",
-   "preview": "previews/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.mp3"
+   "preview": "previews/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.mp3",
+   "gain_db": 8.7
   },
   {
    "id": "vcsl-cowbell-cowbell1-muted-v3-rr1-mid",
@@ -2718,11 +2920,13 @@
     "attack_ms": 2.0,
     "decay_s": 0.142,
     "centroid_hz": 1795,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -24.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.mp3",
+   "gain_db": 5.5
   },
   {
    "id": "vcsl-cowbell-cowbell1-normal-v3-rr1-mid",
@@ -2742,11 +2946,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.178,
     "centroid_hz": 883,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -22.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.mp3",
+   "gain_db": 3.5
   },
   {
    "id": "vcsl-cowbell-cowbell2-double-v3-rr1-mid",
@@ -2766,11 +2972,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.192,
     "centroid_hz": 1773,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -22.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell2-double-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell2-double-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-cowbell-cowbell2-double-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-cowbell-cowbell2-double-v3-rr1-mid.mp3",
+   "gain_db": 3.9
   },
   {
    "id": "vcsl-cowbell-cowbell2-muted-v3-rr1-mid",
@@ -2791,11 +2999,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.152,
     "centroid_hz": 3543,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -25.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.mp3",
+   "gain_db": 4.8
   },
   {
    "id": "vcsl-woodblock-wood-click-ff",
@@ -2816,11 +3026,13 @@
     "attack_ms": 10.0,
     "decay_s": 0.147,
     "centroid_hz": 1567,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -24.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click-ff.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click-ff.flac",
-   "preview": "previews/vcsl-woodblock-wood-click-ff.mp3"
+   "preview": "previews/vcsl-woodblock-wood-click-ff.mp3",
+   "gain_db": 3.5
   },
   {
    "id": "vcsl-woodblock-wood-click2-mp",
@@ -2841,11 +3053,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.144,
     "centroid_hz": 3297,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -40.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click2-mp.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click2-mp.flac",
-   "preview": "previews/vcsl-woodblock-wood-click2-mp.mp3"
+   "preview": "previews/vcsl-woodblock-wood-click2-mp.mp3",
+   "gain_db": 9.6
   },
   {
    "id": "vcsl-woodblock-wood-click3-vl2",
@@ -2865,11 +3079,13 @@
     "attack_ms": 16.0,
     "decay_s": 0.131,
     "centroid_hz": 1515,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -28.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click3-vl2.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click3-vl2.flac",
-   "preview": "previews/vcsl-woodblock-wood-click3-vl2.mp3"
+   "preview": "previews/vcsl-woodblock-wood-click3-vl2.mp3",
+   "gain_db": 9.6
   },
   {
    "id": "vcsl-woodblock-wood-click-f-rr1",
@@ -2890,11 +3106,13 @@
     "attack_ms": 9.0,
     "decay_s": 0.145,
     "centroid_hz": 1483,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -23.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click-f-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click-f-rr1.flac",
-   "preview": "previews/vcsl-woodblock-wood-click-f-rr1.mp3"
+   "preview": "previews/vcsl-woodblock-wood-click-f-rr1.mp3",
+   "gain_db": 7.1
   },
   {
    "id": "vcsl-tambourine-1-tamb1-hit-v2-rr1-mid",
@@ -2914,11 +3132,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.32,
     "centroid_hz": 8399,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -32.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.mp3",
+   "gain_db": 14.9
   },
   {
    "id": "vcsl-tambourine-1-tamb1-shake-rr1-mid",
@@ -2939,11 +3159,13 @@
     "attack_ms": 138.0,
     "decay_s": 0.162,
     "centroid_hz": 8983,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -40.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-1-tamb1-shake-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-shake-rr1-mid.flac",
-   "preview": "previews/vcsl-tambourine-1-tamb1-shake-rr1-mid.mp3"
+   "preview": "previews/vcsl-tambourine-1-tamb1-shake-rr1-mid.mp3",
+   "gain_db": 23.9
   },
   {
    "id": "vcsl-tambourine-1-tamb1-hit-v1-rr1-mid",
@@ -2965,11 +3187,13 @@
     "attack_ms": 33.0,
     "decay_s": 0.282,
     "centroid_hz": 8480,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -43.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.flac",
-   "preview": "previews/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.mp3"
+   "preview": "previews/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.mp3",
+   "gain_db": 18.8
   },
   {
    "id": "vcsl-tambourine-2-tamb2-hit-v2-rr2-mid",
@@ -2990,11 +3214,13 @@
     "attack_ms": 5.0,
     "decay_s": 0.197,
     "centroid_hz": 8375,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -30.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.flac",
-   "preview": "previews/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.mp3"
+   "preview": "previews/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.mp3",
+   "gain_db": 12.3
   },
   {
    "id": "vcsl-tambourine-2-tamb2-shake-rr3-mid",
@@ -3015,11 +3241,13 @@
     "attack_ms": 72.0,
     "decay_s": 0.148,
     "centroid_hz": 9398,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -39.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-2-tamb2-shake-rr3-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-2-tamb2-shake-rr3-mid.flac",
-   "preview": "previews/vcsl-tambourine-2-tamb2-shake-rr3-mid.mp3"
+   "preview": "previews/vcsl-tambourine-2-tamb2-shake-rr3-mid.mp3",
+   "gain_db": 20.6
   },
   {
    "id": "vcsl-tambourine-2-tamb2-hit-v1-rr1-mid",
@@ -3041,11 +3269,13 @@
     "attack_ms": 11.0,
     "decay_s": 0.176,
     "centroid_hz": 9147,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -42.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.flac",
-   "preview": "previews/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.mp3"
+   "preview": "previews/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.mp3",
+   "gain_db": 16.5
   },
   {
    "id": "vcsl-shaker-small-mid-shaker-slap-rr1",
@@ -3067,11 +3297,13 @@
     "decay_s": 0.653,
     "centroid_hz": 6070,
     "low_share": 0.441,
-    "pitch_hz": 40.0
+    "pitch_hz": 40.0,
+    "hit_dbfs": -44.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shaker-slap-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shaker-slap-rr1.flac",
-   "preview": "previews/vcsl-shaker-small-mid-shaker-slap-rr1.mp3"
+   "preview": "previews/vcsl-shaker-small-mid-shaker-slap-rr1.mp3",
+   "gain_db": 26.0
   },
   {
    "id": "vcsl-shaker-small-mid-shakerdouble-down-rr1",
@@ -3093,11 +3325,13 @@
     "decay_s": 0.219,
     "centroid_hz": 2980,
     "low_share": 0.751,
-    "pitch_hz": 30.2
+    "pitch_hz": 30.2,
+    "hit_dbfs": -45.7
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shakerdouble-down-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerdouble-down-rr1.flac",
-   "preview": "previews/vcsl-shaker-small-mid-shakerdouble-down-rr1.mp3"
+   "preview": "previews/vcsl-shaker-small-mid-shakerdouble-down-rr1.mp3",
+   "gain_db": 27.9
   },
   {
    "id": "vcsl-shaker-small-mid-shakerdouble-up-rr1",
@@ -3121,11 +3355,13 @@
     "decay_s": 0.06,
     "centroid_hz": 8595,
     "low_share": 0.215,
-    "pitch_hz": 71.2
+    "pitch_hz": 71.2,
+    "hit_dbfs": -51.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shakerdouble-up-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerdouble-up-rr1.flac",
-   "preview": "previews/vcsl-shaker-small-mid-shakerdouble-up-rr1.mp3"
+   "preview": "previews/vcsl-shaker-small-mid-shakerdouble-up-rr1.mp3",
+   "gain_db": 35.7
   },
   {
    "id": "vcsl-shaker-small-mid-shakerhighfaster-down-rr1",
@@ -3149,11 +3385,13 @@
     "decay_s": 0.111,
     "centroid_hz": 9500,
     "low_share": 0.264,
-    "pitch_hz": 33.6
+    "pitch_hz": 33.6,
+    "hit_dbfs": -47.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.flac",
-   "preview": "previews/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.mp3"
+   "preview": "previews/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.mp3",
+   "gain_db": 26.8
   },
   {
    "id": "vcsl-shaker-large-lshaker-hit-rr1-mid",
@@ -3175,11 +3413,13 @@
     "attack_ms": 12.0,
     "decay_s": 0.188,
     "centroid_hz": 5425,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -30.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-large-lshaker-hit-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-hit-rr1-mid.flac",
-   "preview": "previews/vcsl-shaker-large-lshaker-hit-rr1-mid.mp3"
+   "preview": "previews/vcsl-shaker-large-lshaker-hit-rr1-mid.mp3",
+   "gain_db": 11.6
   },
   {
    "id": "vcsl-shaker-large-lshaker-shake1d-rr2-mid",
@@ -3201,11 +3441,13 @@
     "attack_ms": 81.0,
     "decay_s": 0.196,
     "centroid_hz": 5519,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -37.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-large-lshaker-shake1d-rr2-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-shake1d-rr2-mid.flac",
-   "preview": "previews/vcsl-shaker-large-lshaker-shake1d-rr2-mid.mp3"
+   "preview": "previews/vcsl-shaker-large-lshaker-shake1d-rr2-mid.mp3",
+   "gain_db": 23.0
   },
   {
    "id": "vcsl-shaker-large-lshaker-shake1u-rr1-mid",
@@ -3226,11 +3468,13 @@
     "attack_ms": 142.0,
     "decay_s": 0.21,
     "centroid_hz": 5452,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -45.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-large-lshaker-shake1u-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-shake1u-rr1-mid.flac",
-   "preview": "previews/vcsl-shaker-large-lshaker-shake1u-rr1-mid.mp3"
+   "preview": "previews/vcsl-shaker-large-lshaker-shake1u-rr1-mid.mp3",
+   "gain_db": 27.4
   },
   {
    "id": "vcsl-cabasa-cabasa1-hit-rr1-mid",
@@ -3251,11 +3495,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.104,
     "centroid_hz": 7579,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -40.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cabasa-cabasa1-hit-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-hit-rr1-mid.flac",
-   "preview": "previews/vcsl-cabasa-cabasa1-hit-rr1-mid.mp3"
+   "preview": "previews/vcsl-cabasa-cabasa1-hit-rr1-mid.mp3",
+   "gain_db": 18.8
   },
   {
    "id": "vcsl-cabasa-cabasa1-rub-v2-rr1-mid",
@@ -3276,11 +3522,13 @@
     "attack_ms": 29.0,
     "decay_s": 0.167,
     "centroid_hz": 11991,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -35.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.mp3",
+   "gain_db": 19.2
   },
   {
    "id": "vcsl-cabasa-cabasa1-rub-v1-rr1-mid",
@@ -3302,11 +3550,13 @@
     "attack_ms": 49.0,
     "decay_s": 0.125,
     "centroid_hz": 11207,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -48.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.flac",
-   "preview": "previews/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.mp3"
+   "preview": "previews/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.mp3",
+   "gain_db": 21.4
   },
   {
    "id": "vcsl-guiro-guiro-med-rr1-mid",
@@ -3325,11 +3575,13 @@
     "attack_ms": 231.0,
     "decay_s": 0.296,
     "centroid_hz": 2691,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -54.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-guiro-guiro-med-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-med-rr1-mid.flac",
-   "preview": "previews/vcsl-guiro-guiro-med-rr1-mid.mp3"
+   "preview": "previews/vcsl-guiro-guiro-med-rr1-mid.mp3",
+   "gain_db": 36.7
   },
   {
    "id": "vcsl-guiro-guiro-fast-rr1-mid",
@@ -3348,11 +3600,13 @@
     "attack_ms": 107.0,
     "decay_s": 0.214,
     "centroid_hz": 2901,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -48.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-guiro-guiro-fast-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-fast-rr1-mid.flac",
-   "preview": "previews/vcsl-guiro-guiro-fast-rr1-mid.mp3"
+   "preview": "previews/vcsl-guiro-guiro-fast-rr1-mid.mp3",
+   "gain_db": 30.5
   },
   {
    "id": "vcsl-guiro-guiro-hit-rr1-mid",
@@ -3372,11 +3626,13 @@
     "attack_ms": 3.0,
     "decay_s": 0.146,
     "centroid_hz": 2009,
-    "low_share": 0.004
+    "low_share": 0.004,
+    "hit_dbfs": -51.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-guiro-guiro-hit-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-hit-rr1-mid.flac",
-   "preview": "previews/vcsl-guiro-guiro-hit-rr1-mid.mp3"
+   "preview": "previews/vcsl-guiro-guiro-hit-rr1-mid.mp3",
+   "gain_db": 33.5
   },
   {
    "id": "vcsl-slapstick-slapstick-rr1",
@@ -3397,11 +3653,13 @@
     "attack_ms": 7.0,
     "decay_s": 0.119,
     "centroid_hz": 4400,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -23.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slapstick-slapstick-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-slapstick-slapstick-rr1.flac",
-   "preview": "previews/vcsl-slapstick-slapstick-rr1.mp3"
+   "preview": "previews/vcsl-slapstick-slapstick-rr1.mp3",
+   "gain_db": -0.5
   },
   {
    "id": "vcsl-slapstick-slapstick-quiet-rr1",
@@ -3423,11 +3681,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.124,
     "centroid_hz": 3202,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -44.9
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slapstick-slapstick-quiet-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-slapstick-slapstick-quiet-rr1.flac",
-   "preview": "previews/vcsl-slapstick-slapstick-quiet-rr1.mp3"
+   "preview": "previews/vcsl-slapstick-slapstick-quiet-rr1.mp3",
+   "gain_db": 9.4
   },
   {
    "id": "vcsl-triangle-triangle1-hit-pp-muted",
@@ -3449,11 +3709,13 @@
     "attack_ms": 109.0,
     "decay_s": 0.978,
     "centroid_hz": 8689,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -55.3
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-triangle-triangle1-hit-pp-muted.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-pp-muted.flac",
-   "preview": "previews/vcsl-triangle-triangle1-hit-pp-muted.mp3"
+   "preview": "previews/vcsl-triangle-triangle1-hit-pp-muted.mp3",
+   "gain_db": 26.9
   },
   {
    "id": "vcsl-triangle-triangle1-hit-mp-muted1",
@@ -3475,11 +3737,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.803,
     "centroid_hz": 7653,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -41.5
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-triangle-triangle1-hit-mp-muted1.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-mp-muted1.flac",
-   "preview": "previews/vcsl-triangle-triangle1-hit-mp-muted1.mp3"
+   "preview": "previews/vcsl-triangle-triangle1-hit-mp-muted1.mp3",
+   "gain_db": 26.9
   },
   {
    "id": "vcsl-triangle-triangle1-hit-mp-muted2",
@@ -3501,11 +3765,13 @@
     "attack_ms": 8.0,
     "decay_s": 0.984,
     "centroid_hz": 7745,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -40.9
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-triangle-triangle1-hit-mp-muted2.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-mp-muted2.flac",
-   "preview": "previews/vcsl-triangle-triangle1-hit-mp-muted2.mp3"
+   "preview": "previews/vcsl-triangle-triangle1-hit-mp-muted2.mp3",
+   "gain_db": 26.9
   },
   {
    "id": "vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid",
@@ -3525,11 +3791,13 @@
     "attack_ms": 5.0,
     "decay_s": 0.231,
     "centroid_hz": 1997,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -20.6
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.mp3",
+   "gain_db": 3.5
   },
   {
    "id": "vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid",
@@ -3549,11 +3817,13 @@
     "attack_ms": 2.0,
     "decay_s": 0.227,
     "centroid_hz": 2419,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -25.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.mp3",
+   "gain_db": 5.8
   },
   {
    "id": "vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid",
@@ -3573,11 +3843,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.333,
     "centroid_hz": 1408,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -25.9
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.mp3",
+   "gain_db": 10.4
   },
   {
    "id": "vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid",
@@ -3597,11 +3869,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.262,
     "centroid_hz": 1808,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -33.7
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.flac",
-   "preview": "previews/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.mp3"
+   "preview": "previews/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.mp3",
+   "gain_db": 14.3
   },
   {
    "id": "vcsl-anvil-anvil-hit1-v3-rr1-mid",
@@ -3621,11 +3895,13 @@
     "attack_ms": 5.0,
     "decay_s": 0.539,
     "centroid_hz": 6881,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -24.4
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-anvil-anvil-hit1-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit1-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-anvil-anvil-hit1-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-anvil-anvil-hit1-v3-rr1-mid.mp3",
+   "gain_db": 1.8
   },
   {
    "id": "vcsl-anvil-anvil-hit2-v3-rr1-mid",
@@ -3645,11 +3921,13 @@
     "attack_ms": 7.0,
     "decay_s": 0.349,
     "centroid_hz": 5396,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -21.0
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-anvil-anvil-hit2-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit2-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-anvil-anvil-hit2-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-anvil-anvil-hit2-v3-rr1-mid.mp3",
+   "gain_db": 1.8
   },
   {
    "id": "vcsl-anvil-anvil-hit3-v3-rr1-mid",
@@ -3670,11 +3948,13 @@
     "attack_ms": 4.0,
     "decay_s": 0.223,
     "centroid_hz": 5756,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -15.8
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-anvil-anvil-hit3-v3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit3-v3-rr1-mid.flac",
-   "preview": "previews/vcsl-anvil-anvil-hit3-v3-rr1-mid.mp3"
+   "preview": "previews/vcsl-anvil-anvil-hit3-v3-rr1-mid.mp3",
+   "gain_db": 1.8
   },
   {
    "id": "vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum",
@@ -3695,11 +3975,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.487,
     "centroid_hz": 156,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -25.1
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.mp3",
+   "gain_db": 11.1
   },
   {
    "id": "vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum",
@@ -3721,11 +4003,13 @@
     "decay_s": 0.269,
     "centroid_hz": 159,
     "low_share": 0.765,
-    "pitch_hz": 106.7
+    "pitch_hz": 106.7,
+    "hit_dbfs": -26.2
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.flac",
-   "preview": "previews/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.mp3"
+   "preview": "previews/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.mp3",
+   "gain_db": 12.2
   },
   {
    "id": "vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum",
@@ -3746,11 +4030,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.495,
     "centroid_hz": 156,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -30.9
    },
    "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.nc.json",
    "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.flac",
-   "preview": "previews/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.mp3"
+   "preview": "previews/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.mp3",
+   "gain_db": 11.1
   },
   {
    "id": "vcsl-clash-cymbals-1-cymbal-crash1-mf1",
@@ -3772,11 +4058,13 @@
     "attack_ms": 16.0,
     "decay_s": 1.058,
     "centroid_hz": 4715,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -21.2
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf1.flac",
-   "preview": "previews/vcsl-clash-cymbals-1-cymbal-crash1-mf1.mp3"
+   "preview": "previews/vcsl-clash-cymbals-1-cymbal-crash1-mf1.mp3",
+   "gain_db": 4.6
   },
   {
    "id": "vcsl-clash-cymbals-1-cymbal-crash1-mf2",
@@ -3797,11 +4085,13 @@
     "attack_ms": 24.0,
     "decay_s": 0.934,
     "centroid_hz": 3701,
-    "low_share": 0.007
+    "low_share": 0.007,
+    "hit_dbfs": -18.6
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf2.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf2.flac",
-   "preview": "previews/vcsl-clash-cymbals-1-cymbal-crash1-mf2.mp3"
+   "preview": "previews/vcsl-clash-cymbals-1-cymbal-crash1-mf2.mp3",
+   "gain_db": 3.0
   },
   {
    "id": "vcsl-clash-cymbals-2-cymbal-crash2-fff1",
@@ -3823,11 +4113,13 @@
     "attack_ms": 21.0,
     "decay_s": 1.237,
     "centroid_hz": 4691,
-    "low_share": 0.024
+    "low_share": 0.024,
+    "hit_dbfs": -11.5
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-clash-cymbals-2-cymbal-crash2-fff1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-2-cymbal-crash2-fff1.flac",
-   "preview": "previews/vcsl-clash-cymbals-2-cymbal-crash2-fff1.mp3"
+   "preview": "previews/vcsl-clash-cymbals-2-cymbal-crash2-fff1.mp3",
+   "gain_db": -2.5
   },
   {
    "id": "vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1",
@@ -3847,11 +4139,13 @@
     "attack_ms": 0.0,
     "decay_s": 1.015,
     "centroid_hz": 3491,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -20.2
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.flac",
-   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.mp3"
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.mp3",
+   "gain_db": 3.5
   },
   {
    "id": "vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1",
@@ -3871,11 +4165,13 @@
     "attack_ms": 0.0,
     "decay_s": 1.44,
     "centroid_hz": 3349,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -30.3
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.flac",
-   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.mp3"
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.mp3",
+   "gain_db": 15.1
   },
   {
    "id": "vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1",
@@ -3895,11 +4191,13 @@
     "attack_ms": 0.0,
     "decay_s": 1.837,
     "centroid_hz": 2866,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -35.8
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.flac",
-   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.mp3"
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.mp3",
+   "gain_db": 21.6
   },
   {
    "id": "vcsl-suspended-cymbal-1-suscymb1-hit-f1",
@@ -3919,11 +4217,13 @@
     "attack_ms": 42.0,
     "decay_s": 5.282,
     "centroid_hz": 1540,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -27.8
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-f1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-f1.flac",
-   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-f1.mp3"
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-f1.mp3",
+   "gain_db": 13.8
   },
   {
    "id": "vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1",
@@ -3944,11 +4244,13 @@
     "attack_ms": 1.0,
     "decay_s": 0.845,
     "centroid_hz": 4094,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -29.9
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.flac",
-   "preview": "previews/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.mp3"
+   "preview": "previews/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.mp3",
+   "gain_db": 11.7
   },
   {
    "id": "vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1",
@@ -3968,11 +4270,13 @@
     "attack_ms": 6.0,
     "decay_s": 0.629,
     "centroid_hz": 3648,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -38.7
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.flac",
-   "preview": "previews/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.mp3"
+   "preview": "previews/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.mp3",
+   "gain_db": 15.6
   },
   {
    "id": "vcsl-finger-cymbals-fing-cymb",
@@ -3994,11 +4298,13 @@
     "attack_ms": 36.0,
     "decay_s": 2.724,
     "centroid_hz": 6340,
-    "low_share": 0.022
+    "low_share": 0.022,
+    "hit_dbfs": -51.6
    },
    "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-finger-cymbals-fing-cymb.nc.json",
    "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-finger-cymbals-fing-cymb.flac",
-   "preview": "previews/vcsl-finger-cymbals-fing-cymb.mp3"
+   "preview": "previews/vcsl-finger-cymbals-fing-cymb.mp3",
+   "gain_db": 35.6
   },
   {
    "id": "vcsl-vibraslap-vibraslap-rr1",
@@ -4019,11 +4325,13 @@
     "attack_ms": 8.0,
     "decay_s": 1.934,
     "centroid_hz": 4582,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -43.3
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-vibraslap-vibraslap-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-vibraslap-vibraslap-rr1.flac",
-   "preview": "previews/vcsl-vibraslap-vibraslap-rr1.mp3"
+   "preview": "previews/vcsl-vibraslap-vibraslap-rr1.mp3",
+   "gain_db": 21.3
   },
   {
    "id": "vcsl-ratchet-ratchet1-crank-rr1-mid",
@@ -4043,11 +4351,13 @@
     "attack_ms": 10.0,
     "decay_s": 0.192,
     "centroid_hz": 6920,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -38.6
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-ratchet-ratchet1-crank-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-ratchet-ratchet1-crank-rr1-mid.flac",
-   "preview": "previews/vcsl-ratchet-ratchet1-crank-rr1-mid.mp3"
+   "preview": "previews/vcsl-ratchet-ratchet1-crank-rr1-mid.mp3",
+   "gain_db": 18.8
   },
   {
    "id": "vcsl-ratchet-ratchet1-fast-rr1-mid",
@@ -4068,11 +4378,13 @@
     "attack_ms": 285.0,
     "decay_s": 3.932,
     "centroid_hz": 7259,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -33.7
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-ratchet-ratchet1-fast-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-ratchet-ratchet1-fast-rr1-mid.flac",
-   "preview": "previews/vcsl-ratchet-ratchet1-fast-rr1-mid.mp3"
+   "preview": "previews/vcsl-ratchet-ratchet1-fast-rr1-mid.mp3",
+   "gain_db": 15.7
   },
   {
    "id": "vcsl-flexatone-flexatone1",
@@ -4093,11 +4405,13 @@
     "attack_ms": 571.0,
     "decay_s": 1.256,
     "centroid_hz": 7434,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -39.2
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-flexatone-flexatone1.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-flexatone-flexatone1.flac",
-   "preview": "previews/vcsl-flexatone-flexatone1.mp3"
+   "preview": "previews/vcsl-flexatone-flexatone1.mp3",
+   "gain_db": 21.3
   },
   {
    "id": "vcsl-flexatone-flexatone2",
@@ -4118,11 +4432,13 @@
     "attack_ms": 969.0,
     "decay_s": 2.273,
     "centroid_hz": 7624,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -43.8
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-flexatone-flexatone2.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-flexatone-flexatone2.flac",
-   "preview": "previews/vcsl-flexatone-flexatone2.mp3"
+   "preview": "previews/vcsl-flexatone-flexatone2.mp3",
+   "gain_db": 23.0
   },
   {
    "id": "vcsl-mark-tree-windchimes-asc1",
@@ -4144,11 +4460,13 @@
     "attack_ms": 1140.0,
     "decay_s": 2.376,
     "centroid_hz": 8005,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -37.1
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-mark-tree-windchimes-asc1.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-mark-tree-windchimes-asc1.flac",
-   "preview": "previews/vcsl-mark-tree-windchimes-asc1.mp3"
+   "preview": "previews/vcsl-mark-tree-windchimes-asc1.mp3",
+   "gain_db": 21.4
   },
   {
    "id": "vcsl-mark-tree-windchimes-desc1",
@@ -4170,11 +4488,13 @@
     "attack_ms": 1148.0,
     "decay_s": 0.054,
     "centroid_hz": 9663,
-    "low_share": 0.002
+    "low_share": 0.002,
+    "hit_dbfs": -40.3
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-mark-tree-windchimes-desc1.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-mark-tree-windchimes-desc1.flac",
-   "preview": "previews/vcsl-mark-tree-windchimes-desc1.mp3"
+   "preview": "previews/vcsl-mark-tree-windchimes-desc1.mp3",
+   "gain_db": 23.2
   },
   {
    "id": "vcsl-bell-tree-belltree-hit-a-5-rr1-mid",
@@ -4196,11 +4516,13 @@
     "attack_ms": 2.0,
     "decay_s": 1.241,
     "centroid_hz": 5450,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -53.2
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.flac",
-   "preview": "previews/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.mp3"
+   "preview": "previews/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.mp3",
+   "gain_db": 35.9
   },
   {
    "id": "vcsl-bell-tree-belltree-hit-c5-rr1-mid",
@@ -4222,11 +4544,13 @@
     "attack_ms": 3.0,
     "decay_s": 1.153,
     "centroid_hz": 6071,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -53.6
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-bell-tree-belltree-hit-c5-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-bell-tree-belltree-hit-c5-rr1-mid.flac",
-   "preview": "previews/vcsl-bell-tree-belltree-hit-c5-rr1-mid.mp3"
+   "preview": "previews/vcsl-bell-tree-belltree-hit-c5-rr1-mid.mp3",
+   "gain_db": 37.7
   },
   {
    "id": "vcsl-sleigh-bells-sleighbell1-shake1",
@@ -4248,11 +4572,13 @@
     "attack_ms": 1678.0,
     "decay_s": 1.601,
     "centroid_hz": 7065,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -40.4
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-sleigh-bells-sleighbell1-shake1.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-sleigh-bells-sleighbell1-shake1.flac",
-   "preview": "previews/vcsl-sleigh-bells-sleighbell1-shake1.mp3"
+   "preview": "previews/vcsl-sleigh-bells-sleighbell1-shake1.mp3",
+   "gain_db": 24.0
   },
   {
    "id": "vcsl-sleigh-bells-sleighbell2-hit-loud",
@@ -4275,11 +4601,13 @@
     "attack_ms": 143.0,
     "decay_s": 0.568,
     "centroid_hz": 7187,
-    "low_share": 0.0
+    "low_share": 0.0,
+    "hit_dbfs": -34.5
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-sleigh-bells-sleighbell2-hit-loud.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-sleigh-bells-sleighbell2-hit-loud.flac",
-   "preview": "previews/vcsl-sleigh-bells-sleighbell2-hit-loud.mp3"
+   "preview": "previews/vcsl-sleigh-bells-sleighbell2-hit-loud.mp3",
+   "gain_db": 17.8
   },
   {
    "id": "vcsl-toy-train-whistle-main-trainmed-short-001",
@@ -4300,11 +4628,13 @@
     "attack_ms": 68.0,
     "decay_s": 0.639,
     "centroid_hz": 1842,
-    "low_share": 0.011
+    "low_share": 0.011,
+    "hit_dbfs": -36.0
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-toy-train-whistle-main-trainmed-short-001.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-toy-train-whistle-main-trainmed-short-001.flac",
-   "preview": "previews/vcsl-toy-train-whistle-main-trainmed-short-001.mp3"
+   "preview": "previews/vcsl-toy-train-whistle-main-trainmed-short-001.mp3",
+   "gain_db": 20.7
   },
   {
    "id": "vcsl-toy-train-whistle-main-trainlow-med-001",
@@ -4327,11 +4657,13 @@
     "decay_s": 1.076,
     "centroid_hz": 654,
     "low_share": 0.15,
-    "pitch_hz": 43.3
+    "pitch_hz": 43.3,
+    "hit_dbfs": -41.6
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-toy-train-whistle-main-trainlow-med-001.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-toy-train-whistle-main-trainlow-med-001.flac",
-   "preview": "previews/vcsl-toy-train-whistle-main-trainlow-med-001.mp3"
+   "preview": "previews/vcsl-toy-train-whistle-main-trainlow-med-001.mp3",
+   "gain_db": 27.6
   },
   {
    "id": "vcsl-siren-main-sirenwhistle-002",
@@ -4352,11 +4684,13 @@
     "decay_s": 2.055,
     "centroid_hz": 889,
     "low_share": 0.157,
-    "pitch_hz": 40.0
+    "pitch_hz": 40.0,
+    "hit_dbfs": -38.1
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-siren-main-sirenwhistle-002.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-siren-main-sirenwhistle-002.flac",
-   "preview": "previews/vcsl-siren-main-sirenwhistle-002.mp3"
+   "preview": "previews/vcsl-siren-main-sirenwhistle-002.mp3",
+   "gain_db": 22.9
   },
   {
    "id": "vcsl-siren-main-sirenwhistle-005",
@@ -4376,11 +4710,13 @@
     "attack_ms": 144.0,
     "decay_s": 0.58,
     "centroid_hz": 1551,
-    "low_share": 0.028
+    "low_share": 0.028,
+    "hit_dbfs": -36.9
    },
    "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-siren-main-sirenwhistle-005.nc.json",
    "audio": "https://musicmatter.art/library/audio/fx/vcsl-siren-main-sirenwhistle-005.flac",
-   "preview": "previews/vcsl-siren-main-sirenwhistle-005.mp3"
+   "preview": "previews/vcsl-siren-main-sirenwhistle-005.mp3",
+   "gain_db": 22.2
   },
   {
    "id": "vcsl-marimba-marimba-hit-outrigger-c2-loud-01",
@@ -4403,11 +4739,13 @@
     "decay_s": 2.352,
     "centroid_hz": 788,
     "low_share": 0.456,
-    "note": "C2"
+    "note": "C2",
+    "hit_dbfs": -28.2
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.flac",
-   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.mp3"
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.mp3",
+   "gain_db": 13.8
   },
   {
    "id": "vcsl-marimba-marimba-hit-outrigger-c4-loud-01",
@@ -4430,11 +4768,13 @@
     "decay_s": 0.937,
     "centroid_hz": 584,
     "low_share": 0.0,
-    "note": "C4"
+    "note": "C4",
+    "hit_dbfs": -30.6
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.flac",
-   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.mp3"
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.mp3",
+   "gain_db": 16.6
   },
   {
    "id": "vcsl-marimba-marimba-hit-outrigger-c6-loud-01",
@@ -4455,11 +4795,13 @@
     "decay_s": 0.186,
     "centroid_hz": 1987,
     "low_share": 0.053,
-    "note": "C6"
+    "note": "C6",
+    "hit_dbfs": -32.0
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.flac",
-   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.mp3"
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.mp3",
+   "gain_db": 17.8
   },
   {
    "id": "vcsl-marimba-marimba-hit-outrigger-g2-loud-01",
@@ -4482,11 +4824,13 @@
     "decay_s": 2.039,
     "centroid_hz": 518,
     "low_share": 0.0,
-    "note": "G2"
+    "note": "G2",
+    "hit_dbfs": -32.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.flac",
-   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.mp3"
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.mp3",
+   "gain_db": 18.9
   },
   {
    "id": "vcsl-vibraphone-vibes-soft-c3-v2-rr1-main",
@@ -4509,11 +4853,13 @@
     "decay_s": 5.489,
     "centroid_hz": 478,
     "low_share": 0.0,
-    "note": "C3"
+    "note": "C3",
+    "hit_dbfs": -31.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.flac",
-   "preview": "previews/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.mp3"
+   "preview": "previews/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.mp3",
+   "gain_db": 3.2
   },
   {
    "id": "vcsl-vibraphone-vibes-soft-c5-v2-rr1-main",
@@ -4535,11 +4881,13 @@
     "decay_s": 2.482,
     "centroid_hz": 1046,
     "low_share": 0.0,
-    "note": "C5"
+    "note": "C5",
+    "hit_dbfs": -17.2
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.flac",
-   "preview": "previews/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.mp3"
+   "preview": "previews/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.mp3",
+   "gain_db": 3.2
   },
   {
    "id": "vcsl-vibraphone-vibes-hard-c3-v3-rr1-main",
@@ -4561,11 +4909,13 @@
     "decay_s": 3.343,
     "centroid_hz": 2314,
     "low_share": 0.0,
-    "note": "C3"
+    "note": "C3",
+    "hit_dbfs": -14.6
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.flac",
-   "preview": "previews/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.mp3"
+   "preview": "previews/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.mp3",
+   "gain_db": 0.6
   },
   {
    "id": "vcsl-glockenspiel-glock-loud-c5-01",
@@ -4587,11 +4937,13 @@
     "decay_s": 2.336,
     "centroid_hz": 3421,
     "low_share": 0.0,
-    "note": "C5"
+    "note": "C5",
+    "hit_dbfs": -34.3
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-glockenspiel-glock-loud-c5-01.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-loud-c5-01.flac",
-   "preview": "previews/vcsl-glockenspiel-glock-loud-c5-01.mp3"
+   "preview": "previews/vcsl-glockenspiel-glock-loud-c5-01.mp3",
+   "gain_db": 20.3
   },
   {
    "id": "vcsl-glockenspiel-glock-soft-c5-02",
@@ -4613,11 +4965,13 @@
     "decay_s": 3.798,
     "centroid_hz": 1074,
     "low_share": 0.003,
-    "note": "C5"
+    "note": "C5",
+    "hit_dbfs": -47.7
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-glockenspiel-glock-soft-c5-02.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-soft-c5-02.flac",
-   "preview": "previews/vcsl-glockenspiel-glock-soft-c5-02.mp3"
+   "preview": "previews/vcsl-glockenspiel-glock-soft-c5-02.mp3",
+   "gain_db": 20.3
   },
   {
    "id": "vcsl-glockenspiel-glock-loud-c6-01",
@@ -4639,11 +4993,13 @@
     "decay_s": 0.726,
     "centroid_hz": 3884,
     "low_share": 0.0,
-    "note": "C6"
+    "note": "C6",
+    "hit_dbfs": -33.1
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-glockenspiel-glock-loud-c6-01.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-loud-c6-01.flac",
-   "preview": "previews/vcsl-glockenspiel-glock-loud-c6-01.mp3"
+   "preview": "previews/vcsl-glockenspiel-glock-loud-c6-01.mp3",
+   "gain_db": 19.1
   },
   {
    "id": "vcsl-xylophone-xylo-soft-c4-ff-01-far",
@@ -4667,11 +5023,13 @@
     "decay_s": 1.195,
     "centroid_hz": 537,
     "low_share": 0.0,
-    "note": "C4"
+    "note": "C4",
+    "hit_dbfs": -19.3
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-xylophone-xylo-soft-c4-ff-01-far.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c4-ff-01-far.flac",
-   "preview": "previews/vcsl-xylophone-xylo-soft-c4-ff-01-far.mp3"
+   "preview": "previews/vcsl-xylophone-xylo-soft-c4-ff-01-far.mp3",
+   "gain_db": 5.3
   },
   {
    "id": "vcsl-xylophone-xylo-soft-c5-ff-01-far",
@@ -4693,11 +5051,13 @@
     "decay_s": 0.627,
     "centroid_hz": 1067,
     "low_share": 0.0,
-    "note": "C5"
+    "note": "C5",
+    "hit_dbfs": -21.6
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-xylophone-xylo-soft-c5-ff-01-far.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c5-ff-01-far.flac",
-   "preview": "previews/vcsl-xylophone-xylo-soft-c5-ff-01-far.mp3"
+   "preview": "previews/vcsl-xylophone-xylo-soft-c5-ff-01-far.mp3",
+   "gain_db": 7.6
   },
   {
    "id": "vcsl-xylophone-xylo-soft-c6-ff-01-far",
@@ -4719,11 +5079,13 @@
     "decay_s": 0.308,
     "centroid_hz": 2114,
     "low_share": 0.0,
-    "note": "C6"
+    "note": "C6",
+    "hit_dbfs": -24.0
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-xylophone-xylo-soft-c6-ff-01-far.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c6-ff-01-far.flac",
-   "preview": "previews/vcsl-xylophone-xylo-soft-c6-ff-01-far.mp3"
+   "preview": "previews/vcsl-xylophone-xylo-soft-c6-ff-01-far.mp3",
+   "gain_db": 10.0
   },
   {
    "id": "vcsl-tubular-bells-chimes-c3-f-rr1",
@@ -4746,11 +5108,13 @@
     "decay_s": 4.099,
     "centroid_hz": 1628,
     "low_share": 0.001,
-    "note": "C3"
+    "note": "C3",
+    "hit_dbfs": -20.4
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-tubular-bells-chimes-c3-f-rr1.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-tubular-bells-chimes-c3-f-rr1.flac",
-   "preview": "previews/vcsl-tubular-bells-chimes-c3-f-rr1.mp3"
+   "preview": "previews/vcsl-tubular-bells-chimes-c3-f-rr1.mp3",
+   "gain_db": 6.4
   },
   {
    "id": "vcsl-tubular-bells-chimes-c3-pp-rr2",
@@ -4773,11 +5137,13 @@
     "decay_s": 6.365,
     "centroid_hz": 1226,
     "low_share": 0.014,
-    "note": "C3"
+    "note": "C3",
+    "hit_dbfs": -32.5
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-tubular-bells-chimes-c3-pp-rr2.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-tubular-bells-chimes-c3-pp-rr2.flac",
-   "preview": "previews/vcsl-tubular-bells-chimes-c3-pp-rr2.mp3"
+   "preview": "previews/vcsl-tubular-bells-chimes-c3-pp-rr2.mp3",
+   "gain_db": 6.4
   },
   {
    "id": "vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid",
@@ -4797,11 +5163,13 @@
     "decay_s": 0.172,
     "centroid_hz": 1811,
     "low_share": 0.0,
-    "note": "C4"
+    "note": "C4",
+    "hit_dbfs": -27.1
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.flac",
-   "preview": "previews/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.mp3"
+   "preview": "previews/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.mp3",
+   "gain_db": 7.7
   },
   {
    "id": "vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid",
@@ -4821,11 +5189,13 @@
     "decay_s": 0.208,
     "centroid_hz": 1090,
     "low_share": 0.0,
-    "note": "C5"
+    "note": "C5",
+    "hit_dbfs": -21.7
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.flac",
-   "preview": "previews/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.mp3"
+   "preview": "previews/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.mp3",
+   "gain_db": 7.7
   },
   {
    "id": "vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid",
@@ -4846,11 +5216,13 @@
     "decay_s": 0.237,
     "centroid_hz": 682,
     "low_share": 0.0,
-    "note": "C4"
+    "note": "C4",
+    "hit_dbfs": -31.8
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.flac",
-   "preview": "previews/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.mp3"
+   "preview": "previews/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.mp3",
+   "gain_db": 17.8
   },
   {
    "id": "vcsl-hand-chimes-sus-c4-r01-main",
@@ -4873,11 +5245,13 @@
     "decay_s": 3.742,
     "centroid_hz": 524,
     "low_share": 0.0,
-    "note": "C4"
+    "note": "C4",
+    "hit_dbfs": -18.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-hand-chimes-sus-c4-r01-main.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-hand-chimes-sus-c4-r01-main.flac",
-   "preview": "previews/vcsl-hand-chimes-sus-c4-r01-main.mp3"
+   "preview": "previews/vcsl-hand-chimes-sus-c4-r01-main.mp3",
+   "gain_db": 4.9
   },
   {
    "id": "vcsl-hand-chimes-sus-c5-r01-main",
@@ -4899,11 +5273,13 @@
     "decay_s": 2.568,
     "centroid_hz": 1051,
     "low_share": 0.0,
-    "note": "C5"
+    "note": "C5",
+    "hit_dbfs": -24.9
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-hand-chimes-sus-c5-r01-main.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-hand-chimes-sus-c5-r01-main.flac",
-   "preview": "previews/vcsl-hand-chimes-sus-c5-r01-main.mp3"
+   "preview": "previews/vcsl-hand-chimes-sus-c5-r01-main.mp3",
+   "gain_db": 10.9
   },
   {
    "id": "vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2",
@@ -4925,11 +5301,13 @@
     "decay_s": 0.432,
     "centroid_hz": 614,
     "low_share": 0.025,
-    "note": "G1"
+    "note": "G1",
+    "hit_dbfs": -12.6
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.flac",
-   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.mp3"
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.mp3",
+   "gain_db": -1.4
   },
   {
    "id": "vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2",
@@ -4951,11 +5329,13 @@
     "decay_s": 1.029,
     "centroid_hz": 232,
     "low_share": 0.0,
-    "note": "G2"
+    "note": "G2",
+    "hit_dbfs": -13.3
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.flac",
-   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.mp3"
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.mp3",
+   "gain_db": -0.7
   },
   {
    "id": "vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2",
@@ -4977,11 +5357,13 @@
     "decay_s": 1.178,
     "centroid_hz": 397,
     "low_share": 0.0,
-    "note": "G3"
+    "note": "G3",
+    "hit_dbfs": -7.4
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.flac",
-   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.mp3"
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.mp3",
+   "gain_db": -6.6
   },
   {
    "id": "vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2",
@@ -5001,11 +5383,13 @@
     "decay_s": 0.267,
     "centroid_hz": 958,
     "low_share": 0.0,
-    "note": "G4"
+    "note": "G4",
+    "hit_dbfs": -16.3
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.flac",
-   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.mp3"
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.mp3",
+   "gain_db": 1.6
   },
   {
    "id": "vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3",
@@ -5028,11 +5412,13 @@
     "decay_s": 5.551,
     "centroid_hz": 622,
     "low_share": 0.161,
-    "note": "C3"
+    "note": "C3",
+    "hit_dbfs": -22.2
    },
    "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.nc.json",
    "audio": "https://musicmatter.art/library/audio/tonal/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.flac",
-   "preview": "previews/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.mp3"
+   "preview": "previews/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.mp3",
+   "gain_db": 8.2
   }
  ]
 }

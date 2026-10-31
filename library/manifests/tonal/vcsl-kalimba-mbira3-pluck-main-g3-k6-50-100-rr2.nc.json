@@ -53,9 +53,14 @@
     "decay_s": 1.178,
     "centroid_hz": 397,
     "low_share": 0.0,
-    "note": "G3"
+    "note": "G3",
+    "hit_dbfs": -7.4
   },
   "curation": {
     "status": "pending"
+  },
+  "playback": {
+    "gain_db": -6.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
   }
 }

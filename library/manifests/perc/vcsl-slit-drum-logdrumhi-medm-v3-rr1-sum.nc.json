@@ -52,9 +52,14 @@
     "attack_ms": 6.0,
     "decay_s": 0.487,
     "centroid_hz": 156,
-    "low_share": 0.001
+    "low_share": 0.001,
+    "hit_dbfs": -25.1
   },
   "curation": {
     "status": "pending"
+  },
+  "playback": {
+    "gain_db": 11.1,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
   }
 }

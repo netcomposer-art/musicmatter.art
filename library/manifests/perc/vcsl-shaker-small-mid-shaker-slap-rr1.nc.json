@@ -53,9 +53,15 @@
     "decay_s": 0.653,
     "centroid_hz": 6070,
     "low_share": 0.441,
-    "pitch_hz": 40.0
+    "pitch_hz": 40.0,
+    "hit_dbfs": -44.8
   },
   "curation": {
     "status": "pending"
+  },
+  "playback": {
+    "gain_db": 26.0,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
   }
 }
