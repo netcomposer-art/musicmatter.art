@@ -1,0 +1,63 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Snare drum, modern 3 · Snare4 taps v4",
+  "instrument": "Snare drum, modern 3",
+  "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "modern",
+    "snappy",
+    "snare",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Modern%203/Snare4_taps_v4_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Modern 3/Snare4_taps_v4_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "7435b05a02cc71e791709e83c1550194ef8f932a6025df30f46903b7b75b9a33",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 35711
+  },
+  "sha256": "4e1c46d98f49189e2109edbe5c4506439eaa76e9504beb69f1979ce7e35fe8e5",
+  "size_bytes": 91656,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.744,
+    "lufs": -41.9,
+    "peak_dbfs": -19.7,
+    "attack_ms": 3.0,
+    "decay_s": 0.146,
+    "centroid_hz": 3029,
+    "low_share": 0.097,
+    "pitch_hz": 263.3
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

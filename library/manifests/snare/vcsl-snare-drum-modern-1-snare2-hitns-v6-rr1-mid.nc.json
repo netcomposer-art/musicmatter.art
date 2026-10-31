@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Snare drum, modern 1 · Snare2 HitNS v6",
+  "instrument": "Snare drum, modern 1",
+  "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Modern%201/Snare2_HitNS_v6_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Modern 1/Snare2_HitNS_v6_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "1231d6e59ea7a16c58defe6d001c0dd346e2d56a4a94000111399bb5e6652714",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 49708
+  },
+  "sha256": "29147c126d374523ca6bffc037a19cb4018dc7d4dcb8467c424784465069cad7",
+  "size_bytes": 122766,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.036,
+    "lufs": -19.7,
+    "peak_dbfs": -3.2,
+    "attack_ms": 8.0,
+    "decay_s": 0.207,
+    "centroid_hz": 228,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

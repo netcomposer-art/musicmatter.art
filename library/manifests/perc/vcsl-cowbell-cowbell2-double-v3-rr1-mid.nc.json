@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Cowbell · Cowbell2 Double v3",
+  "instrument": "Cowbell",
+  "tags": [
+    "acoustic",
+    "cowbell",
+    "perc",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Cowbells/Cowbell2_Double_v3_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Cowbells/Cowbell2_Double_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "eba15b02c76aca14329094e6916463eaa23d1a1b55c8af0deda9dd315a49e66e",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell2-double-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 31074
+  },
+  "sha256": "2089d8de085feb73b2165291fa51bc56e474c74410fc987e914bc04af028f7c8",
+  "size_bytes": 98328,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.647,
+    "lufs": -23.6,
+    "peak_dbfs": -4.9,
+    "attack_ms": 3.0,
+    "decay_s": 0.192,
+    "centroid_hz": 1773,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

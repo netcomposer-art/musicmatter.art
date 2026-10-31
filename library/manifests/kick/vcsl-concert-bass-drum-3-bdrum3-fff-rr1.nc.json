@@ -1,0 +1,65 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "kick",
+  "title": "Concert bass drum 3 · bdrum3 fff",
+  "instrument": "Concert bass drum 3",
+  "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bass%20Drum%203%20-%20Legacy/bdrum3_fff_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Bass Drum 3 - Legacy/bdrum3_fff_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "d4707c2858ab6fdc814815c7f8d9e0beab09c3a3a88f2a337720444291352ba4",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 347939
+  },
+  "sha256": "a8a9f01bd34a9678072dc272f337596630fc2cc556db32521cb00b2a77ca47c9",
+  "size_bytes": 789523,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 7.249,
+    "lufs": -25.2,
+    "peak_dbfs": -0.4,
+    "attack_ms": 11.0,
+    "decay_s": 0.624,
+    "centroid_hz": 137,
+    "low_share": 0.773,
+    "pitch_hz": 93.3
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

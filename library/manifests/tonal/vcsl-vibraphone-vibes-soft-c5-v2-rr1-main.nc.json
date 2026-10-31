@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Vibraphone · Vibes soft C5 v2",
+  "instrument": "Vibraphone",
+  "tags": [
+    "acoustic",
+    "long",
+    "soft",
+    "tonal",
+    "vibraphone"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Vibraphone/Soft%20Mallets/Vibes_soft_C5_v2_rr1_Main.wav",
+    "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_C5_v2_rr1_Main.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "129c5661e386f3c08a4f777c108815f174d96e02f5fb4b4026a9437905327847",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 214916
+  },
+  "sha256": "6d508cc53e248f017876cd317d1a2684be61a65f127ed153ecd5725f797cafc7",
+  "size_bytes": 484099,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 4.477,
+    "lufs": -19.2,
+    "peak_dbfs": -8.6,
+    "attack_ms": 3.0,
+    "decay_s": 2.482,
+    "centroid_hz": 1046,
+    "low_share": 0.0,
+    "note": "C5"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

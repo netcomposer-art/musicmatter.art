@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Tambourine 1 · Tamb1 Hit v2",
+  "instrument": "Tambourine 1",
+  "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "tambourine"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Tambourine%201/Tamb1_Hit_v2_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Tambourine 1/Tamb1_Hit_v2_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "885ebf1d70f8e888f576682e4e4112b92b69649162f392c83b3379c91a09cf41",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 40702
+  },
+  "sha256": "c07d8ce1ddf8b8ae808137d0750d29c944ab6d16208acb1c85d5ecdc633bf1ea",
+  "size_bytes": 135862,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.848,
+    "lufs": -31.8,
+    "peak_dbfs": -15.9,
+    "attack_ms": 6.0,
+    "decay_s": 0.32,
+    "centroid_hz": 8399,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

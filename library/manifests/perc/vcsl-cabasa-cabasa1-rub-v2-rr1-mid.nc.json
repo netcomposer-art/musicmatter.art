@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Cabasa · Cabasa1 Rub v2",
+  "instrument": "Cabasa",
+  "tags": [
+    "acoustic",
+    "bright",
+    "cabasa",
+    "perc",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Cabasa/Cabasa1_Rub_v2_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Cabasa/Cabasa1_Rub_v2_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "f13cba113f7cc65b2f4949108b3aa3a6d4c64fa2cebb6cf83894bbd20f008f28",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 29808
+  },
+  "sha256": "7cfbebd760ed38a0cc3d4019aed3c0067ff134c8956fe8abc76ec796e5d30bf8",
+  "size_bytes": 95246,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.621,
+    "lufs": -36.6,
+    "peak_dbfs": -20.2,
+    "attack_ms": 29.0,
+    "decay_s": 0.167,
+    "centroid_hz": 11991,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

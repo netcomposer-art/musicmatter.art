@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Brake drum · BrakeDrum2 Hammer1 v2",
+  "instrument": "Brake drum",
+  "tags": [
+    "acoustic",
+    "brake",
+    "drum",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Brake%20Drum/BrakeDrum2_Hammer1_v2_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Brake Drum/BrakeDrum2_Hammer1_v2_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "cd1b6ee78ba1127b0f85d4a135139120070b7efd6a340d3f2b88db72adedf0c4",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 42835
+  },
+  "sha256": "b9f76a3080782a15d6a3c7c78dc6cfa6f20697aa8a1e0a4c4e9317ed9cf6a1e0",
+  "size_bytes": 117200,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.892,
+    "lufs": -35.1,
+    "peak_dbfs": -15.3,
+    "attack_ms": 4.0,
+    "decay_s": 0.262,
+    "centroid_hz": 1808,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

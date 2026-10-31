@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "hat",
+  "title": "Hi-hat · HiHat HitO",
+  "instrument": "Hi-hat",
+  "tags": [
+    "acoustic",
+    "bright",
+    "hat",
+    "long",
+    "open"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Hi-Hat%20Cymbal/HiHat_HitO_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Hi-Hat Cymbal/HiHat_HitO_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "fa492ec14cc6924b43ad5fcf9e9a0f406d926998835bde2eb5847cd15ad25be7",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hito-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 152603
+  },
+  "sha256": "8262d25eb2ef9252f300c8e4fd992c9bc47296444badb244535105aff751e51e",
+  "size_bytes": 569774,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.179,
+    "lufs": -26.0,
+    "peak_dbfs": -11.4,
+    "attack_ms": 9.0,
+    "decay_s": 1.414,
+    "centroid_hz": 6908,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

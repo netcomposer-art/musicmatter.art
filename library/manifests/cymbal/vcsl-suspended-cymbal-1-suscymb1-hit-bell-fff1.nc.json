@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "cymbal",
+  "title": "Suspended cymbal 1 · susCymb1 hit bell fff1",
+  "instrument": "Suspended cymbal 1",
+  "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Suspended%20Cymbal%201/susCymb1_hit_bell_fff1.wav",
+    "path": "Idiophones/Struck Idiophones/Suspended Cymbal 1/susCymb1_hit_bell_fff1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "6be90461233ba1900c1c02118cc0d00b50d0d534596ec0ae2fe5bc1e0ce0e715",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 179347
+  },
+  "sha256": "6913ac86353ec6fcfb97e52a2317868b061b44ff5ce4dfdf36ba1d2e3afe57bf",
+  "size_bytes": 531158,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.736,
+    "lufs": -28.2,
+    "peak_dbfs": -4.5,
+    "attack_ms": 0.0,
+    "decay_s": 1.015,
+    "centroid_hz": 3491,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

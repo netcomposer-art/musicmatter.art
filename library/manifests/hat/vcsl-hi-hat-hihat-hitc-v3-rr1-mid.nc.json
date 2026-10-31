@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "hat",
+  "title": "Hi-hat · HiHat HitC v3",
+  "instrument": "Hi-hat",
+  "tags": [
+    "acoustic",
+    "bright",
+    "closed",
+    "hat",
+    "snappy",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Hi-Hat%20Cymbal/HiHat_HitC_v3_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Hi-Hat Cymbal/HiHat_HitC_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "b65ca06ea4f8b5209fc8d98912094be1212911f21e01bd949cc9960db049d37c",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 28270
+  },
+  "sha256": "b48c4dfcad1599cb0a21a1a4dcc7f4492ea2a66547f60750c863f60f563bf6f8",
+  "size_bytes": 95383,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.589,
+    "lufs": -29.9,
+    "peak_dbfs": -14.0,
+    "attack_ms": 3.0,
+    "decay_s": 0.186,
+    "centroid_hz": 9811,
+    "low_share": 0.006
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

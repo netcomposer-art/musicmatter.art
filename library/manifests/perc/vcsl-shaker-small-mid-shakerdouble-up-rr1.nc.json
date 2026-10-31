@@ -1,0 +1,63 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Shaker, small · Mid ShakerDouble Up",
+  "instrument": "Shaker, small",
+  "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "shaker",
+    "short",
+    "small",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Shaker,%20Small/Mid_ShakerDouble_Up_rr1.wav",
+    "path": "Idiophones/Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Up_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "69a10776db0b838bc6555be2dbdb41e1521bb28bba2e89963d1bf779bfb5b61f",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerdouble-up-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 6069
+  },
+  "sha256": "11598807584589d2e78ad89bccb338ce5c0294efbbc865f1f5118ecf32bc7732",
+  "size_bytes": 23156,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.126,
+    "lufs": -46.4,
+    "peak_dbfs": -36.7,
+    "attack_ms": 50.0,
+    "decay_s": 0.06,
+    "centroid_hz": 8595,
+    "low_share": 0.215,
+    "pitch_hz": 71.2
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

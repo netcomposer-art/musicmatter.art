@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Woodblock · wood click ff",
+  "instrument": "Woodblock",
+  "tags": [
+    "acoustic",
+    "hard",
+    "perc",
+    "tight",
+    "woodblock"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Woodblock/wood_click_ff.wav",
+    "path": "Idiophones/Struck Idiophones/Woodblock/wood_click_ff.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "9a911c66212d50a09494821bf9af8ce6e007612e232b5905f838348cb1d63b75",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click-ff.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 21055
+  },
+  "sha256": "689dcbaf5e93fa56911b0c75e61f98858812974c047fa1008624ef9e5c59ace1",
+  "size_bytes": 62328,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.439,
+    "lufs": -24.8,
+    "peak_dbfs": -4.5,
+    "attack_ms": 10.0,
+    "decay_s": 0.147,
+    "centroid_hz": 1567,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

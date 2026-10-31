@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tom",
+  "title": "Tom 2 · TomL rimS v4",
+  "instrument": "Tom 2",
+  "tags": [
+    "acoustic",
+    "hard",
+    "long",
+    "punchy",
+    "tom"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Tom%202/TomL_rimS_v4_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Tom 2/TomL_rimS_v4_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "05040914fff59713347d2c13b14d00d83de83ab66092a01d973dd81abaf6da22",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-rims-v4-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 87126
+  },
+  "sha256": "076630fff8456802aab981d3802c7cafa848ca19fa9cf63551f82c983a17283d",
+  "size_bytes": 156931,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.815,
+    "lufs": -42.9,
+    "peak_dbfs": -23.1,
+    "attack_ms": 5.0,
+    "decay_s": 0.258,
+    "centroid_hz": 967,
+    "low_share": 0.081,
+    "pitch_hz": 90.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

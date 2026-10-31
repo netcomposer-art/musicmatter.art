@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Brake drum · BrakeDrum1 YarnM v3",
+  "instrument": "Brake drum",
+  "tags": [
+    "acoustic",
+    "brake",
+    "drum",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Brake%20Drum/BrakeDrum1_YarnM_v3_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Brake Drum/BrakeDrum1_YarnM_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "029ad3644d14a2eb9939c4fc461004443c88599653534c68a2b9f81559c62817",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 45206
+  },
+  "sha256": "5022a419d4ec7aece38553d1355c22a4d08433fe7c84ad48b87ffa15a09aadc8",
+  "size_bytes": 116757,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.942,
+    "lufs": -27.5,
+    "peak_dbfs": -11.4,
+    "attack_ms": 4.0,
+    "decay_s": 0.333,
+    "centroid_hz": 1408,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

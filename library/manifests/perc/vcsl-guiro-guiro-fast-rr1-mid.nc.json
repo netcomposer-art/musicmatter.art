@@ -1,0 +1,58 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Guiro · Guiro Fast",
+  "instrument": "Guiro",
+  "tags": [
+    "acoustic",
+    "guiro",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Guiro/Guiro_Fast_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Guiro/Guiro_Fast_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "fb601ba7bf1decb62c6cbe38f4f74807e4067dcdcc967e028bd0ec75053c2c28",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-fast-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 62015
+  },
+  "sha256": "5a6d9351c23840ecaba2ea7ee37004bad6c4a755eea5956961e643d6ab98bb32",
+  "size_bytes": 141888,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.292,
+    "lufs": -46.8,
+    "peak_dbfs": -31.5,
+    "attack_ms": 107.0,
+    "decay_s": 0.214,
+    "centroid_hz": 2901,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

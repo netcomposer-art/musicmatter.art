@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Vibraphone · Vibes hard C3 v3",
+  "instrument": "Vibraphone",
+  "tags": [
+    "acoustic",
+    "hard",
+    "long",
+    "tonal",
+    "vibraphone"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Vibraphone/Hard%20Mallets/Vibes_hard_C3_v3_rr1_Main.wav",
+    "path": "Idiophones/Struck Idiophones/Vibraphone/Hard Mallets/Vibes_hard_C3_v3_rr1_Main.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "1e4c472f6630be1b0c4ff1e8a63ad61d2c1dc561bd764fedaf87e8e46bdd706d",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 342293
+  },
+  "sha256": "06306bfdc4b1e6819cffa6521240ae03623b3a14f25af2079db96763645048e4",
+  "size_bytes": 775463,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 7.131,
+    "lufs": -28.4,
+    "peak_dbfs": -7.2,
+    "attack_ms": 3.0,
+    "decay_s": 3.343,
+    "centroid_hz": 2314,
+    "low_share": 0.0,
+    "note": "C3"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

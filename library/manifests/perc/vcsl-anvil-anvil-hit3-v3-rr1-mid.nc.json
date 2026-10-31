@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Anvil · Anvil Hit3 v3",
+  "instrument": "Anvil",
+  "tags": [
+    "acoustic",
+    "anvil",
+    "bright",
+    "perc",
+    "snappy"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Anvil/Anvil_Hit3_v3_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Anvil/Anvil_Hit3_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "ef9127b7d0e9fa026cfaefee06d9383c349cab00a9d63dd1ebdd3c9c6841d12e",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit3-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 32914
+  },
+  "sha256": "0a2b825b66b2bbf1e4dcb8b1cb68aae91172d3118b38decac00b21a2f572c5af",
+  "size_bytes": 117863,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.686,
+    "lufs": -17.2,
+    "peak_dbfs": -3.4,
+    "attack_ms": 4.0,
+    "decay_s": 0.223,
+    "centroid_hz": 5756,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

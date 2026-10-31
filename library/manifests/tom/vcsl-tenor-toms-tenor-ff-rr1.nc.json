@@ -1,0 +1,63 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tom",
+  "title": "Tenor toms · tenor ff",
+  "instrument": "Tenor toms",
+  "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "punchy",
+    "tenor",
+    "tom",
+    "toms"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Legacy%20Toms/tenor_lower/tenor_ff_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Legacy Toms/tenor_lower/tenor_ff_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "ab78cf8f871847d9adedb451cafee12e51663451e2d4f745538b33916bd6daa5",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-ff-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 66127
+  },
+  "sha256": "9208ffd109806539674791a9c7a0b2fd2ae57d0f184426ad1f50a50cb290dde9",
+  "size_bytes": 159708,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.378,
+    "lufs": -26.7,
+    "peak_dbfs": -5.7,
+    "attack_ms": 8.0,
+    "decay_s": 0.276,
+    "centroid_hz": 198,
+    "low_share": 0.536,
+    "pitch_hz": 90.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

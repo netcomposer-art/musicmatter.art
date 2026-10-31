@@ -1,0 +1,64 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "kick",
+  "title": "Concert bass drum 3 · bdrum special sidehit",
+  "instrument": "Concert bass drum 3",
+  "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "kick",
+    "orchestral",
+    "punchy"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bass%20Drum%203%20-%20Legacy/bdrum_special_sidehit.wav",
+    "path": "Membranophones/Struck Membranophones/Bass Drum 3 - Legacy/bdrum_special_sidehit.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "b5c99a2cf630bdacbdf29ee5dd7ba3674007e70556cefd6903cdd84c81538387",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-special-sidehit.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 36821
+  },
+  "sha256": "fc03755b52d76e551e0f32c109bed86c7b27462d64fc96d8f90024a6d752b3e1",
+  "size_bytes": 90125,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.767,
+    "lufs": -43.7,
+    "peak_dbfs": -20.4,
+    "attack_ms": 5.0,
+    "decay_s": 0.309,
+    "centroid_hz": 316,
+    "low_share": 0.265,
+    "pitch_hz": 140.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

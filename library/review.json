@@ -1,0 +1,5038 @@
+{
+ "generated": "2026-10-31T18:15:42Z",
+ "source": "vcsl",
+ "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+ "count": 193,
+ "candidates": [
+  {
+   "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum",
+   "role": "kick",
+   "title": "Concert bass drum 1 \u00b7 BDrumNew hit v7",
+   "instrument": "Concert bass drum 1",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral",
+    "punchy"
+   ],
+   "measures": {
+    "length_s": 3.969,
+    "lufs": -25.7,
+    "peak_dbfs": -4.5,
+    "attack_ms": 4.0,
+    "decay_s": 0.28,
+    "centroid_hz": 114,
+    "low_share": 0.839,
+    "pitch_hz": 86.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.flac",
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v7-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum",
+   "role": "kick",
+   "title": "Concert bass drum 1 \u00b7 BDrumNew hit v5",
+   "instrument": "Concert bass drum 1",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral",
+    "punchy"
+   ],
+   "measures": {
+    "length_s": 2.485,
+    "lufs": -30.3,
+    "peak_dbfs": -9.6,
+    "attack_ms": 5.0,
+    "decay_s": 0.201,
+    "centroid_hz": 102,
+    "low_share": 0.908,
+    "pitch_hz": 83.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.flac",
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v5-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum",
+   "role": "kick",
+   "title": "Concert bass drum 1 \u00b7 BDrumNew hit v3",
+   "instrument": "Concert bass drum 1",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 1.685,
+    "lufs": -36.5,
+    "peak_dbfs": -17.0,
+    "attack_ms": 22.0,
+    "decay_s": 0.195,
+    "centroid_hz": 93,
+    "low_share": 0.96,
+    "pitch_hz": 83.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum",
+   "role": "kick",
+   "title": "Concert bass drum 1 \u00b7 BDrumNew hit v2",
+   "instrument": "Concert bass drum 1",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "kick",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 1.37,
+    "lufs": -42.0,
+    "peak_dbfs": -22.2,
+    "attack_ms": 24.0,
+    "decay_s": 0.096,
+    "centroid_hz": 84,
+    "low_share": 0.98,
+    "pitch_hz": 83.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.flac",
+   "preview": "previews/vcsl-concert-bass-drum-1-bdrumnew-hit-v2-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-2-bassdrum-hit-ff",
+   "role": "kick",
+   "title": "Concert bass drum 2 \u00b7 bassdrum hit ff",
+   "instrument": "Concert bass drum 2",
+   "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 9.752,
+    "lufs": -29.7,
+    "peak_dbfs": -6.7,
+    "attack_ms": 7.0,
+    "decay_s": 2.306,
+    "centroid_hz": 69,
+    "low_share": 0.892,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-ff.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-ff.flac",
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-ff.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mf1",
+   "role": "kick",
+   "title": "Concert bass drum 2 \u00b7 bassdrum hit mf1",
+   "instrument": "Concert bass drum 2",
+   "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 8.813,
+    "lufs": -33.3,
+    "peak_dbfs": -11.8,
+    "attack_ms": 9.0,
+    "decay_s": 2.494,
+    "centroid_hz": 50,
+    "low_share": 0.981,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mf2",
+   "role": "kick",
+   "title": "Concert bass drum 2 \u00b7 bassdrum hit mf2",
+   "instrument": "Concert bass drum 2",
+   "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 7.797,
+    "lufs": -34.7,
+    "peak_dbfs": -13.4,
+    "attack_ms": 9.0,
+    "decay_s": 2.663,
+    "centroid_hz": 52,
+    "low_share": 0.969,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.flac",
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mf2.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mp1",
+   "role": "kick",
+   "title": "Concert bass drum 2 \u00b7 bassdrum hit mp1",
+   "instrument": "Concert bass drum 2",
+   "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 7.511,
+    "lufs": -37.9,
+    "peak_dbfs": -18.3,
+    "attack_ms": 11.0,
+    "decay_s": 3.251,
+    "centroid_hz": 49,
+    "low_share": 0.982,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mp1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-2-bassdrum-hit-mp2",
+   "role": "kick",
+   "title": "Concert bass drum 2 \u00b7 bassdrum hit mp2",
+   "instrument": "Concert bass drum 2",
+   "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 8.148,
+    "lufs": -38.2,
+    "peak_dbfs": -18.7,
+    "attack_ms": 23.0,
+    "decay_s": 2.957,
+    "centroid_hz": 49,
+    "low_share": 0.981,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.flac",
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-mp2.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-2-bassdrum-hit-pp1",
+   "role": "kick",
+   "title": "Concert bass drum 2 \u00b7 bassdrum hit pp1",
+   "instrument": "Concert bass drum 2",
+   "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 7.772,
+    "lufs": -40.8,
+    "peak_dbfs": -22.4,
+    "attack_ms": 24.0,
+    "decay_s": 3.254,
+    "centroid_hz": 48,
+    "low_share": 0.991,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-3-bdrum-fff-rr1",
+   "role": "kick",
+   "title": "Concert bass drum 3 \u00b7 bdrum fff",
+   "instrument": "Concert bass drum 3",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 7.446,
+    "lufs": -24.9,
+    "peak_dbfs": -2.0,
+    "attack_ms": 18.0,
+    "decay_s": 0.415,
+    "centroid_hz": 229,
+    "low_share": 0.457,
+    "pitch_hz": 150.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-fff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-fff-rr1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-fff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-3-bdrum2-pp-rr1",
+   "role": "kick",
+   "title": "Concert bass drum 3 \u00b7 bdrum2 pp",
+   "instrument": "Concert bass drum 3",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "kick",
+    "long",
+    "orchestral",
+    "soft"
+   ],
+   "measures": {
+    "length_s": 3.393,
+    "lufs": -45.8,
+    "peak_dbfs": -25.6,
+    "attack_ms": 16.0,
+    "decay_s": 0.882,
+    "centroid_hz": 110,
+    "low_share": 0.888,
+    "pitch_hz": 96.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum2-pp-rr1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-3-bdrum3-fff-rr1",
+   "role": "kick",
+   "title": "Concert bass drum 3 \u00b7 bdrum3 fff",
+   "instrument": "Concert bass drum 3",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 7.249,
+    "lufs": -25.2,
+    "peak_dbfs": -0.4,
+    "attack_ms": 11.0,
+    "decay_s": 0.624,
+    "centroid_hz": 137,
+    "low_share": 0.773,
+    "pitch_hz": 93.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum3-fff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1",
+   "role": "kick",
+   "title": "Concert bass drum 3 \u00b7 bdrum muted fff",
+   "instrument": "Concert bass drum 3",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 3.464,
+    "lufs": -23.8,
+    "peak_dbfs": -1.0,
+    "attack_ms": 14.0,
+    "decay_s": 0.225,
+    "centroid_hz": 151,
+    "low_share": 0.743,
+    "pitch_hz": 100.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-muted-fff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-3-bdrum-special-sidehit",
+   "role": "kick",
+   "title": "Concert bass drum 3 \u00b7 bdrum special sidehit",
+   "instrument": "Concert bass drum 3",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "kick",
+    "orchestral",
+    "punchy"
+   ],
+   "measures": {
+    "length_s": 0.767,
+    "lufs": -43.7,
+    "peak_dbfs": -20.4,
+    "attack_ms": 5.0,
+    "decay_s": 0.309,
+    "centroid_hz": 316,
+    "low_share": 0.265,
+    "pitch_hz": 140.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-special-sidehit.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-special-sidehit.flac",
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-special-sidehit.mp3"
+  },
+  {
+   "id": "vcsl-concert-bass-drum-3-bdrum-ff-rr1",
+   "role": "kick",
+   "title": "Concert bass drum 3 \u00b7 bdrum ff",
+   "instrument": "Concert bass drum 3",
+   "tags": [
+    "acoustic",
+    "bass",
+    "concert",
+    "dark",
+    "drum",
+    "hard",
+    "kick",
+    "long",
+    "orchestral"
+   ],
+   "measures": {
+    "length_s": 6.587,
+    "lufs": -25.7,
+    "peak_dbfs": -2.8,
+    "attack_ms": 18.0,
+    "decay_s": 0.866,
+    "centroid_hz": 228,
+    "low_share": 0.511,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/kick/vcsl-concert-bass-drum-3-bdrum-ff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-3-bdrum-ff-rr1.flac",
+   "preview": "previews/vcsl-concert-bass-drum-3-bdrum-ff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 1 \u00b7 Snare2 HitNS v6",
+   "instrument": "Snare drum, modern 1",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare"
+   ],
+   "measures": {
+    "length_s": 1.036,
+    "lufs": -19.7,
+    "peak_dbfs": -3.2,
+    "attack_ms": 8.0,
+    "decay_s": 0.207,
+    "centroid_hz": 228,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitns-v6-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 1 \u00b7 Snare2 HitSN v9",
+   "instrument": "Snare drum, modern 1",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "long",
+    "modern",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.607,
+    "lufs": -21.0,
+    "peak_dbfs": -2.8,
+    "attack_ms": 9.0,
+    "decay_s": 0.156,
+    "centroid_hz": 944,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitsn-v9-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 1 \u00b7 Snare2 stick v1",
+   "instrument": "Snare drum, modern 1",
+   "tags": [
+    "acoustic",
+    "drum",
+    "modern",
+    "snappy",
+    "snare",
+    "soft",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.746,
+    "lufs": -40.4,
+    "peak_dbfs": -20.3,
+    "attack_ms": 3.0,
+    "decay_s": 0.138,
+    "centroid_hz": 2987,
+    "low_share": 0.113,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-stick-v1-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 1 \u00b7 Snare2 taps v4",
+   "instrument": "Snare drum, modern 1",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "modern",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.394,
+    "lufs": -35.4,
+    "peak_dbfs": -14.7,
+    "attack_ms": 2.0,
+    "decay_s": 0.145,
+    "centroid_hz": 2459,
+    "low_share": 0.018
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-taps-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 1 \u00b7 Snare2 HitNS v5",
+   "instrument": "Snare drum, modern 1",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare"
+   ],
+   "measures": {
+    "length_s": 0.793,
+    "lufs": -22.2,
+    "peak_dbfs": -6.2,
+    "attack_ms": 8.0,
+    "decay_s": 0.204,
+    "centroid_hz": 224,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 1 \u00b7 Snare2 HitSN v7",
+   "instrument": "Snare drum, modern 1",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "long",
+    "modern",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.532,
+    "lufs": -26.3,
+    "peak_dbfs": -6.8,
+    "attack_ms": 9.0,
+    "decay_s": 0.152,
+    "centroid_hz": 1111,
+    "low_share": 0.004
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-1-snare2-hitsn-v7-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 2 \u00b7 Snare3M HitNS v5",
+   "instrument": "Snare drum, modern 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare"
+   ],
+   "measures": {
+    "length_s": 1.137,
+    "lufs": -27.4,
+    "peak_dbfs": -10.9,
+    "attack_ms": 4.0,
+    "decay_s": 0.249,
+    "centroid_hz": 207,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitns-v5-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 2 \u00b7 Snare3M HitSN v5",
+   "instrument": "Snare drum, modern 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.264,
+    "lufs": -27.7,
+    "peak_dbfs": -9.0,
+    "attack_ms": 6.0,
+    "decay_s": 0.117,
+    "centroid_hz": 630,
+    "low_share": 0.005
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitsn-v5-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 2 \u00b7 Snare3M stick v3",
+   "instrument": "Snare drum, modern 2",
+   "tags": [
+    "acoustic",
+    "drum",
+    "modern",
+    "snappy",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.821,
+    "lufs": -43.9,
+    "peak_dbfs": -23.8,
+    "attack_ms": 3.0,
+    "decay_s": 0.156,
+    "centroid_hz": 3486,
+    "low_share": 0.021
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-stick-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 2 \u00b7 Snare3M taps v4",
+   "instrument": "Snare drum, modern 2",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "modern",
+    "snappy",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.901,
+    "lufs": -41.6,
+    "peak_dbfs": -21.6,
+    "attack_ms": 3.0,
+    "decay_s": 0.161,
+    "centroid_hz": 2940,
+    "low_share": 0.046
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-taps-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 2 \u00b7 Snare3M Xstick v2",
+   "instrument": "Snare drum, modern 2",
+   "tags": [
+    "acoustic",
+    "drum",
+    "modern",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.135,
+    "lufs": -41.8,
+    "peak_dbfs": -21.4,
+    "attack_ms": 4.0,
+    "decay_s": 0.152,
+    "centroid_hz": 1191,
+    "low_share": 0.089,
+    "pitch_hz": 216.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 2 \u00b7 Snare3M HitNS v4",
+   "instrument": "Snare drum, modern 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare"
+   ],
+   "measures": {
+    "length_s": 1.015,
+    "lufs": -30.8,
+    "peak_dbfs": -14.7,
+    "attack_ms": 6.0,
+    "decay_s": 0.25,
+    "centroid_hz": 199,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-2-snare3m-hitns-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 3 \u00b7 Snare4 HitSN v5",
+   "instrument": "Snare drum, modern 3",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "modern",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.001,
+    "lufs": -31.1,
+    "peak_dbfs": -9.0,
+    "attack_ms": 18.0,
+    "decay_s": 0.19,
+    "centroid_hz": 1160,
+    "low_share": 0.176,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-hitsn-v5-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 3 \u00b7 Snare4 rimshot v4",
+   "instrument": "Snare drum, modern 3",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "long",
+    "modern",
+    "snare"
+   ],
+   "measures": {
+    "length_s": 2.773,
+    "lufs": -31.1,
+    "peak_dbfs": -9.2,
+    "attack_ms": 3.0,
+    "decay_s": 0.269,
+    "centroid_hz": 1294,
+    "low_share": 0.006
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-rimshot-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 3 \u00b7 Snare4 stick v3",
+   "instrument": "Snare drum, modern 3",
+   "tags": [
+    "acoustic",
+    "drum",
+    "modern",
+    "snappy",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.969,
+    "lufs": -39.5,
+    "peak_dbfs": -18.9,
+    "attack_ms": 4.0,
+    "decay_s": 0.135,
+    "centroid_hz": 3786,
+    "low_share": 0.061,
+    "pitch_hz": 40.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-stick-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 3 \u00b7 Snare4 taps v4",
+   "instrument": "Snare drum, modern 3",
+   "tags": [
+    "acoustic",
+    "drum",
+    "hard",
+    "modern",
+    "snappy",
+    "snare",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.744,
+    "lufs": -41.9,
+    "peak_dbfs": -19.7,
+    "attack_ms": 3.0,
+    "decay_s": 0.146,
+    "centroid_hz": 3029,
+    "low_share": 0.097,
+    "pitch_hz": 263.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-taps-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid",
+   "role": "snare",
+   "title": "Snare drum, modern 3 \u00b7 Snare4 Xstick v2",
+   "instrument": "Snare drum, modern 3",
+   "tags": [
+    "acoustic",
+    "drum",
+    "modern",
+    "snare"
+   ],
+   "measures": {
+    "length_s": 0.782,
+    "lufs": -49.3,
+    "peak_dbfs": -27.8,
+    "attack_ms": 15.0,
+    "decay_s": 0.222,
+    "centroid_hz": 1446,
+    "low_share": 0.082,
+    "pitch_hz": 360.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-snare-drum-modern-3-snare4-xstick-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1",
+   "role": "snare",
+   "title": "Rope-tension snare \u00b7 RopeSnare hi sn Main vl4",
+   "instrument": "Rope-tension snare",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "rope",
+    "snare",
+    "tension"
+   ],
+   "measures": {
+    "length_s": 2.365,
+    "lufs": -34.6,
+    "peak_dbfs": -11.5,
+    "attack_ms": 3.0,
+    "decay_s": 0.419,
+    "centroid_hz": 208,
+    "low_share": 0.703,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.flac",
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-hi-sn-main-vl4-rr1.mp3"
+  },
+  {
+   "id": "vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1",
+   "role": "snare",
+   "title": "Rope-tension snare \u00b7 RopeSnare low ns Main vl3",
+   "instrument": "Rope-tension snare",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "rope",
+    "snare",
+    "tension"
+   ],
+   "measures": {
+    "length_s": 1.916,
+    "lufs": -35.6,
+    "peak_dbfs": -13.3,
+    "attack_ms": 3.0,
+    "decay_s": 0.595,
+    "centroid_hz": 103,
+    "low_share": 0.814,
+    "pitch_hz": 60.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.flac",
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.mp3"
+  },
+  {
+   "id": "vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1",
+   "role": "snare",
+   "title": "Rope-tension snare \u00b7 RopeSnare low sn Main vl3",
+   "instrument": "Rope-tension snare",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "rope",
+    "snare",
+    "tension"
+   ],
+   "measures": {
+    "length_s": 2.224,
+    "lufs": -34.9,
+    "peak_dbfs": -10.3,
+    "attack_ms": 4.0,
+    "decay_s": 0.74,
+    "centroid_hz": 92,
+    "low_share": 0.939,
+    "pitch_hz": 60.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.flac",
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-sn-main-vl3-rr1.mp3"
+  },
+  {
+   "id": "vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1",
+   "role": "snare",
+   "title": "Rope-tension snare \u00b7 RopeSnare low tsn Main vl4",
+   "instrument": "Rope-tension snare",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "rope",
+    "snare",
+    "tension"
+   ],
+   "measures": {
+    "length_s": 2.272,
+    "lufs": -33.8,
+    "peak_dbfs": -9.0,
+    "attack_ms": 3.0,
+    "decay_s": 0.741,
+    "centroid_hz": 90,
+    "low_share": 0.911,
+    "pitch_hz": 60.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.flac",
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.mp3"
+  },
+  {
+   "id": "vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1",
+   "role": "snare",
+   "title": "Rope-tension snare \u00b7 RopeSnare sidestick Main vl2",
+   "instrument": "Rope-tension snare",
+   "tags": [
+    "acoustic",
+    "dark",
+    "rope",
+    "snare",
+    "tension"
+   ],
+   "measures": {
+    "length_s": 1.291,
+    "lufs": -40.1,
+    "peak_dbfs": -17.2,
+    "attack_ms": 2.0,
+    "decay_s": 0.226,
+    "centroid_hz": 258,
+    "low_share": 0.606,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.flac",
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-sidestick-main-vl2-rr1.mp3"
+  },
+  {
+   "id": "vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1",
+   "role": "snare",
+   "title": "Rope-tension snare \u00b7 RopeSnare stick Main vl1",
+   "instrument": "Rope-tension snare",
+   "tags": [
+    "acoustic",
+    "dark",
+    "rope",
+    "snare",
+    "soft",
+    "tension"
+   ],
+   "measures": {
+    "length_s": 1.077,
+    "lufs": -48.5,
+    "peak_dbfs": -30.1,
+    "attack_ms": 2.0,
+    "decay_s": 0.276,
+    "centroid_hz": 363,
+    "low_share": 0.668,
+    "pitch_hz": 46.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/snare/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.flac",
+   "preview": "previews/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.mp3"
+  },
+  {
+   "id": "vcsl-hand-claps-clap-rr1",
+   "role": "clap",
+   "title": "Hand claps \u00b7 Clap",
+   "instrument": "Hand claps",
+   "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.739,
+    "lufs": -20.8,
+    "peak_dbfs": -0.4,
+    "attack_ms": 17.0,
+    "decay_s": 0.146,
+    "centroid_hz": 2623,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-clap-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-clap-rr1.flac",
+   "preview": "previews/vcsl-hand-claps-clap-rr1.mp3"
+  },
+  {
+   "id": "vcsl-hand-claps-soloclap-vl4",
+   "role": "clap",
+   "title": "Hand claps \u00b7 SoloClap vl4",
+   "instrument": "Hand claps",
+   "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "hard",
+    "short",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.205,
+    "lufs": -23.0,
+    "peak_dbfs": -0.8,
+    "attack_ms": 3.0,
+    "decay_s": 0.045,
+    "centroid_hz": 1711,
+    "low_share": 0.011
+   },
+   "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl4.nc.json",
+   "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl4.flac",
+   "preview": "previews/vcsl-hand-claps-soloclap-vl4.mp3"
+  },
+  {
+   "id": "vcsl-hand-claps-soloclap-vl3",
+   "role": "clap",
+   "title": "Hand claps \u00b7 SoloClap vl3",
+   "instrument": "Hand claps",
+   "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "short",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.2,
+    "lufs": -26.0,
+    "peak_dbfs": -4.2,
+    "attack_ms": 4.0,
+    "decay_s": 0.04,
+    "centroid_hz": 2301,
+    "low_share": 0.023
+   },
+   "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl3.nc.json",
+   "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl3.flac",
+   "preview": "previews/vcsl-hand-claps-soloclap-vl3.mp3"
+  },
+  {
+   "id": "vcsl-hand-claps-soloclap-vl2",
+   "role": "clap",
+   "title": "Hand claps \u00b7 SoloClap vl2",
+   "instrument": "Hand claps",
+   "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "short",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.206,
+    "lufs": -29.9,
+    "peak_dbfs": -8.8,
+    "attack_ms": 3.0,
+    "decay_s": 0.045,
+    "centroid_hz": 2140,
+    "low_share": 0.03
+   },
+   "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl2.flac",
+   "preview": "previews/vcsl-hand-claps-soloclap-vl2.mp3"
+  },
+  {
+   "id": "vcsl-hand-claps-soloclap-vl1",
+   "role": "clap",
+   "title": "Hand claps \u00b7 SoloClap vl1",
+   "instrument": "Hand claps",
+   "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "short",
+    "soft",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.279,
+    "lufs": -37.7,
+    "peak_dbfs": -14.7,
+    "attack_ms": 3.0,
+    "decay_s": 0.045,
+    "centroid_hz": 1424,
+    "low_share": 0.108,
+    "pitch_hz": 53.8
+   },
+   "manifest": "https://musicmatter.art/library/manifests/clap/vcsl-hand-claps-soloclap-vl1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl1.flac",
+   "preview": "previews/vcsl-hand-claps-soloclap-vl1.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-close-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat Close",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "closed",
+    "hat",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.716,
+    "lufs": -37.2,
+    "peak_dbfs": -20.1,
+    "attack_ms": 17.0,
+    "decay_s": 0.156,
+    "centroid_hz": 5590,
+    "low_share": 0.039
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-close-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-close-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-close-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hitc-v4-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitC v4",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "closed",
+    "hard",
+    "hat"
+   ],
+   "measures": {
+    "length_s": 0.643,
+    "lufs": -25.0,
+    "peak_dbfs": -10.7,
+    "attack_ms": 7.0,
+    "decay_s": 0.218,
+    "centroid_hz": 10334,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hitloose-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitLoose",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "hat"
+   ],
+   "measures": {
+    "length_s": 0.779,
+    "lufs": -21.9,
+    "peak_dbfs": -7.9,
+    "attack_ms": 5.0,
+    "decay_s": 0.348,
+    "centroid_hz": 9248,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitloose-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitloose-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hitloose-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hito-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitO",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "hat",
+    "long",
+    "open"
+   ],
+   "measures": {
+    "length_s": 3.179,
+    "lufs": -26.0,
+    "peak_dbfs": -11.4,
+    "attack_ms": 9.0,
+    "decay_s": 1.414,
+    "centroid_hz": 6908,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hito-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hito-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hito-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hitoc-rr5-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitOC",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "hat",
+    "open",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.83,
+    "lufs": -29.6,
+    "peak_dbfs": -16.5,
+    "attack_ms": 7.0,
+    "decay_s": 0.154,
+    "centroid_hz": 6253,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitoc-rr5-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitoc-rr5-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hitoc-rr5-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hitc-v3-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitC v3",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "closed",
+    "hat",
+    "snappy",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.589,
+    "lufs": -29.9,
+    "peak_dbfs": -14.0,
+    "attack_ms": 3.0,
+    "decay_s": 0.186,
+    "centroid_hz": 9811,
+    "low_share": 0.006
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hitc-v2-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitC v2",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "closed",
+    "hat",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.037,
+    "lufs": -42.4,
+    "peak_dbfs": -23.9,
+    "attack_ms": 5.0,
+    "decay_s": 0.154,
+    "centroid_hz": 6958,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-hi-hat-hihat-hitc-v1-rr1-mid",
+   "role": "hat",
+   "title": "Hi-hat \u00b7 HiHat HitC v1",
+   "instrument": "Hi-hat",
+   "tags": [
+    "acoustic",
+    "bright",
+    "closed",
+    "hat",
+    "soft"
+   ],
+   "measures": {
+    "length_s": 1.045,
+    "lufs": -53.8,
+    "peak_dbfs": -36.1,
+    "attack_ms": 6.0,
+    "decay_s": 0.2,
+    "centroid_hz": 5735,
+    "low_share": 0.02
+   },
+   "manifest": "https://musicmatter.art/library/manifests/hat/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/hat/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.flac",
+   "preview": "previews/vcsl-hi-hat-hihat-hitc-v1-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-1-tomh-hitm-v4-rr1-mid",
+   "role": "tom",
+   "title": "Tom 1 \u00b7 TomH HitM v4",
+   "instrument": "Tom 1",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.261,
+    "lufs": -30.5,
+    "peak_dbfs": -7.9,
+    "attack_ms": 3.0,
+    "decay_s": 0.212,
+    "centroid_hz": 215,
+    "low_share": 0.636,
+    "pitch_hz": 110.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hitm-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hitm-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-1-tomh-hitm-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-1-tomh-hits-v4-rr1-mid",
+   "role": "tom",
+   "title": "Tom 1 \u00b7 TomH HitS v4",
+   "instrument": "Tom 1",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.563,
+    "lufs": -30.8,
+    "peak_dbfs": -9.6,
+    "attack_ms": 3.0,
+    "decay_s": 0.331,
+    "centroid_hz": 220,
+    "low_share": 0.607,
+    "pitch_hz": 110.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hits-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hits-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-1-tomh-hits-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-1-tomh-rimfls-rr2-mid",
+   "role": "tom",
+   "title": "Tom 1 \u00b7 TomH rimFLS",
+   "instrument": "Tom 1",
+   "tags": [
+    "acoustic",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.466,
+    "lufs": -50.4,
+    "peak_dbfs": -29.6,
+    "attack_ms": 37.0,
+    "decay_s": 0.149,
+    "centroid_hz": 2074,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-rimfls-rr2-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-rimfls-rr2-mid.flac",
+   "preview": "previews/vcsl-tom-1-tomh-rimfls-rr2-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-1-tomh-rims-v4-rr1-mid",
+   "role": "tom",
+   "title": "Tom 1 \u00b7 TomH rimS v4",
+   "instrument": "Tom 1",
+   "tags": [
+    "acoustic",
+    "hard",
+    "long",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.727,
+    "lufs": -41.3,
+    "peak_dbfs": -19.0,
+    "attack_ms": 5.0,
+    "decay_s": 0.211,
+    "centroid_hz": 1427,
+    "low_share": 0.021
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-rims-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-rims-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-1-tomh-rims-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-1-tomh-hitm-v3-rr1-mid",
+   "role": "tom",
+   "title": "Tom 1 \u00b7 TomH HitM v3",
+   "instrument": "Tom 1",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 2.406,
+    "lufs": -36.6,
+    "peak_dbfs": -16.1,
+    "attack_ms": 4.0,
+    "decay_s": 0.511,
+    "centroid_hz": 173,
+    "low_share": 0.759,
+    "pitch_hz": 110.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hitm-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hitm-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-1-tomh-hitm-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-1-tomh-hits-v3-rr1-mid",
+   "role": "tom",
+   "title": "Tom 1 \u00b7 TomH HitS v3",
+   "instrument": "Tom 1",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 2.238,
+    "lufs": -36.0,
+    "peak_dbfs": -15.9,
+    "attack_ms": 4.0,
+    "decay_s": 0.501,
+    "centroid_hz": 188,
+    "low_share": 0.731,
+    "pitch_hz": 110.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-1-tomh-hits-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-1-tomh-hits-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-1-tomh-hits-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-2-toml-hitm-v4-rr1-mid",
+   "role": "tom",
+   "title": "Tom 2 \u00b7 TomL HitM v4",
+   "instrument": "Tom 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.242,
+    "lufs": -30.2,
+    "peak_dbfs": -6.5,
+    "attack_ms": 4.0,
+    "decay_s": 0.375,
+    "centroid_hz": 159,
+    "low_share": 0.791,
+    "pitch_hz": 93.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hitm-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hitm-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-2-toml-hitm-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-2-toml-hits-v4-rr1-mid",
+   "role": "tom",
+   "title": "Tom 2 \u00b7 TomL HitS v4",
+   "instrument": "Tom 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.452,
+    "lufs": -31.7,
+    "peak_dbfs": -8.5,
+    "attack_ms": 4.0,
+    "decay_s": 0.387,
+    "centroid_hz": 144,
+    "low_share": 0.819,
+    "pitch_hz": 93.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hits-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hits-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-2-toml-hits-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-2-toml-rimfls-rr2-mid",
+   "role": "tom",
+   "title": "Tom 2 \u00b7 TomL rimFLS",
+   "instrument": "Tom 2",
+   "tags": [
+    "acoustic",
+    "long",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.571,
+    "lufs": -50.3,
+    "peak_dbfs": -27.8,
+    "attack_ms": 25.0,
+    "decay_s": 0.348,
+    "centroid_hz": 1276,
+    "low_share": 0.069,
+    "pitch_hz": 376.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-rimfls-rr2-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-rimfls-rr2-mid.flac",
+   "preview": "previews/vcsl-tom-2-toml-rimfls-rr2-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-2-toml-rims-v4-rr1-mid",
+   "role": "tom",
+   "title": "Tom 2 \u00b7 TomL rimS v4",
+   "instrument": "Tom 2",
+   "tags": [
+    "acoustic",
+    "hard",
+    "long",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.815,
+    "lufs": -42.9,
+    "peak_dbfs": -23.1,
+    "attack_ms": 5.0,
+    "decay_s": 0.258,
+    "centroid_hz": 967,
+    "low_share": 0.081,
+    "pitch_hz": 90.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-rims-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-rims-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-2-toml-rims-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-2-toml-hitm-v3-rr1-mid",
+   "role": "tom",
+   "title": "Tom 2 \u00b7 TomL HitM v3",
+   "instrument": "Tom 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 1.421,
+    "lufs": -36.3,
+    "peak_dbfs": -15.6,
+    "attack_ms": 4.0,
+    "decay_s": 0.577,
+    "centroid_hz": 121,
+    "low_share": 0.905,
+    "pitch_hz": 90.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hitm-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hitm-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-2-toml-hitm-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tom-2-toml-hits-v3-rr1-mid",
+   "role": "tom",
+   "title": "Tom 2 \u00b7 TomL HitS v3",
+   "instrument": "Tom 2",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "punchy",
+    "tom"
+   ],
+   "measures": {
+    "length_s": 2.555,
+    "lufs": -35.3,
+    "peak_dbfs": -13.9,
+    "attack_ms": 4.0,
+    "decay_s": 0.579,
+    "centroid_hz": 131,
+    "low_share": 0.875,
+    "pitch_hz": 93.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tom-2-toml-hits-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hits-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-tom-2-toml-hits-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tenor-toms-tenor-fff-rr1",
+   "role": "tom",
+   "title": "Tenor toms \u00b7 tenor fff",
+   "instrument": "Tenor toms",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "punchy",
+    "tenor",
+    "tom",
+    "toms"
+   ],
+   "measures": {
+    "length_s": 1.575,
+    "lufs": -23.4,
+    "peak_dbfs": -0.8,
+    "attack_ms": 8.0,
+    "decay_s": 0.235,
+    "centroid_hz": 255,
+    "low_share": 0.421,
+    "pitch_hz": 90.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenor-fff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-fff-rr1.flac",
+   "preview": "previews/vcsl-tenor-toms-tenor-fff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-tenor-toms-tenorh-fff-rr1",
+   "role": "tom",
+   "title": "Tenor toms \u00b7 tenorH fff",
+   "instrument": "Tenor toms",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "punchy",
+    "tenor",
+    "tom",
+    "toms"
+   ],
+   "measures": {
+    "length_s": 2.063,
+    "lufs": -22.8,
+    "peak_dbfs": -0.6,
+    "attack_ms": 9.0,
+    "decay_s": 0.202,
+    "centroid_hz": 310,
+    "low_share": 0.317,
+    "pitch_hz": 113.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenorh-fff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenorh-fff-rr1.flac",
+   "preview": "previews/vcsl-tenor-toms-tenorh-fff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-tenor-toms-tenor-ff-rr1",
+   "role": "tom",
+   "title": "Tenor toms \u00b7 tenor ff",
+   "instrument": "Tenor toms",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "punchy",
+    "tenor",
+    "tom",
+    "toms"
+   ],
+   "measures": {
+    "length_s": 1.378,
+    "lufs": -26.7,
+    "peak_dbfs": -5.7,
+    "attack_ms": 8.0,
+    "decay_s": 0.276,
+    "centroid_hz": 198,
+    "low_share": 0.536,
+    "pitch_hz": 90.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenor-ff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-ff-rr1.flac",
+   "preview": "previews/vcsl-tenor-toms-tenor-ff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-tenor-toms-tenorh-ff-rr1",
+   "role": "tom",
+   "title": "Tenor toms \u00b7 tenorH ff",
+   "instrument": "Tenor toms",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "punchy",
+    "tenor",
+    "tom",
+    "toms"
+   ],
+   "measures": {
+    "length_s": 1.573,
+    "lufs": -28.3,
+    "peak_dbfs": -3.5,
+    "attack_ms": 9.0,
+    "decay_s": 0.411,
+    "centroid_hz": 268,
+    "low_share": 0.353,
+    "pitch_hz": 113.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenorh-ff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenorh-ff-rr1.flac",
+   "preview": "previews/vcsl-tenor-toms-tenorh-ff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-tenor-toms-tenor-f-rr1",
+   "role": "tom",
+   "title": "Tenor toms \u00b7 tenor f",
+   "instrument": "Tenor toms",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "punchy",
+    "tenor",
+    "tom",
+    "toms"
+   ],
+   "measures": {
+    "length_s": 1.647,
+    "lufs": -31.2,
+    "peak_dbfs": -7.6,
+    "attack_ms": 8.0,
+    "decay_s": 0.293,
+    "centroid_hz": 194,
+    "low_share": 0.553,
+    "pitch_hz": 86.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tom/vcsl-tenor-toms-tenor-f-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tom/vcsl-tenor-toms-tenor-f-rr1.flac",
+   "preview": "previews/vcsl-tenor-toms-tenor-f-rr1.mp3"
+  },
+  {
+   "id": "vcsl-bongos-bongoh-hit1-v3-rr1-mid",
+   "role": "perc",
+   "title": "Bongos \u00b7 BongoH Hit1 v3",
+   "instrument": "Bongos",
+   "tags": [
+    "acoustic",
+    "bongos",
+    "dark",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.724,
+    "lufs": -29.1,
+    "peak_dbfs": -8.9,
+    "attack_ms": 7.0,
+    "decay_s": 0.171,
+    "centroid_hz": 453,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongoh-hit1-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongoh-hit1-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-bongos-bongoh-hit1-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid",
+   "role": "perc",
+   "title": "Bongos \u00b7 BongoH HitMuted1 v3",
+   "instrument": "Bongos",
+   "tags": [
+    "acoustic",
+    "bongos",
+    "dark",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.745,
+    "lufs": -31.1,
+    "peak_dbfs": -10.8,
+    "attack_ms": 9.0,
+    "decay_s": 0.157,
+    "centroid_hz": 413,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-bongos-bongoh-hitmuted1-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-bongos-bongol-hit1-v3-rr1-mid",
+   "role": "perc",
+   "title": "Bongos \u00b7 BongoL Hit1 v3",
+   "instrument": "Bongos",
+   "tags": [
+    "acoustic",
+    "bongos",
+    "dark",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.788,
+    "lufs": -29.3,
+    "peak_dbfs": -10.4,
+    "attack_ms": 7.0,
+    "decay_s": 0.169,
+    "centroid_hz": 376,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongol-hit1-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongol-hit1-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-bongos-bongol-hit1-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-bongos-bongol-hitmuted2-v3-rr1-mid",
+   "role": "perc",
+   "title": "Bongos \u00b7 BongoL HitMuted2 v3",
+   "instrument": "Bongos",
+   "tags": [
+    "acoustic",
+    "bongos",
+    "dark",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.748,
+    "lufs": -24.8,
+    "peak_dbfs": -8.7,
+    "attack_ms": 4.0,
+    "decay_s": 0.158,
+    "centroid_hz": 301,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-bongos-bongol-hitmuted2-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-bongos-bongoh-hit1-v2-rr1-mid",
+   "role": "perc",
+   "title": "Bongos \u00b7 BongoH Hit1 v2",
+   "instrument": "Bongos",
+   "tags": [
+    "acoustic",
+    "bongos",
+    "dark",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.737,
+    "lufs": -40.2,
+    "peak_dbfs": -20.6,
+    "attack_ms": 9.0,
+    "decay_s": 0.167,
+    "centroid_hz": 436,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-bongos-bongoh-hit1-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongoh-hit1-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-bongos-bongoh-hit1-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-conga-conga-hitfm-v2-rr1-sum",
+   "role": "perc",
+   "title": "Conga \u00b7 Conga HitFM v2",
+   "instrument": "Conga",
+   "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.796,
+    "lufs": -29.1,
+    "peak_dbfs": -10.9,
+    "attack_ms": 13.0,
+    "decay_s": 0.246,
+    "centroid_hz": 110,
+    "low_share": 0.875,
+    "pitch_hz": 83.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-conga-hitfm-v2-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-conga-hitfm-v2-rr1-sum.flac",
+   "preview": "previews/vcsl-conga-conga-hitfm-v2-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-conga-conga-hitn-v3-rr1-sum",
+   "role": "perc",
+   "title": "Conga \u00b7 Conga HitN v3",
+   "instrument": "Conga",
+   "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.96,
+    "lufs": -34.7,
+    "peak_dbfs": -16.2,
+    "attack_ms": 6.0,
+    "decay_s": 0.296,
+    "centroid_hz": 159,
+    "low_share": 0.069,
+    "pitch_hz": 163.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-conga-hitn-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-conga-hitn-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-conga-conga-hitn-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-conga-quinto-hitfm1-v2-rr1-sum",
+   "role": "perc",
+   "title": "Conga \u00b7 Quinto HitFM1 v2",
+   "instrument": "Conga",
+   "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.787,
+    "lufs": -37.9,
+    "peak_dbfs": -19.6,
+    "attack_ms": 1.0,
+    "decay_s": 0.407,
+    "centroid_hz": 95,
+    "low_share": 0.931,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-quinto-hitfm1-v2-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-quinto-hitfm1-v2-rr1-sum.flac",
+   "preview": "previews/vcsl-conga-quinto-hitfm1-v2-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-conga-quinto-hitn-v3-rr1-sum",
+   "role": "perc",
+   "title": "Conga \u00b7 Quinto HitN v3",
+   "instrument": "Conga",
+   "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.896,
+    "lufs": -30.3,
+    "peak_dbfs": -13.4,
+    "attack_ms": 3.0,
+    "decay_s": 0.297,
+    "centroid_hz": 221,
+    "low_share": 0.128,
+    "pitch_hz": 216.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-quinto-hitn-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-quinto-hitn-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-conga-quinto-hitn-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-conga-tumba-hitfm-v4-rr1-sum",
+   "role": "perc",
+   "title": "Conga \u00b7 Tumba HitFM v4",
+   "instrument": "Conga",
+   "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "hard",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.738,
+    "lufs": -35.7,
+    "peak_dbfs": -16.2,
+    "attack_ms": 1.0,
+    "decay_s": 0.143,
+    "centroid_hz": 99,
+    "low_share": 0.961,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-tumba-hitfm-v4-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-tumba-hitfm-v4-rr1-sum.flac",
+   "preview": "previews/vcsl-conga-tumba-hitfm-v4-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-conga-tumba-hitn-v4-rr1-sum",
+   "role": "perc",
+   "title": "Conga \u00b7 Tumba HitN v4",
+   "instrument": "Conga",
+   "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "hard",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.868,
+    "lufs": -39.4,
+    "peak_dbfs": -21.4,
+    "attack_ms": 3.0,
+    "decay_s": 0.247,
+    "centroid_hz": 146,
+    "low_share": 0.85,
+    "pitch_hz": 140.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-conga-tumba-hitn-v4-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-tumba-hitn-v4-rr1-sum.flac",
+   "preview": "previews/vcsl-conga-tumba-hitn-v4-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-darbuka-darbuka-1-hit-vl2-rr1",
+   "role": "perc",
+   "title": "Darbuka \u00b7 Darbuka 1 hit vl2",
+   "instrument": "Darbuka",
+   "tags": [
+    "acoustic",
+    "darbuka",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.254,
+    "lufs": -18.6,
+    "peak_dbfs": -1.5,
+    "attack_ms": 2.0,
+    "decay_s": 0.555,
+    "centroid_hz": 145,
+    "low_share": 0.993,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-1-hit-vl2-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-1-hit-vl2-rr1.flac",
+   "preview": "previews/vcsl-darbuka-darbuka-1-hit-vl2-rr1.mp3"
+  },
+  {
+   "id": "vcsl-darbuka-darbuka-2-hit-vl2-rr1",
+   "role": "perc",
+   "title": "Darbuka \u00b7 Darbuka 2 hit vl2",
+   "instrument": "Darbuka",
+   "tags": [
+    "acoustic",
+    "darbuka",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.488,
+    "lufs": -25.0,
+    "peak_dbfs": -5.3,
+    "attack_ms": 3.0,
+    "decay_s": 0.132,
+    "centroid_hz": 899,
+    "low_share": 0.068,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-2-hit-vl2-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-2-hit-vl2-rr1.flac",
+   "preview": "previews/vcsl-darbuka-darbuka-2-hit-vl2-rr1.mp3"
+  },
+  {
+   "id": "vcsl-darbuka-darbuka-3-hit-vl2-rr1",
+   "role": "perc",
+   "title": "Darbuka \u00b7 Darbuka 3 hit vl2",
+   "instrument": "Darbuka",
+   "tags": [
+    "acoustic",
+    "darbuka",
+    "dark",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.521,
+    "lufs": -31.8,
+    "peak_dbfs": -11.3,
+    "attack_ms": 1.0,
+    "decay_s": 0.087,
+    "centroid_hz": 594,
+    "low_share": 0.273,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-3-hit-vl2-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-3-hit-vl2-rr1.flac",
+   "preview": "previews/vcsl-darbuka-darbuka-3-hit-vl2-rr1.mp3"
+  },
+  {
+   "id": "vcsl-darbuka-darbuka-4-hit-vl2-rr1",
+   "role": "perc",
+   "title": "Darbuka \u00b7 Darbuka 4 hit vl2",
+   "instrument": "Darbuka",
+   "tags": [
+    "acoustic",
+    "darbuka",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.731,
+    "lufs": -35.1,
+    "peak_dbfs": -13.6,
+    "attack_ms": 16.0,
+    "decay_s": 0.28,
+    "centroid_hz": 276,
+    "low_share": 0.82,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-4-hit-vl2-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-4-hit-vl2-rr1.flac",
+   "preview": "previews/vcsl-darbuka-darbuka-4-hit-vl2-rr1.mp3"
+  },
+  {
+   "id": "vcsl-darbuka-darbuka-5-hit-vl2-rr1",
+   "role": "perc",
+   "title": "Darbuka \u00b7 Darbuka 5 hit vl2",
+   "instrument": "Darbuka",
+   "tags": [
+    "acoustic",
+    "darbuka",
+    "dark",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.56,
+    "lufs": -38.3,
+    "peak_dbfs": -17.9,
+    "attack_ms": 38.0,
+    "decay_s": 0.206,
+    "centroid_hz": 407,
+    "low_share": 0.32,
+    "pitch_hz": 143.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-darbuka-darbuka-5-hit-vl2-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-5-hit-vl2-rr1.flac",
+   "preview": "previews/vcsl-darbuka-darbuka-5-hit-vl2-rr1.mp3"
+  },
+  {
+   "id": "vcsl-frame-drum-hdruml-hand-rr1-sum",
+   "role": "perc",
+   "title": "Frame drum \u00b7 HDrumL Hand",
+   "instrument": "Frame drum",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "frame",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.95,
+    "lufs": null,
+    "peak_dbfs": -55.9,
+    "attack_ms": 82.0,
+    "decay_s": 0.404,
+    "centroid_hz": 783,
+    "low_share": 0.549,
+    "pitch_hz": 90.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdruml-hand-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hand-rr1-sum.flac",
+   "preview": "previews/vcsl-frame-drum-hdruml-hand-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-frame-drum-hdruml-hit-v3-rr1-sum",
+   "role": "perc",
+   "title": "Frame drum \u00b7 HDrumL Hit v3",
+   "instrument": "Frame drum",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "frame",
+    "long",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.948,
+    "lufs": -30.8,
+    "peak_dbfs": -12.8,
+    "attack_ms": 7.0,
+    "decay_s": 0.551,
+    "centroid_hz": 113,
+    "low_share": 0.96,
+    "pitch_hz": 90.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum",
+   "role": "perc",
+   "title": "Frame drum \u00b7 HDrumL HitMuted v3",
+   "instrument": "Frame drum",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "frame",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.69,
+    "lufs": -33.3,
+    "peak_dbfs": -9.3,
+    "attack_ms": 6.0,
+    "decay_s": 0.253,
+    "centroid_hz": 190,
+    "low_share": 0.857,
+    "pitch_hz": 96.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-frame-drum-hdruml-hitmuted-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-frame-drum-hdrums-hand-v1-rr1-sum",
+   "role": "perc",
+   "title": "Frame drum \u00b7 HDrumS Hand v1",
+   "instrument": "Frame drum",
+   "tags": [
+    "acoustic",
+    "drum",
+    "frame",
+    "perc",
+    "soft"
+   ],
+   "measures": {
+    "length_s": 0.689,
+    "lufs": null,
+    "peak_dbfs": -60.6,
+    "attack_ms": 125.0,
+    "decay_s": 0.471,
+    "centroid_hz": 3992,
+    "low_share": 0.03
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.flac",
+   "preview": "previews/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-cajon-cajon-hit1-fff-rr1",
+   "role": "perc",
+   "title": "Cajon \u00b7 Cajon hit1 fff",
+   "instrument": "Cajon",
+   "tags": [
+    "acoustic",
+    "cajon",
+    "dark",
+    "hard",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.625,
+    "lufs": -19.2,
+    "peak_dbfs": -0.5,
+    "attack_ms": 5.0,
+    "decay_s": 0.122,
+    "centroid_hz": 498,
+    "low_share": 0.807,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit1-fff-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit1-fff-rr1.flac",
+   "preview": "previews/vcsl-cajon-cajon-hit1-fff-rr1.mp3"
+  },
+  {
+   "id": "vcsl-cajon-cajon-hit2-f-rr1",
+   "role": "perc",
+   "title": "Cajon \u00b7 Cajon hit2 f",
+   "instrument": "Cajon",
+   "tags": [
+    "acoustic",
+    "cajon",
+    "dark",
+    "hard",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.627,
+    "lufs": -19.5,
+    "peak_dbfs": -2.2,
+    "attack_ms": 10.0,
+    "decay_s": 0.116,
+    "centroid_hz": 180,
+    "low_share": 0.976,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit2-f-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit2-f-rr1.flac",
+   "preview": "previews/vcsl-cajon-cajon-hit2-f-rr1.mp3"
+  },
+  {
+   "id": "vcsl-cajon-cajon-hit1-f-rr1",
+   "role": "perc",
+   "title": "Cajon \u00b7 Cajon hit1 f",
+   "instrument": "Cajon",
+   "tags": [
+    "acoustic",
+    "cajon",
+    "dark",
+    "hard",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.636,
+    "lufs": -28.0,
+    "peak_dbfs": -8.2,
+    "attack_ms": 3.0,
+    "decay_s": 0.13,
+    "centroid_hz": 528,
+    "low_share": 0.762,
+    "pitch_hz": 80.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit1-f-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit1-f-rr1.flac",
+   "preview": "previews/vcsl-cajon-cajon-hit1-f-rr1.mp3"
+  },
+  {
+   "id": "vcsl-cajon-cajon-hit2-mp-rr1",
+   "role": "perc",
+   "title": "Cajon \u00b7 Cajon hit2 mp",
+   "instrument": "Cajon",
+   "tags": [
+    "acoustic",
+    "cajon",
+    "dark",
+    "perc",
+    "soft",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.593,
+    "lufs": -25.0,
+    "peak_dbfs": -8.7,
+    "attack_ms": 6.0,
+    "decay_s": 0.087,
+    "centroid_hz": 189,
+    "low_share": 0.971,
+    "pitch_hz": 133.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cajon-cajon-hit2-mp-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit2-mp-rr1.flac",
+   "preview": "previews/vcsl-cajon-cajon-hit2-mp-rr1.mp3"
+  },
+  {
+   "id": "vcsl-agogo-bells-agogo-high-v3-rr1-mid",
+   "role": "perc",
+   "title": "Agogo bells \u00b7 Agogo High v3",
+   "instrument": "Agogo bells",
+   "tags": [
+    "acoustic",
+    "agogo",
+    "bells",
+    "perc",
+    "snappy",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.757,
+    "lufs": -36.7,
+    "peak_dbfs": -18.4,
+    "attack_ms": 3.0,
+    "decay_s": 0.194,
+    "centroid_hz": 2622,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogo-high-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogo-high-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-agogo-bells-agogo-high-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-agogo-bells-agogo-low-v2-rr1-mid",
+   "role": "perc",
+   "title": "Agogo bells \u00b7 Agogo Low v2",
+   "instrument": "Agogo bells",
+   "tags": [
+    "acoustic",
+    "agogo",
+    "bells",
+    "long",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.708,
+    "lufs": -41.9,
+    "peak_dbfs": -22.9,
+    "attack_ms": 6.0,
+    "decay_s": 0.536,
+    "centroid_hz": 1999,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogo-low-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogo-low-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-agogo-bells-agogo-low-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-agogo-bells-agogobell-f-1",
+   "role": "perc",
+   "title": "Agogo bells \u00b7 agogoBell f 1",
+   "instrument": "Agogo bells",
+   "tags": [
+    "acoustic",
+    "agogo",
+    "bells",
+    "hard",
+    "long",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.672,
+    "lufs": -43.4,
+    "peak_dbfs": -20.5,
+    "attack_ms": 8.0,
+    "decay_s": 0.404,
+    "centroid_hz": 3646,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogobell-f-1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogobell-f-1.flac",
+   "preview": "previews/vcsl-agogo-bells-agogobell-f-1.mp3"
+  },
+  {
+   "id": "vcsl-agogo-bells-agogobell2-mf-1",
+   "role": "perc",
+   "title": "Agogo bells \u00b7 agogoBell2 mf 1",
+   "instrument": "Agogo bells",
+   "tags": [
+    "acoustic",
+    "agogo",
+    "bells",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.267,
+    "lufs": -44.6,
+    "peak_dbfs": -23.9,
+    "attack_ms": 8.0,
+    "decay_s": 0.316,
+    "centroid_hz": 3983,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-agogo-bells-agogobell2-mf-1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-agogo-bells-agogobell2-mf-1.flac",
+   "preview": "previews/vcsl-agogo-bells-agogobell2-mf-1.mp3"
+  },
+  {
+   "id": "vcsl-claves-claves-ff",
+   "role": "perc",
+   "title": "Claves \u00b7 claves ff",
+   "instrument": "Claves",
+   "tags": [
+    "acoustic",
+    "bright",
+    "claves",
+    "hard",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.37,
+    "lufs": -25.2,
+    "peak_dbfs": -3.4,
+    "attack_ms": 8.0,
+    "decay_s": 0.113,
+    "centroid_hz": 5595,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-claves-claves-ff.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-claves-claves-ff.flac",
+   "preview": "previews/vcsl-claves-claves-ff.mp3"
+  },
+  {
+   "id": "vcsl-claves-claves1-hit-v3-rr1-mid",
+   "role": "perc",
+   "title": "Claves \u00b7 Claves1 Hit v3",
+   "instrument": "Claves",
+   "tags": [
+    "acoustic",
+    "claves",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.643,
+    "lufs": -35.1,
+    "peak_dbfs": -14.3,
+    "attack_ms": 6.0,
+    "decay_s": 0.163,
+    "centroid_hz": 2965,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-claves-claves1-hit-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-claves-claves1-hit-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-claves-claves1-hit-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-claves-claves2-hit-v3-rr1-mid",
+   "role": "perc",
+   "title": "Claves \u00b7 Claves2 Hit v3",
+   "instrument": "Claves",
+   "tags": [
+    "acoustic",
+    "claves",
+    "perc",
+    "snappy"
+   ],
+   "measures": {
+    "length_s": 0.671,
+    "lufs": -38.7,
+    "peak_dbfs": -17.1,
+    "attack_ms": 3.0,
+    "decay_s": 0.204,
+    "centroid_hz": 2724,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-claves-claves2-hit-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-claves-claves2-hit-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-claves-claves2-hit-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cowbell-cowbell1-hit-v4-rr1-mid",
+   "role": "perc",
+   "title": "Cowbell \u00b7 Cowbell1 Hit v4",
+   "instrument": "Cowbell",
+   "tags": [
+    "acoustic",
+    "cowbell",
+    "dark",
+    "hard",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.728,
+    "lufs": -30.3,
+    "peak_dbfs": -10.9,
+    "attack_ms": 6.0,
+    "decay_s": 0.176,
+    "centroid_hz": 579,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.flac",
+   "preview": "previews/vcsl-cowbell-cowbell1-hit-v4-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cowbell-cowbell1-muted-v3-rr1-mid",
+   "role": "perc",
+   "title": "Cowbell \u00b7 Cowbell1 Muted v3",
+   "instrument": "Cowbell",
+   "tags": [
+    "acoustic",
+    "cowbell",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.589,
+    "lufs": -25.5,
+    "peak_dbfs": -6.5,
+    "attack_ms": 2.0,
+    "decay_s": 0.142,
+    "centroid_hz": 1795,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-cowbell-cowbell1-muted-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cowbell-cowbell1-normal-v3-rr1-mid",
+   "role": "perc",
+   "title": "Cowbell \u00b7 Cowbell1 Normal v3",
+   "instrument": "Cowbell",
+   "tags": [
+    "acoustic",
+    "cowbell",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.6,
+    "lufs": -25.5,
+    "peak_dbfs": -4.5,
+    "attack_ms": 4.0,
+    "decay_s": 0.178,
+    "centroid_hz": 883,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-cowbell-cowbell1-normal-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cowbell-cowbell2-double-v3-rr1-mid",
+   "role": "perc",
+   "title": "Cowbell \u00b7 Cowbell2 Double v3",
+   "instrument": "Cowbell",
+   "tags": [
+    "acoustic",
+    "cowbell",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.647,
+    "lufs": -23.6,
+    "peak_dbfs": -4.9,
+    "attack_ms": 3.0,
+    "decay_s": 0.192,
+    "centroid_hz": 1773,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell2-double-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell2-double-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-cowbell-cowbell2-double-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cowbell-cowbell2-muted-v3-rr1-mid",
+   "role": "perc",
+   "title": "Cowbell \u00b7 Cowbell2 Muted v3",
+   "instrument": "Cowbell",
+   "tags": [
+    "acoustic",
+    "cowbell",
+    "perc",
+    "snappy",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.626,
+    "lufs": -25.4,
+    "peak_dbfs": -5.8,
+    "attack_ms": 4.0,
+    "decay_s": 0.152,
+    "centroid_hz": 3543,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-woodblock-wood-click-ff",
+   "role": "perc",
+   "title": "Woodblock \u00b7 wood click ff",
+   "instrument": "Woodblock",
+   "tags": [
+    "acoustic",
+    "hard",
+    "perc",
+    "tight",
+    "woodblock"
+   ],
+   "measures": {
+    "length_s": 0.439,
+    "lufs": -24.8,
+    "peak_dbfs": -4.5,
+    "attack_ms": 10.0,
+    "decay_s": 0.147,
+    "centroid_hz": 1567,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click-ff.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click-ff.flac",
+   "preview": "previews/vcsl-woodblock-wood-click-ff.mp3"
+  },
+  {
+   "id": "vcsl-woodblock-wood-click2-mp",
+   "role": "perc",
+   "title": "Woodblock \u00b7 wood click2 mp",
+   "instrument": "Woodblock",
+   "tags": [
+    "acoustic",
+    "perc",
+    "soft",
+    "tight",
+    "woodblock"
+   ],
+   "measures": {
+    "length_s": 1.396,
+    "lufs": -40.6,
+    "peak_dbfs": -18.7,
+    "attack_ms": 8.0,
+    "decay_s": 0.144,
+    "centroid_hz": 3297,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click2-mp.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click2-mp.flac",
+   "preview": "previews/vcsl-woodblock-wood-click2-mp.mp3"
+  },
+  {
+   "id": "vcsl-woodblock-wood-click3-vl2",
+   "role": "perc",
+   "title": "Woodblock \u00b7 wood click3 vl2",
+   "instrument": "Woodblock",
+   "tags": [
+    "acoustic",
+    "perc",
+    "tight",
+    "woodblock"
+   ],
+   "measures": {
+    "length_s": 0.471,
+    "lufs": -30.6,
+    "peak_dbfs": -11.9,
+    "attack_ms": 16.0,
+    "decay_s": 0.131,
+    "centroid_hz": 1515,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click3-vl2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click3-vl2.flac",
+   "preview": "previews/vcsl-woodblock-wood-click3-vl2.mp3"
+  },
+  {
+   "id": "vcsl-woodblock-wood-click-f-rr1",
+   "role": "perc",
+   "title": "Woodblock \u00b7 wood click f",
+   "instrument": "Woodblock",
+   "tags": [
+    "acoustic",
+    "hard",
+    "perc",
+    "tight",
+    "woodblock"
+   ],
+   "measures": {
+    "length_s": 0.428,
+    "lufs": -26.6,
+    "peak_dbfs": -8.1,
+    "attack_ms": 9.0,
+    "decay_s": 0.145,
+    "centroid_hz": 1483,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-woodblock-wood-click-f-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-woodblock-wood-click-f-rr1.flac",
+   "preview": "previews/vcsl-woodblock-wood-click-f-rr1.mp3"
+  },
+  {
+   "id": "vcsl-tambourine-1-tamb1-hit-v2-rr1-mid",
+   "role": "perc",
+   "title": "Tambourine 1 \u00b7 Tamb1 Hit v2",
+   "instrument": "Tambourine 1",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "tambourine"
+   ],
+   "measures": {
+    "length_s": 0.848,
+    "lufs": -31.8,
+    "peak_dbfs": -15.9,
+    "attack_ms": 6.0,
+    "decay_s": 0.32,
+    "centroid_hz": 8399,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-tambourine-1-tamb1-hit-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tambourine-1-tamb1-shake-rr1-mid",
+   "role": "perc",
+   "title": "Tambourine 1 \u00b7 Tamb1 Shake",
+   "instrument": "Tambourine 1",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "tambourine",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.889,
+    "lufs": -39.6,
+    "peak_dbfs": -24.9,
+    "attack_ms": 138.0,
+    "decay_s": 0.162,
+    "centroid_hz": 8983,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-1-tamb1-shake-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-shake-rr1-mid.flac",
+   "preview": "previews/vcsl-tambourine-1-tamb1-shake-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tambourine-1-tamb1-hit-v1-rr1-mid",
+   "role": "perc",
+   "title": "Tambourine 1 \u00b7 Tamb1 Hit v1",
+   "instrument": "Tambourine 1",
+   "tags": [
+    "acoustic",
+    "bright",
+    "long",
+    "perc",
+    "soft",
+    "tambourine"
+   ],
+   "measures": {
+    "length_s": 1.587,
+    "lufs": -41.4,
+    "peak_dbfs": -28.3,
+    "attack_ms": 33.0,
+    "decay_s": 0.282,
+    "centroid_hz": 8480,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.flac",
+   "preview": "previews/vcsl-tambourine-1-tamb1-hit-v1-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-tambourine-2-tamb2-hit-v2-rr2-mid",
+   "role": "perc",
+   "title": "Tambourine 2 \u00b7 Tamb2 Hit v2",
+   "instrument": "Tambourine 2",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "tambourine",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.536,
+    "lufs": -29.4,
+    "peak_dbfs": -13.3,
+    "attack_ms": 5.0,
+    "decay_s": 0.197,
+    "centroid_hz": 8375,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.flac",
+   "preview": "previews/vcsl-tambourine-2-tamb2-hit-v2-rr2-mid.mp3"
+  },
+  {
+   "id": "vcsl-tambourine-2-tamb2-shake-rr3-mid",
+   "role": "perc",
+   "title": "Tambourine 2 \u00b7 Tamb2 Shake",
+   "instrument": "Tambourine 2",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "tambourine",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.668,
+    "lufs": -40.9,
+    "peak_dbfs": -21.6,
+    "attack_ms": 72.0,
+    "decay_s": 0.148,
+    "centroid_hz": 9398,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-2-tamb2-shake-rr3-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-2-tamb2-shake-rr3-mid.flac",
+   "preview": "previews/vcsl-tambourine-2-tamb2-shake-rr3-mid.mp3"
+  },
+  {
+   "id": "vcsl-tambourine-2-tamb2-hit-v1-rr1-mid",
+   "role": "perc",
+   "title": "Tambourine 2 \u00b7 Tamb2 Hit v1",
+   "instrument": "Tambourine 2",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "soft",
+    "tambourine",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.889,
+    "lufs": -42.5,
+    "peak_dbfs": -25.6,
+    "attack_ms": 11.0,
+    "decay_s": 0.176,
+    "centroid_hz": 9147,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.flac",
+   "preview": "previews/vcsl-tambourine-2-tamb2-hit-v1-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-shaker-small-mid-shaker-slap-rr1",
+   "role": "perc",
+   "title": "Shaker, small \u00b7 Mid Shaker Slap",
+   "instrument": "Shaker, small",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "shaker",
+    "small"
+   ],
+   "measures": {
+    "length_s": 0.682,
+    "lufs": -47.0,
+    "peak_dbfs": -27.0,
+    "attack_ms": 15.0,
+    "decay_s": 0.653,
+    "centroid_hz": 6070,
+    "low_share": 0.441,
+    "pitch_hz": 40.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shaker-slap-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shaker-slap-rr1.flac",
+   "preview": "previews/vcsl-shaker-small-mid-shaker-slap-rr1.mp3"
+  },
+  {
+   "id": "vcsl-shaker-small-mid-shakerdouble-down-rr1",
+   "role": "perc",
+   "title": "Shaker, small \u00b7 Mid ShakerDouble Down",
+   "instrument": "Shaker, small",
+   "tags": [
+    "acoustic",
+    "perc",
+    "shaker",
+    "short",
+    "small"
+   ],
+   "measures": {
+    "length_s": 0.265,
+    "lufs": -43.5,
+    "peak_dbfs": -28.9,
+    "attack_ms": 31.0,
+    "decay_s": 0.219,
+    "centroid_hz": 2980,
+    "low_share": 0.751,
+    "pitch_hz": 30.2
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shakerdouble-down-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerdouble-down-rr1.flac",
+   "preview": "previews/vcsl-shaker-small-mid-shakerdouble-down-rr1.mp3"
+  },
+  {
+   "id": "vcsl-shaker-small-mid-shakerdouble-up-rr1",
+   "role": "perc",
+   "title": "Shaker, small \u00b7 Mid ShakerDouble Up",
+   "instrument": "Shaker, small",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "shaker",
+    "short",
+    "small",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.126,
+    "lufs": -46.4,
+    "peak_dbfs": -36.7,
+    "attack_ms": 50.0,
+    "decay_s": 0.06,
+    "centroid_hz": 8595,
+    "low_share": 0.215,
+    "pitch_hz": 71.2
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shakerdouble-up-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerdouble-up-rr1.flac",
+   "preview": "previews/vcsl-shaker-small-mid-shakerdouble-up-rr1.mp3"
+  },
+  {
+   "id": "vcsl-shaker-small-mid-shakerhighfaster-down-rr1",
+   "role": "perc",
+   "title": "Shaker, small \u00b7 Mid ShakerHighFaster Down",
+   "instrument": "Shaker, small",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "shaker",
+    "short",
+    "small",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.179,
+    "lufs": -44.1,
+    "peak_dbfs": -27.8,
+    "attack_ms": 58.0,
+    "decay_s": 0.111,
+    "centroid_hz": 9500,
+    "low_share": 0.264,
+    "pitch_hz": 33.6
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.flac",
+   "preview": "previews/vcsl-shaker-small-mid-shakerhighfaster-down-rr1.mp3"
+  },
+  {
+   "id": "vcsl-shaker-large-lshaker-hit-rr1-mid",
+   "role": "perc",
+   "title": "Shaker, large \u00b7 LShaker Hit",
+   "instrument": "Shaker, large",
+   "tags": [
+    "acoustic",
+    "bright",
+    "large",
+    "perc",
+    "shaker",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.663,
+    "lufs": -32.1,
+    "peak_dbfs": -12.6,
+    "attack_ms": 12.0,
+    "decay_s": 0.188,
+    "centroid_hz": 5425,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-large-lshaker-hit-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-hit-rr1-mid.flac",
+   "preview": "previews/vcsl-shaker-large-lshaker-hit-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-shaker-large-lshaker-shake1d-rr2-mid",
+   "role": "perc",
+   "title": "Shaker, large \u00b7 LShaker Shake1D",
+   "instrument": "Shaker, large",
+   "tags": [
+    "acoustic",
+    "bright",
+    "large",
+    "perc",
+    "shaker",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.056,
+    "lufs": -36.8,
+    "peak_dbfs": -24.0,
+    "attack_ms": 81.0,
+    "decay_s": 0.196,
+    "centroid_hz": 5519,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-large-lshaker-shake1d-rr2-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-shake1d-rr2-mid.flac",
+   "preview": "previews/vcsl-shaker-large-lshaker-shake1d-rr2-mid.mp3"
+  },
+  {
+   "id": "vcsl-shaker-large-lshaker-shake1u-rr1-mid",
+   "role": "perc",
+   "title": "Shaker, large \u00b7 LShaker Shake1U",
+   "instrument": "Shaker, large",
+   "tags": [
+    "acoustic",
+    "bright",
+    "large",
+    "perc",
+    "shaker"
+   ],
+   "measures": {
+    "length_s": 1.295,
+    "lufs": -42.0,
+    "peak_dbfs": -28.4,
+    "attack_ms": 142.0,
+    "decay_s": 0.21,
+    "centroid_hz": 5452,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-shaker-large-lshaker-shake1u-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-shake1u-rr1-mid.flac",
+   "preview": "previews/vcsl-shaker-large-lshaker-shake1u-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cabasa-cabasa1-hit-rr1-mid",
+   "role": "perc",
+   "title": "Cabasa \u00b7 Cabasa1 Hit",
+   "instrument": "Cabasa",
+   "tags": [
+    "acoustic",
+    "bright",
+    "cabasa",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.509,
+    "lufs": -40.0,
+    "peak_dbfs": -19.8,
+    "attack_ms": 8.0,
+    "decay_s": 0.104,
+    "centroid_hz": 7579,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cabasa-cabasa1-hit-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-hit-rr1-mid.flac",
+   "preview": "previews/vcsl-cabasa-cabasa1-hit-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cabasa-cabasa1-rub-v2-rr1-mid",
+   "role": "perc",
+   "title": "Cabasa \u00b7 Cabasa1 Rub v2",
+   "instrument": "Cabasa",
+   "tags": [
+    "acoustic",
+    "bright",
+    "cabasa",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.621,
+    "lufs": -36.6,
+    "peak_dbfs": -20.2,
+    "attack_ms": 29.0,
+    "decay_s": 0.167,
+    "centroid_hz": 11991,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-cabasa-cabasa1-rub-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-cabasa-cabasa1-rub-v1-rr1-mid",
+   "role": "perc",
+   "title": "Cabasa \u00b7 Cabasa1 Rub v1",
+   "instrument": "Cabasa",
+   "tags": [
+    "acoustic",
+    "bright",
+    "cabasa",
+    "perc",
+    "soft",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.952,
+    "lufs": -47.4,
+    "peak_dbfs": -31.0,
+    "attack_ms": 49.0,
+    "decay_s": 0.125,
+    "centroid_hz": 11207,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.flac",
+   "preview": "previews/vcsl-cabasa-cabasa1-rub-v1-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-guiro-guiro-med-rr1-mid",
+   "role": "perc",
+   "title": "Guiro \u00b7 Guiro Med",
+   "instrument": "Guiro",
+   "tags": [
+    "acoustic",
+    "guiro",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.475,
+    "lufs": -51.4,
+    "peak_dbfs": -37.7,
+    "attack_ms": 231.0,
+    "decay_s": 0.296,
+    "centroid_hz": 2691,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-guiro-guiro-med-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-med-rr1-mid.flac",
+   "preview": "previews/vcsl-guiro-guiro-med-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-guiro-guiro-fast-rr1-mid",
+   "role": "perc",
+   "title": "Guiro \u00b7 Guiro Fast",
+   "instrument": "Guiro",
+   "tags": [
+    "acoustic",
+    "guiro",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.292,
+    "lufs": -46.8,
+    "peak_dbfs": -31.5,
+    "attack_ms": 107.0,
+    "decay_s": 0.214,
+    "centroid_hz": 2901,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-guiro-guiro-fast-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-fast-rr1-mid.flac",
+   "preview": "previews/vcsl-guiro-guiro-fast-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-guiro-guiro-hit-rr1-mid",
+   "role": "perc",
+   "title": "Guiro \u00b7 Guiro Hit",
+   "instrument": "Guiro",
+   "tags": [
+    "acoustic",
+    "guiro",
+    "perc",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 1.065,
+    "lufs": -53.5,
+    "peak_dbfs": -34.5,
+    "attack_ms": 3.0,
+    "decay_s": 0.146,
+    "centroid_hz": 2009,
+    "low_share": 0.004
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-guiro-guiro-hit-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-guiro-guiro-hit-rr1-mid.flac",
+   "preview": "previews/vcsl-guiro-guiro-hit-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-slapstick-slapstick-rr1",
+   "role": "perc",
+   "title": "Slapstick \u00b7 slapstick",
+   "instrument": "Slapstick",
+   "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "slapstick",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.396,
+    "lufs": -23.1,
+    "peak_dbfs": -0.5,
+    "attack_ms": 7.0,
+    "decay_s": 0.119,
+    "centroid_hz": 4400,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slapstick-slapstick-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-slapstick-slapstick-rr1.flac",
+   "preview": "previews/vcsl-slapstick-slapstick-rr1.mp3"
+  },
+  {
+   "id": "vcsl-slapstick-slapstick-quiet-rr1",
+   "role": "perc",
+   "title": "Slapstick \u00b7 slapstick quiet",
+   "instrument": "Slapstick",
+   "tags": [
+    "acoustic",
+    "perc",
+    "short",
+    "slapstick",
+    "soft",
+    "tight"
+   ],
+   "measures": {
+    "length_s": 0.203,
+    "lufs": -42.0,
+    "peak_dbfs": -18.0,
+    "attack_ms": 6.0,
+    "decay_s": 0.124,
+    "centroid_hz": 3202,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slapstick-slapstick-quiet-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-slapstick-slapstick-quiet-rr1.flac",
+   "preview": "previews/vcsl-slapstick-slapstick-quiet-rr1.mp3"
+  },
+  {
+   "id": "vcsl-triangle-triangle1-hit-pp-muted",
+   "role": "perc",
+   "title": "Triangle \u00b7 triangle1 hit pp muted",
+   "instrument": "Triangle",
+   "tags": [
+    "acoustic",
+    "bright",
+    "long",
+    "perc",
+    "soft",
+    "triangle"
+   ],
+   "measures": {
+    "length_s": 2.368,
+    "lufs": -49.9,
+    "peak_dbfs": -39.5,
+    "attack_ms": 109.0,
+    "decay_s": 0.978,
+    "centroid_hz": 8689,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-triangle-triangle1-hit-pp-muted.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-pp-muted.flac",
+   "preview": "previews/vcsl-triangle-triangle1-hit-pp-muted.mp3"
+  },
+  {
+   "id": "vcsl-triangle-triangle1-hit-mp-muted1",
+   "role": "perc",
+   "title": "Triangle \u00b7 triangle1 hit mp muted1",
+   "instrument": "Triangle",
+   "tags": [
+    "acoustic",
+    "bright",
+    "long",
+    "perc",
+    "soft",
+    "triangle"
+   ],
+   "measures": {
+    "length_s": 2.34,
+    "lufs": -39.9,
+    "peak_dbfs": -29.0,
+    "attack_ms": 8.0,
+    "decay_s": 0.803,
+    "centroid_hz": 7653,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-triangle-triangle1-hit-mp-muted1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-mp-muted1.flac",
+   "preview": "previews/vcsl-triangle-triangle1-hit-mp-muted1.mp3"
+  },
+  {
+   "id": "vcsl-triangle-triangle1-hit-mp-muted2",
+   "role": "perc",
+   "title": "Triangle \u00b7 triangle1 hit mp muted2",
+   "instrument": "Triangle",
+   "tags": [
+    "acoustic",
+    "bright",
+    "long",
+    "perc",
+    "soft",
+    "triangle"
+   ],
+   "measures": {
+    "length_s": 2.347,
+    "lufs": -37.4,
+    "peak_dbfs": -30.0,
+    "attack_ms": 8.0,
+    "decay_s": 0.984,
+    "centroid_hz": 7745,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-triangle-triangle1-hit-mp-muted2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-mp-muted2.flac",
+   "preview": "previews/vcsl-triangle-triangle1-hit-mp-muted2.mp3"
+  },
+  {
+   "id": "vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid",
+   "role": "perc",
+   "title": "Brake drum \u00b7 BrakeDrum1 Hammer v3",
+   "instrument": "Brake drum",
+   "tags": [
+    "acoustic",
+    "brake",
+    "drum",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.841,
+    "lufs": -21.3,
+    "peak_dbfs": -4.5,
+    "attack_ms": 5.0,
+    "decay_s": 0.231,
+    "centroid_hz": 1997,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-brake-drum-brakedrum1-hammer-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid",
+   "role": "perc",
+   "title": "Brake drum \u00b7 BrakeDrum1 Susp v3",
+   "instrument": "Brake drum",
+   "tags": [
+    "acoustic",
+    "brake",
+    "drum",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.137,
+    "lufs": -27.7,
+    "peak_dbfs": -6.8,
+    "attack_ms": 2.0,
+    "decay_s": 0.227,
+    "centroid_hz": 2419,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-brake-drum-brakedrum1-susp-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid",
+   "role": "perc",
+   "title": "Brake drum \u00b7 BrakeDrum1 YarnM v3",
+   "instrument": "Brake drum",
+   "tags": [
+    "acoustic",
+    "brake",
+    "drum",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.942,
+    "lufs": -27.5,
+    "peak_dbfs": -11.4,
+    "attack_ms": 4.0,
+    "decay_s": 0.333,
+    "centroid_hz": 1408,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-brake-drum-brakedrum1-yarnm-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid",
+   "role": "perc",
+   "title": "Brake drum \u00b7 BrakeDrum2 Hammer1 v2",
+   "instrument": "Brake drum",
+   "tags": [
+    "acoustic",
+    "brake",
+    "drum",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 0.892,
+    "lufs": -35.1,
+    "peak_dbfs": -15.3,
+    "attack_ms": 4.0,
+    "decay_s": 0.262,
+    "centroid_hz": 1808,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.flac",
+   "preview": "previews/vcsl-brake-drum-brakedrum2-hammer1-v2-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-anvil-anvil-hit1-v3-rr1-mid",
+   "role": "perc",
+   "title": "Anvil \u00b7 Anvil Hit1 v3",
+   "instrument": "Anvil",
+   "tags": [
+    "acoustic",
+    "anvil",
+    "bright",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.33,
+    "lufs": -26.4,
+    "peak_dbfs": -11.2,
+    "attack_ms": 5.0,
+    "decay_s": 0.539,
+    "centroid_hz": 6881,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-anvil-anvil-hit1-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit1-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-anvil-anvil-hit1-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-anvil-anvil-hit2-v3-rr1-mid",
+   "role": "perc",
+   "title": "Anvil \u00b7 Anvil Hit2 v3",
+   "instrument": "Anvil",
+   "tags": [
+    "acoustic",
+    "anvil",
+    "bright",
+    "perc"
+   ],
+   "measures": {
+    "length_s": 1.043,
+    "lufs": -24.1,
+    "peak_dbfs": -7.7,
+    "attack_ms": 7.0,
+    "decay_s": 0.349,
+    "centroid_hz": 5396,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-anvil-anvil-hit2-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit2-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-anvil-anvil-hit2-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-anvil-anvil-hit3-v3-rr1-mid",
+   "role": "perc",
+   "title": "Anvil \u00b7 Anvil Hit3 v3",
+   "instrument": "Anvil",
+   "tags": [
+    "acoustic",
+    "anvil",
+    "bright",
+    "perc",
+    "snappy"
+   ],
+   "measures": {
+    "length_s": 0.686,
+    "lufs": -17.2,
+    "peak_dbfs": -3.4,
+    "attack_ms": 4.0,
+    "decay_s": 0.223,
+    "centroid_hz": 5756,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-anvil-anvil-hit3-v3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-anvil-anvil-hit3-v3-rr1-mid.flac",
+   "preview": "previews/vcsl-anvil-anvil-hit3-v3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum",
+   "role": "perc",
+   "title": "Slit drum \u00b7 LogDrumHi MedM v3",
+   "instrument": "Slit drum",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "perc",
+    "slit"
+   ],
+   "measures": {
+    "length_s": 1.011,
+    "lufs": -34.1,
+    "peak_dbfs": -14.3,
+    "attack_ms": 6.0,
+    "decay_s": 0.487,
+    "centroid_hz": 156,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-slit-drum-logdrumhi-medm-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum",
+   "role": "perc",
+   "title": "Slit drum \u00b7 LogDrumLo MedM v3",
+   "instrument": "Slit drum",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "perc",
+    "slit"
+   ],
+   "measures": {
+    "length_s": 0.749,
+    "lufs": -35.6,
+    "peak_dbfs": -17.1,
+    "attack_ms": 4.0,
+    "decay_s": 0.269,
+    "centroid_hz": 159,
+    "low_share": 0.765,
+    "pitch_hz": 106.7
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.flac",
+   "preview": "previews/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum",
+   "role": "perc",
+   "title": "Slit drum \u00b7 LogDrumHi MedM v2",
+   "instrument": "Slit drum",
+   "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "perc",
+    "slit"
+   ],
+   "measures": {
+    "length_s": 1.13,
+    "lufs": -39.8,
+    "peak_dbfs": -22.3,
+    "attack_ms": 6.0,
+    "decay_s": 0.495,
+    "centroid_hz": 156,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/perc/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.nc.json",
+   "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.flac",
+   "preview": "previews/vcsl-slit-drum-logdrumhi-medm-v2-rr1-sum.mp3"
+  },
+  {
+   "id": "vcsl-clash-cymbals-1-cymbal-crash1-mf1",
+   "role": "cymbal",
+   "title": "Clash cymbals 1 \u00b7 cymbal crash1 mf1",
+   "instrument": "Clash cymbals 1",
+   "tags": [
+    "acoustic",
+    "bright",
+    "clash",
+    "cymbal",
+    "cymbals",
+    "long"
+   ],
+   "measures": {
+    "length_s": 8.479,
+    "lufs": -30.6,
+    "peak_dbfs": -7.2,
+    "attack_ms": 16.0,
+    "decay_s": 1.058,
+    "centroid_hz": 4715,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf1.flac",
+   "preview": "previews/vcsl-clash-cymbals-1-cymbal-crash1-mf1.mp3"
+  },
+  {
+   "id": "vcsl-clash-cymbals-1-cymbal-crash1-mf2",
+   "role": "cymbal",
+   "title": "Clash cymbals 1 \u00b7 cymbal crash1 mf2",
+   "instrument": "Clash cymbals 1",
+   "tags": [
+    "acoustic",
+    "clash",
+    "cymbal",
+    "cymbals",
+    "long"
+   ],
+   "measures": {
+    "length_s": 9.659,
+    "lufs": -30.3,
+    "peak_dbfs": -4.0,
+    "attack_ms": 24.0,
+    "decay_s": 0.934,
+    "centroid_hz": 3701,
+    "low_share": 0.007
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-1-cymbal-crash1-mf2.flac",
+   "preview": "previews/vcsl-clash-cymbals-1-cymbal-crash1-mf2.mp3"
+  },
+  {
+   "id": "vcsl-clash-cymbals-2-cymbal-crash2-fff1",
+   "role": "cymbal",
+   "title": "Clash cymbals 2 \u00b7 cymbal crash2 fff1",
+   "instrument": "Clash cymbals 2",
+   "tags": [
+    "acoustic",
+    "bright",
+    "clash",
+    "cymbal",
+    "cymbals",
+    "long"
+   ],
+   "measures": {
+    "length_s": 6.441,
+    "lufs": -14.7,
+    "peak_dbfs": -0.1,
+    "attack_ms": 21.0,
+    "decay_s": 1.237,
+    "centroid_hz": 4691,
+    "low_share": 0.024
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-clash-cymbals-2-cymbal-crash2-fff1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-2-cymbal-crash2-fff1.flac",
+   "preview": "previews/vcsl-clash-cymbals-2-cymbal-crash2-fff1.mp3"
+  },
+  {
+   "id": "vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1",
+   "role": "cymbal",
+   "title": "Suspended cymbal 1 \u00b7 susCymb1 hit bell fff1",
+   "instrument": "Suspended cymbal 1",
+   "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+   ],
+   "measures": {
+    "length_s": 3.736,
+    "lufs": -28.2,
+    "peak_dbfs": -4.5,
+    "attack_ms": 0.0,
+    "decay_s": 1.015,
+    "centroid_hz": 3491,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.flac",
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-fff1.mp3"
+  },
+  {
+   "id": "vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1",
+   "role": "cymbal",
+   "title": "Suspended cymbal 1 \u00b7 susCymb1 hit bell mf1",
+   "instrument": "Suspended cymbal 1",
+   "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+   ],
+   "measures": {
+    "length_s": 7.253,
+    "lufs": -38.3,
+    "peak_dbfs": -16.1,
+    "attack_ms": 0.0,
+    "decay_s": 1.44,
+    "centroid_hz": 3349,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.flac",
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-mf1.mp3"
+  },
+  {
+   "id": "vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1",
+   "role": "cymbal",
+   "title": "Suspended cymbal 1 \u00b7 susCymb1 hit bell pp1",
+   "instrument": "Suspended cymbal 1",
+   "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+   ],
+   "measures": {
+    "length_s": 7.371,
+    "lufs": -42.2,
+    "peak_dbfs": -22.6,
+    "attack_ms": 0.0,
+    "decay_s": 1.837,
+    "centroid_hz": 2866,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.flac",
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-bell-pp1.mp3"
+  },
+  {
+   "id": "vcsl-suspended-cymbal-1-suscymb1-hit-f1",
+   "role": "cymbal",
+   "title": "Suspended cymbal 1 \u00b7 susCymb1 hit f1",
+   "instrument": "Suspended cymbal 1",
+   "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+   ],
+   "measures": {
+    "length_s": 11.599,
+    "lufs": -28.3,
+    "peak_dbfs": -15.5,
+    "attack_ms": 42.0,
+    "decay_s": 5.282,
+    "centroid_hz": 1540,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-f1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-1-suscymb1-hit-f1.flac",
+   "preview": "previews/vcsl-suspended-cymbal-1-suscymb1-hit-f1.mp3"
+  },
+  {
+   "id": "vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1",
+   "role": "cymbal",
+   "title": "Suspended cymbal 2 \u00b7 susCymb2 hit bell f1",
+   "instrument": "Suspended cymbal 2",
+   "tags": [
+    "acoustic",
+    "bright",
+    "cymbal",
+    "long",
+    "suspended"
+   ],
+   "measures": {
+    "length_s": 8.165,
+    "lufs": -39.0,
+    "peak_dbfs": -12.7,
+    "attack_ms": 1.0,
+    "decay_s": 0.845,
+    "centroid_hz": 4094,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.flac",
+   "preview": "previews/vcsl-suspended-cymbal-2-suscymb2-hit-bell-f1.mp3"
+  },
+  {
+   "id": "vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1",
+   "role": "cymbal",
+   "title": "Suspended cymbal 2 \u00b7 susCymb2 hit bell p1",
+   "instrument": "Suspended cymbal 2",
+   "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+   ],
+   "measures": {
+    "length_s": 7.711,
+    "lufs": -49.4,
+    "peak_dbfs": -16.6,
+    "attack_ms": 6.0,
+    "decay_s": 0.629,
+    "centroid_hz": 3648,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.flac",
+   "preview": "previews/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.mp3"
+  },
+  {
+   "id": "vcsl-finger-cymbals-fing-cymb",
+   "role": "cymbal",
+   "title": "Finger cymbals \u00b7 Fing Cymb",
+   "instrument": "Finger cymbals",
+   "tags": [
+    "acoustic",
+    "bright",
+    "cymbal",
+    "cymbals",
+    "finger",
+    "long"
+   ],
+   "measures": {
+    "length_s": 6.343,
+    "lufs": -59.7,
+    "peak_dbfs": -36.6,
+    "attack_ms": 36.0,
+    "decay_s": 2.724,
+    "centroid_hz": 6340,
+    "low_share": 0.022
+   },
+   "manifest": "https://musicmatter.art/library/manifests/cymbal/vcsl-finger-cymbals-fing-cymb.nc.json",
+   "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-finger-cymbals-fing-cymb.flac",
+   "preview": "previews/vcsl-finger-cymbals-fing-cymb.mp3"
+  },
+  {
+   "id": "vcsl-vibraslap-vibraslap-rr1",
+   "role": "fx",
+   "title": "Vibraslap \u00b7 vibraslap",
+   "instrument": "Vibraslap",
+   "tags": [
+    "acoustic",
+    "bright",
+    "fx",
+    "long",
+    "vibraslap"
+   ],
+   "measures": {
+    "length_s": 2.86,
+    "lufs": -41.5,
+    "peak_dbfs": -22.3,
+    "attack_ms": 8.0,
+    "decay_s": 1.934,
+    "centroid_hz": 4582,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-vibraslap-vibraslap-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-vibraslap-vibraslap-rr1.flac",
+   "preview": "previews/vcsl-vibraslap-vibraslap-rr1.mp3"
+  },
+  {
+   "id": "vcsl-ratchet-ratchet1-crank-rr1-mid",
+   "role": "fx",
+   "title": "Ratchet \u00b7 Ratchet1 Crank",
+   "instrument": "Ratchet",
+   "tags": [
+    "acoustic",
+    "bright",
+    "fx",
+    "ratchet"
+   ],
+   "measures": {
+    "length_s": 0.837,
+    "lufs": -36.6,
+    "peak_dbfs": -19.8,
+    "attack_ms": 10.0,
+    "decay_s": 0.192,
+    "centroid_hz": 6920,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-ratchet-ratchet1-crank-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-ratchet-ratchet1-crank-rr1-mid.flac",
+   "preview": "previews/vcsl-ratchet-ratchet1-crank-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-ratchet-ratchet1-fast-rr1-mid",
+   "role": "fx",
+   "title": "Ratchet \u00b7 Ratchet1 Fast",
+   "instrument": "Ratchet",
+   "tags": [
+    "acoustic",
+    "bright",
+    "fx",
+    "long",
+    "ratchet"
+   ],
+   "measures": {
+    "length_s": 5.787,
+    "lufs": -26.9,
+    "peak_dbfs": -16.7,
+    "attack_ms": 285.0,
+    "decay_s": 3.932,
+    "centroid_hz": 7259,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-ratchet-ratchet1-fast-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-ratchet-ratchet1-fast-rr1-mid.flac",
+   "preview": "previews/vcsl-ratchet-ratchet1-fast-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-flexatone-flexatone1",
+   "role": "fx",
+   "title": "Flexatone \u00b7 flexatone1",
+   "instrument": "Flexatone",
+   "tags": [
+    "acoustic",
+    "bright",
+    "flexatone",
+    "fx",
+    "long"
+   ],
+   "measures": {
+    "length_s": 3.769,
+    "lufs": -36.0,
+    "peak_dbfs": -22.3,
+    "attack_ms": 571.0,
+    "decay_s": 1.256,
+    "centroid_hz": 7434,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-flexatone-flexatone1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-flexatone-flexatone1.flac",
+   "preview": "previews/vcsl-flexatone-flexatone1.mp3"
+  },
+  {
+   "id": "vcsl-flexatone-flexatone2",
+   "role": "fx",
+   "title": "Flexatone \u00b7 flexatone2",
+   "instrument": "Flexatone",
+   "tags": [
+    "acoustic",
+    "bright",
+    "flexatone",
+    "fx",
+    "long"
+   ],
+   "measures": {
+    "length_s": 3.525,
+    "lufs": -40.2,
+    "peak_dbfs": -24.0,
+    "attack_ms": 969.0,
+    "decay_s": 2.273,
+    "centroid_hz": 7624,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-flexatone-flexatone2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-flexatone-flexatone2.flac",
+   "preview": "previews/vcsl-flexatone-flexatone2.mp3"
+  },
+  {
+   "id": "vcsl-mark-tree-windchimes-asc1",
+   "role": "fx",
+   "title": "Mark tree \u00b7 windchimes asc1",
+   "instrument": "Mark tree",
+   "tags": [
+    "acoustic",
+    "bright",
+    "fx",
+    "long",
+    "mark",
+    "tree"
+   ],
+   "measures": {
+    "length_s": 7.742,
+    "lufs": -34.0,
+    "peak_dbfs": -22.4,
+    "attack_ms": 1140.0,
+    "decay_s": 2.376,
+    "centroid_hz": 8005,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-mark-tree-windchimes-asc1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-mark-tree-windchimes-asc1.flac",
+   "preview": "previews/vcsl-mark-tree-windchimes-asc1.mp3"
+  },
+  {
+   "id": "vcsl-mark-tree-windchimes-desc1",
+   "role": "fx",
+   "title": "Mark tree \u00b7 windchimes desc1",
+   "instrument": "Mark tree",
+   "tags": [
+    "acoustic",
+    "bright",
+    "fx",
+    "long",
+    "mark",
+    "tree"
+   ],
+   "measures": {
+    "length_s": 9.875,
+    "lufs": -36.2,
+    "peak_dbfs": -24.2,
+    "attack_ms": 1148.0,
+    "decay_s": 0.054,
+    "centroid_hz": 9663,
+    "low_share": 0.002
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-mark-tree-windchimes-desc1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-mark-tree-windchimes-desc1.flac",
+   "preview": "previews/vcsl-mark-tree-windchimes-desc1.mp3"
+  },
+  {
+   "id": "vcsl-bell-tree-belltree-hit-a-5-rr1-mid",
+   "role": "fx",
+   "title": "Bell tree \u00b7 BellTree Hit A#5",
+   "instrument": "Bell tree",
+   "tags": [
+    "acoustic",
+    "bell",
+    "bright",
+    "fx",
+    "long",
+    "tree"
+   ],
+   "measures": {
+    "length_s": 3.284,
+    "lufs": -54.2,
+    "peak_dbfs": -36.9,
+    "attack_ms": 2.0,
+    "decay_s": 1.241,
+    "centroid_hz": 5450,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.flac",
+   "preview": "previews/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-bell-tree-belltree-hit-c5-rr1-mid",
+   "role": "fx",
+   "title": "Bell tree \u00b7 BellTree Hit C5",
+   "instrument": "Bell tree",
+   "tags": [
+    "acoustic",
+    "bell",
+    "bright",
+    "fx",
+    "long",
+    "tree"
+   ],
+   "measures": {
+    "length_s": 4.855,
+    "lufs": -56.4,
+    "peak_dbfs": -38.7,
+    "attack_ms": 3.0,
+    "decay_s": 1.153,
+    "centroid_hz": 6071,
+    "low_share": 0.001
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-bell-tree-belltree-hit-c5-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-bell-tree-belltree-hit-c5-rr1-mid.flac",
+   "preview": "previews/vcsl-bell-tree-belltree-hit-c5-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-sleigh-bells-sleighbell1-shake1",
+   "role": "fx",
+   "title": "Sleigh bells \u00b7 sleighbell1 shake1",
+   "instrument": "Sleigh bells",
+   "tags": [
+    "acoustic",
+    "bells",
+    "bright",
+    "fx",
+    "long",
+    "sleigh"
+   ],
+   "measures": {
+    "length_s": 5.253,
+    "lufs": -36.9,
+    "peak_dbfs": -25.0,
+    "attack_ms": 1678.0,
+    "decay_s": 1.601,
+    "centroid_hz": 7065,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-sleigh-bells-sleighbell1-shake1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-sleigh-bells-sleighbell1-shake1.flac",
+   "preview": "previews/vcsl-sleigh-bells-sleighbell1-shake1.mp3"
+  },
+  {
+   "id": "vcsl-sleigh-bells-sleighbell2-hit-loud",
+   "role": "fx",
+   "title": "Sleigh bells \u00b7 sleighbell2 hit loud",
+   "instrument": "Sleigh bells",
+   "tags": [
+    "acoustic",
+    "bells",
+    "bright",
+    "fx",
+    "hard",
+    "long",
+    "sleigh"
+   ],
+   "measures": {
+    "length_s": 1.536,
+    "lufs": -34.2,
+    "peak_dbfs": -18.8,
+    "attack_ms": 143.0,
+    "decay_s": 0.568,
+    "centroid_hz": 7187,
+    "low_share": 0.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-sleigh-bells-sleighbell2-hit-loud.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-sleigh-bells-sleighbell2-hit-loud.flac",
+   "preview": "previews/vcsl-sleigh-bells-sleighbell2-hit-loud.mp3"
+  },
+  {
+   "id": "vcsl-toy-train-whistle-main-trainmed-short-001",
+   "role": "fx",
+   "title": "Toy train whistle \u00b7 Main TrainMed Short 001",
+   "instrument": "Toy train whistle",
+   "tags": [
+    "acoustic",
+    "fx",
+    "toy",
+    "train",
+    "whistle"
+   ],
+   "measures": {
+    "length_s": 1.319,
+    "lufs": -34.8,
+    "peak_dbfs": -21.7,
+    "attack_ms": 68.0,
+    "decay_s": 0.639,
+    "centroid_hz": 1842,
+    "low_share": 0.011
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-toy-train-whistle-main-trainmed-short-001.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-toy-train-whistle-main-trainmed-short-001.flac",
+   "preview": "previews/vcsl-toy-train-whistle-main-trainmed-short-001.mp3"
+  },
+  {
+   "id": "vcsl-toy-train-whistle-main-trainlow-med-001",
+   "role": "fx",
+   "title": "Toy train whistle \u00b7 Main TrainLow Med 001",
+   "instrument": "Toy train whistle",
+   "tags": [
+    "acoustic",
+    "dark",
+    "fx",
+    "toy",
+    "train",
+    "whistle"
+   ],
+   "measures": {
+    "length_s": 1.492,
+    "lufs": -40.5,
+    "peak_dbfs": -30.9,
+    "attack_ms": 190.0,
+    "decay_s": 1.076,
+    "centroid_hz": 654,
+    "low_share": 0.15,
+    "pitch_hz": 43.3
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-toy-train-whistle-main-trainlow-med-001.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-toy-train-whistle-main-trainlow-med-001.flac",
+   "preview": "previews/vcsl-toy-train-whistle-main-trainlow-med-001.mp3"
+  },
+  {
+   "id": "vcsl-siren-main-sirenwhistle-002",
+   "role": "fx",
+   "title": "Siren \u00b7 Main SirenWhistle 002",
+   "instrument": "Siren",
+   "tags": [
+    "acoustic",
+    "fx",
+    "long",
+    "siren"
+   ],
+   "measures": {
+    "length_s": 3.861,
+    "lufs": -38.3,
+    "peak_dbfs": -24.8,
+    "attack_ms": 208.0,
+    "decay_s": 2.055,
+    "centroid_hz": 889,
+    "low_share": 0.157,
+    "pitch_hz": 40.0
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-siren-main-sirenwhistle-002.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-siren-main-sirenwhistle-002.flac",
+   "preview": "previews/vcsl-siren-main-sirenwhistle-002.mp3"
+  },
+  {
+   "id": "vcsl-siren-main-sirenwhistle-005",
+   "role": "fx",
+   "title": "Siren \u00b7 Main SirenWhistle 005",
+   "instrument": "Siren",
+   "tags": [
+    "acoustic",
+    "fx",
+    "long",
+    "siren"
+   ],
+   "measures": {
+    "length_s": 2.088,
+    "lufs": -34.4,
+    "peak_dbfs": -23.2,
+    "attack_ms": 144.0,
+    "decay_s": 0.58,
+    "centroid_hz": 1551,
+    "low_share": 0.028
+   },
+   "manifest": "https://musicmatter.art/library/manifests/fx/vcsl-siren-main-sirenwhistle-005.nc.json",
+   "audio": "https://musicmatter.art/library/audio/fx/vcsl-siren-main-sirenwhistle-005.flac",
+   "preview": "previews/vcsl-siren-main-sirenwhistle-005.mp3"
+  },
+  {
+   "id": "vcsl-marimba-marimba-hit-outrigger-c2-loud-01",
+   "role": "tonal",
+   "title": "Marimba \u00b7 Marimba hit Outrigger C2 loud 01",
+   "instrument": "Marimba",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "marimba",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 5.752,
+    "lufs": -38.9,
+    "peak_dbfs": -14.8,
+    "attack_ms": 3.0,
+    "decay_s": 2.352,
+    "centroid_hz": 788,
+    "low_share": 0.456,
+    "note": "C2"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.flac",
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c2-loud-01.mp3"
+  },
+  {
+   "id": "vcsl-marimba-marimba-hit-outrigger-c4-loud-01",
+   "role": "tonal",
+   "title": "Marimba \u00b7 Marimba hit Outrigger C4 loud 01",
+   "instrument": "Marimba",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "marimba",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 2.052,
+    "lufs": -34.1,
+    "peak_dbfs": -19.0,
+    "attack_ms": 6.0,
+    "decay_s": 0.937,
+    "centroid_hz": 584,
+    "low_share": 0.0,
+    "note": "C4"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.flac",
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c4-loud-01.mp3"
+  },
+  {
+   "id": "vcsl-marimba-marimba-hit-outrigger-c6-loud-01",
+   "role": "tonal",
+   "title": "Marimba \u00b7 Marimba hit Outrigger C6 loud 01",
+   "instrument": "Marimba",
+   "tags": [
+    "acoustic",
+    "hard",
+    "marimba",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 1.188,
+    "lufs": -33.1,
+    "peak_dbfs": -18.8,
+    "attack_ms": 5.0,
+    "decay_s": 0.186,
+    "centroid_hz": 1987,
+    "low_share": 0.053,
+    "note": "C6"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.flac",
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-c6-loud-01.mp3"
+  },
+  {
+   "id": "vcsl-marimba-marimba-hit-outrigger-g2-loud-01",
+   "role": "tonal",
+   "title": "Marimba \u00b7 Marimba hit Outrigger G2 loud 01",
+   "instrument": "Marimba",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "marimba",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 4.692,
+    "lufs": -40.2,
+    "peak_dbfs": -22.3,
+    "attack_ms": 4.0,
+    "decay_s": 2.039,
+    "centroid_hz": 518,
+    "low_share": 0.0,
+    "note": "G2"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.flac",
+   "preview": "previews/vcsl-marimba-marimba-hit-outrigger-g2-loud-01.mp3"
+  },
+  {
+   "id": "vcsl-vibraphone-vibes-soft-c3-v2-rr1-main",
+   "role": "tonal",
+   "title": "Vibraphone \u00b7 Vibes soft C3 v2",
+   "instrument": "Vibraphone",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "soft",
+    "tonal",
+    "vibraphone"
+   ],
+   "measures": {
+    "length_s": 10.86,
+    "lufs": -33.9,
+    "peak_dbfs": -23.7,
+    "attack_ms": 6.0,
+    "decay_s": 5.489,
+    "centroid_hz": 478,
+    "low_share": 0.0,
+    "note": "C3"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.flac",
+   "preview": "previews/vcsl-vibraphone-vibes-soft-c3-v2-rr1-main.mp3"
+  },
+  {
+   "id": "vcsl-vibraphone-vibes-soft-c5-v2-rr1-main",
+   "role": "tonal",
+   "title": "Vibraphone \u00b7 Vibes soft C5 v2",
+   "instrument": "Vibraphone",
+   "tags": [
+    "acoustic",
+    "long",
+    "soft",
+    "tonal",
+    "vibraphone"
+   ],
+   "measures": {
+    "length_s": 4.477,
+    "lufs": -19.2,
+    "peak_dbfs": -8.6,
+    "attack_ms": 3.0,
+    "decay_s": 2.482,
+    "centroid_hz": 1046,
+    "low_share": 0.0,
+    "note": "C5"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.flac",
+   "preview": "previews/vcsl-vibraphone-vibes-soft-c5-v2-rr1-main.mp3"
+  },
+  {
+   "id": "vcsl-vibraphone-vibes-hard-c3-v3-rr1-main",
+   "role": "tonal",
+   "title": "Vibraphone \u00b7 Vibes hard C3 v3",
+   "instrument": "Vibraphone",
+   "tags": [
+    "acoustic",
+    "hard",
+    "long",
+    "tonal",
+    "vibraphone"
+   ],
+   "measures": {
+    "length_s": 7.131,
+    "lufs": -28.4,
+    "peak_dbfs": -7.2,
+    "attack_ms": 3.0,
+    "decay_s": 3.343,
+    "centroid_hz": 2314,
+    "low_share": 0.0,
+    "note": "C3"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.flac",
+   "preview": "previews/vcsl-vibraphone-vibes-hard-c3-v3-rr1-main.mp3"
+  },
+  {
+   "id": "vcsl-glockenspiel-glock-loud-c5-01",
+   "role": "tonal",
+   "title": "Glockenspiel \u00b7 glock loud C5 01",
+   "instrument": "Glockenspiel",
+   "tags": [
+    "acoustic",
+    "glockenspiel",
+    "hard",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 7.468,
+    "lufs": -44.0,
+    "peak_dbfs": -23.6,
+    "attack_ms": 2.0,
+    "decay_s": 2.336,
+    "centroid_hz": 3421,
+    "low_share": 0.0,
+    "note": "C5"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-glockenspiel-glock-loud-c5-01.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-loud-c5-01.flac",
+   "preview": "previews/vcsl-glockenspiel-glock-loud-c5-01.mp3"
+  },
+  {
+   "id": "vcsl-glockenspiel-glock-soft-c5-02",
+   "role": "tonal",
+   "title": "Glockenspiel \u00b7 glock soft C5 02",
+   "instrument": "Glockenspiel",
+   "tags": [
+    "acoustic",
+    "glockenspiel",
+    "long",
+    "soft",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 4.02,
+    "lufs": -51.6,
+    "peak_dbfs": -39.9,
+    "attack_ms": 16.0,
+    "decay_s": 3.798,
+    "centroid_hz": 1074,
+    "low_share": 0.003,
+    "note": "C5"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-glockenspiel-glock-soft-c5-02.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-soft-c5-02.flac",
+   "preview": "previews/vcsl-glockenspiel-glock-soft-c5-02.mp3"
+  },
+  {
+   "id": "vcsl-glockenspiel-glock-loud-c6-01",
+   "role": "tonal",
+   "title": "Glockenspiel \u00b7 glock loud C6 01",
+   "instrument": "Glockenspiel",
+   "tags": [
+    "acoustic",
+    "glockenspiel",
+    "hard",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 3.734,
+    "lufs": -41.3,
+    "peak_dbfs": -23.6,
+    "attack_ms": 2.0,
+    "decay_s": 0.726,
+    "centroid_hz": 3884,
+    "low_share": 0.0,
+    "note": "C6"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-glockenspiel-glock-loud-c6-01.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-loud-c6-01.flac",
+   "preview": "previews/vcsl-glockenspiel-glock-loud-c6-01.mp3"
+  },
+  {
+   "id": "vcsl-xylophone-xylo-soft-c4-ff-01-far",
+   "role": "tonal",
+   "title": "Xylophone \u00b7 Xylo Soft C4 ff 01 far",
+   "instrument": "Xylophone",
+   "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "soft",
+    "tonal",
+    "xylophone"
+   ],
+   "measures": {
+    "length_s": 2.128,
+    "lufs": -24.6,
+    "peak_dbfs": -12.6,
+    "attack_ms": 18.0,
+    "decay_s": 1.195,
+    "centroid_hz": 537,
+    "low_share": 0.0,
+    "note": "C4"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-xylophone-xylo-soft-c4-ff-01-far.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c4-ff-01-far.flac",
+   "preview": "previews/vcsl-xylophone-xylo-soft-c4-ff-01-far.mp3"
+  },
+  {
+   "id": "vcsl-xylophone-xylo-soft-c5-ff-01-far",
+   "role": "tonal",
+   "title": "Xylophone \u00b7 Xylo Soft C5 ff 01 far",
+   "instrument": "Xylophone",
+   "tags": [
+    "acoustic",
+    "hard",
+    "soft",
+    "tonal",
+    "xylophone"
+   ],
+   "measures": {
+    "length_s": 1.123,
+    "lufs": -27.4,
+    "peak_dbfs": -12.5,
+    "attack_ms": 2.0,
+    "decay_s": 0.627,
+    "centroid_hz": 1067,
+    "low_share": 0.0,
+    "note": "C5"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-xylophone-xylo-soft-c5-ff-01-far.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c5-ff-01-far.flac",
+   "preview": "previews/vcsl-xylophone-xylo-soft-c5-ff-01-far.mp3"
+  },
+  {
+   "id": "vcsl-xylophone-xylo-soft-c6-ff-01-far",
+   "role": "tonal",
+   "title": "Xylophone \u00b7 Xylo Soft C6 ff 01 far",
+   "instrument": "Xylophone",
+   "tags": [
+    "acoustic",
+    "hard",
+    "soft",
+    "tonal",
+    "xylophone"
+   ],
+   "measures": {
+    "length_s": 0.531,
+    "lufs": -26.8,
+    "peak_dbfs": -13.5,
+    "attack_ms": 2.0,
+    "decay_s": 0.308,
+    "centroid_hz": 2114,
+    "low_share": 0.0,
+    "note": "C6"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-xylophone-xylo-soft-c6-ff-01-far.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c6-ff-01-far.flac",
+   "preview": "previews/vcsl-xylophone-xylo-soft-c6-ff-01-far.mp3"
+  },
+  {
+   "id": "vcsl-tubular-bells-chimes-c3-f-rr1",
+   "role": "tonal",
+   "title": "Tubular bells \u00b7 chimes C3 f",
+   "instrument": "Tubular bells",
+   "tags": [
+    "acoustic",
+    "bells",
+    "hard",
+    "long",
+    "tonal",
+    "tubular"
+   ],
+   "measures": {
+    "length_s": 11.356,
+    "lufs": -26.1,
+    "peak_dbfs": -8.6,
+    "attack_ms": 6.0,
+    "decay_s": 4.099,
+    "centroid_hz": 1628,
+    "low_share": 0.001,
+    "note": "C3"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-tubular-bells-chimes-c3-f-rr1.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-tubular-bells-chimes-c3-f-rr1.flac",
+   "preview": "previews/vcsl-tubular-bells-chimes-c3-f-rr1.mp3"
+  },
+  {
+   "id": "vcsl-tubular-bells-chimes-c3-pp-rr2",
+   "role": "tonal",
+   "title": "Tubular bells \u00b7 chimes C3 pp",
+   "instrument": "Tubular bells",
+   "tags": [
+    "acoustic",
+    "bells",
+    "long",
+    "soft",
+    "tonal",
+    "tubular"
+   ],
+   "measures": {
+    "length_s": 10.841,
+    "lufs": -34.9,
+    "peak_dbfs": -20.6,
+    "attack_ms": 6.0,
+    "decay_s": 6.365,
+    "centroid_hz": 1226,
+    "low_share": 0.014,
+    "note": "C3"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-tubular-bells-chimes-c3-pp-rr2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-tubular-bells-chimes-c3-pp-rr2.flac",
+   "preview": "previews/vcsl-tubular-bells-chimes-c3-pp-rr2.mp3"
+  },
+  {
+   "id": "vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid",
+   "role": "tonal",
+   "title": "Balafon \u00b7 EthnicXylo hardM C4 vl3",
+   "instrument": "Balafon",
+   "tags": [
+    "acoustic",
+    "balafon",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 0.733,
+    "lufs": -31.4,
+    "peak_dbfs": -10.9,
+    "attack_ms": 6.0,
+    "decay_s": 0.172,
+    "centroid_hz": 1811,
+    "low_share": 0.0,
+    "note": "C4"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.flac",
+   "preview": "previews/vcsl-balafon-ethnicxylo-hardm-c4-vl3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid",
+   "role": "tonal",
+   "title": "Balafon \u00b7 EthnicXylo hardM C5 vl3",
+   "instrument": "Balafon",
+   "tags": [
+    "acoustic",
+    "balafon",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 0.61,
+    "lufs": -27.9,
+    "peak_dbfs": -11.6,
+    "attack_ms": 5.0,
+    "decay_s": 0.208,
+    "centroid_hz": 1090,
+    "low_share": 0.0,
+    "note": "C5"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.flac",
+   "preview": "previews/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.mp3"
+  },
+  {
+   "id": "vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid",
+   "role": "tonal",
+   "title": "Balafon \u00b7 EthnicXylo softM C4 vl3",
+   "instrument": "Balafon",
+   "tags": [
+    "acoustic",
+    "balafon",
+    "dark",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 0.722,
+    "lufs": -37.8,
+    "peak_dbfs": -20.1,
+    "attack_ms": 6.0,
+    "decay_s": 0.237,
+    "centroid_hz": 682,
+    "low_share": 0.0,
+    "note": "C4"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.flac",
+   "preview": "previews/vcsl-balafon-ethnicxylo-softm-c4-vl3-rr2-mid.mp3"
+  },
+  {
+   "id": "vcsl-hand-chimes-sus-c4-r01-main",
+   "role": "tonal",
+   "title": "Hand chimes \u00b7 sus C4 r01",
+   "instrument": "Hand chimes",
+   "tags": [
+    "acoustic",
+    "chimes",
+    "dark",
+    "hand",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 6.474,
+    "lufs": -22.8,
+    "peak_dbfs": -15.0,
+    "attack_ms": 12.0,
+    "decay_s": 3.742,
+    "centroid_hz": 524,
+    "low_share": 0.0,
+    "note": "C4"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-hand-chimes-sus-c4-r01-main.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-hand-chimes-sus-c4-r01-main.flac",
+   "preview": "previews/vcsl-hand-chimes-sus-c4-r01-main.mp3"
+  },
+  {
+   "id": "vcsl-hand-chimes-sus-c5-r01-main",
+   "role": "tonal",
+   "title": "Hand chimes \u00b7 sus C5 r01",
+   "instrument": "Hand chimes",
+   "tags": [
+    "acoustic",
+    "chimes",
+    "hand",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 6.335,
+    "lufs": -27.3,
+    "peak_dbfs": -15.0,
+    "attack_ms": 11.0,
+    "decay_s": 2.568,
+    "centroid_hz": 1051,
+    "low_share": 0.0,
+    "note": "C5"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-hand-chimes-sus-c5-r01-main.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-hand-chimes-sus-c5-r01-main.flac",
+   "preview": "previews/vcsl-hand-chimes-sus-c5-r01-main.mp3"
+  },
+  {
+   "id": "vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2",
+   "role": "tonal",
+   "title": "Kalimba \u00b7 MBira3 pluck Main G1 k12 50 100",
+   "instrument": "Kalimba",
+   "tags": [
+    "acoustic",
+    "dark",
+    "kalimba",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 3.161,
+    "lufs": -24.1,
+    "peak_dbfs": -2.0,
+    "attack_ms": 37.0,
+    "decay_s": 0.432,
+    "centroid_hz": 614,
+    "low_share": 0.025,
+    "note": "G1"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.flac",
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g1-k12-50-100-rr2.mp3"
+  },
+  {
+   "id": "vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2",
+   "role": "tonal",
+   "title": "Kalimba \u00b7 MBira3 pluck Main G2 k15 50 100",
+   "instrument": "Kalimba",
+   "tags": [
+    "acoustic",
+    "dark",
+    "kalimba",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 3.808,
+    "lufs": -26.3,
+    "peak_dbfs": -2.0,
+    "attack_ms": 4.0,
+    "decay_s": 1.029,
+    "centroid_hz": 232,
+    "low_share": 0.0,
+    "note": "G2"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.flac",
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.mp3"
+  },
+  {
+   "id": "vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2",
+   "role": "tonal",
+   "title": "Kalimba \u00b7 MBira3 pluck Main G3 k6 50 100",
+   "instrument": "Kalimba",
+   "tags": [
+    "acoustic",
+    "dark",
+    "kalimba",
+    "long",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 2.474,
+    "lufs": -14.7,
+    "peak_dbfs": -2.0,
+    "attack_ms": 36.0,
+    "decay_s": 1.178,
+    "centroid_hz": 397,
+    "low_share": 0.0,
+    "note": "G3"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.flac",
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g3-k6-50-100-rr2.mp3"
+  },
+  {
+   "id": "vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2",
+   "role": "tonal",
+   "title": "Kalimba \u00b7 MBira3 pluck Main G4 k22 50 100",
+   "instrument": "Kalimba",
+   "tags": [
+    "acoustic",
+    "kalimba",
+    "tonal"
+   ],
+   "measures": {
+    "length_s": 1.168,
+    "lufs": -22.5,
+    "peak_dbfs": -2.6,
+    "attack_ms": 3.0,
+    "decay_s": 0.267,
+    "centroid_hz": 958,
+    "low_share": 0.0,
+    "note": "G4"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.flac",
+   "preview": "previews/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.mp3"
+  },
+  {
+   "id": "vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3",
+   "role": "tonal",
+   "title": "FM piano (Yamaha TX81Z) \u00b7 FMPiano C3 vl3",
+   "instrument": "FM piano (Yamaha TX81Z)",
+   "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "piano",
+    "tonal",
+    "yamaha"
+   ],
+   "measures": {
+    "length_s": 10.127,
+    "lufs": -33.4,
+    "peak_dbfs": -14.6,
+    "attack_ms": 2.0,
+    "decay_s": 5.551,
+    "centroid_hz": 622,
+    "low_share": 0.161,
+    "note": "C3"
+   },
+   "manifest": "https://musicmatter.art/library/manifests/tonal/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.nc.json",
+   "audio": "https://musicmatter.art/library/audio/tonal/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.flac",
+   "preview": "previews/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.mp3"
+  }
+ ]
+}

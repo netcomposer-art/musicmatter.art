@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Darbuka · Darbuka 2 hit vl2",
+  "instrument": "Darbuka",
+  "tags": [
+    "acoustic",
+    "darbuka",
+    "perc",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Darbuka/Darbuka_2_hit_vl2_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_2_hit_vl2_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "86aab33549dc1225ab3d2158675b0abfa76279274e453602bb80c3b88640558b",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-2-hit-vl2-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 23441
+  },
+  "sha256": "0e72def8e26c577ccc73d68dd17adccb2ae82e7b4dc41170fad82cd9c803f469",
+  "size_bytes": 67050,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.488,
+    "lufs": -25.0,
+    "peak_dbfs": -5.3,
+    "attack_ms": 3.0,
+    "decay_s": 0.132,
+    "centroid_hz": 899,
+    "low_share": 0.068,
+    "pitch_hz": 143.3
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

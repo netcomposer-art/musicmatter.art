@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Triangle · triangle1 hit mp muted1",
+  "instrument": "Triangle",
+  "tags": [
+    "acoustic",
+    "bright",
+    "long",
+    "perc",
+    "soft",
+    "triangle"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Triangles/Legacy/1/triangle1_hit_mp_muted1.wav",
+    "path": "Idiophones/Struck Idiophones/Triangles/Legacy/1/triangle1_hit_mp_muted1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "5e5e93decb719d2d005819057e698831a374017d3fe6e7c49be39750386c3ad5",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-mp-muted1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 112312
+  },
+  "sha256": "5e751dd22e76d15fa7107d3758261d92e6cca37632c8d7bc286cf5e848bc2907",
+  "size_bytes": 312481,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 2.34,
+    "lufs": -39.9,
+    "peak_dbfs": -29.0,
+    "attack_ms": 8.0,
+    "decay_s": 0.803,
+    "centroid_hz": 7653,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

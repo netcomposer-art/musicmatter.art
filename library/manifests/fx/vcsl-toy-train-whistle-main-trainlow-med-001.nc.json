@@ -1,0 +1,62 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Toy train whistle · Main TrainLow Med 001",
+  "instrument": "Toy train whistle",
+  "tags": [
+    "acoustic",
+    "dark",
+    "fx",
+    "toy",
+    "train",
+    "whistle"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Aerophones/Edge-blown%20Aerophones/Train%20Whistle,%20Toy/Main_TrainLow_Med-001.wav",
+    "path": "Aerophones/Edge-blown Aerophones/Train Whistle, Toy/Main_TrainLow_Med-001.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "945a74c20709a678a978368ee53fff7da48882ca699d3fcd8b3cbab47ef07d38",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-toy-train-whistle-main-trainlow-med-001.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 71593
+  },
+  "sha256": "64a3fc88b2c817358e5d3ac4de91d2df2adec937084973890083768f55347d34",
+  "size_bytes": 203347,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.492,
+    "lufs": -40.5,
+    "peak_dbfs": -30.9,
+    "attack_ms": 190.0,
+    "decay_s": 1.076,
+    "centroid_hz": 654,
+    "low_share": 0.15,
+    "pitch_hz": 43.3
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

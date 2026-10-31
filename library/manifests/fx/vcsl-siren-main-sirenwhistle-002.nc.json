@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Siren · Main SirenWhistle 002",
+  "instrument": "Siren",
+  "tags": [
+    "acoustic",
+    "fx",
+    "long",
+    "siren"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Aerophones/Free%20Aerophones/Siren/Main_SirenWhistle-002.wav",
+    "path": "Aerophones/Free Aerophones/Siren/Main_SirenWhistle-002.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "884e9acc5e06fd2926f336af86e1c95b3adb0a1fadae5b553d3f1e2f3e6fc98b",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-siren-main-sirenwhistle-002.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 185333
+  },
+  "sha256": "8e75ca6d4e4759de20524650bbf86867c8a3b980608784b781d35535a114a90d",
+  "size_bytes": 551379,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.861,
+    "lufs": -38.3,
+    "peak_dbfs": -24.8,
+    "attack_ms": 208.0,
+    "decay_s": 2.055,
+    "centroid_hz": 889,
+    "low_share": 0.157,
+    "pitch_hz": 40.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Conga · Tumba HitN v4",
+  "instrument": "Conga",
+  "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "hard",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav",
+    "path": "Membranophones/Struck Membranophones/Conga/Tumba_HitN_v4_rr1_Sum.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "5504101dba1a22e133efb77147084e96565a7ff64535f94f2f3d8934f2b2895b",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-tumba-hitn-v4-rr1-sum.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 41659
+  },
+  "sha256": "86a9884239e5514e2e1de17b5b31ece0e88c6cc8cbc97f7b8cd2ceaf97f420ef",
+  "size_bytes": 97792,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.868,
+    "lufs": -39.4,
+    "peak_dbfs": -21.4,
+    "attack_ms": 3.0,
+    "decay_s": 0.247,
+    "centroid_hz": 146,
+    "low_share": 0.85,
+    "pitch_hz": 140.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

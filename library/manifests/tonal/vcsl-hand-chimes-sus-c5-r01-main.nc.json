@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Hand chimes · sus C5 r01",
+  "instrument": "Hand chimes",
+  "tags": [
+    "acoustic",
+    "chimes",
+    "hand",
+    "long",
+    "tonal"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Hand%20Chimes/sus_C5_r01_main.wav",
+    "path": "Idiophones/Struck Idiophones/Hand Chimes/sus_C5_r01_main.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "836f13d448c9d6d685da634368615c2f7c03b6fb5b99ac93627e1fbb40368e58",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-hand-chimes-sus-c5-r01-main.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 304083
+  },
+  "sha256": "9f15eaad74da7ad11b27f1f3cd326b346e89e572c459c8b78b0b28f2c201eeea",
+  "size_bytes": 382983,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 6.335,
+    "lufs": -27.3,
+    "peak_dbfs": -15.0,
+    "attack_ms": 11.0,
+    "decay_s": 2.568,
+    "centroid_hz": 1051,
+    "low_share": 0.0,
+    "note": "C5"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

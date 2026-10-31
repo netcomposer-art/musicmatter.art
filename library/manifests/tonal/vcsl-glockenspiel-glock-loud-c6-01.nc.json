@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Glockenspiel · glock loud C6 01",
+  "instrument": "Glockenspiel",
+  "tags": [
+    "acoustic",
+    "glockenspiel",
+    "hard",
+    "long",
+    "tonal"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Glockenspiel/glock_loud_C6_01.wav",
+    "path": "Idiophones/Struck Idiophones/Glockenspiel/glock_loud_C6_01.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "7ca228de549d54770f90bb125e23edcd1dc06cec2b9e1f452661720262f0ecd0",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-glockenspiel-glock-loud-c6-01.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 179216
+  },
+  "sha256": "913d4890bdf81e81f23c16b010a22ef64bd7975f4c349801fe3a44fc37423c51",
+  "size_bytes": 432901,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.734,
+    "lufs": -41.3,
+    "peak_dbfs": -23.6,
+    "attack_ms": 2.0,
+    "decay_s": 0.726,
+    "centroid_hz": 3884,
+    "low_share": 0.0,
+    "note": "C6"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

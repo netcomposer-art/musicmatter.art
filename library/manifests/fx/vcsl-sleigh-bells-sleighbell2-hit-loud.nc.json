@@ -1,0 +1,62 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Sleigh bells · sleighbell2 hit loud",
+  "instrument": "Sleigh bells",
+  "tags": [
+    "acoustic",
+    "bells",
+    "bright",
+    "fx",
+    "hard",
+    "long",
+    "sleigh"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Sleigh%20Bells/sleighbell2_hit_loud.wav",
+    "path": "Idiophones/Struck Idiophones/Sleigh Bells/sleighbell2_hit_loud.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "356166c87916ef63bba6539a0d4eda1881d1ddb1ba8045668058e62b91fbcf17",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-sleigh-bells-sleighbell2-hit-loud.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 73750
+  },
+  "sha256": "721dd3c9da35c79e3f17cf4d13900448d3f37f4ada3f30765e35a706e1bd82e1",
+  "size_bytes": 240145,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.536,
+    "lufs": -34.2,
+    "peak_dbfs": -18.8,
+    "attack_ms": 143.0,
+    "decay_s": 0.568,
+    "centroid_hz": 7187,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

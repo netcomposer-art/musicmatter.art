@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Slapstick · slapstick",
+  "instrument": "Slapstick",
+  "tags": [
+    "acoustic",
+    "bright",
+    "perc",
+    "slapstick",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Slapstick/slapstick_rr1.wav",
+    "path": "Idiophones/Struck Idiophones/Slapstick/slapstick_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "e73b38bf43b385d95e2c790e7424526a91af8d1cdf484002912a4a8eabe73300",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-slapstick-slapstick-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 18987
+  },
+  "sha256": "8e77f29559db3e34388d389b9579693d85a7ca7004362a0b4f429c50d8246966",
+  "size_bytes": 66248,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.396,
+    "lufs": -23.1,
+    "peak_dbfs": -0.5,
+    "attack_ms": 7.0,
+    "decay_s": 0.119,
+    "centroid_hz": 4400,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

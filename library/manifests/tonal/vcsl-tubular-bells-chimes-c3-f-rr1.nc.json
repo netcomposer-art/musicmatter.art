@@ -1,0 +1,62 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Tubular bells · chimes C3 f",
+  "instrument": "Tubular bells",
+  "tags": [
+    "acoustic",
+    "bells",
+    "hard",
+    "long",
+    "tonal",
+    "tubular"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Tubular%20Bells%201/chimes_C3_f_rr1.wav",
+    "path": "Idiophones/Struck Idiophones/Tubular Bells 1/chimes_C3_f_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "76d51955e61e70e7a6b46a05865cd0f06f4948aaab97b1925f0f06f193f717f5",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-tubular-bells-chimes-c3-f-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 545086
+  },
+  "sha256": "eb920b442b723b201903a69282adbad7b825a2e30c301344df478435b3ea882b",
+  "size_bytes": 1580922,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 11.356,
+    "lufs": -26.1,
+    "peak_dbfs": -8.6,
+    "attack_ms": 6.0,
+    "decay_s": 4.099,
+    "centroid_hz": 1628,
+    "low_share": 0.001,
+    "note": "C3"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

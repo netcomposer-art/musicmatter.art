@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tom",
+  "title": "Tom 2 · TomL rimFLS",
+  "instrument": "Tom 2",
+  "tags": [
+    "acoustic",
+    "long",
+    "tom"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Tom%202/TomL_rimFLS_rr2_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Tom 2/TomL_rimFLS_rr2_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "765da86874165147154971d3e70311d33af14eb6af12c79a62307d550cbf0fbd",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-rimfls-rr2-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 75431
+  },
+  "sha256": "e8b2d3bdd67b5f23fd6a639a577904977b81cf8e69c63ad80b45ee98e2ccf3f7",
+  "size_bytes": 147570,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.571,
+    "lufs": -50.3,
+    "peak_dbfs": -27.8,
+    "attack_ms": 25.0,
+    "decay_s": 0.348,
+    "centroid_hz": 1276,
+    "low_share": 0.069,
+    "pitch_hz": 376.7
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

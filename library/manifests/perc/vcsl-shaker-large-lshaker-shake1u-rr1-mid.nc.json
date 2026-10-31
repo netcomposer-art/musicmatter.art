@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Shaker, large · LShaker Shake1U",
+  "instrument": "Shaker, large",
+  "tags": [
+    "acoustic",
+    "bright",
+    "large",
+    "perc",
+    "shaker"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Shaker,%20Large/LShaker_Shake1U_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Shaker, Large/LShaker_Shake1U_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "f6bbd4b897a18af5d567cf7925d402a8b854a8f31c1cf3c706f91bf96815b7c7",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-shaker-large-lshaker-shake1u-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 62162
+  },
+  "sha256": "e52b012fcc50a6e2d01fdf7dea9fe611dd9938fdf60ca06a24d680300786cfde",
+  "size_bytes": 152997,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.295,
+    "lufs": -42.0,
+    "peak_dbfs": -28.4,
+    "attack_ms": 142.0,
+    "decay_s": 0.21,
+    "centroid_hz": 5452,
+    "low_share": 0.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

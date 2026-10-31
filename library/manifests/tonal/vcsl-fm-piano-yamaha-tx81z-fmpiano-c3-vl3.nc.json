@@ -1,0 +1,62 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "FM piano (Yamaha TX81Z) · FMPiano C3 vl3",
+  "instrument": "FM piano (Yamaha TX81Z)",
+  "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "piano",
+    "tonal",
+    "yamaha"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Electrophones/TX81Z/FM%20Piano/FMPiano_C3_vl3.wav",
+    "path": "Electrophones/TX81Z/FM Piano/FMPiano_C3_vl3.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "4e7a7d75bf01af25bcd8b321853e61f159c14432360705b319154d7010ffb1fc",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 1,
+    "frames": 486117
+  },
+  "sha256": "0c8dbf90853cc7bd9b3cea8b56c88c082908230d3d3f49797c5b58588d70dfc0",
+  "size_bytes": 770132,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 10.127,
+    "lufs": -33.4,
+    "peak_dbfs": -14.6,
+    "attack_ms": 2.0,
+    "decay_s": 5.551,
+    "centroid_hz": 622,
+    "low_share": 0.161,
+    "note": "C3"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

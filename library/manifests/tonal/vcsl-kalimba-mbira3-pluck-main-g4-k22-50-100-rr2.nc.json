@@ -1,0 +1,59 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Kalimba · MBira3 pluck Main G4 k22 50 100",
+  "instrument": "Kalimba",
+  "tags": [
+    "acoustic",
+    "kalimba",
+    "tonal"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Plucked%20Idiophones/Kalimba,%20Tanzania/MBira3_pluck_Main_G4_k22_50_100_rr2.wav",
+    "path": "Idiophones/Plucked Idiophones/Kalimba, Tanzania/MBira3_pluck_Main_G4_k22_50_100_rr2.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "59fef12af5bf667cd7b3d12454e62377ac47f6893de416fc9f6e12f30043495b",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g4-k22-50-100-rr2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 56060
+  },
+  "sha256": "97989856e1c2f0939b632ee06a5c94dd898362759ced6634d6d15b0ab0a8644c",
+  "size_bytes": 151918,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.168,
+    "lufs": -22.5,
+    "peak_dbfs": -2.6,
+    "attack_ms": 3.0,
+    "decay_s": 0.267,
+    "centroid_hz": 958,
+    "low_share": 0.0,
+    "note": "G4"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

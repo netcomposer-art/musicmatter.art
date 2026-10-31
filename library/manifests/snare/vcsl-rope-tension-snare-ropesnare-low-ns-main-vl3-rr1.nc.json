@@ -1,0 +1,62 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Rope-tension snare · RopeSnare low ns Main vl3",
+  "instrument": "Rope-tension snare",
+  "tags": [
+    "acoustic",
+    "dark",
+    "long",
+    "rope",
+    "snare",
+    "tension"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Rope%20Tension/Low/RopeSnare_low_ns_Main_vl3_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_ns_Main_vl3_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "c9d19732b16e14db6c202045dbd941beff118fe8a026c44311aa2511df83afc9",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-ns-main-vl3-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 91970
+  },
+  "sha256": "22d62ba9c41b6a09cf939e19b5f3e2cd62f2161cc110ebd86099a29f9af18b9e",
+  "size_bytes": 120365,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.916,
+    "lufs": -35.6,
+    "peak_dbfs": -13.3,
+    "attack_ms": 3.0,
+    "decay_s": 0.595,
+    "centroid_hz": 103,
+    "low_share": 0.814,
+    "pitch_hz": 60.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

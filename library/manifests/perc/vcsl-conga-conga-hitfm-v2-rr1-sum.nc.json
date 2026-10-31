@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Conga · Conga HitFM v2",
+  "instrument": "Conga",
+  "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav",
+    "path": "Membranophones/Struck Membranophones/Conga/Conga_HitFM_v2_rr1_Sum.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "1a24a11a7dae6fdc05405a706768a5b6d96ad534c95bee5d451aa49eedd84855",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-conga-hitfm-v2-rr1-sum.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 38224
+  },
+  "sha256": "a9f5101870c3217e0d6e1e26ec64f294b42caa7c78a634ee9a5447dc1f0a7774",
+  "size_bytes": 97545,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.796,
+    "lufs": -29.1,
+    "peak_dbfs": -10.9,
+    "attack_ms": 13.0,
+    "decay_s": 0.246,
+    "centroid_hz": 110,
+    "low_share": 0.875,
+    "pitch_hz": 83.3
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

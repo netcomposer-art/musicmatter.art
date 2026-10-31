@@ -1,0 +1,61 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Xylophone · Xylo Soft C6 ff 01 far",
+  "instrument": "Xylophone",
+  "tags": [
+    "acoustic",
+    "hard",
+    "soft",
+    "tonal",
+    "xylophone"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Xylophone/Soft%20Mallets/Xylo_Soft_C6_ff_01_far.wav",
+    "path": "Idiophones/Struck Idiophones/Xylophone/Soft Mallets/Xylo_Soft_C6_ff_01_far.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "c282cad5ce4b4c18399e61489e92531463332ea31074f7aae12c87247ecae9a4",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c6-ff-01-far.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 25473
+  },
+  "sha256": "8daf57e3ea090b69ca815e5de2c22da21dc8b1ac4f5dac04dd8572db52537836",
+  "size_bytes": 58015,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.531,
+    "lufs": -26.8,
+    "peak_dbfs": -13.5,
+    "attack_ms": 2.0,
+    "decay_s": 0.308,
+    "centroid_hz": 2114,
+    "low_share": 0.0,
+    "note": "C6"
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

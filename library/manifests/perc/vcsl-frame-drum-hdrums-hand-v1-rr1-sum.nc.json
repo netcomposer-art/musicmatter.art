@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Frame drum · HDrumS Hand v1",
+  "instrument": "Frame drum",
+  "tags": [
+    "acoustic",
+    "drum",
+    "frame",
+    "perc",
+    "soft"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+    "path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "5d8d963ee3487725097c82cb0f4f485ade3423e75541cedc32de2ed6ec6f61ce",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdrums-hand-v1-rr1-sum.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 33083
+  },
+  "sha256": "c5b68052c71ca89022ea473c341f307b824b9b2d8887b6f6c8d98dabe90049f9",
+  "size_bytes": 65725,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.689,
+    "lufs": null,
+    "peak_dbfs": -60.6,
+    "attack_ms": 125.0,
+    "decay_s": 0.471,
+    "centroid_hz": 3992,
+    "low_share": 0.03
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

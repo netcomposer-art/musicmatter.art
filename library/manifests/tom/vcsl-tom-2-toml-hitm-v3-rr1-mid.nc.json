@@ -1,0 +1,60 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tom",
+  "title": "Tom 2 · TomL HitM v3",
+  "instrument": "Tom 2",
+  "tags": [
+    "acoustic",
+    "dark",
+    "punchy",
+    "tom"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Tom%202/Mallet/TomL_HitM_v3_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Tom 2/Mallet/TomL_HitM_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "d882ba9eb8b094519f7d4defd832c375b49fa12f2c094979a7ed3b559ba25b21",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tom/vcsl-tom-2-toml-hitm-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 68184
+  },
+  "sha256": "30fe4ba2af89873ce75da0a7c600d9e3dbc5cbc29959da18918271f98b8d6749",
+  "size_bytes": 148028,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.421,
+    "lufs": -36.3,
+    "peak_dbfs": -15.6,
+    "attack_ms": 4.0,
+    "decay_s": 0.577,
+    "centroid_hz": 121,
+    "low_share": 0.905,
+    "pitch_hz": 90.0
+  },
+  "curation": {
+    "status": "pending"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "kick",
+  "title": "Concert bass drum 2 · bassdrum hit pp1",
+  "instrument": "Concert bass drum 2",
+  "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bass%20Drum%202/bassdrum_hit_pp1.wav",
+    "path": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_pp1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "bdba260aa2a4db64b0e01960385de11f20ada1c216c4ebe86dc486a8331e0149",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-pp1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 373042
+  },
+  "sha256": "6924f6e844ac1b6965777a052a14033e3bea46014f7916ec1db6eefb40ef0c0b",
+  "size_bytes": 861971,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 7.772,
+    "lufs": -40.8,
+    "peak_dbfs": -22.4,
+    "attack_ms": 24.0,
+    "decay_s": 3.254,
+    "centroid_hz": 48,
+    "low_share": 0.991,
+    "pitch_hz": 43.3
+  },
+  "curation": {
+    "status": "pending"
+  }
+}
