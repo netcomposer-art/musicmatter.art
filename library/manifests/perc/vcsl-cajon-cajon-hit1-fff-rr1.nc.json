@@ -58,7 +58,9 @@
     "hit_dbfs": -13.6
   },
   "curation": {
-    "status": "pending"
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
   },
   "playback": {
     "gain_db": -2.2,

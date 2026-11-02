@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Publish Peter's Library decisions: mark each reviewed manifest approved or rejected, and write library.json, the
-index NYX searches (approved sounds only). Rejected sounds' audio and manifests are removed from the site; the
+index NYX searches (approved sounds only, library/library.json). Rejected sounds' audio and manifests are removed from the site; the
 review record keeps them out of later harvests.
 
 Usage:  python3 tools/library/publish.py decisions.json
@@ -14,8 +14,27 @@ import json
 import sys
 from pathlib import Path
 
+import numpy as np
+import soundfile as sf
+
 SITE = Path(__file__).resolve().parents[2]
 LIB = SITE / "library"
+
+
+WAVE_COLUMNS = 48
+DIGITS = "0123456789abcdefghijklmnopqrstuvwxyz"
+
+
+def wave(path: Path) -> str:
+    """The sound's outline for a mini waveform: WAVE_COLUMNS columns of the loudest |sample| (channels mixed), scaled to
+    the sound's own peak, one base-36 digit each (0 silent .. z the peak)."""
+    data, _ = sf.read(str(path), always_2d=True, dtype="float32")
+    mono = np.abs(data.mean(axis=1))
+    if not len(mono):
+        return "0" * WAVE_COLUMNS
+    cols = np.array_split(mono, WAVE_COLUMNS)
+    top = max(float(mono.max()), 1e-9)
+    return "".join(DIGITS[min(35, round(float(c.max() if len(c) else 0) / top * 35))] for c in cols)
 
 
 def main() -> int:
@@ -62,15 +81,22 @@ def main() -> int:
         if status == "approved":
             entries.append({
                 "id": cid, "role": role, "title": manifest["title"], "tags": manifest["tags"],
-                "license": manifest["license"], "creator": manifest["creator"]["name"],
+                "license": manifest["license"], "license_url": manifest.get("license_url"),
+                "creator": manifest["creator"]["name"], "creator_link": manifest["creator"].get("link"),
+                "source": {"origin": manifest["source"].get("origin"), "url": manifest["source"].get("url")},
                 "audio": manifest["audio"], "manifest": man_url, "sha256": manifest["sha256"],
-                "measures": manifest["measures"],
+                # gain_db: the family level-match playback gain (the manifest's "playback"), so a player can sit the
+                # sound at the uniform level without fetching its manifest.
+                "measures": {**manifest["measures"],
+                             "gain_db": (manifest.get("playback") or {}).get("gain_db", 0.0)},
+                "wave": wave(audio_path),
             })
         else:
             keep_candidates.append({**cand, "role": role, "tags": manifest["tags"], "manifest": man_url,
                                     "audio": manifest["audio"]})
     entries.sort(key=lambda e: (e["role"], e["title"]))
-    (SITE / "library.json").write_text(json.dumps({
+    # Served at https://musicmatter.art/library/library.json, beside the audio and manifests it lists.
+    (LIB / "library.json").write_text(json.dumps({
         "nc_version": "0.2",
         "name": "musicmatter.art Library",
         "description": "Curated, openly licensed one-shots. Every sound keeps its original creator and license; "
