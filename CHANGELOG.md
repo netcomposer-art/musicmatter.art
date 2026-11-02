@@ -1,5 +1,11 @@
 # musicmatter.art changelog
 
+## Library: harvest tools (2026-11-03)
+- **`tools/library/fetch_review.py`** pulls the nightly Freesound harvest's review queue from nc-perform-api and builds the Library Review page (previews as files). **`tools/library/publish_harvest.py`** publishes Peter's decisions: approved sounds into `library/` and `library.json` (credit: the Freesound creator, linked, under their license; musicmatter.art as curator), rejections into `rejected.json`, and tells the Worker so neither is harvested again. See `tools/library/README.md`, including the Freesound API terms (non-commercial; commercial use needs a licence from MTG, mtg@upf.edu).
+- **`tools/library/measures.py`** holds the measurements, unchanged, moved out of `seed_vcsl.py`, `level_match.py` and `publish.py`; the harvester's container runs a verbatim copy. Re-running the seed's scripts on the seed gives byte-identical files.
+- **`publish.py` merges** into `library.json` instead of rebuilding it from `review.json` alone. Before, a second run after `review.json` had emptied would have listed no sounds.
+- Harvested entries may carry `"quality": "preview"` (decoded from Freesound's MP3 preview until the original-file login is connected). No library audio or entries change in this release.
+
 ## Library v1: curated shelf (2026-11-02)
 - **`/library/library.json`** is new (https://musicmatter.art/library/library.json): the curated commons NYX's Library searches. It lists the 182 one-shots Peter approved from the 193-sound VCSL seed (all CC0-1.0, creator Versilian Studios (VCSL), musicmatter.art as curator only). Roles: perc 69, tonal 24, snare 23, tom 17, kick 16, fx 11, cymbal 10, hat 8, clap 4.
 - Each entry carries role, tags, title, license (+ URL), creator (+ link), source (origin + URL of the original file), audio, manifest, sha256, measures and `wave`. `measures.gain_db` is the family level-match playback gain from the manifest's `playback`, so a player can sit every sound at the same level without fetching the manifest. `wave` is the sound's outline for a mini waveform: 48 columns, one base-36 digit each (0 silent .. z the sound's peak).
