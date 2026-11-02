@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Snare drum, modern 2 · Snare3M Xstick v2",
+  "instrument": "Snare drum, modern 2",
+  "tags": [
+    "acoustic",
+    "drum",
+    "modern",
+    "snare",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Modern%202/Snare3M_Xstick_v2_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Modern 2/Snare3M_Xstick_v2_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "fad304d674fa84a73ec89235aa1b811c91edf155bed108315b68fbd69f652fce",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-2-snare3m-xstick-v2-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 54462
+  },
+  "sha256": "2f022a25c00020eb718c6394cae012bbd57707404f1d8f93fc6d76cdbb0a2de2",
+  "size_bytes": 120310,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.135,
+    "lufs": -41.8,
+    "peak_dbfs": -21.4,
+    "attack_ms": 4.0,
+    "decay_s": 0.152,
+    "centroid_hz": 1191,
+    "low_share": 0.089,
+    "pitch_hz": 216.7,
+    "hit_dbfs": -39.4
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 20.4,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Conga · Quinto HitN v3",
+  "instrument": "Conga",
+  "tags": [
+    "acoustic",
+    "conga",
+    "dark",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Conga/Quinto_HitN_v3_rr1_Sum.wav",
+    "path": "Membranophones/Struck Membranophones/Conga/Quinto_HitN_v3_rr1_Sum.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "07fe0922f97a57969a3cbb706126de2d09d23f42f6390a9a9adac027d7741c7e",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-conga-quinto-hitn-v3-rr1-sum.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 42992
+  },
+  "sha256": "c1af25b7fd7efbb024a48091afe24af0cd6aeb6b1a2c4e42f087bf06d11dc25c",
+  "size_bytes": 108806,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.896,
+    "lufs": -30.3,
+    "peak_dbfs": -13.4,
+    "attack_ms": 3.0,
+    "decay_s": 0.297,
+    "centroid_hz": 221,
+    "low_share": 0.128,
+    "pitch_hz": 216.7,
+    "hit_dbfs": -22.3
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 8.3,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "clap",
+  "title": "Hand claps · Clap",
+  "instrument": "Hand claps",
+  "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Claps/Clap_rr1.wav",
+    "path": "Idiophones/Struck Idiophones/Claps/Clap_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "4c9f3fe4a34733b9be6ed9ce5e5aad48b19c1029ae9c6dd1b96294a847539e3f",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-clap-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 35482
+  },
+  "sha256": "60da01ab26a46833e073cfb879baa0a1c58b2b44a36342f5c5797b42a9cb7a2b",
+  "size_bytes": 56169,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.739,
+    "lufs": -20.8,
+    "peak_dbfs": -0.4,
+    "attack_ms": 17.0,
+    "decay_s": 0.146,
+    "centroid_hz": 2623,
+    "low_share": 0.002,
+    "hit_dbfs": -18.1
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": -0.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

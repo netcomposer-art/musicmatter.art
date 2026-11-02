@@ -1,0 +1,70 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Rope-tension snare · RopeSnare low tsn Main vl4",
+  "instrument": "Rope-tension snare",
+  "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "rope",
+    "snare",
+    "tension"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Rope%20Tension/Low/RopeSnare_low_tsn_Main_vl4_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Rope Tension/Low/RopeSnare_low_tsn_Main_vl4_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "37a946158712df43f1e71d6a25e7a3037878e38ec0757411a66b5c769cf5c008",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-low-tsn-main-vl4-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 109038
+  },
+  "sha256": "b6867c307b9de5714958244b546e2378be5ded7c42a716c440da0b7ee14706db",
+  "size_bytes": 178166,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 2.272,
+    "lufs": -33.8,
+    "peak_dbfs": -9.0,
+    "attack_ms": 3.0,
+    "decay_s": 0.741,
+    "centroid_hz": 90,
+    "low_share": 0.911,
+    "pitch_hz": 60.0,
+    "hit_dbfs": -20.6
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 6.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

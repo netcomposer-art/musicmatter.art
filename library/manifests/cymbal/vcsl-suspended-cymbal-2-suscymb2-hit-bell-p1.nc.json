@@ -1,0 +1,67 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "cymbal",
+  "title": "Suspended cymbal 2 · susCymb2 hit bell p1",
+  "instrument": "Suspended cymbal 2",
+  "tags": [
+    "acoustic",
+    "cymbal",
+    "long",
+    "suspended"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Suspended%20Cymbal%202/susCymb2_hit_bell_p1.wav",
+    "path": "Idiophones/Struck Idiophones/Suspended Cymbal 2/susCymb2_hit_bell_p1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "f4fbcb8ed52d4fe1a93c21e21b98255fef4f1e1789468e9316b6eb93a7a102e4",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-suspended-cymbal-2-suscymb2-hit-bell-p1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 370109
+  },
+  "sha256": "0df4d788407a0649241b769da96b58438630be11e38ce08dc6042ae1d0d29046",
+  "size_bytes": 921119,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 7.711,
+    "lufs": -49.4,
+    "peak_dbfs": -16.6,
+    "attack_ms": 6.0,
+    "decay_s": 0.629,
+    "centroid_hz": 3648,
+    "low_share": 0.0,
+    "hit_dbfs": -38.7
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 15.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

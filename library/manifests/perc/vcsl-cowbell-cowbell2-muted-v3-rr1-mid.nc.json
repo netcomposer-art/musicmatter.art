@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Cowbell · Cowbell2 Muted v3",
+  "instrument": "Cowbell",
+  "tags": [
+    "acoustic",
+    "cowbell",
+    "perc",
+    "snappy",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Cowbells/Cowbell2_Muted_v3_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Cowbells/Cowbell2_Muted_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "88dec6b8c62b53ccfbb6f4a31a049fe9c1c8bb1316a650d77b2e240a13c9588b",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-cowbell-cowbell2-muted-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 30055
+  },
+  "sha256": "49d39735fe3baa7428552542e4d3b0bc4e39d40697c7afeaf44366f148ed2da7",
+  "size_bytes": 95161,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.626,
+    "lufs": -25.4,
+    "peak_dbfs": -5.8,
+    "attack_ms": 4.0,
+    "decay_s": 0.152,
+    "centroid_hz": 3543,
+    "low_share": 0.0,
+    "hit_dbfs": -25.4
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 4.8,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

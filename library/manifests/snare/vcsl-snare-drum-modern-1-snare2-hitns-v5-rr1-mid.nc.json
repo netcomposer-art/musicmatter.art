@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Snare drum, modern 1 · Snare2 HitNS v5",
+  "instrument": "Snare drum, modern 1",
+  "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "hard",
+    "modern",
+    "snare"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Modern%201/Snare2_HitNS_v5_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Modern 1/Snare2_HitNS_v5_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "422855e723dea59d316bd71346397833340a20c538c648c1b4369e9a3617b61b",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-snare-drum-modern-1-snare2-hitns-v5-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 38084
+  },
+  "sha256": "8cce93781c3c30b85a62a2abb0b718cfec4d7ef8cc5e3643220e31eb3cc90556",
+  "size_bytes": 95477,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.793,
+    "lufs": -22.2,
+    "peak_dbfs": -6.2,
+    "attack_ms": 8.0,
+    "decay_s": 0.204,
+    "centroid_hz": 224,
+    "low_share": 0.0,
+    "hit_dbfs": -14.2
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": -2.3,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

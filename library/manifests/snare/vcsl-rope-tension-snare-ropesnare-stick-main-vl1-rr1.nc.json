@@ -1,0 +1,70 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "snare",
+  "title": "Rope-tension snare · RopeSnare stick Main vl1",
+  "instrument": "Rope-tension snare",
+  "tags": [
+    "acoustic",
+    "dark",
+    "rope",
+    "snare",
+    "soft",
+    "tension"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Snare%20Drum,%20Rope%20Tension/RopeSnare_stick_Main_vl1_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Snare Drum, Rope Tension/RopeSnare_stick_Main_vl1_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "5a13cdfc2c72bf43595b439d23a6d43396564410a399310b9eb2e321a7b4d1ab",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/snare/vcsl-rope-tension-snare-ropesnare-stick-main-vl1-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 51710
+  },
+  "sha256": "7aba753ee5dedd9ee729a00f971b493c5721b45f079d9af81046d80c6d7cb00b",
+  "size_bytes": 66227,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.077,
+    "lufs": -48.5,
+    "peak_dbfs": -30.1,
+    "attack_ms": 2.0,
+    "decay_s": 0.276,
+    "centroid_hz": 363,
+    "low_share": 0.668,
+    "pitch_hz": 46.7,
+    "hit_dbfs": -48.0
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 29.1,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

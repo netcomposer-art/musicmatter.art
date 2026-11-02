@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Frame drum · HDrumL Hit v3",
+  "instrument": "Frame drum",
+  "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "frame",
+    "long",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_Hit_v3_rr1_Sum.wav",
+    "path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "e0fa5a60d459df12fa2e79080fc2db514e58a70a47d3300c5363d6ad113dfd0c",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-frame-drum-hdruml-hit-v3-rr1-sum.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 93498
+  },
+  "sha256": "7c6b81f7560c46b0895558794e9f45cfe97ead8a21b4de310bbb8b723d075e10",
+  "size_bytes": 220190,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.948,
+    "lufs": -30.8,
+    "peak_dbfs": -12.8,
+    "attack_ms": 7.0,
+    "decay_s": 0.551,
+    "centroid_hz": 113,
+    "low_share": 0.96,
+    "pitch_hz": 90.0,
+    "hit_dbfs": -22.6
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 8.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Ratchet · Ratchet1 Fast",
+  "instrument": "Ratchet",
+  "tags": [
+    "acoustic",
+    "bright",
+    "fx",
+    "long",
+    "ratchet"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Ratchet/Ratchet1_Fast_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Ratchet/Ratchet1_Fast_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "476561b6d3185dd91946faf28b4ff50364842919b5e1ebd63444c40543925de4",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-ratchet-ratchet1-fast-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 277792
+  },
+  "sha256": "48f5833364fbb06bdfab01ac582770dcfe14d1ef5ddce0fa90b531b15fe905dc",
+  "size_bytes": 1253921,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 5.787,
+    "lufs": -26.9,
+    "peak_dbfs": -16.7,
+    "attack_ms": 285.0,
+    "decay_s": 3.932,
+    "centroid_hz": 7259,
+    "low_share": 0.0,
+    "hit_dbfs": -33.7
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 15.7,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "cymbal",
+  "title": "Clash cymbals 2 · cymbal crash2 fff1",
+  "instrument": "Clash cymbals 2",
+  "tags": [
+    "acoustic",
+    "bright",
+    "clash",
+    "cymbal",
+    "cymbals",
+    "long"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Clash%20Cymbals%202/cymbal_crash2_fff1.wav",
+    "path": "Idiophones/Struck Idiophones/Clash Cymbals 2/cymbal_crash2_fff1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "54e030aaee7201d6b6e42f74ba6a7a699b24c3075869d28baa097332f1b4e0ba",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/cymbal/vcsl-clash-cymbals-2-cymbal-crash2-fff1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 309177
+  },
+  "sha256": "8e50d35d3ac0af15cd3b2d8d44b8966e4f72424f8e55fb0b065eb8584d4d4754",
+  "size_bytes": 974367,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 6.441,
+    "lufs": -14.7,
+    "peak_dbfs": -0.1,
+    "attack_ms": 21.0,
+    "decay_s": 1.237,
+    "centroid_hz": 4691,
+    "low_share": 0.024,
+    "hit_dbfs": -11.5
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": -2.5,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

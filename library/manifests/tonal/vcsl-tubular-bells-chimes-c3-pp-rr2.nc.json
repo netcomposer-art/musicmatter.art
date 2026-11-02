@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Tubular bells · chimes C3 pp",
+  "instrument": "Tubular bells",
+  "tags": [
+    "acoustic",
+    "bells",
+    "long",
+    "soft",
+    "tonal",
+    "tubular"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Tubular%20Bells%201/chimes_C3_pp_rr2.wav",
+    "path": "Idiophones/Struck Idiophones/Tubular Bells 1/chimes_C3_pp_rr2.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "40893f4dcccf3fa5f69b59c2b2eccfddfad4cea19bdf4909a7b2c4db0785e747",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-tubular-bells-chimes-c3-pp-rr2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 520376
+  },
+  "sha256": "8a13e5ec0ff42c20067675e23c4bec16bc36ae5243a4c385ec72ab38033f3b70",
+  "size_bytes": 1573848,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 10.841,
+    "lufs": -34.9,
+    "peak_dbfs": -20.6,
+    "attack_ms": 6.0,
+    "decay_s": 6.365,
+    "centroid_hz": 1226,
+    "low_share": 0.014,
+    "note": "C3",
+    "hit_dbfs": -32.5
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 6.4,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Darbuka · Darbuka 4 hit vl2",
+  "instrument": "Darbuka",
+  "tags": [
+    "acoustic",
+    "darbuka",
+    "dark",
+    "perc"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Darbuka/Darbuka_4_hit_vl2_rr1.wav",
+    "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_4_hit_vl2_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "6d6c6cb0898490532dadba6ec4a7f2440f8de6c94192f77af53a86878f0c562c",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-darbuka-darbuka-4-hit-vl2-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 35088
+  },
+  "sha256": "c96b71a2574cde6050990184744200fe246c34d76cc9e8c6b68255842b010f7d",
+  "size_bytes": 96676,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.731,
+    "lufs": -35.1,
+    "peak_dbfs": -13.6,
+    "attack_ms": 16.0,
+    "decay_s": 0.28,
+    "centroid_hz": 276,
+    "low_share": 0.82,
+    "pitch_hz": 143.3,
+    "hit_dbfs": -28.1
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 12.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

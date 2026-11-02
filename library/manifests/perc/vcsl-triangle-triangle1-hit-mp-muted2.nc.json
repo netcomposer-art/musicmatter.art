@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Triangle · triangle1 hit mp muted2",
+  "instrument": "Triangle",
+  "tags": [
+    "acoustic",
+    "bright",
+    "long",
+    "perc",
+    "soft",
+    "triangle"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Triangles/Legacy/1/triangle1_hit_mp_muted2.wav",
+    "path": "Idiophones/Struck Idiophones/Triangles/Legacy/1/triangle1_hit_mp_muted2.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "19fcc0a6db82c4c601356ba08111d9394d0768aed2acf310ea6ca092a9811be2",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-triangle-triangle1-hit-mp-muted2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 112641
+  },
+  "sha256": "dd71d08db45478d0b6d410d7d2e22e7fe09b4c1bcece4d7dd53a852247887e9e",
+  "size_bytes": 319714,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 2.347,
+    "lufs": -37.4,
+    "peak_dbfs": -30.0,
+    "attack_ms": 8.0,
+    "decay_s": 0.984,
+    "centroid_hz": 7745,
+    "low_share": 0.0,
+    "hit_dbfs": -40.9
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 26.9,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

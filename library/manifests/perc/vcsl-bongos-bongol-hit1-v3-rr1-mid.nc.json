@@ -1,0 +1,67 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Bongos · BongoL Hit1 v3",
+  "instrument": "Bongos",
+  "tags": [
+    "acoustic",
+    "bongos",
+    "dark",
+    "perc",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bongos/BongoL_Hit1_v3_rr1_Mid.wav",
+    "path": "Membranophones/Struck Membranophones/Bongos/BongoL_Hit1_v3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "07986a1bc54b31dafd9c7dc250e42a613977b320b33b2e4652d21332064de4eb",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-bongos-bongol-hit1-v3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 37811
+  },
+  "sha256": "32f277ab0e6e4ce17a0b97608bb6c31cea639e79edd886b047d34354098f5634",
+  "size_bytes": 93697,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.788,
+    "lufs": -29.3,
+    "peak_dbfs": -10.4,
+    "attack_ms": 7.0,
+    "decay_s": 0.169,
+    "centroid_hz": 376,
+    "low_share": 0.0,
+    "hit_dbfs": -21.9
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 7.9,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

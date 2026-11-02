@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Slapstick · slapstick quiet",
+  "instrument": "Slapstick",
+  "tags": [
+    "acoustic",
+    "perc",
+    "short",
+    "slapstick",
+    "soft",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Slapstick/slapstick_quiet_rr1.wav",
+    "path": "Idiophones/Struck Idiophones/Slapstick/slapstick_quiet_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "e183168c1b9085ba2ab922e9e93eecbfc8f37a43803634827f37826cbe773325",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-slapstick-slapstick-quiet-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 9737
+  },
+  "sha256": "e7bfd0c9c0b9406a0d6fa24e5549b260d620c40edb0e27b9f57b9eb209329360",
+  "size_bytes": 29781,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.203,
+    "lufs": -42.0,
+    "peak_dbfs": -18.0,
+    "attack_ms": 6.0,
+    "decay_s": 0.124,
+    "centroid_hz": 3202,
+    "low_share": 0.002,
+    "hit_dbfs": -44.9
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 9.4,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

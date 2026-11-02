@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Bell tree · BellTree Hit C5",
+  "instrument": "Bell tree",
+  "tags": [
+    "acoustic",
+    "bell",
+    "bright",
+    "fx",
+    "long",
+    "tree"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Bell%20Tree/Individual/BellTree_Hit_C5_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Bell Tree/Individual/BellTree_Hit_C5_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "d5cbf5465a4734d72bcc69cabfd56753227f3b54c977a0ffb9ac6fcbacafe422",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-bell-tree-belltree-hit-c5-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 233044
+  },
+  "sha256": "989a181d97b22fbc9c1f4119272c866dee7e968768cb7f535b02e6f26586fc54",
+  "size_bytes": 472246,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 4.855,
+    "lufs": -56.4,
+    "peak_dbfs": -38.7,
+    "attack_ms": 3.0,
+    "decay_s": 1.153,
+    "centroid_hz": 6071,
+    "low_share": 0.001,
+    "hit_dbfs": -53.6
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 37.7,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

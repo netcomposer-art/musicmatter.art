@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Sleigh bells · sleighbell1 shake1",
+  "instrument": "Sleigh bells",
+  "tags": [
+    "acoustic",
+    "bells",
+    "bright",
+    "fx",
+    "long",
+    "sleigh"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Sleigh%20Bells/sleighbell1_shake1.wav",
+    "path": "Idiophones/Struck Idiophones/Sleigh Bells/sleighbell1_shake1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "25aa6a5aa83b31835f4d6066d5cd0e5c06c7c3144d9b39ffa7854cb148a20786",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-sleigh-bells-sleighbell1-shake1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 252162
+  },
+  "sha256": "2d356056fdbdc433317c927a9960e7e545ee2801726be247ef8a4ccaf7e661df",
+  "size_bytes": 975552,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 5.253,
+    "lufs": -36.9,
+    "peak_dbfs": -25.0,
+    "attack_ms": 1678.0,
+    "decay_s": 1.601,
+    "centroid_hz": 7065,
+    "low_share": 0.0,
+    "hit_dbfs": -40.4
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 24.0,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

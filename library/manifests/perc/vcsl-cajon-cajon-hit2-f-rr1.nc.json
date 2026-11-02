@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Cajon · Cajon hit2 f",
+  "instrument": "Cajon",
+  "tags": [
+    "acoustic",
+    "cajon",
+    "dark",
+    "hard",
+    "perc",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_f_rr1.wav",
+    "path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "ad85e345189439370fb54676813affba0e46f5d9f502aa63e995a2ea7a831960",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-cajon-cajon-hit2-f-rr1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 30074
+  },
+  "sha256": "703dbf9faa836a27e8e0caaef05f3c493ce951b12f527d3c93243cc6899e735d",
+  "size_bytes": 91189,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.627,
+    "lufs": -19.5,
+    "peak_dbfs": -2.2,
+    "attack_ms": 10.0,
+    "decay_s": 0.116,
+    "centroid_hz": 180,
+    "low_share": 0.976,
+    "pitch_hz": 80.0,
+    "hit_dbfs": -11.8
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": -2.2,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "perc",
+  "title": "Slit drum · LogDrumLo MedM v3",
+  "instrument": "Slit drum",
+  "tags": [
+    "acoustic",
+    "dark",
+    "drum",
+    "perc",
+    "slit"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Slit%20Drum/LogDrumLo_MedM_v3_rr1_Sum.wav",
+    "path": "Idiophones/Struck Idiophones/Slit Drum/LogDrumLo_MedM_v3_rr1_Sum.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "1428c9b05398c3b08aac4c36c5c5f57c52bca3c89627d693f3ecc00759c43fea",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/perc/vcsl-slit-drum-logdrumlo-medm-v3-rr1-sum.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 35955
+  },
+  "sha256": "3552ca9ba115644ba8bc8f08106bde0f3ef04422369cf98c2c14fafb360c41a5",
+  "size_bytes": 83661,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.749,
+    "lufs": -35.6,
+    "peak_dbfs": -17.1,
+    "attack_ms": 4.0,
+    "decay_s": 0.269,
+    "centroid_hz": 159,
+    "low_share": 0.765,
+    "pitch_hz": 106.7,
+    "hit_dbfs": -26.2
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 12.2,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

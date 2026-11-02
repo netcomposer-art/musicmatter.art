@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Kalimba · MBira3 pluck Main G2 k15 50 100",
+  "instrument": "Kalimba",
+  "tags": [
+    "acoustic",
+    "dark",
+    "kalimba",
+    "long",
+    "tonal"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Plucked%20Idiophones/Kalimba,%20Tanzania/MBira3_pluck_Main_G2_k15_50_100_rr2.wav",
+    "path": "Idiophones/Plucked Idiophones/Kalimba, Tanzania/MBira3_pluck_Main_G2_k15_50_100_rr2.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "eb0b02df1951277ccccefdfdf7689e360c4303cbbdafce9880ddc7d1d7735c4e",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-kalimba-mbira3-pluck-main-g2-k15-50-100-rr2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 182777
+  },
+  "sha256": "058c97c9c7915482842223623f4cc0e990887bbe9ba9961e424f7e02b3ddae9f",
+  "size_bytes": 495768,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.808,
+    "lufs": -26.3,
+    "peak_dbfs": -2.0,
+    "attack_ms": 4.0,
+    "decay_s": 1.029,
+    "centroid_hz": 232,
+    "low_share": 0.0,
+    "note": "G2",
+    "hit_dbfs": -13.3
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": -0.7,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

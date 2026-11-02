@@ -1,0 +1,134 @@
+{
+ "vcsl-hand-claps-soloclap-vl1": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Claps/SoloClap_vl1.wav",
+   "path": "Idiophones/Struck Idiophones/Claps/SoloClap_vl1.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "2a16d804adcb2fa3ed20a12579ca30aa3628a9b876a87476a9259a419cd3fd12",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Hand claps \u00b7 SoloClap vl1"
+ },
+ "vcsl-frame-drum-hdrums-hand-v1-rr1-sum": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+   "path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "5d8d963ee3487725097c82cb0f4f485ade3423e75541cedc32de2ed6ec6f61ce",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Frame drum \u00b7 HDrumS Hand v1"
+ },
+ "vcsl-shaker-small-mid-shaker-slap-rr1": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Shaker,%20Small/Mid_Shaker_Slap_rr1.wav",
+   "path": "Idiophones/Struck Idiophones/Shaker, Small/Mid_Shaker_Slap_rr1.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "793c21eb3afdcd68535b3b1df45a097625fc02f26fb7bc86f1dc5b1e5b28e8db",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Shaker, small \u00b7 Mid Shaker Slap"
+ },
+ "vcsl-shaker-small-mid-shakerdouble-down-rr1": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Shaker,%20Small/Mid_ShakerDouble_Down_rr1.wav",
+   "path": "Idiophones/Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Down_rr1.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "0df7c271e1dba4de7304f7df81886390dd9ae698bfdd6df570026af4f2223574",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Shaker, small \u00b7 Mid ShakerDouble Down"
+ },
+ "vcsl-shaker-small-mid-shakerdouble-up-rr1": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Shaker,%20Small/Mid_ShakerDouble_Up_rr1.wav",
+   "path": "Idiophones/Struck Idiophones/Shaker, Small/Mid_ShakerDouble_Up_rr1.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "69a10776db0b838bc6555be2dbdb41e1521bb28bba2e89963d1bf779bfb5b61f",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Shaker, small \u00b7 Mid ShakerDouble Up"
+ },
+ "vcsl-shaker-small-mid-shakerhighfaster-down-rr1": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Shaker,%20Small/Mid_ShakerHighFaster_Down_rr1.wav",
+   "path": "Idiophones/Struck Idiophones/Shaker, Small/Mid_ShakerHighFaster_Down_rr1.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "cf4cb388ffcff5a042149e0645123b089ae85e8342876421e817dce55ce66a5a",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Shaker, small \u00b7 Mid ShakerHighFaster Down"
+ },
+ "vcsl-toy-train-whistle-main-trainmed-short-001": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Aerophones/Edge-blown%20Aerophones/Train%20Whistle,%20Toy/Main_TrainMed_Short-001.wav",
+   "path": "Aerophones/Edge-blown Aerophones/Train Whistle, Toy/Main_TrainMed_Short-001.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "221d2ce7d147de65f1e1c6881887b4bebe8f2c94d5270cf4b36af2eeff341be5",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Toy train whistle \u00b7 Main TrainMed Short 001"
+ },
+ "vcsl-toy-train-whistle-main-trainlow-med-001": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Aerophones/Edge-blown%20Aerophones/Train%20Whistle,%20Toy/Main_TrainLow_Med-001.wav",
+   "path": "Aerophones/Edge-blown Aerophones/Train Whistle, Toy/Main_TrainLow_Med-001.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "945a74c20709a678a978368ee53fff7da48882ca699d3fcd8b3cbab47ef07d38",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Toy train whistle \u00b7 Main TrainLow Med 001"
+ },
+ "vcsl-siren-main-sirenwhistle-002": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Aerophones/Free%20Aerophones/Siren/Main_SirenWhistle-002.wav",
+   "path": "Aerophones/Free Aerophones/Siren/Main_SirenWhistle-002.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "884e9acc5e06fd2926f336af86e1c95b3adb0a1fadae5b553d3f1e2f3e6fc98b",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Siren \u00b7 Main SirenWhistle 002"
+ },
+ "vcsl-siren-main-sirenwhistle-005": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Aerophones/Free%20Aerophones/Siren/Main_SirenWhistle-005.wav",
+   "path": "Aerophones/Free Aerophones/Siren/Main_SirenWhistle-005.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "af2b14be1fb293c848a8945a7d9bc2470c66437203716ebd236b6591383330b6",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "Siren \u00b7 Main SirenWhistle 005"
+ },
+ "vcsl-fm-piano-yamaha-tx81z-fmpiano-c3-vl3": {
+  "source": {
+   "origin": "vcsl",
+   "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Electrophones/TX81Z/FM%20Piano/FMPiano_C3_vl3.wav",
+   "path": "Electrophones/TX81Z/FM Piano/FMPiano_C3_vl3.wav",
+   "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+   "sha256": "4e7a7d75bf01af25bcd8b321853e61f159c14432360705b319154d7010ffb1fc",
+   "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "at": "2026-11-02T14:03:00Z",
+  "title": "FM piano (Yamaha TX81Z) \u00b7 FMPiano C3 vl3"
+ }
+}

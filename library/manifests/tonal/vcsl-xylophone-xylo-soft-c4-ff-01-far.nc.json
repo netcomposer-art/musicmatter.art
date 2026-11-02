@@ -1,0 +1,70 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Xylophone · Xylo Soft C4 ff 01 far",
+  "instrument": "Xylophone",
+  "tags": [
+    "acoustic",
+    "dark",
+    "hard",
+    "long",
+    "soft",
+    "tonal",
+    "xylophone"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Xylophone/Soft%20Mallets/Xylo_Soft_C4_ff_01_far.wav",
+    "path": "Idiophones/Struck Idiophones/Xylophone/Soft Mallets/Xylo_Soft_C4_ff_01_far.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "aa21ba85514fe571f2009655dd6ab73ba410ae77fb44cd23f01d4053df801bcf",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c4-ff-01-far.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 102158
+  },
+  "sha256": "7637ca72330baf8714dce474b25454cf2b2f9a7a7772360314564df7e703d281",
+  "size_bytes": 173110,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 2.128,
+    "lufs": -24.6,
+    "peak_dbfs": -12.6,
+    "attack_ms": 18.0,
+    "decay_s": 1.195,
+    "centroid_hz": 537,
+    "low_share": 0.0,
+    "note": "C4",
+    "hit_dbfs": -19.3
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 5.3,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

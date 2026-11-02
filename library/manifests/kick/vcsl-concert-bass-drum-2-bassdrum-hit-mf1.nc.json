@@ -1,0 +1,73 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "kick",
+  "title": "Concert bass drum 2 · bassdrum hit mf1",
+  "instrument": "Concert bass drum 2",
+  "tags": [
+    "acoustic",
+    "bass",
+    "boomy",
+    "concert",
+    "dark",
+    "deep",
+    "drum",
+    "kick",
+    "long",
+    "orchestral"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Membranophones/Struck%20Membranophones/Bass%20Drum%202/bassdrum_hit_mf1.wav",
+    "path": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_mf1.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "9cfa91a11fad6c843e001ad6365949200e2d5b4237cf1193a1493310f0f6c3c1",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/kick/vcsl-concert-bass-drum-2-bassdrum-hit-mf1.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 423016
+  },
+  "sha256": "31e89c1fb01e15ca3277c761e545d43ce1a27865cfc5c386a2e7fc8e833da652",
+  "size_bytes": 987147,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 8.813,
+    "lufs": -33.3,
+    "peak_dbfs": -11.8,
+    "attack_ms": 9.0,
+    "decay_s": 2.494,
+    "centroid_hz": 50,
+    "low_share": 0.981,
+    "pitch_hz": 43.3,
+    "hit_dbfs": -19.0
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 5.0,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

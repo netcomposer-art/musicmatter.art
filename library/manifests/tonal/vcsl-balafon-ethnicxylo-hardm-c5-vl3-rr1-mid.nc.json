@@ -1,0 +1,66 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Balafon · EthnicXylo hardM C5 vl3",
+  "instrument": "Balafon",
+  "tags": [
+    "acoustic",
+    "balafon",
+    "tonal"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Balafon/Hard%20Mallet/EthnicXylo_hardM_C5_vl3_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Balafon/Hard Mallet/EthnicXylo_hardM_C5_vl3_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "1c131ff9f0233ebe1608e7df074aecc691ec81daad7f31e1a94620d76cb01b11",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-balafon-ethnicxylo-hardm-c5-vl3-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 29297
+  },
+  "sha256": "565ac7ecc78549b450a736e515b54efe2d76e6b337704c8cac4ce1badeb91920",
+  "size_bytes": 81833,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.61,
+    "lufs": -27.9,
+    "peak_dbfs": -11.6,
+    "attack_ms": 5.0,
+    "decay_s": 0.208,
+    "centroid_hz": 1090,
+    "low_share": 0.0,
+    "note": "C5",
+    "hit_dbfs": -21.7
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 7.7,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "tonal",
+  "title": "Xylophone · Xylo Soft C5 ff 01 far",
+  "instrument": "Xylophone",
+  "tags": [
+    "acoustic",
+    "hard",
+    "soft",
+    "tonal",
+    "xylophone"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Xylophone/Soft%20Mallets/Xylo_Soft_C5_ff_01_far.wav",
+    "path": "Idiophones/Struck Idiophones/Xylophone/Soft Mallets/Xylo_Soft_C5_ff_01_far.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "8e3b9180acf87424a9f62dddfd736a6d06c34eb422dcbc75ad8d2b731b5b3db5",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/tonal/vcsl-xylophone-xylo-soft-c5-ff-01-far.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 53918
+  },
+  "sha256": "1eae891fd77834eb605e81706d694357555560a7e1ebc7388aef70c416be2e75",
+  "size_bytes": 89629,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 1.123,
+    "lufs": -27.4,
+    "peak_dbfs": -12.5,
+    "attack_ms": 2.0,
+    "decay_s": 0.627,
+    "centroid_hz": 1067,
+    "low_share": 0.0,
+    "note": "C5",
+    "hit_dbfs": -21.6
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 7.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

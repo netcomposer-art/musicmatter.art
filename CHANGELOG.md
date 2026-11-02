@@ -1,5 +1,12 @@
 # musicmatter.art changelog
 
+## Library v1: curated shelf (2026-11-02)
+- **`/library/library.json`** is new (https://musicmatter.art/library/library.json): the curated commons NYX's Library searches. It lists the 182 one-shots Peter approved from the 193-sound VCSL seed (all CC0-1.0, creator Versilian Studios (VCSL), musicmatter.art as curator only). Roles: perc 69, tonal 24, snare 23, tom 17, kick 16, fx 11, cymbal 10, hat 8, clap 4.
+- Each entry carries role, tags, title, license (+ URL), creator (+ link), source (origin + URL of the original file), audio, manifest, sha256, measures and `wave`. `measures.gain_db` is the family level-match playback gain from the manifest's `playback`, so a player can sit every sound at the same level without fetching the manifest. `wave` is the sound's outline for a mini waveform: 48 columns, one base-36 digit each (0 silent .. z the sound's peak).
+- Petrus's originals stay in `netcomposer.json`, unchanged; the two shelves never mix.
+- The 11 rejected sounds' audio and manifests are removed and recorded in `library/rejected.json` (source, title, date) so they are never harvested again. `library/review.json` now has no pending candidates.
+- Approved manifests gain `curation: {status: approved, by: Peter, at: 2026-11-02}`. No audio changed.
+
 ## Homepage instruments (2026-10-19)
 - The home page lists full-chord instruments only, read from `netcomposer.json`: Piano (full chord set v4, 2,256), Synth Arp (2,256), Choir (2,071) and Fat Synth (2,256). A later instrument shows up when its offerings carry `instrument` (and root, quality, chord, voicing). Players are created only when a chord-quality section is opened.
 - Search is one box (forgiving: `Cmaj7`, `c maj7`, `F#m7b5`, `f sharp minor`, `sus2`, `choir`, `fat synth`, `arp Bb`) and can be limited to one instrument. Results play inline.

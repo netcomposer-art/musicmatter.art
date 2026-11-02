@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "clap",
+  "title": "Hand claps · SoloClap vl2",
+  "instrument": "Hand claps",
+  "tags": [
+    "acoustic",
+    "clap",
+    "claps",
+    "hand",
+    "short",
+    "tight"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Claps/SoloClap_vl2.wav",
+    "path": "Idiophones/Struck Idiophones/Claps/SoloClap_vl2.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "f8afd95a16e8846f1c0c831c15482af65765107cab267fa262a218a10b0297db",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/clap/vcsl-hand-claps-soloclap-vl2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 9889
+  },
+  "sha256": "e5ac6e3fd0110b7b92561ea996a2d3b9b496abafc4442d2b52f72c3f2f916048",
+  "size_bytes": 17824,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 0.206,
+    "lufs": -29.9,
+    "peak_dbfs": -8.8,
+    "attack_ms": 3.0,
+    "decay_s": 0.045,
+    "centroid_hz": 2140,
+    "low_share": 0.03,
+    "hit_dbfs": -28.8
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 7.6,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS"
+  }
+}

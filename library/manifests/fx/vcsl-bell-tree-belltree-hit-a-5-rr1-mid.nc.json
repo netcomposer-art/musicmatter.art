@@ -1,0 +1,69 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Bell tree · BellTree Hit A#5",
+  "instrument": "Bell tree",
+  "tags": [
+    "acoustic",
+    "bell",
+    "bright",
+    "fx",
+    "long",
+    "tree"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Bell%20Tree/Individual/BellTree_Hit_A#5_rr1_Mid.wav",
+    "path": "Idiophones/Struck Idiophones/Bell Tree/Individual/BellTree_Hit_A#5_rr1_Mid.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "896029d4ae2a33fa212c2fdf16545a501ff1b1225775a76064eec160fe16824a",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-bell-tree-belltree-hit-a-5-rr1-mid.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 157635
+  },
+  "sha256": "1c8b7fbe17a10ca8013b4e0416893eb446c6d4faccf186b664372fcefa5e0e44",
+  "size_bytes": 349317,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.284,
+    "lufs": -54.2,
+    "peak_dbfs": -36.9,
+    "attack_ms": 2.0,
+    "decay_s": 1.241,
+    "centroid_hz": 5450,
+    "low_share": 0.0,
+    "hit_dbfs": -53.2
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 35.9,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "nc_version": "0.2",
+  "kind": "one-shot",
+  "role": "fx",
+  "title": "Flexatone · flexatone2",
+  "instrument": "Flexatone",
+  "tags": [
+    "acoustic",
+    "bright",
+    "flexatone",
+    "fx",
+    "long"
+  ],
+  "creator": {
+    "name": "Versilian Studios (VCSL)",
+    "link": "https://github.com/sgossner/VCSL"
+  },
+  "curator": {
+    "name": "musicmatter.art",
+    "link": "https://musicmatter.art/"
+  },
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": {
+    "origin": "vcsl",
+    "url": "https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Flexatone/flexatone2.wav",
+    "path": "Idiophones/Struck Idiophones/Flexatone/flexatone2.wav",
+    "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+    "sha256": "eaafe38ba50df33dc0fadd9fd93127addd5a3f17868d62fc1a24ab06be57bca2",
+    "license_read_at": "2026-10-31T18:15:42Z"
+  },
+  "audio": "https://musicmatter.art/library/audio/fx/vcsl-flexatone-flexatone2.flac",
+  "format": {
+    "mime": "audio/flac",
+    "lossless": true,
+    "sample_rate": 48000,
+    "bit_depth": 24,
+    "channels": 2,
+    "frames": 169219
+  },
+  "sha256": "7b952ed8d24a3be141ba12f1e3f06cc3bc26d6baefe0e6bf37734d3e7e169056",
+  "size_bytes": 600886,
+  "processing": [
+    "resample to 48 kHz (soxr)",
+    "trim silence: 2 ms before onset, tail below -60 dB",
+    "10 ms fade out"
+  ],
+  "measures": {
+    "length_s": 3.525,
+    "lufs": -40.2,
+    "peak_dbfs": -24.0,
+    "attack_ms": 969.0,
+    "decay_s": 2.273,
+    "centroid_hz": 7624,
+    "low_share": 0.0,
+    "hit_dbfs": -43.8
+  },
+  "curation": {
+    "status": "approved",
+    "by": "Peter",
+    "at": "2026-11-02"
+  },
+  "playback": {
+    "gain_db": 23.0,
+    "method": "family level match: loudest 50 ms RMS of the family's loudest sound to -14 dBFS; peak kept under -1 dBFS",
+    "limited_by_peak": true
+  }
+}
