@@ -19,27 +19,16 @@ import argparse
 import json
 import re
 import subprocess
+import sys
 from collections import defaultdict
 from pathlib import Path
 
-import numpy as np
-import soundfile as sf
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from measures import CEILING_DB, hit_db, playback_gain, playback_method  # noqa: E402
 
 SITE = Path(__file__).resolve().parents[2]
 LIB = SITE / "library"
-CEILING_DB = -1.0
 
-
-def hit_db(path: Path) -> tuple[float, float]:
-    """(loudest 50 ms RMS in dBFS, sample peak in dBFS)."""
-    data, sr = sf.read(str(path), dtype="float64", always_2d=True)
-    mono = data.mean(axis=1)
-    win = max(1, int(0.05 * sr))
-    sq = np.concatenate([np.zeros(win), mono**2])
-    csum = np.cumsum(sq)
-    rms = np.sqrt(np.maximum((csum[win:] - csum[:-win]) / win, 1e-20))
-    peak = float(np.abs(data).max())
-    return 20 * np.log10(max(float(rms.max()), 1e-10)), 20 * np.log10(max(peak, 1e-10))
 
 
 DYNAMICS = re.compile(r"(?:^|[_\- ])(v\d|vl\d|ppp|pp|p|mp|mf|f|ff|fff|loud|soft|med|quiet)(?=[_\- ]|$)", re.I)
@@ -73,16 +62,12 @@ def main() -> None:
         families[family_key(row[1])].append(row)
     for fam in families.values():
         loudest = max(r[4] for r in fam)
-        family_gain = args.target - loudest
         for cand, manifest, man_path, audio_path, h, p in fam:
-            gain = min(family_gain, CEILING_DB - p)
-            limited = gain < family_gain - 0.05
-            gain = round(gain, 1)
+            gain, limited = playback_gain(loudest, p, args.target)
             manifest["measures"]["hit_dbfs"] = round(h, 1)
             manifest["playback"] = {
                 "gain_db": gain,
-                "method": "family level match: loudest 50 ms RMS of the family's loudest sound to "
-                          f"{args.target:g} dBFS; peak kept under {CEILING_DB:g} dBFS",
+                "method": playback_method(args.target),
                 **({"limited_by_peak": True} if limited else {}),
             }
             man_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")

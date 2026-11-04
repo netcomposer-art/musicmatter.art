@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Library Review</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f5f5;--card:#fcfcfc;--ink:#242424;--sub:#595959;--div:#dddddd;--acc:#003153;--acc-tint:rgba(0,49,83,.08);--ok:#1f5f8b;--no:#a23b2a;--chip:#ececec}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#161616;--card:#1e1e1e;--ink:#e8e8e8;--sub:#a3a3a3;--div:#333;--acc:#7fb3d9;--acc-tint:rgba(127,179,217,.12);--ok:#7fb3d9;--no:#e48a7a;--chip:#2a2a2a}}
+:root[data-theme="dark"]{--bg:#161616;--card:#1e1e1e;--ink:#e8e8e8;--sub:#a3a3a3;--div:#333;--acc:#7fb3d9;--acc-tint:rgba(127,179,217,.12);--ok:#7fb3d9;--no:#e48a7a;--chip:#2a2a2a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 Inter,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:2;background:var(--card);border-bottom:1px solid var(--div);padding:14px 16px 10px}
+h1{margin:0;font-weight:400;font-size:20px;letter-spacing:-.01em}
+h1 b{color:#feaa02;font-weight:500;letter-spacing:.12em;font-family:'IBM Plex Mono',monospace;font-size:15px;margin-right:8px}
+.sub{color:var(--sub);font-size:12.5px;margin-top:2px}
+.bar{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin-top:10px}
+.tabs{display:flex;flex-wrap:wrap;gap:2px}
+.tab{border:0;background:none;padding:6px 8px;font:inherit;font-size:13px;color:var(--sub);border-bottom:2px solid transparent;cursor:pointer}
+.tab[aria-selected="true"]{color:var(--ink);border-color:var(--acc)}
+.tab small{font-family:'IBM Plex Mono',monospace;font-size:11px;margin-left:3px}
+.filter{display:flex;gap:2px}
+.bulk{min-height:32px}.bulk[data-confirm="true"]{background:var(--ok);border-color:var(--ok);color:#fff}.bulk[hidden]{display:none}
+.prog{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--sub);margin-left:auto}
+main{max-width:960px;margin:0 auto;padding:12px 16px 80px}
+.row{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;background:var(--card);border:1px solid var(--div);border-radius:2px;padding:10px 12px;margin-bottom:6px}
+.row:nth-child(even){background:color-mix(in srgb,var(--card) 92%,var(--sub))}
+.row[data-focus="true"]{outline:2px solid var(--acc);outline-offset:-1px}
+.row[data-status="approved"]{box-shadow:inset 4px 0 0 var(--ok)}
+.row[data-status="rejected"]{box-shadow:inset 4px 0 0 var(--no);opacity:.62}
+.play{width:44px;height:44px;border:1px solid var(--div);border-radius:2px;background:none;color:var(--ink);cursor:pointer;display:grid;place-items:center}
+.play[data-on="true"]{background:var(--acc);color:#fff;border-color:var(--acc)}
+.title{font-weight:500}
+.meta{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--sub);margin-top:2px}
+.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;align-items:center}
+.tag{background:var(--chip);border:0;border-radius:2px;padding:2px 6px;font:inherit;font-size:12px;color:var(--ink);cursor:pointer}
+.tag:hover{text-decoration:line-through}
+.addtag{width:90px;border:0;border-bottom:1px solid var(--div);background:none;color:var(--ink);font:inherit;font-size:12px;padding:2px}
+.side{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
+.btns{display:flex;gap:6px}
+.btn{min-height:36px;padding:0 12px;border:1px solid var(--div);background:none;color:var(--ink);font:inherit;font-size:12px;letter-spacing:.08em;text-transform:uppercase;border-radius:2px;cursor:pointer}
+.btn.ok[aria-pressed="true"]{background:var(--ok);border-color:var(--ok);color:#fff}
+.btn.no[aria-pressed="true"]{background:var(--no);border-color:var(--no);color:#fff}
+select{font:inherit;font-size:12px;background:none;color:var(--ink);border:0;border-bottom:1px solid var(--div);padding:2px}
+.note{padding:10px 12px;border:1px dashed var(--div);color:var(--sub);margin:10px 0;font-size:13px}
+.keys{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--sub)}
+.credit{font-size:12px;color:var(--sub);margin-top:2px}
+.credit a{color:var(--sub)}
+.badge{font-family:'IBM Plex Mono',monospace;font-size:10.5px;border:1px solid var(--div);border-radius:2px;padding:0 4px;margin-left:4px;letter-spacing:.04em}
+.flag{font-size:12px;color:var(--no);margin-top:2px}
+@media (max-width:640px){.row{grid-template-columns:44px 1fr}.side{grid-column:1/-1;flex-direction:row;justify-content:space-between;align-items:center}.prog{margin-left:0}}
+</style>
+</head>
+<body>
+<header>
+  <h1><b>NYX</b>Library review</h1>
+  <div class="sub">__SUBTITLE__</div>
+  <div class="bar">
+    <div class="tabs" id="tabs" role="tablist" aria-label="Role"></div>
+    <div class="filter" role="tablist" aria-label="Status">
+      <button class="tab" data-f="pending" aria-selected="true">To review</button>
+      <button class="tab" data-f="approved" aria-selected="false">Approved</button>
+      <button class="tab" data-f="rejected" aria-selected="false">Rejected</button>
+      <button class="tab" data-f="all" aria-selected="false">All</button>
+    </div>
+    <span class="prog" id="prog"></span>
+    <button class="btn ok bulk" id="bulk" hidden></button>
+  </div>
+  <div class="keys">Space play · A approve · R reject · Approve all approves what's left in the tab · ↓/J next · ↑/K previous · tap a tag to remove it</div>
+</header>
+<main>
+  <div class="note" id="status" hidden></div>
+  <div id="list"></div>
+</main>
+<script>
+const CANDS = __CANDIDATES__;
+const ROLES = ['all','kick','snare','clap','hat','tom','perc','cymbal','fx','tonal'];
+const ROLE_NAMES = {all:'All',kick:'Kick',snare:'Snare',clap:'Clap',hat:'Hat',tom:'Tom',perc:'Perc',cymbal:'Cymbal',fx:'FX',tonal:'Tonal'};
+const decisions = {}; // id -> {status, role, tags, note}
+let role = 'all', filter = 'pending', focus = 0, playing = null, db = null, me = null;
+const audio = new Audio();
+audio.addEventListener('ended', () => { playing = null; paint(); });
+
+const $ = (s) => document.querySelector(s);
+const statusOf = (c) => decisions[c.id]?.status ?? 'pending';
+const roleOf = (c) => decisions[c.id]?.role ?? c.role;
+const tagsOf = (c) => decisions[c.id]?.tags ?? c.tags;
+function visible() {
+  return CANDS.filter(c => (role === 'all' || roleOf(c) === role) && (filter === 'all' || statusOf(c) === filter));
+}
+function fmt(m) {
+  const parts = [`${m.length_s.toFixed(2)} s`, `attack ${m.attack_ms} ms`, `decay ${m.decay_s} s`, `centroid ${m.centroid_hz} Hz`];
+  if (m.note) parts.push(m.note); else if (m.pitch_hz) parts.push(`~${m.pitch_hz} Hz`);
+  if (m.lufs != null) parts.push(`${m.lufs} LUFS`);
+  if (typeof m.gain_db === 'number') parts.push(`level-matched ${m.gain_db > 0 ? '+' : ''}${m.gain_db} dB`);
+  return parts.join(' · ');
+}
+// Who made it, under what license, where it came from (harvested sounds; the VCSL seed had one creator for all).
+function credit(el, c) {
+  if (!c.creator) { el.remove(); return; }
+  const link = (href, text) => { const a = document.createElement('a'); a.href = href; a.target = '_blank'; a.rel = 'noopener'; a.textContent = text; return a; };
+  el.append('by ', c.creator_link ? link(c.creator_link, c.creator) : c.creator, ' · ');
+  el.append(c.license_url ? link(c.license_url, c.license) : (c.license || ''));
+  if (c.source_url) el.append(' · ', link(c.source_url, 'source ↗'));
+  if (c.quality === 'preview') { const b = document.createElement('span'); b.className = 'badge'; b.textContent = 'MP3 PREVIEW'; b.title = 'Harvested from the lossy preview; can be upgraded to the original file later.'; el.append(b); }
+}
+function paintTabs() {
+  const tabs = $('#tabs');
+  tabs.replaceChildren(...ROLES.map(r => {
+    const b = document.createElement('button');
+    b.className = 'tab'; b.setAttribute('role','tab'); b.setAttribute('aria-selected', String(r === role));
+    const n = CANDS.filter(c => (r === 'all' || roleOf(c) === r) && statusOf(c) === 'pending').length;
+    b.innerHTML = `${ROLE_NAMES[r]}<small>${n}</small>`;
+    b.onclick = () => { role = r; focus = 0; bulkArmed = false; paint(); };
+    return b;
+  }));
+  document.querySelectorAll('[data-f]').forEach(b => b.setAttribute('aria-selected', String(b.dataset.f === filter)));
+  const done = CANDS.filter(c => statusOf(c) !== 'pending').length;
+  const ok = CANDS.filter(c => statusOf(c) === 'approved').length;
+  $('#prog').textContent = `${done}/${CANDS.length} reviewed · ${ok} approved`;
+}
+function paint() {
+  paintTabs(); paintBulk();
+  const list = $('#list');
+  const rows = visible();
+  if (focus >= rows.length) focus = Math.max(0, rows.length - 1);
+  list.replaceChildren(...rows.map((c, i) => {
+    const r = document.createElement('div');
+    r.className = 'row'; r.dataset.status = statusOf(c); r.dataset.focus = String(i === focus);
+    const p = document.createElement('button');
+    p.className = 'play'; p.dataset.on = String(playing === c.id); p.setAttribute('aria-label', `Play ${c.title}`);
+    p.textContent = playing === c.id ? '■' : '▶';
+    p.onclick = () => { focus = i; toggle(c); };
+    const mid = document.createElement('div');
+    mid.innerHTML = `<div class="title"></div><div class="meta"></div><div class="credit"></div><div class="flag" hidden></div><div class="tags"></div>`;
+    mid.querySelector('.title').textContent = c.title;
+    mid.querySelector('.meta').textContent = fmt(c.measures);
+    credit(mid.querySelector('.credit'), c);
+    if (c.note) { const f = mid.querySelector('.flag'); f.hidden = false; f.textContent = c.note; }
+    const tags = mid.querySelector('.tags');
+    for (const t of tagsOf(c)) {
+      const b = document.createElement('button'); b.className = 'tag'; b.textContent = t; b.title = 'Remove tag';
+      b.onclick = () => save(c, { tags: tagsOf(c).filter(x => x !== t) });
+      tags.append(b);
+    }
+    const add = document.createElement('input'); add.className = 'addtag'; add.placeholder = '+ tag';
+    add.onkeydown = (e) => { if (e.key === 'Enter' && add.value.trim()) { const v = add.value.trim().toLowerCase(); save(c, { tags: [...new Set([...tagsOf(c), v])] }); } e.stopPropagation(); };
+    tags.append(add);
+    const side = document.createElement('div'); side.className = 'side';
+    const sel = document.createElement('select'); sel.setAttribute('aria-label','Role');
+    for (const r2 of ROLES.slice(1)) { const o = document.createElement('option'); o.value = r2; o.textContent = ROLE_NAMES[r2]; if (r2 === roleOf(c)) o.selected = true; sel.append(o); }
+    sel.onchange = () => save(c, { role: sel.value });
+    const btns = document.createElement('div'); btns.className = 'btns';
+    const ok = document.createElement('button'); ok.className = 'btn ok'; ok.textContent = 'Approve'; ok.setAttribute('aria-pressed', String(statusOf(c) === 'approved'));
+    ok.onclick = () => decide(c, statusOf(c) === 'approved' ? 'pending' : 'approved');
+    const no = document.createElement('button'); no.className = 'btn no'; no.textContent = 'Reject'; no.setAttribute('aria-pressed', String(statusOf(c) === 'rejected'));
+    no.onclick = () => decide(c, statusOf(c) === 'rejected' ? 'pending' : 'rejected');
+    btns.append(ok, no); side.append(sel, btns);
+    r.append(p, mid, side);
+    return r;
+  }));
+  if (!rows.length) list.innerHTML = `<div class="note">Nothing here. ${filter === 'pending' ? 'Every sound in this role has been reviewed.' : ''}</div>`;
+}
+function toggle(c) {
+  if (playing === c.id) { audio.pause(); playing = null; paint(); return; }
+  audio.src = `previews/${c.id}.mp3`; audio.currentTime = 0;
+  audio.play().then(() => { playing = c.id; paint(); }).catch(() => {});
+}
+async function save(c, patch) {
+  decisions[c.id] = { ...(decisions[c.id] ?? { status: 'pending' }), ...patch };
+  paint();
+  if (!db) return;
+  try { await db.doc(`decisions/${c.id}`).set({ ...decisions[c.id], at: new Date().toISOString(), by: me ?? null }); }
+  catch (e) { showStatus('Could not save that change. Check your connection and try again.'); }
+}
+function decide(c, status) {
+  save(c, { status });
+  if (status !== 'pending' && filter === 'pending') { /* row leaves the list; focus stays on the next one */ }
+}
+
+// Approve all: Peter listens through, rejects what he dislikes, then approves the rest in one go (per role tab, or all).
+let bulkArmed = false, bulkTimer = null, lastBulk = null;
+function bulkTargets() { return CANDS.filter(c => (role === 'all' || roleOf(c) === role) && statusOf(c) === 'pending'); }
+function paintBulk() {
+  const b = $('#bulk'); const n = bulkTargets().length;
+  if (lastBulk) { b.hidden = false; b.dataset.confirm = 'false'; b.textContent = `Undo (${lastBulk.length} approved)`; return; }
+  b.hidden = n === 0;
+  const where = role === 'all' ? '' : ` in ${ROLE_NAMES[role]}`;
+  b.dataset.confirm = String(bulkArmed);
+  b.textContent = bulkArmed ? `Approve ${n}${where}? Tap to confirm` : `Approve all ${n} left${where}`;
+}
+async function setMany(list, status) {
+  for (const c of list) decisions[c.id] = { ...(decisions[c.id] ?? { status: 'pending' }), status };
+  paint();
+  if (!db) return;
+  const at = new Date().toISOString();
+  const results = await Promise.allSettled(list.map(c => db.doc(`decisions/${c.id}`).set({ ...decisions[c.id], at, by: me ?? null })));
+  if (results.some(r => r.status === 'rejected')) showStatus('Some changes could not be saved. Check your connection and try again.');
+}
+document.addEventListener('DOMContentLoaded', () => {});
+function showStatus(text) { const s = $('#status'); s.hidden = !text; s.textContent = text || ''; }
+
+$('#bulk').onclick = async () => {
+  clearTimeout(bulkTimer);
+  if (lastBulk) { const list = lastBulk; lastBulk = null; await setMany(list, 'pending'); return; }
+  if (!bulkArmed) { bulkArmed = true; paintBulk(); bulkTimer = setTimeout(() => { bulkArmed = false; paintBulk(); }, 4000); return; }
+  bulkArmed = false; const list = bulkTargets(); lastBulk = list;
+  await setMany(list, 'approved');
+  bulkTimer = setTimeout(() => { lastBulk = null; paintBulk(); }, 8000);
+};
+document.querySelectorAll('[data-f]').forEach(b => b.onclick = () => { filter = b.dataset.f; focus = 0; paint(); });
+document.addEventListener('keydown', (e) => {
+  if (e.target instanceof HTMLInputElement || e.target instanceof HTMLSelectElement) return;
+  const rows = visible(); const c = rows[focus]; if (!c) return;
+  if (e.key === ' ') { e.preventDefault(); toggle(c); }
+  else if (e.key === 'a' || e.key === 'A') decide(c, 'approved');
+  else if (e.key === 'r' || e.key === 'R') decide(c, 'rejected');
+  else if (e.key === 'ArrowDown' || e.key === 'j') { e.preventDefault(); focus = Math.min(rows.length - 1, focus + 1); paint(); }
+  else if (e.key === 'ArrowUp' || e.key === 'k') { e.preventDefault(); focus = Math.max(0, focus - 1); paint(); }
+  else return;
+  document.querySelector('.row[data-focus="true"]')?.scrollIntoView({ block: 'nearest' });
+});
+paint();
+showStatus('Connecting to the review store…');
+(async () => {
+  const timer = setTimeout(() => showStatus('Decisions can’t be saved in this view (open the page on claude.ai, signed in).'), 10000);
+  try {
+    db = await claude.use('db');
+    const user = await claude.use('user');
+    try { me = user ? await user.id() : null; } catch {}
+    if (!db) { clearTimeout(timer); showStatus('Decisions can’t be saved in this view (open the page on claude.ai, signed in).'); return; }
+    db.collection('decisions').onSnapshot((snap) => {
+      clearTimeout(timer);
+      for (const d of snap.docs ?? snap) { const data = d.data ? d.data() : d.data; if (data) decisions[d.id] = data; }
+      showStatus(''); paint();
+    }, () => { clearTimeout(timer); showStatus('Could not load saved decisions.'); });
+  } catch { clearTimeout(timer); showStatus('Decisions can’t be saved in this view.'); }
+})();
+</script>
+</body>
+</html>
